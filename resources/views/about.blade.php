@@ -239,8 +239,8 @@
 
     <div class="py-5 container">
                     <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-                        <div class="col-sm my-3">
-                            <div class="d-flex justify-content-center align-items-center text-center mx-5" style="height: 100%;">
+                        <div class="col-sm my-3" style="background: #067997;">
+                            <div class="d-flex justify-content-center align-items-center text-center text-white mx-5" style="height: 100%;">
                                 <h2 class="text-uppercase">Hear from these and other contributors in our education and certification courses</h2>
                             </div>
                         </div>

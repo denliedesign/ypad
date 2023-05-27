@@ -20,14 +20,14 @@
     <div class="py-5">
         <div class="container">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-                <div class="col-sm my-3">
-                    <div class="d-flex justify-content-center align-items-center text-center mx-5" style="height: 100%;">
+                <div class="col-sm my-3" style="background: #067997;">
+                    <div class="d-flex justify-content-center align-items-center text-center text-white mx-5" style="height: 100%;">
                         <h2 class="text-uppercase">Personal Growth & Professional Development Opportunities for:</h2>
                     </div>
                 </div>
-                <div class="col-sm my-3"><img src="/images/ypad-individuals.png" alt="" class="img-fluid"></div>
-                <div class="col-sm my-3"><img src="/images/ypad-studios.png" alt="" class="img-fluid"></div>
-                <div class="col-sm my-3"><img src="/images/ypad-events.png" alt="" class="img-fluid"></div>
+                <div class="col-sm my-3"><img src="/images/ypad-individuals.png" alt="" class="img-fluid" style="border: 6px solid #767784;"></div>
+                <div class="col-sm my-3"><img src="/images/ypad-studios.png" alt="" class="img-fluid" style="border: 6px solid #EF9A61;"></div>
+                <div class="col-sm my-3"><img src="/images/ypad-events.png" alt="" class="img-fluid" style="border: 6px solid #896C7B;"></div>
             </div>
         </div>
     </div>
@@ -64,8 +64,8 @@
             <div class="py-5">
                 <div class="container">
                     <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-                        <div class="col-sm my-3">
-                            <div class="d-flex justify-content-center align-items-center text-center mx-5" style="height: 100%;">
+                        <div class="col-sm my-3" style="background: #067997;">
+                            <div class="d-flex justify-content-center align-items-center text-center text-white mx-5" style="height: 100%;">
                                 <h2 class="text-uppercase">Professionals Agree, Safeguarding Is Important</h2>
                             </div>
                         </div>
@@ -391,7 +391,7 @@
     <div class="py-5">
         <div class="container">
             <h2 class="text-uppercase text-center">Professional Development & Research</h2>
-            <p class="text-center">YPAD is proud to work with the following organizations</p>
+            <p class="text-center">YPAD&trade; is proud to work with the following organizations</p>
             <div class="row row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
                 <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/toronto-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/alabama-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>

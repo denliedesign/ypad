@@ -11,7 +11,7 @@
                 Welcome to YPAD™ Certification
             </h1>
             <p class="text-center" style="font-size: 1.5em;">
-                Becoming a YPAD™ Certified means that you are voluntarily raising your hand for a higher standard
+                Becoming YPAD™ Certified means that you are voluntarily raising your hand for a higher standard
             </p>
         </div>
         {{--        <div class="custom-shape-divider-top-1683835088">--}}
