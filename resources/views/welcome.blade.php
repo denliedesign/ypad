@@ -71,7 +71,7 @@
                         </div>
                         <div class="col-sm my-3">
                             <div style="background: #767784; color: white;" class="pb-4">
-                                <div class="d-flex justify-content-center"><img src="/images/sheyi.png" alt="" class="img-fluid" style="height: 394px; width: 100%; object-fit: cover;"></div>
+                                <div class="d-flex justify-content-center"><img src="/images/sheyi.png" alt="" class="img-fluid" style="border: 6px solid #767784; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
                                     <p class="text-center py-0 my-0"><strong>Dr. Sheyi Ojofeitimi, DPT, CFMT, CIDN</strong> <br> Director of Therapy Services - Alvin Ailey Dance Foundation</p>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
@@ -83,7 +83,7 @@
                         </div>
                         <div class="col-sm my-3">
                             <div style="background: #EF9A60; color: white;" class="pb-4">
-                                <div class="d-flex justify-content-center"><img src="/images/tricia-gomez.jpg" alt="" class="img-fluid" style="height: 394px; width: 100%; object-fit: cover; object-position: top;"></div>
+                                <div class="d-flex justify-content-center"><img src="/images/tricia-gomez.jpg" alt="" class="img-fluid" style="border: 6px solid #EF9A61; height: 394px; width: 100%; object-fit: cover; object-position: top;"></div>
                                 <div class="px-3 pt-3">
                                     <p class="text-center py-0 my-0"><strong>Tricia Gomez</strong> <br> Rhythm Works Integrative Dance - The Intellidance Method</p>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
@@ -95,7 +95,7 @@
                         </div>
                         <div class="col-sm my-3">
                             <div style="background: #896C7B; color: white;" class="pb-4">
-                                <div class="d-flex justify-content-center"><img src="/images/addie.png" alt="" class="img-fluid" style="height: 394px; width: 100%; object-fit: cover;"></div>
+                                <div class="d-flex justify-content-center"><img src="/images/addie.png" alt="" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
                                     <p class="text-center py-0 my-0"><strong>Dr. Addie Briggs, M.D.</strong> <br> Founder - Fitness DAWGS</p>
                                     <p class="text-center pb-0 pt-2 my-0"><em>

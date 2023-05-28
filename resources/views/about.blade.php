@@ -246,7 +246,7 @@
                         </div>
                         <div class="col-sm my-3">
                             <div style="background: #767784; color: white;" class="pb-4">
-                                <div class="d-flex justify-content-center"><img src="/images/about-featured-1.jpeg" alt="" class="img-fluid" style="height: 394px; width: 100%; object-fit: cover;"></div>
+                                <div class="d-flex justify-content-center"><img src="/images/about-featured-1.jpeg" alt="" class="img-fluid" style="border: 6px solid #767784; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
                                     <p class="text-center py-0 my-0"><strong>Emily Bufferd</strong> <br> Founder, Young Choreographer's Festival</p>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
@@ -258,7 +258,7 @@
                         </div>
                         <div class="col-sm my-3">
                             <div style="background: #EF9A60; color: white;" class="pb-4">
-                                <div class="d-flex justify-content-center"><img src="/images/about-featured-2.jpg" alt="" class="img-fluid" style="height: 394px; width: 100%; object-fit: cover;"></div>
+                                <div class="d-flex justify-content-center"><img src="/images/about-featured-2.jpg" alt="" class="img-fluid" style="border: 6px solid #EF9A61; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
                                     <p class="text-center py-0 my-0"><strong>Stephen Potts, J.D.</strong> <br> Member, Texas Center for Legal Ethics</p>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
@@ -270,7 +270,7 @@
                         </div>
                         <div class="col-sm my-3">
                             <div style="background: #896C7B; color: white; font-size: 0.98em;" class="pb-4">
-                                <div class="d-flex justify-content-center"><img src="/images/about-featured-3.png" alt="" class="img-fluid" style="height: 394px; width: 100%; object-fit: cover;"></div>
+                                <div class="d-flex justify-content-center"><img src="/images/about-featured-3.png" alt="" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
                                     <p class="text-center py-0 my-0"><strong>Carolyn Colleen, MBA</strong> <br> Founder, Acton Academy Midwest</p>
                                     <p class="text-center pb-0 pt-2 my-0"><em>

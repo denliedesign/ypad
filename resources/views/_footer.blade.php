@@ -15,7 +15,7 @@
                     <ul class="text-uppercase mx-0 px-0" style="list-style-type: none;">
                         <li class="my-3"><a class="text-decoration-none text-white" href="/">home</a></li>
                         <li class="my-3"><a class="text-decoration-none text-white" href="/about">about ypad 2023</a></li>
-                        <li class="my-3"><a class="text-decoration-none text-white" href="/">education 2023</a></li>
+                        <li class="my-3"><a class="text-decoration-none text-white" href="/education">education 2023</a></li>
                         <li class="my-3"><a class="text-decoration-none text-white" href="/certification">certification 2023</a></li>
                         <li class="my-3"><a class="text-decoration-none text-white" href="/">support 2023</a></li>
                         <li class="my-3" style="font-size: 1.25em;">

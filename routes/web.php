@@ -26,6 +26,10 @@ Route::get('/certification', function () {
     return view('/certification');
 });
 
+Route::get('/education', function () {
+    return view('/education');
+});
+
 
 Route::get('/dashboard', function () {
     return view('dashboard');
