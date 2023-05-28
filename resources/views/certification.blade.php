@@ -414,7 +414,7 @@
                                 <br><br>
                                 <span class="font-pop" style="font-size: 1.2em;">OPTION ONE:</span> A YPAD™ Certified—Individual can be any professional educator or leadership role in the industry. Individuals certify themselves only, not as part of an organization.
                                 <br><br>
-                                <span class="font-pop" style="font-size: 1.2em;">OPTION TWO:</span> A YPAD™ Learner can also be any professional educator or leadership role in the industry. This person is not certifying but simply taking the course for their own awareness and knowledge gain.
+                                <span class="font-pop" style="font-size: 1.2em;">OPTION TWO:</span> Anyone who has a personal interest in the health of the dance industry (individuals, studio owners, dance educators, parents, dance organizations, and college students) can participate in YPAD™ Education. These learners are not certifying, but simply taking the courses for their own awareness and knowledge gain.
                             </p>
                         </div>
                     </div>
