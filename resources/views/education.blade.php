@@ -195,7 +195,7 @@
             <div class="col-sm my-3">
                 <div style="background: #896C7B; color: white; font-size: 0.98em;" class="pb-4">
                     <div class="d-flex justify-content-center"><img src="/images/edu-featured-3.png" alt="" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
-                    <div class="px-3 pt-3">
+                    <div class="px-3 pt-3 pb-1">
                         <p class="text-center py-0 my-0"><strong>Mr. Richard Smith</strong> <br> Visiting Professor at East Carolina University, School of Theatre and Dance</p>
                         <p class="text-center pb-0 pt-2 my-0"><em>
                                 “I am completely impressed with the delivery of the presentation by the YPAD team. They make the information easily digestible, positive and inviting. The feedback from the students was genuinely eye opening. The YPAD team sheds new light on how we can be better as educators and leaders in the industry. Much praise was shared in the talkback after the workshop was completed. I am so pleased with the presentation and look forward to having the students participate in additional resources from YPAD.” <br><br>
