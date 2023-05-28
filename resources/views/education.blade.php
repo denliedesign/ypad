@@ -194,7 +194,7 @@
             </div>
             <div class="col-sm my-3">
                 <div style="background: #896C7B; color: white; font-size: 0.98em;" class="pb-4">
-                    <div class="d-flex justify-content-center"><img src="/images/edu-featured-3.png" alt="" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
+                    <div class="d-flex justify-content-center"><img src="/images/edu-featured-3.jpg" alt="" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
                     <div class="px-3 pt-3 pb-1">
                         <p class="text-center py-0 my-0"><strong>Mr. Richard Smith</strong> <br> Visiting Professor at East Carolina University, School of Theatre and Dance</p>
                         <p class="text-center pb-0 pt-2 my-0"><em>
