@@ -83,7 +83,7 @@
                         </div>
                         <div class="col-sm my-3">
                             <div style="background: #EF9A60; color: white;" class="pb-4">
-                                <div class="d-flex justify-content-center"><img src="/images/tricia-gomez.jpg" alt="" class="img-fluid" style="border: 6px solid #EF9A61; height: 394px; width: 100%; object-fit: cover; object-position: top;"></div>
+                                <div class="d-flex justify-content-center"><img src="/images/gomez-23.jpeg" alt="" style="border: 6px solid #EF9A61; height: 394px; width: 100%; object-fit: cover; object-position: 50% 15%;"></div>
                                 <div class="px-3 pt-3">
                                     <p class="text-center py-0 my-0"><strong>Tricia Gomez</strong> <br> Rhythm Works Integrative Dance - The Intellidance Method</p>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
@@ -203,7 +203,7 @@
             </div>
         </div>
         <h2 class="text-uppercase text-center mt-5">NOT READY TO GET CERTIFIED?</h2>
-        <p class="text-center">Start your YPAD™ journey with a Learner Course!</p>
+        <p class="text-center">Start your YPAD™ journey with YPAD™ Education!</p>
         <div class="d-flex justify-content-center">
             <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Start Learning Today</div>
         </div>
