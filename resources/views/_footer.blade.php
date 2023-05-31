@@ -17,7 +17,7 @@
                         <li class="my-3"><a class="text-decoration-none text-white" href="/about">about ypad 2023</a></li>
                         <li class="my-3"><a class="text-decoration-none text-white" href="/education">education 2023</a></li>
                         <li class="my-3"><a class="text-decoration-none text-white" href="/certification">certification 2023</a></li>
-                        <li class="my-3"><a class="text-decoration-none text-white" href="/">support 2023</a></li>
+                        <li class="my-3"><a class="text-decoration-none text-white" href="/support">support 2023</a></li>
                         <li class="my-3" style="font-size: 1.25em;">
                             <ion-icon class="me-1" name="logo-facebook"></ion-icon>
                             <ion-icon class="mx-1" name="logo-instagram"></ion-icon>

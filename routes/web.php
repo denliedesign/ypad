@@ -30,6 +30,11 @@ Route::get('/education', function () {
     return view('/education');
 });
 
+Route::get('/support', function () {
+    return view('/support');
+});
+
+
 
 Route::get('/dashboard', function () {
     return view('dashboard');
