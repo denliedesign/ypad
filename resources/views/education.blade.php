@@ -174,7 +174,7 @@
                     <div class="px-3 pt-3">
                         <p class="text-center py-0 my-0"><strong>Matthew Farmer</strong> <br> Department Chair, Hope College</p>
                         <p class="text-center pb-0 pt-2 my-0"><em>
-                                "YPAD’s college seminar is an essential conversation and educational session for all dance students in college. The information presented is pertinent and necessary for any dance student wishing to enter the performance industry. Conversations regarding power differentials, grooming, and sexual harassment are just some of the important topics covered, and the tools YPAD gives young dancers in order to address these issues are both concrete and applicable."
+                                "YPAD’s seminar for dancers is an essential conversation and educational session for all dance students in college. The information presented is pertinent and necessary for any dance student wishing to enter the performance industry. Conversations regarding power differentials, grooming, and sexual harassment are just some of the important topics covered, and the tools YPAD gives young dancers in order to address these issues are both concrete and applicable."
                             </em>
                         </p>
                     </div>
@@ -186,7 +186,7 @@
                     <div class="px-3 pt-3">
                         <p class="text-center py-0 my-0"><strong>Aidan S. Nettles, MFA</strong> <br> Assistant Professor of Dance, The University of Alabama</p>
                         <p class="text-center pb-0 pt-2 my-0"><em>
-                                “The team at YPAD is facilitating an outstanding seminar to share information and resources with college students and future educators that are paramount for dancer safety. As an educator, I find it imperative to equip my students with the tools needed to think critically, ask challenging questions, and to make positive contributions to the future of dance. YPAD’s seminars provide a space for young educators to engage with challenging topics in a supported environment. I encourage all collegiate educators to take advantage of providing this experience to your students!”
+                                “The team at Youth Protection Association for Dance (YPAD) is facilitating an outstanding seminar to share information and resources with college students and future educators that are paramount for dancer safety. As an educator, I find it imperative to equip my students with the tools needed to think critically, ask challenging questions, and continue to learn how to make positive contributions to the future of dance, and this experience afforded them the opportunity to exercise those skills. YPAD’s seminar for collegiate dancers provides a space for young educators to engage with challenging topics in a supported environment. I encourage all collegiate educators to take advantage of providing this experience to your students!”
                             </em>
                         </p>
                     </div>

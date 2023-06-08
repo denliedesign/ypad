@@ -139,7 +139,22 @@ p, div, .accordion-body { font-family: 'Inter', sans-serif; }
     border: 4px solid white;
 }
 
+.rounded-portrait-sm {
+    height: 96px;
+    width: 96px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 4px solid white;
+}
+
 .rounded-portrait img {
+    object-fit: cover;
+    object-position: center center;
+    height: 100%;
+    width: 100%;
+}
+
+.rounded-portrait-sm img {
     object-fit: cover;
     object-position: center center;
     height: 100%;

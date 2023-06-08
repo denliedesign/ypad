@@ -162,16 +162,16 @@
             <div class="row mt-3">
                 <div class="col-sm-2 d-flex align-items-center">
                     <div class="rounded-portrait">
-                        <img src="/images/.jpg" alt="testimonial portrait">
+                        <img src="/images/test-monique.jpg" alt="testimonial portrait">
                     </div>
                 </div>
                 <div class="col-sm-10">
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
                             <h4>
-                                "I had a student disclose something to me that I needed help navigating. Thanks to my YPAD™ Certification and their support service, I was able to recognize the need and connect with the right professionals. My student is doing great now. Thank you YPAD™!"
+                                “As a studio owner, you never want to get an emergency call from the studio, but thanks to our YPAD™ training and certification, my teachers knew how to handle an emergency when I wasn’t there. I am grateful to report that everyone is okay. Thank you YPAD™ for preparing our teachers so well!”
                             </h4>
-                            <p class="m-0 p-0"><span class="fw-bold">Studio Owner</span> &middot; Studio Name, STATE</p>
+                            <p class="m-0 p-0"><span class="fw-bold">Monique Rodriguez</span> &middot; Studio Owner, Michigan</p>
                         </div>
                     </div>
                 </div>
@@ -190,7 +190,7 @@
     </div>
 
     <div class="container py-5">
-        <h2 class="text-center">Certified Support</h2>
+        <h2 class="text-center">YPAD™ Certified Support</h2>
         <p>
             Do you have a question or concern about a behavior you have observed or something that has been shared with you? Do you need support navigating an issue concerning artistic integrity or conflict resolution? YPAD™ Support provides a way for those who are YPAD™ Certified to request additional support from a YPAD™ Certified Coach or a referral to a YPAD™ Expert Connection. This is a free service for YPAD Certified Studios, Individuals, and Events.
             <br><br>
@@ -211,9 +211,10 @@
                 <div class="col-sm">
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
-                            <h3>
-                                The mission of YPAD™ is to bring awareness to and provide guidance for one essential priority: <strong>the safety and health of dance students.</strong> We believe dancer well-being is the cornerstone of the industry, and we exist to serve those who have influence on its classrooms.
-                            </h3>
+                            <h3><strong>Do you have a concern?</strong></h3>
+                            <h4>
+                                The mission of YPAD™ is to bring awareness and to provide guidance for one essential priority: the safety and health of dance students. If you are concerned with a YPAD™ certified individual, studio, or event, as it relates to the safety and health of students, please continue to the information below.
+                            </h4>
                         </div>
                     </div>
                 </div>
@@ -266,6 +267,34 @@
                     <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">SHARE A CONCERN</div>
                 </div>
             </div>
+        </div>
+    </div>
+
+    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 400px;">
+        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
+        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
+            <div class="row mt-3">
+                <div class="col-sm-2 d-flex align-items-center">
+                    <div class="rounded-portrait">
+                        <img src="/images/test-lori.jpg" alt="testimonial portrait">
+                    </div>
+                </div>
+                <div class="col-sm-10">
+                    <div class="d-flex align-items-center" style="height: 100%;">
+                        <div class="text-white text-center">
+                            <h4>
+                                “When I noticed a student was struggling with body image, I reached out to YPAD™ for guidance. Thanks to my YPAD™ Certification, I knew when to reach out and thanks to their support service, I was able to get same day help and appropriate next steps. Thank you, YPAD™!"
+                            </h4>
+                            <p class="m-0 p-0"><span class="fw-bold">Lori Gardner</span> &middot; Studio Owner, Illinois</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="custom-shape-divider-top-1683835088">
+            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
+            </svg>
         </div>
     </div>
 

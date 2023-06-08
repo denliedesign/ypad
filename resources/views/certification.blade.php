@@ -303,23 +303,44 @@
         </div>
     </div>
 
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 400px;">
+    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 550px;">
         <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
-        <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>
-        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
-            <div class="row mt-3">
-                <div class="col-sm-2 d-flex align-items-center">
-                    <div class="rounded-portrait">
-                        <img src="/images/cert-kelly.png" alt="testimonial portrait">
+        <div class="py-5 container text-white d-flex align-items-center" style="height: 100%;">
+            <div>
+                <h2 class="text-uppercase text-center">BONUS RESOURCES WITH CERTIFICATION</h2>
+                <p class="text-center">YPAD™ Certification comes with unlimited FREE access to short courses for the following important roles:</p>
+                <div class="row mt-4">
+                    <div class="col-sm">
+                        <div class="mx-4">
+                            <div class="d-flex justify-content-center">
+                                <ion-icon style="font-size: 3em;" name="id-card"></ion-icon>
+                            </div>
+                            <p class="fw-bold text-center py-0 my-0">SUBSTITUTE COURSE</p>
+                            <p class="text-center py-0 my-0">
+                                Need to cover a class on short notice? Not able to find someone who is YPAD™ certified? Use this course to cover the essentials for substitutes on short notice.
+                            </p>
+                        </div>
                     </div>
-                </div>
-                <div class="col-sm-10">
-                    <div class="d-flex align-items-center" style="height: 100%;">
-                        <div class="text-white text-center">
-                            <h4>
-                                “YPAD has brought so much value into the dance industry by helping kids stay safe, encouraging community, self-accountability, and awareness. YPAD gives anyone working in the dance industry clear priorities to develop this next generation of dancers. Through educational opportunities, YPAD is leading the way for the betterment of all involved in the dance industry."
-                            </h4>
-                            <p class="m-0 p-0"><span class="fw-bold">Kelly Peterson</span> &middot; guiDANCE Experience</p>
+                    <div class="col-sm">
+                        <div class="mx-4">
+                            <div class="d-flex justify-content-center">
+                                <ion-icon style="font-size: 3em;" name="accessibility"></ion-icon>
+                            </div>
+                            <p class="fw-bold text-center py-0 my-0">VOLUNTEER COURSE</p>
+                            <p class="text-center py-0 my-0">
+                                Do you use volunteers for your programs? Use this short course for volunteers to cover the basics of working safely with youth in classroom and performance settings.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-sm">
+                        <div class="mx-4">
+                            <div class="d-flex justify-content-center">
+                                <ion-icon style="font-size: 3em;" name="star"></ion-icon>
+                            </div>
+                            <p class="fw-bold text-center py-0 my-0">MASTER TEACHER COURSE</p>
+                            <p class="text-center py-0 my-0">
+                                Do you hire guest and master teachers for special programs? Use this course to share the baseline expectations of teaching in a YPAD™ Certified environment.
+                            </p>
                         </div>
                     </div>
                 </div>

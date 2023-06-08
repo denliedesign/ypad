@@ -2,7 +2,7 @@
 @section('content')
 
     <div style="background: #767784;" class="py-3 text-white d-flex justify-content-center align-items-center">
-        <p class="my-0 py-0 text-capitalize">
+        <p class="my-0 py-0">
             Now accepting certification renewals and new certification applications!
         </p>
     </div>
@@ -264,13 +264,13 @@
     </div>
 
     <div class="py-5 container">
-        <div class="mb-5">
-            <div>
-                <div class="d-flex justify-content-center"><img src="/images/guarantee.png" alt="guarantee badge" class="img-fluid"></div>
-                <h2 class="text-uppercase text-center mb-0 pb-0">Our Guarantee</h2>
-                <p class="text-center mt-0 pt-0">You'll love your experience or we'll work with you to make it right!</p>
-            </div>
-        </div>
+{{--        <div class="mb-5">--}}
+{{--            <div>--}}
+{{--                <div class="d-flex justify-content-center"><img src="/images/guarantee.png" alt="guarantee badge" class="img-fluid"></div>--}}
+{{--                <h2 class="text-uppercase text-center mb-0 pb-0">Our Guarantee</h2>--}}
+{{--                <p class="text-center mt-0 pt-0">You'll love your experience or we'll work with you to make it right!</p>--}}
+{{--            </div>--}}
+{{--        </div>--}}
         <div class="row">
             <div class="col-sm">
                 <div class="row">
@@ -287,18 +287,19 @@
                 </div>
             </div>
             <div class="col-sm">
-                <div class="row">
-                    <div class="col-sm-4">
-                        <img src="/images/kate.png" alt="mark" class="img-fluid">
-                        <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Kate Moody</h4>
-                        <p class="text-center py-0 my-0"><strong>Studio Owner</strong></p>
-                    </div>
-                    <div class="col-sm d-flex align-items-center">
-                        <p>
-                            If you haven't done YPAD training yet, do it. We had a loaded gun incident at the local high school this morning (everything is okay). But the thought that something could happen so close, is so scary. As hard as it was to imagine and read about all the "what to do's" in YPAD training, I am proud that we did, because "It's better to know and not need than to need and not know". Thank you YPAD team for all the great knowledge in the YPAD course!
-                        </p>
-                    </div>
-                </div>
+                <p class="text-center">teacher</p>
+{{--                <div class="row">--}}
+{{--                    <div class="col-sm-4">--}}
+{{--                        <img src="/images/kate.png" alt="mark" class="img-fluid">--}}
+{{--                        <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Kate Moody</h4>--}}
+{{--                        <p class="text-center py-0 my-0"><strong>Studio Owner</strong></p>--}}
+{{--                    </div>--}}
+{{--                    <div class="col-sm d-flex align-items-center">--}}
+{{--                        <p>--}}
+{{--                            If you haven't done YPAD training yet, do it. We had a loaded gun incident at the local high school this morning (everything is okay). But the thought that something could happen so close, is so scary. As hard as it was to imagine and read about all the "what to do's" in YPAD training, I am proud that we did, because "It's better to know and not need than to need and not know". Thank you YPAD team for all the great knowledge in the YPAD course!--}}
+{{--                        </p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
             </div>
         </div>
         <div class="row">
@@ -307,7 +308,7 @@
                     <div class="col-sm-4">
                         <img src="/images/jill.png" alt="mark" class="img-fluid">
                         <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Jill Williams</h4>
-                        <p class="text-center py-0 my-0"><strong>Studio Owner</strong></p>
+                        <p class="text-center py-0 my-0"><strong>Studio Owner, Calgary</strong></p>
                     </div>
                     <div class="col-sm d-flex align-items-center">
                         <p>
@@ -317,60 +318,53 @@
                 </div>
             </div>
             <div class="col-sm">
-                <div class="row">
-                    <div class="col-sm-4">
-                        <img src="/images/darcy.png" alt="mark" class="img-fluid">
-                        <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Darcy Fagerwold</h4>
-                        <p class="text-center py-0 my-0"><strong>Studio Owner</strong></p>
-                    </div>
-                    <div class="col-sm d-flex align-items-center">
-                        <p>
-                            Youth Protection Association for Dance&trade; education is evidence to families that we are committed to keeping kids happy, healthy, and safe in dance. It is comforting to know that as challenging issues arise, YPAD is there to support and guide us to ensure we are doing what's right for our students. Thank you to Youth Protection Association for Dance&trade; for leading the dance industry in this vital endeavor!
-                        </p>
-                    </div>
-                </div>
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <div class="rounded-portrait-sm">
+                                            <img src="/images/cert-kelly.png" alt="mark" class="img-fluid">
+                                        </div>
+                                        <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Kelly Peterson</h4>
+                                        <p class="text-center py-0 my-0"><strong>guiDANCE Experience</strong></p>
+                                    </div>
+                                    <div class="col-sm d-flex align-items-center">
+                                        <p>
+                                            “YPAD has brought so much value into the dance industry by helping kids stay safe, encouraging community, self-accountability, and awareness. YPAD gives anyone working in the dance industry clear priorities to develop this next generation of dancers. Through educational opportunities, YPAD is leading the way for the betterment of all involved in the dance industry. ”
+                                        </p>
+                                    </div>
+                                </div>
+{{--                <div class="row">--}}
+{{--                    <div class="col-sm-4">--}}
+{{--                        <img src="/images/darcy.png" alt="mark" class="img-fluid">--}}
+{{--                        <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Darcy Fagerwold</h4>--}}
+{{--                        <p class="text-center py-0 my-0"><strong>Studio Owner</strong></p>--}}
+{{--                    </div>--}}
+{{--                    <div class="col-sm d-flex align-items-center">--}}
+{{--                        <p>--}}
+{{--                            Youth Protection Association for Dance&trade; education is evidence to families that we are committed to keeping kids happy, healthy, and safe in dance. It is comforting to know that as challenging issues arise, YPAD is there to support and guide us to ensure we are doing what's right for our students. Thank you to Youth Protection Association for Dance&trade; for leading the dance industry in this vital endeavor!--}}
+{{--                        </p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
             </div>
         </div>
     </div>
 
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 550px;">
+    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 400px;">
         <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
-        <div class="py-5 container text-white d-flex align-items-center" style="height: 100%;">
-            <div>
-                <h2 class="text-uppercase text-center">BONUS RESOURCES WITH CERTIFICATION</h2>
-                <p class="text-center">YPAD™ Certification comes with unlimited FREE access to short courses for the following important roles:</p>
-                <div class="row mt-4">
-                    <div class="col-sm">
-                        <div class="mx-4">
-                            <div class="d-flex justify-content-center">
-                                <ion-icon style="font-size: 3em;" name="id-card"></ion-icon>
-                            </div>
-                            <p class="fw-bold text-center py-0 my-0">SUBSTITUTE COURSE</p>
-                            <p class="text-center py-0 my-0">
-                                Need to cover a class on short notice? Not able to find someone who is YPAD™ certified? Use this course to cover the essentials for substitutes on short notice.
-                            </p>
-                        </div>
+        <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>
+        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
+            <div class="row mt-3">
+                <div class="col-sm-2 d-flex align-items-center">
+                    <div class="rounded-portrait">
+                        <img src="/images/test-gus.jpg" alt="testimonial portrait">
                     </div>
-                    <div class="col-sm">
-                        <div class="mx-4">
-                            <div class="d-flex justify-content-center">
-                                <ion-icon style="font-size: 3em;" name="accessibility"></ion-icon>
-                            </div>
-                            <p class="fw-bold text-center py-0 my-0">VOLUNTEER COURSE</p>
-                            <p class="text-center py-0 my-0">
-                                Do you use volunteers for your programs? Use this short course for volunteers to cover the basics of working safely with youth in classroom and performance settings.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-sm">
-                        <div class="mx-4">
-                            <div class="d-flex justify-content-center">
-                                <ion-icon style="font-size: 3em;" name="star"></ion-icon>
-                            </div>
-                            <p class="fw-bold text-center py-0 my-0">MASTER TEACHER COURSE</p>
-                            <p class="text-center py-0 my-0">
-                                Do you hire guest and master teachers for special programs? Use this course to share the baseline expectations of teaching in a YPAD™ Certified environment.
-                            </p>
+                </div>
+                <div class="col-sm-10">
+                    <div class="d-flex align-items-center" style="height: 100%;">
+                        <div class="text-white text-center">
+                            <h4>
+                                My research team has collaborated with Youth Protection Association for Dance™ (YPAD™) on a number of research projects examining factors that contribute to injury among dancers. We’ve been lucky to partner with a group that’s so committed to generating new knowledge that will improve the health and safety of young dancers, not only now, but also in the future. As an organization, YPAD™ sets such a great example for what it means to be “purpose-driven."
+                            </h4>
+                            <p class="m-0 p-0"><span class="fw-bold">Thomas Gus Almonroeder, PT, DPT, PhD</span> &middot; Trine University</p>
                         </div>
                     </div>
                 </div>
@@ -399,6 +393,32 @@
                 <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/trine-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/dance-teacher-web-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/logo-ecu.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+            </div>
+            <div>
+                <p class="text-center">
+                    YPAD™ leader, Misty Lown, is a co-author of a pilot study on ballet safety recently featured in the Journal of Dance Medicine & Science. YPAD™ has two more projects in the pipeline with Mayo Health and Trine University research.
+                </p>
+
+                <div class="d-flex justify-content-center mb-4">
+                    <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Read the Article</div>
+                </div>
+
+                <div class="d-flex justify-content-center">
+                    <form>
+                        <div class="row g-3 align-items-center">
+                            <div class="col-auto">
+                                <label for="inputEmail" class="col-form-label">Sign up for our mailing list to stay informed</label>
+                            </div>
+                            <div class="col-auto">
+                                <input type="email" id="inputEmail" placeholder="Email address" class="form-control" aria-describedby="emailHelpInline">
+                            </div>
+                            <div class="col-auto">
+                                <button type="submit" class="btn btn-primary">Submit</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
             </div>
         </div>
     </div>
