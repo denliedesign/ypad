@@ -199,7 +199,9 @@
             <em>YPAD Support does not take the place of a crisis hotline. Immediate or acute safety concerns should always be directed to your local emergency services or child welfare providers.</em>
         </p>
         <div class="d-flex justify-content-center">
-            <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">EMAIL</div>
+            <a style="text-decoration: none;" href="mailto:info@ypadnow.com?subject=YPAD Support">
+                <div class="fw-bold px-4 py-2 shadow text-center btn-hover" style="background: #067997; color: white;">EMAIL</div>
+            </a>
         </div>
     </div>
 
@@ -264,7 +266,11 @@
                     </li>
                 </ol>
                 <div class="d-flex justify-content-center">
-                    <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">SHARE A CONCERN</div>
+                        <a style="text-decoration: none;" href="https://docs.google.com/forms/d/e/1FAIpQLSeejHz5Q2MSGcAnqbgWtxS6RvPiCqOR9D-H_OtsOHQiuFg4Tg/viewform?usp=share_link" target="_blank">
+                            <div class="fw-bold px-4 py-2 shadow text-center btn-hover" style="background: #067997; color: white;">
+                                SHARE A CONCERN
+                            </div>
+                        </a>
                 </div>
             </div>
         </div>

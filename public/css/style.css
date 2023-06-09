@@ -161,6 +161,10 @@ p, div, .accordion-body { font-family: 'Inter', sans-serif; }
     width: 100%;
 }
 
+.btn-hover:hover {
+    background: #0786AA !important;
+}
+
 /* DIVIDER WELCOME TOP */
 
 .custom-shape-divider-top-1683835088 {

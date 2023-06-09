@@ -406,6 +406,30 @@
                     </div>
                 </div>
             </div>
+
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-headingFour">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                        What is the pricing for certification for studios?
+                    </button>
+                </h2>
+                <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">
+                        &middot; Studio Owner - $499
+                        <br>
+                        &middot; Studio Teacher - $299
+                        <br>
+                        &middot; Studio Admin - $199
+                        <br>
+                        &middot; Studio Guest/Sub - UNLIMITED FREE WITH CERTIFICATION
+                        <br>
+                        &middot; Studio Volunteer - UNLIMITED FREE WITH CERTIFICATION
+                        <br>
+                        Annual renewal - 50% discount
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 
