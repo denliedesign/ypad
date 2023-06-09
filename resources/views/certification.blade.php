@@ -358,78 +358,83 @@
         </div>
     </div>
 
-
     <div class="container py-5">
-        <h2 class="text-uppercase text-center">FAQ</h2>
-        <div class="accordion accordion-flush" id="accordionFlushExample">
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="flush-headingOne">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                        What is the difference between education and certification?
-                    </button>
-                </h2>
-                <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">
-                        Learner courses are audit-only courses for personal growth. Learner courses are open to the entire dance community. Learner courses do not require additional steps such as knowledge checks, or outside training and documentation, nor do they lead to certification. Learner courses are just as they sound: a place to learn.
-                        <br><br>
-                        Certification is offered in three ways: YPAD™ Certified Individual, Studio, or Event. Certification begins with an application and requires background checks, CPR/AED and First Aid certification, Darkness to Light's Stewards of Children® training, live artistic integrity Zoom seminar, a Safeguarding Pledge, and commitment to our 5-tier Accountability model. Additional requirements apply to YPAD™ Certified Studios and Events, such as proof of insurance, emergency action planning, Youth Mental Health First Aid, and three sessions with a YPAD™ integration coach.
-                    </div>
+        <h2 class="text-uppercase text-center">Certification for Studios</h2>
+        <div class="card-group">
+            <div class="card py-5 m-2" style="background: #067997">
+                {{--                <img src="..." class="card-img-top" alt="...">--}}
+                <div class="card-body text-white text-center">
+                    <h3 class="card-title">Studio Owner</h3>
+                    <p class="card-text">
+                        $499
+                    </p>
                 </div>
+                {{--                <div class="card-footer">--}}
+                {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
+                {{--                </div>--}}
             </div>
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="flush-headingTwo">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                        How much do the additional requirements to become certified cost?
-                    </button>
-                </h2>
-                <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">
-                        Background checks are $25-29 per person and are renewed every two years.
-                        <br><br>
-                        CPR/AED and First Aid certification ranges from $35-55 per person and is renewed every two years.
-                        <br><br>
-                        Darkness to Light's Stewards of Children® training is $10 per person and is renewed every two years.
-                        <br><br>
-                        Youth Mental Health First Aid certification is $50 and is only required for the studio owner.
-                    </div>
+            <div class="card py-5 m-2" style="background: #767784">
+                {{--                <img src="..." class="card-img-top" alt="...">--}}
+                <div class="card-body text-white text-center">
+                    <h3 class="card-title">Studio Teacher</h3>
+                    <p class="card-text">
+                        $299
+                    </p>
                 </div>
+                {{--                <div class="card-footer">--}}
+                {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
+                {{--                </div>--}}
             </div>
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="flush-headingThree">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                        Is the goal of YPAD&trade; to police or censor my artistic choices?
-                    </button>
-                </h2>
-                <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">
-                        YPAD™ is not interested in policing the dance industry. Instead, YPAD™ aims to encourage thoughtful discussions around developmentally appropriate and age-appropriate approaches to dance education and artistic integrity. The mission of YPAD™ is safeguarding capacity-building–helping dance educators to make better informed choices every day.
-                    </div>
+            <div class="card py-5 m-2" style="background: #EF9A61">
+                {{--                <img src="..." class="card-img-top" alt="...">--}}
+                <div class="card-body text-white text-center">
+                    <h3 class="card-title">Studio Admin</h3>
+                    <p class="card-text">
+                        $199
+                    </p>
                 </div>
+                {{--                <div class="card-footer">--}}
+                {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
+                {{--                </div>--}}
             </div>
-
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="flush-headingFour">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                        What is the pricing for certification for studios?
-                    </button>
-                </h2>
-                <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">
-                        &middot; Studio Owner - $499
-                        <br>
-                        &middot; Studio Teacher - $299
-                        <br>
-                        &middot; Studio Admin - $199
-                        <br>
-                        &middot; Studio Guest/Sub - UNLIMITED FREE WITH CERTIFICATION
-                        <br>
-                        &middot; Studio Volunteer - UNLIMITED FREE WITH CERTIFICATION
-                        <br>
-                        Annual renewal - 50% discount
-                    </div>
+        </div>
+        <div class="card-group">
+            <div class="card py-5 m-2" style="background: #896C7B">
+                {{--                <img src="..." class="card-img-top" alt="...">--}}
+                <div class="card-body text-white text-center">
+                    <h3 class="card-title">Studio Guest/Sub</h3>
+                    <p class="card-text">
+                        UNLIMITED FREE WITH CERTIFICATION
+                    </p>
                 </div>
+                {{--                <div class="card-footer">--}}
+                {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
+                {{--                </div>--}}
             </div>
-
+            <div class="card py-5 m-2" style="background: #067997">
+                {{--                <img src="..." class="card-img-top" alt="...">--}}
+                <div class="card-body text-white text-center">
+                    <h3 class="card-title">Studio Volunteer</h3>
+                    <p class="card-text">
+                        UNLIMITED FREE WITH CERTIFICATION
+                    </p>
+                </div>
+                {{--                <div class="card-footer">--}}
+                {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
+                {{--                </div>--}}
+            </div>
+            <div class="card py-5 m-2" style="background: #767784">
+                {{--                <img src="..." class="card-img-top" alt="...">--}}
+                <div class="card-body text-white text-center">
+                    <h3 class="card-title">Annual renewal</h3>
+                    <p class="card-text">
+                        50% discount
+                    </p>
+                </div>
+                {{--                <div class="card-footer">--}}
+                {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
+                {{--                </div>--}}
+            </div>
         </div>
     </div>
 
@@ -479,83 +484,79 @@
     </div>
 
     <div class="container py-5">
-        <h2 class="text-uppercase text-center">Certification for Studios</h2>
-        <div class="card-group">
-            <div class="card py-5 m-2" style="background: #067997">
-{{--                <img src="..." class="card-img-top" alt="...">--}}
-                <div class="card-body text-white text-center">
-                    <h3 class="card-title">Studio Owner</h3>
-                    <p class="card-text">
-                        $499
-                    </p>
+        <h2 class="text-uppercase text-center">FAQ</h2>
+        <div class="accordion accordion-flush" id="accordionFlushExample">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-headingOne">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                        What is the difference between education and certification?
+                    </button>
+                </h2>
+                <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">
+                        Learner courses are audit-only courses for personal growth. Learner courses are open to the entire dance community. Learner courses do not require additional steps such as knowledge checks, or outside training and documentation, nor do they lead to certification. Learner courses are just as they sound: a place to learn.
+                        <br><br>
+                        Certification is offered in three ways: YPAD™ Certified Individual, Studio, or Event. Certification begins with an application and requires background checks, CPR/AED and First Aid certification, Darkness to Light's Stewards of Children® training, live artistic integrity Zoom seminar, a Safeguarding Pledge, and commitment to our 5-tier Accountability model. Additional requirements apply to YPAD™ Certified Studios and Events, such as proof of insurance, emergency action planning, Youth Mental Health First Aid, and three sessions with a YPAD™ integration coach.
+                    </div>
                 </div>
-{{--                <div class="card-footer">--}}
-{{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-headingTwo">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                        How much do the additional requirements to become certified cost?
+                    </button>
+                </h2>
+                <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">
+                        Background checks are $25-29 per person and are renewed every two years.
+                        <br><br>
+                        CPR/AED and First Aid certification ranges from $35-55 per person and is renewed every two years.
+                        <br><br>
+                        Darkness to Light's Stewards of Children® training is $10 per person and is renewed every two years.
+                        <br><br>
+                        Youth Mental Health First Aid certification is $50 and is only required for the studio owner.
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-headingThree">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                        Is the goal of YPAD&trade; to police or censor my artistic choices?
+                    </button>
+                </h2>
+                <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">
+                        YPAD™ is not interested in policing the dance industry. Instead, YPAD™ aims to encourage thoughtful discussions around developmentally appropriate and age-appropriate approaches to dance education and artistic integrity. The mission of YPAD™ is safeguarding capacity-building–helping dance educators to make better informed choices every day.
+                    </div>
+                </div>
+            </div>
+
+{{--            <div class="accordion-item">--}}
+{{--                <h2 class="accordion-header" id="flush-headingFour">--}}
+{{--                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">--}}
+{{--                        What is the pricing for certification for studios?--}}
+{{--                    </button>--}}
+{{--                </h2>--}}
+{{--                <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">--}}
+{{--                    <div class="accordion-body">--}}
+{{--                        &middot; Studio Owner - $499--}}
+{{--                        <br>--}}
+{{--                        &middot; Studio Teacher - $299--}}
+{{--                        <br>--}}
+{{--                        &middot; Studio Admin - $199--}}
+{{--                        <br>--}}
+{{--                        &middot; Studio Guest/Sub - UNLIMITED FREE WITH CERTIFICATION--}}
+{{--                        <br>--}}
+{{--                        &middot; Studio Volunteer - UNLIMITED FREE WITH CERTIFICATION--}}
+{{--                        <br>--}}
+{{--                        Annual renewal - 50% discount--}}
+{{--                    </div>--}}
 {{--                </div>--}}
-            </div>
-            <div class="card py-5 m-2" style="background: #767784">
-{{--                <img src="..." class="card-img-top" alt="...">--}}
-                <div class="card-body text-white text-center">
-                    <h3 class="card-title">Studio Teacher</h3>
-                    <p class="card-text">
-                        $299
-                    </p>
-                </div>
-{{--                <div class="card-footer">--}}
-{{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
-{{--                </div>--}}
-            </div>
-            <div class="card py-5 m-2" style="background: #EF9A61">
-{{--                <img src="..." class="card-img-top" alt="...">--}}
-                <div class="card-body text-white text-center">
-                    <h3 class="card-title">Studio Admin</h3>
-                    <p class="card-text">
-                        $199
-                    </p>
-                </div>
-{{--                <div class="card-footer">--}}
-{{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
-{{--                </div>--}}
-            </div>
-        </div>
-        <div class="card-group">
-            <div class="card py-5 m-2" style="background: #896C7B">
-                {{--                <img src="..." class="card-img-top" alt="...">--}}
-                <div class="card-body text-white text-center">
-                    <h3 class="card-title">Studio Guest/Sub</h3>
-                    <p class="card-text">
-                        UNLIMITED FREE WITH CERTIFICATION
-                    </p>
-                </div>
-                {{--                <div class="card-footer">--}}
-                {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
-                {{--                </div>--}}
-            </div>
-            <div class="card py-5 m-2" style="background: #067997">
-                {{--                <img src="..." class="card-img-top" alt="...">--}}
-                <div class="card-body text-white text-center">
-                    <h3 class="card-title">Studio Volunteer</h3>
-                    <p class="card-text">
-                        UNLIMITED FREE WITH CERTIFICATION
-                    </p>
-                </div>
-                {{--                <div class="card-footer">--}}
-                {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
-                {{--                </div>--}}
-            </div>
-            <div class="card py-5 m-2" style="background: #767784">
-                {{--                <img src="..." class="card-img-top" alt="...">--}}
-                <div class="card-body text-white text-center">
-                    <h3 class="card-title">Annual renewal</h3>
-                    <p class="card-text">
-                        50% discount
-                    </p>
-                </div>
-                {{--                <div class="card-footer">--}}
-                {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
-                {{--                </div>--}}
-            </div>
+{{--            </div>--}}
+
         </div>
     </div>
+
+
 
 @endsection
