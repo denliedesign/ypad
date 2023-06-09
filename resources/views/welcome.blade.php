@@ -281,7 +281,7 @@
                     </div>
                     <div class="col-sm d-flex align-items-center">
                         <p>
-                            "Chicago Tap Theatre believes that dance students deserve well-trained teachers with an understanding that dance education is way more than knowing a few steps. YPAD is doing something about it, by offering online courses that educate dance studios and communities worldwide on the core elements in constructing an environment focused on the well-being of kids and a sustainable, safe future for dance. Chicago Tap Theatre is proud to stand with them in believing that the dance field is ready to take the next step and that a common set of standards is a great place to start!"
+                            "Chicago Tap Theatre believes that dance students deserve well-trained teachers who understand dance education is more than steps. YPAD™ is focused on the well-being of kids and a sustainable, safe future for dance. Chicago Tap Theatre is proud to stand with them in believing that the dance field is ready to take the next step and that a common set of standards is a great place to start!"
                         </p>
                     </div>
                 </div>
@@ -311,7 +311,7 @@
                     </div>
                     <div class="col-sm d-flex align-items-center">
                         <p>
-                            "Youth Protection Association for Dance&trade; is the leading industry education that all studio owners need to invest in. While we may hold a variety of views on how and what to teach to make “a good dancer”, we need to come together as a community of practice to honor the facts that make us “great classrooms”. One of the greatest sources of pride I have as a studio owner is hearing my studio families talk about their pride in the distinction of our YPAD ethos, as it shows that it absolutely matters and forever will."
+                            "Youth Protection Association for Dance™ is the leading industry education that all studio owners need to invest in. One of my greatest sources of pride as a studio owner is hearing my studio families talk about their pride in the distinction of our YPAD™ ethos, as it shows that it absolutely matters and forever will."
                         </p>
                     </div>
                 </div>
