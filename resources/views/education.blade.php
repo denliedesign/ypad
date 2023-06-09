@@ -108,15 +108,15 @@
                         </div>
                         <hr class="my-3">
                     </div>
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
-                        </div>
-                        <div class="col-11">
-                            Topical Online Courses for Dance Professionals
-                        </div>
-                        <hr class="my-3">
-                    </div>
+{{--                    <div class="row">--}}
+{{--                        <div class="col-1">--}}
+{{--                            <ion-icon name="checkmark-circle"></ion-icon>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-11">--}}
+{{--                            Topical Online Courses for Dance Professionals--}}
+{{--                        </div>--}}
+{{--                        <hr class="my-3">--}}
+{{--                    </div>--}}
                     <div class="row">
                         <div class="col-1">
                             <ion-icon name="checkmark-circle"></ion-icon>
