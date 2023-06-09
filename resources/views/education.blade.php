@@ -81,13 +81,11 @@
                 <p class="text-center">
                     Why is safety and wellness education vital?
                     <br><br>
-                    Adults hold the responsibility of safeguarding the well-being of young dancers under your guidance. By equipping yourself with more knowledge on dance-related health and safety practices, you can create a secure space where dancers can thrive and explore their passion without unnecessary risks.
-                    <br><br>
-                    Dance encompasses physical fitness, mental well-being, and emotional resilience.By prioritizing the overall well-being of young dancers, you'll empower them to not only excel in dance but also lead balanced and fulfilling lives.
+                    Adults hold the responsibility of safeguarding the well-being of young dancers under your guidance. By equipping yourself with more knowledge on dance-related health and safety practices, you can create a secure space where dancers can thrive and explore their passion without unnecessary risks. By prioritizing the overall well-being of young dancers, you'll empower them to excel in dance and lead balanced and fulfilling lives.
                     <br><br>
                     Our team of experienced instructors, well-versed in dance science, injury prevention, and youth well-being, delivers engaging workshops, seminars, and online courses. These programs provide practical insights, evidence-based knowledge, and innovative teaching methodologies that you can immediately implement in your role.
                     <br><br>
-                    YPAD™Educational courses and seminars do not lead to YPAD™ Certification, but they do enhance professional and personal development!
+                    YPAD™Educational courses and seminars do not lead to YPAD™ Certification but enhance professional and personal development!
                 </p>
             </div>
             <div class="col-sm d-flex align-items-center justify-content-center">
