@@ -79,6 +79,7 @@
         <div class="row" id="about-checkmarks">
             <div class="col-sm d-flex align-items-center">
                 <div>
+                    <div class="d-flex justify-content-center my-4"><ion-icon name="call-outline" class="text-center" style="font-size: 4em;"></ion-icon></div>
                     <h2 class="text-center">Hotline Listings</h2>
                     {{--                <p class="text-center">as·so·ci·a·tion <br> <small class="text-muted">noun</small></p>--}}
                     <p class="text-center">

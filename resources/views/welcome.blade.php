@@ -295,7 +295,7 @@
                     </div>
                     <div class="col-sm d-flex align-items-center">
                         <p>
-                            “As a dancer and dance teacher, I’ve taken a lot of training over the years. The information I have received from YPAD™ Certification has been the most important. Because of YPAD™, I am confident I am making the best choices for my students."
+                            “As a dancer and dance teacher, I’ve taken a lot of training over the years for my role at the studio. Out of everything I've learned, I have to say that the information I have received from YPAD™ Certification has been the most important. Because of what I've learned through YPAD™, I am confident I am making the best choices for my students."
                         </p>
                     </div>
                 </div>

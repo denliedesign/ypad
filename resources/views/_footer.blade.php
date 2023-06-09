@@ -14,10 +14,10 @@
                     <h5><u>Navigation</u></h5>
                     <ul class="text-uppercase mx-0 px-0" style="list-style-type: none;">
                         <li class="my-3"><a class="text-decoration-none text-white" href="/">home</a></li>
-                        <li class="my-3"><a class="text-decoration-none text-white" href="/about">about ypad 2023</a></li>
-                        <li class="my-3"><a class="text-decoration-none text-white" href="/education">education 2023</a></li>
-                        <li class="my-3"><a class="text-decoration-none text-white" href="/certification">certification 2023</a></li>
-                        <li class="my-3"><a class="text-decoration-none text-white" href="/support">support 2023</a></li>
+                        <li class="my-3"><a class="text-decoration-none text-white" href="/about">about ypad</a></li>
+                        <li class="my-3"><a class="text-decoration-none text-white" href="/education">education</a></li>
+                        <li class="my-3"><a class="text-decoration-none text-white" href="/certification">certification</a></li>
+                        <li class="my-3"><a class="text-decoration-none text-white" href="/support">support</a></li>
                         <li class="my-3" style="font-size: 1.25em;">
                             <ion-icon class="me-1" name="logo-facebook"></ion-icon>
                             <ion-icon class="mx-1" name="logo-instagram"></ion-icon>
