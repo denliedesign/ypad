@@ -290,8 +290,8 @@
                 <div class="row">
                     <div class="col-sm-4">
                         <img src="/images/bri.jpeg" alt="headshot" class="img-fluid rounded-portrait">
-                        <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Brianna Chin</h4>
-                        <p class="text-center py-0 my-0"><strong>Teacher</strong></p>
+                        <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Brianna Chin Brown</h4>
+                        <p class="text-center py-0 my-0"><strong>Dance Teacher, NJ</strong></p>
                     </div>
                     <div class="col-sm d-flex align-items-center">
                         <p>
