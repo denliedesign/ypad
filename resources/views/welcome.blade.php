@@ -287,19 +287,18 @@
                 </div>
             </div>
             <div class="col-sm">
-                <p class="text-center">teacher</p>
-{{--                <div class="row">--}}
-{{--                    <div class="col-sm-4">--}}
-{{--                        <img src="/images/kate.png" alt="mark" class="img-fluid">--}}
-{{--                        <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Kate Moody</h4>--}}
-{{--                        <p class="text-center py-0 my-0"><strong>Studio Owner</strong></p>--}}
-{{--                    </div>--}}
-{{--                    <div class="col-sm d-flex align-items-center">--}}
-{{--                        <p>--}}
-{{--                            If you haven't done YPAD training yet, do it. We had a loaded gun incident at the local high school this morning (everything is okay). But the thought that something could happen so close, is so scary. As hard as it was to imagine and read about all the "what to do's" in YPAD training, I am proud that we did, because "It's better to know and not need than to need and not know". Thank you YPAD team for all the great knowledge in the YPAD course!--}}
-{{--                        </p>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
+                <div class="row">
+                    <div class="col-sm-4">
+                        <img src="/images/chin.png" alt="headshot" class="img-fluid">
+                        <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Chin-Gorner</h4>
+                        <p class="text-center py-0 my-0"><strong>Teacher</strong></p>
+                    </div>
+                    <div class="col-sm d-flex align-items-center">
+                        <p>
+
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="row">
@@ -400,24 +399,28 @@
                 </p>
 
                 <div class="d-flex justify-content-center mb-4">
-                    <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Read the Article</div>
+                    <a href="https://journals.sagepub.com/doi/10.1177/1089313X231177174?fbclid=IwAR3knkW3dJIOxT7Ly76kkoBTZ-wo5RretqtTH-HNuWtxH7pI48LIRD0888Y" target="_blank" class="text-decoration-none text-white">
+                        <div class="fw-bold px-4 py-2 shadow text-center btn-orange-hover" style="background: #EF9A60; color: white;">
+                            Read the Article
+                        </div>
+                    </a>
                 </div>
 
-                <div class="d-flex justify-content-center">
-                    <form>
-                        <div class="row g-3 align-items-center">
-                            <div class="col-auto">
-                                <label for="inputEmail" class="col-form-label">Sign up for our mailing list to stay informed</label>
-                            </div>
-                            <div class="col-auto">
-                                <input type="email" id="inputEmail" placeholder="Email address" class="form-control" aria-describedby="emailHelpInline">
-                            </div>
-                            <div class="col-auto">
-                                <button type="submit" class="btn btn-primary">Submit</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
+{{--                <div class="d-flex justify-content-center">--}}
+{{--                    <form>--}}
+{{--                        <div class="row g-3 align-items-center">--}}
+{{--                            <div class="col-auto">--}}
+{{--                                <label for="inputEmail" class="col-form-label">Sign up for our mailing list to stay informed</label>--}}
+{{--                            </div>--}}
+{{--                            <div class="col-auto">--}}
+{{--                                <input type="email" id="inputEmail" placeholder="Email address" class="form-control" aria-describedby="emailHelpInline">--}}
+{{--                            </div>--}}
+{{--                            <div class="col-auto">--}}
+{{--                                <button type="submit" class="btn btn-primary">Submit</button>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </form>--}}
+{{--                </div>--}}
 
             </div>
         </div>
