@@ -289,8 +289,8 @@
             <div class="col-sm">
                 <div class="row">
                     <div class="col-sm-4">
-                        <img src="/images/chin.png" alt="headshot" class="img-fluid">
-                        <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Chin-Gorner</h4>
+                        <img src="/images/bri.jpeg" alt="headshot" class="img-fluid rounded-portrait">
+                        <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Brianna Chin</h4>
                         <p class="text-center py-0 my-0"><strong>Teacher</strong></p>
                     </div>
                     <div class="col-sm d-flex align-items-center">
@@ -319,8 +319,8 @@
             <div class="col-sm">
                                 <div class="row">
                                     <div class="col-sm-4">
-                                        <div class="rounded-portrait-sm">
-                                            <img src="/images/cert-kelly.png" alt="mark" class="img-fluid">
+                                        <div class="rounded-portrait">
+                                            <img src="/images/cert-kelly.png" alt="headshot" class="img-fluid">
                                         </div>
                                         <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Kelly Peterson</h4>
                                         <p class="text-center py-0 my-0"><strong>guiDANCE Experience</strong></p>
