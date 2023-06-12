@@ -449,7 +449,9 @@
                             <div class="text-white text-center">
                                 <h2 class="text-uppercase text-center mt-5">Ready to apply?</h2>
                                 <div class="d-flex justify-content-center">
-                                    <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Get Started Now!</div>
+                                    <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none">
+                                        <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Get Started Now!</div>
+                                    </a>
                                 </div>
                             </div>
                         </div>

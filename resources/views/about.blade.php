@@ -295,7 +295,10 @@
                             <h2 class="text-uppercase text-center mt-5">Ready to start working towards certification?</h2>
 {{--                            <p class="text-center">Get started now</p>--}}
                             <div class="d-flex justify-content-center">
-                                <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Get Started Now</div>
+                                <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none">
+                                    <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Get Started Now</div>
+                                </a>
+
                             </div>
                         </div>
                     </div>
@@ -372,7 +375,9 @@
                             <h2 class="text-uppercase text-center mt-5">Not interested in or ready for certification?</h2>
                             {{--                            <p class="text-center">Get started now</p>--}}
                             <div class="d-flex justify-content-center">
-                                <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Check Out Our Educational Resources</div>
+                                <a href="/education" class="text-decoration-none">
+                                    <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Check Out Our Educational Resources</div>
+                                </a>
                             </div>
                         </div>
                     </div>
