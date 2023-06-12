@@ -33,10 +33,8 @@
                 You've made a great decision to pursue YPAD™ Certification!
             </p>
             <p>
-                The mission of Youth Protection Association for Dance™ is to bring awareness to and provide guidance for one essential priority: the safety and health of dance students. The YPAD™ Certification process was created to help individuals, studio owners, event owners, and their staff gain the tools and practice the knowledge for safeguarding capacity-building.
-
+                The YPAD™ Certification process was created to help individuals, studio owners, event owners, and their staff gain the tools and practice the knowledge for safeguarding capacity-building.
                 Pursuing YPAD™ Certification shows your commitment to safeguarding children and empowering confident adults.
-
                 Much like a dance education, a YPAD™ Certified Studio designation requires an investment of time, patience, hard work, and financial resources. Just like a dancer gets stronger over time, your studio safety practices can get better over time as well. There is a process to raising the standard of dancer well-being, and YPAD™ is here to help you achieve it.
             </p>
         </div>
@@ -46,23 +44,28 @@
         <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
         <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>
         <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
-            <div class="row mt-3">
-                <div class="col-sm-2 d-flex align-items-center">
-                    <div class="rounded-portrait">
-                        <img src="/images/cert-amy.png" alt="testimonial portrait">
-                    </div>
-                </div>
-                <div class="col-sm-10">
-                    <div class="d-flex align-items-center" style="height: 100%;">
-                        <div class="text-white text-center">
-                            <h4>
-                                “I'm a studio owner, but I wanted to start with individual certification first. This allowed me to get to know the program through monthly Community Connection Calls and to implement best practices in my studio. This program has given me a community of like-minded dance professionals who choose to put the wellness and safety of their students as a top priority. I’m eager to get my entire studio certified next!”
-                            </h4>
-                            <p class="m-0 p-0"><span class="fw-bold">Amy Yaro</span> &middot; Iowa Ballet Academy</p>
-                        </div>
-                    </div>
-                </div>
+            <div>
+                <h3 class="text-white text-center">
+                    The mission of Youth Protection Association for Dance™ is to bring awareness to and provide guidance for one essential priority: <strong>the safety and health of dance students</strong>.
+                </h3>
             </div>
+{{--            <div class="row mt-3">--}}
+{{--                <div class="col-sm-2 d-flex align-items-center">--}}
+{{--                    <div class="rounded-portrait">--}}
+{{--                        <img src="/images/cert-amy.png" alt="testimonial portrait">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm-10">--}}
+{{--                    <div class="d-flex align-items-center" style="height: 100%;">--}}
+{{--                        <div class="text-white text-center">--}}
+{{--                            <h4>--}}
+{{--                                “I'm a studio owner, but I wanted to start with individual certification first. This allowed me to get to know the program through monthly Community Connection Calls and to implement best practices in my studio. This program has given me a community of like-minded dance professionals who choose to put the wellness and safety of their students as a top priority. I’m eager to get my entire studio certified next!”--}}
+{{--                            </h4>--}}
+{{--                            <p class="m-0 p-0"><span class="fw-bold">Amy Yaro</span> &middot; Iowa Ballet Academy</p>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
         </div>
         <div class="custom-shape-divider-top-1683835088">
             <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
@@ -95,28 +98,111 @@
         </div>
     </div>
 
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 400px;">
+    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 800px;">
         <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
         <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>
-        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
-            <div class="row mt-3">
-                <div class="col-sm-2 d-flex align-items-center">
-                    <div class="rounded-portrait">
-                        <img src="/images/cert-neisha.jpeg" alt="testimonial portrait">
+{{--        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">--}}
+
+
+            <div class="container py-5 d-flex align-items-center" style="height: 100%;">
+                <div class="text-white">
+                    <div class="row">
+                        <div class="col-sm">
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <div class="rounded-portrait">
+                                        <img src="/images/darcy.png" alt="darcy" class="img-fluid">
+                                    </div>
+                                    <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Darcy Fagerwold</h4>
+                                    <p class="text-center py-0 my-0"><strong>Studio Owner, San Diego</strong></p>
+                                </div>
+                                <div class="col-sm d-flex align-items-center">
+                                    <p>
+                                        "Youth Protection Association for Dance&trade; education is evidence to families that we are
+                                        committed to keeping kids happy, healthy, and safe in dance. It is comforting to know that
+                                        as challenging issues arise, YPAD is there to support and guide us to ensure we are doing
+                                        what's right for our students. Thank you to Youth Protection Association for Dance&trade;
+                                        for leading the dance industry in this vital endeavor!"
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm">
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <div class="rounded-portrait">
+                                        <img src="/images/kate.png" alt="kate" class="img-fluid">
+                                    </div>
+                                    <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Kate Moody</h4>
+                                    <p class="text-center py-0 my-0"><strong>Studio Owner, Wisconsin</strong></p>
+                                </div>
+                                <div class="col-sm d-flex align-items-center">
+                                    <p>
+                                        "If you haven't done YPAD training yet, do it. We had a loaded gun incident at the local high
+                                        school this morning (everything is okay). But the thought that something could happen so
+                                        close, is so scary. As hard as it was to imagine and read about all the "what to do's" in
+                                        YPAD training, I am proud that we did, because "It's better to know and not need than to
+                                        need and not know". Thank you YPAD team for all the great knowledge in the YPAD course!"
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                </div>
-                <div class="col-sm-10">
-                    <div class="d-flex align-items-center" style="height: 100%;">
-                        <div class="text-white text-center">
-                            <h4>
-                                “Being a YPAD™ Certified Studio is essential to our studio’s culture. Our parents and families are confident that our studio is intentionally focused on keeping their kids healthy and safe. YPAD™'s extensive resources and monthly ongoing education opportunities have been integral in carrying out our mission of Encouraging Kids to Lead Inspired Lives!”
-                            </h4>
-                            <p class="m-0 p-0"><span class="fw-bold">Neisha Hernandez</span> &middot; Neisha's Dance & Music Academy</p>
+                    <div class="row mt-3">
+                        <div class="col-sm">
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <div class="rounded-portrait">
+                                        <img src="/images/cert-amy.png" alt="darcy" class="img-fluid">
+                                    </div>
+                                    <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Amy Yaro</h4>
+                                    <p class="text-center py-0 my-0"><strong>Studio Owner, Iowa</strong></p>
+                                </div>
+                                <div class="col-sm d-flex align-items-center">
+                                    <p>
+                                        "I'm a studio owner, but I wanted to start with individual certification first. This allowed me to get to know the program through monthly Community Connection Calls and to implement best practices in my studio. This program has given me a community of like-minded dance professionals who choose to put the wellness and safety of their students as a top priority. I’m eager to get my entire studio certified next!"
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm">
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <div class="rounded-portrait">
+                                        <img src="/images/cert-neisha.jpeg" alt="kate" class="img-fluid">
+                                    </div>
+                                    <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Neisha Hernandez</h4>
+                                    <p class="text-center py-0 my-0"><strong>Studio Owner, Chula Vista</strong></p>
+                                </div>
+                                <div class="col-sm d-flex align-items-center">
+                                    <p>
+                                        "Being a YPAD™ Certified Studio is essential to our studio’s culture. Our parents and families are confident that our studio is intentionally focused on keeping their kids healthy and safe. YPAD™'s extensive resources and monthly ongoing education opportunities have been integral in carrying out our mission of Encouraging Kids to Lead Inspired Lives!"
+                                    </p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+
+{{--            <div class="row mt-3">--}}
+{{--                <div class="col-sm-2 d-flex align-items-center">--}}
+{{--                    <div class="rounded-portrait">--}}
+{{--                        <img src="/images/cert-neisha.jpeg" alt="testimonial portrait">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm-10">--}}
+{{--                    <div class="d-flex align-items-center" style="height: 100%;">--}}
+{{--                        <div class="text-white text-center">--}}
+{{--                            <h4>--}}
+{{--                                “Being a YPAD™ Certified Studio is essential to our studio’s culture. Our parents and families are confident that our studio is intentionally focused on keeping their kids healthy and safe. YPAD™'s extensive resources and monthly ongoing education opportunities have been integral in carrying out our mission of Encouraging Kids to Lead Inspired Lives!”--}}
+{{--                            </h4>--}}
+{{--                            <p class="m-0 p-0"><span class="fw-bold">Neisha Hernandez</span> &middot; Neisha's Dance & Music Academy</p>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
         <div class="custom-shape-divider-top-1683835088">
             <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
                 <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
@@ -558,6 +644,94 @@
 
         </div>
     </div>
+
+    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 800px;">
+        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
+{{--        <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>--}}
+        <div class="container pt-5 d-flex align-items-center" style="height: 100%;">
+            <div class="text-white">
+                <div class="row">
+                    <div class="col-sm">
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <div class="rounded-portrait">
+                                    <img src="/images/cert-kelly.png" alt="portrait" class="img-fluid">
+                                </div>
+                                <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Kelly Peterson</h4>
+                                <p class="text-center py-0 my-0"><strong>guiDANCE Experience</strong></p>
+                            </div>
+                            <div class="col-sm d-flex align-items-center">
+                                <p>
+                                    “YPAD has brought so much value into the dance industry by helping kids stay safe, encouraging community, self-accountability, and awareness. YPAD gives anyone working in the dance industry clear priorities to develop this next generation of dancers. Through educational opportunities, YPAD is leading the way for the betterment of all involved in the dance industry.”
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm">
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <div class="rounded-portrait">
+                                    <img src="/images/cert-christian.jpg" alt="portrait" class="img-fluid">
+                                </div>
+                                <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Christian Clark</h4>
+                                <p class="text-center py-0 my-0"><strong>REVEL</strong></p>
+                            </div>
+                            <div class="col-sm d-flex align-items-center">
+                                <p>
+                                    “REVEL has been partnered with YPAD™ as a certified event for the past 2 years.  Throughout the relationship, YPAD™'s training, resources and support has become invaluable to our leadership team, administrative staff and dance educators.  YPAD™'s subject matter experts have helped shape our policies and procedures around child safety & wellness, promoted a culture of awareness & accountability, and made us a better organization overall.  Without hesitation, we recommend that other event organizers take the opportunity to explore YPAD™ training and certification."
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div class="col-sm">
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <div class="rounded-portrait">
+                                    <img src="/images/cert-jeremy.jpg" alt="portrait" class="img-fluid">
+                                </div>
+                                <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Jeremy Keeton</h4>
+                                <p class="text-center py-0 my-0"><strong>Adrenaline & Revive</strong></p>
+                            </div>
+                            <div class="col-sm d-flex align-items-center">
+                                <p>
+                                    "YPAD™ has been a gift to the dance industry. The information we receive through continual YPAD™ training is essential and integral to keeping youth dancers safe. This training goes far beyond our events and has given our team tools to navigate everyday situations involving children. We are honored to offer dance experiences to people around the country and are grateful that through YPAD™, studio directors and parents feel even more confident that dancers' health and safety are a priority at Adrenaline and Revive Dance Conventions."
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm">
+                        <div class="row">
+                            <div class="col-sm-4">
+{{--                                <div class="rounded-portrait">--}}
+{{--                                    <img src="/images/cert-neisha.jpeg" alt="kate" class="img-fluid">--}}
+{{--                                </div>--}}
+{{--                                <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Neisha Hernandez</h4>--}}
+{{--                                <p class="text-center py-0 my-0"><strong>Studio Owner, Chula Vista</strong></p>--}}
+                            </div>
+                            <div class="col-sm d-flex align-items-center">
+{{--                                <p>--}}
+{{--                                    Being a YPAD™ Certified Studio is essential to our studio’s culture. Our parents and families are confident that our studio is intentionally focused on keeping their kids healthy and safe. YPAD™'s extensive resources and monthly ongoing education opportunities have been integral in carrying out our mission of Encouraging Kids to Lead Inspired Lives!--}}
+{{--                                </p>--}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="custom-shape-divider-top-1683835088">
+            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
+            </svg>
+        </div>
+{{--        <div class="custom-shape-divider-bottom-1683835445">--}}
+{{--            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">--}}
+{{--                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>--}}
+{{--            </svg>--}}
+{{--        </div>--}}
+    </div>
+
 
 
 
