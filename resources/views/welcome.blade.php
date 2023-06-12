@@ -117,7 +117,7 @@
                         </div>
                         <p class="fw-bold text-center py-0 my-0">WHAT YPAD™ IS</p>
                         <p class="text-center py-0 my-0">
-                            YPAD exists to help create optimal environments in dance for all participants. We do this by bringing the foundations of core health and safety topics to the dance community. YPAD's expansive resources and vetted networks support implementing best practices and guidance in dance education. YPAD is supported by a network of educators, subject matter experts, professionals, and collaborators who share their expertise through education, group coaching, training, and certification models to benefit the dance community.
+                            YPAD™ exists to help create optimal environments in dance for all participants by bringing the foundations of core health and safety topics to the dance community. Our extensive resources support implementing best practices and guidance in dance education. YPAD™ is supported by educators, subject matter experts, professionals, and collaborators who share their expertise through our education and certification models and ongoing coaching to benefit the dance community.
                         </p>
                     </div>
                 </div>
