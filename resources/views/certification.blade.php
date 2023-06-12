@@ -689,7 +689,7 @@
                         <div class="row">
                             <div class="col-sm-4">
                                 <div class="rounded-portrait">
-                                    <img src="/images/cert-jeremy.jpg" alt="portrait" class="img-fluid">
+                                    <img src="/images/cert-jeremy.jpeg" alt="portrait" class="img-fluid">
                                 </div>
                                 <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Jeremy Keeton</h4>
                                 <p class="text-center py-0 my-0"><strong>Adrenaline & Revive</strong></p>
