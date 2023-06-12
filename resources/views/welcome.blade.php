@@ -205,7 +205,9 @@
         <h2 class="text-uppercase text-center mt-5">NOT READY TO GET CERTIFIED?</h2>
         <p class="text-center">Start your YPAD™ journey with YPAD™ Education!</p>
         <div class="d-flex justify-content-center">
-            <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Start Learning Today</div>
+            <a href="/education" class="text-decoration-none">
+                <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Start Learning Today</div>
+            </a>
         </div>
 {{--        <div class="row">--}}
 {{--            <div class="col-sm">--}}
