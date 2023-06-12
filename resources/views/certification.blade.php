@@ -120,7 +120,7 @@
                                     <p>
                                         "Youth Protection Association for Dance&trade; education is evidence to families that we are
                                         committed to keeping kids happy, healthy, and safe in dance. It is comforting to know that
-                                        as challenging issues arise, YPAD is there to support and guide us to ensure we are doing
+                                        as challenging issues arise, YPAD&trade; is there to support and guide us to ensure we are doing
                                         what's right for our students. Thank you to Youth Protection Association for Dance&trade;
                                         for leading the dance industry in this vital endeavor!"
                                     </p>
@@ -138,11 +138,11 @@
                                 </div>
                                 <div class="col-sm d-flex align-items-center">
                                     <p>
-                                        "If you haven't done YPAD training yet, do it. We had a loaded gun incident at the local high
+                                        "If you haven't done YPAD&trade; training yet, do it. We had a loaded gun incident at the local high
                                         school this morning (everything is okay). But the thought that something could happen so
                                         close, is so scary. As hard as it was to imagine and read about all the "what to do's" in
-                                        YPAD training, I am proud that we did, because "It's better to know and not need than to
-                                        need and not know". Thank you YPAD team for all the great knowledge in the YPAD course!"
+                                        YPAD&trade; training, I am proud that we did, because "It's better to know and not need than to
+                                        need and not know". Thank you YPAD&trade; team for all the great knowledge in the YPAD&trade; course!"
                                     </p>
                                 </div>
                             </div>
@@ -662,7 +662,7 @@
                             </div>
                             <div class="col-sm d-flex align-items-center">
                                 <p>
-                                    “YPAD has brought so much value into the dance industry by helping kids stay safe, encouraging community, self-accountability, and awareness. YPAD gives anyone working in the dance industry clear priorities to develop this next generation of dancers. Through educational opportunities, YPAD is leading the way for the betterment of all involved in the dance industry.”
+                                    “YPAD&trade; has brought so much value into the dance industry by helping kids stay safe, encouraging community, self-accountability, and awareness. YPAD&trade; gives anyone working in the dance industry clear priorities to develop this next generation of dancers. Through educational opportunities, YPAD&trade; is leading the way for the betterment of all involved in the dance industry.”
                                 </p>
                             </div>
                         </div>

@@ -33,7 +33,7 @@
                 If you are looking for support, you are in the right place
             </p>
             <p class="text-center">
-                YPAD offers a wealth of resources and training programs to support you in your pursuit of safety and wellness Education and walking out your Certification. Even so, from time to time you may encounter challenges that require extra support. That’s what this page is for. Together, we can equip ourselves and our students with the tools they need to dance with confidence, joy, and, above all, safety.
+                YPAD&trade; offers a wealth of resources and training programs to support you in your pursuit of safety and wellness Education and walking out your Certification. Even so, from time to time you may encounter challenges that require extra support. That’s what this page is for. Together, we can equip ourselves and our students with the tools they need to dance with confidence, joy, and, above all, safety.
                 <br><br>
                 The YPAD™ Support page provides three vital purposes outlined below:
             </p>
@@ -59,7 +59,7 @@
                     </div>
                     <p class="fw-bold text-center text-uppercase py-0 my-0">Certified Support</p>
                     <p class="text-center py-0 my-0">
-                        YPAD™ Support provides a way for those who are YPAD™ Certified to request additional support from a YPAD™ Certified Coach or a referral to a YPAD™ Expert Connection. This is a free service for YPAD Certified Studios, Individuals, and Events.                 </p>
+                        YPAD™ Support provides a way for those who are YPAD™ Certified to request additional support from a YPAD™ Certified Coach or a referral to a YPAD™ Expert Connection. This is a free service for YPAD&trade; Certified Studios, Individuals, and Events.                 </p>
                 </div>
             </div>
             <div class="col-sm">
@@ -193,11 +193,11 @@
     <div class="container py-5">
         <h2 class="text-center">YPAD™ Certified Support</h2>
         <p>
-            Do you have a question or concern about a behavior you have observed or something that has been shared with you? Do you need support navigating an issue concerning artistic integrity or conflict resolution? YPAD™ Support provides a way for those who are YPAD™ Certified to request additional support from a YPAD™ Certified Coach or a referral to a YPAD™ Expert Connection. This is a free service for YPAD Certified Studios, Individuals, and Events.
+            Do you have a question or concern about a behavior you have observed or something that has been shared with you? Do you need support navigating an issue concerning artistic integrity or conflict resolution? YPAD™ Support provides a way for those who are YPAD™ Certified to request additional support from a YPAD™ Certified Coach or a referral to a YPAD™ Expert Connection. This is a free service for YPAD&trade; Certified Studios, Individuals, and Events.
             <br><br>
             Please email info@ypadnow.com to request a waiver and be connected with one of our Support Service members. Please note that this service is monitored during our business hours, Monday through Friday, 9 am-3 pm Central Time.
             <br><br>
-            <em>YPAD Support does not take the place of a crisis hotline. Immediate or acute safety concerns should always be directed to your local emergency services or child welfare providers.</em>
+            <em>YPAD&trade; Support does not take the place of a crisis hotline. Immediate or acute safety concerns should always be directed to your local emergency services or child welfare providers.</em>
         </p>
         <div class="d-flex justify-content-center">
             <a style="text-decoration: none;" href="mailto:info@ypadnow.com?subject=YPAD Support">

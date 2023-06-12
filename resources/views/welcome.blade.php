@@ -198,8 +198,8 @@
                 <div class="">
                     <img src="/images/ypad-erika-crop.png" alt="erika headshot" class="img-fluid py-0 my-0">
                 </div>
-                <p class="py-0 my-0"><strong>Erika Hogan, YPAD Certified Individual</strong></p>
-                <p class="py-0 my-0 pe-5 me-4"><em>"I started with YPAD Education, but quickly wanted to become YPAD Certified. I now work with the association as a coach to help others to bring best practices to their classrooms. Next up ... Certifying my studio!"</em></p>
+                <p class="py-0 my-0"><strong>Erika Hogan, YPAD&trade; Certified Individual</strong></p>
+                <p class="py-0 my-0 pe-5 me-4"><em>"I started with YPAD&trade; Education, but quickly wanted to become YPAD&trade; Certified. I now work with the association as a coach to help others to bring best practices to their classrooms. Next up ... Certifying my studio!"</em></p>
             </div>
         </div>
         <h2 class="text-uppercase text-center mt-5">NOT READY TO GET CERTIFIED?</h2>
@@ -329,7 +329,7 @@
                                     </div>
                                     <div class="col-sm d-flex align-items-center">
                                         <p>
-                                            “YPAD has brought so much value into the dance industry by helping kids stay safe, encouraging community, self-accountability, and awareness. YPAD gives anyone working in the dance industry clear priorities to develop this next generation of dancers. Through educational opportunities, YPAD is leading the way for the betterment of all involved in the dance industry. ”
+                                            “YPAD&trade; has brought so much value into the dance industry by helping kids stay safe, encouraging community, self-accountability, and awareness. YPAD&trade; gives anyone working in the dance industry clear priorities to develop this next generation of dancers. Through educational opportunities, YPAD&trade; is leading the way for the betterment of all involved in the dance industry. ”
                                         </p>
                                     </div>
                                 </div>

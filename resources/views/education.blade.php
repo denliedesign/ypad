@@ -11,7 +11,7 @@
                 Welcome to YPAD™ Education
             </h1>
             <p class="text-center" style="font-size: 1.5em;">
-                YPAD believes education in safeguarding capacity-building should be available to everyone
+                YPAD&trade; believes education in safeguarding capacity-building should be available to everyone
             </p>
         </div>
         {{--        <div class="custom-shape-divider-top-1683835088">--}}
@@ -172,7 +172,7 @@
                     <div class="px-3 pt-3">
                         <p class="text-center py-0 my-0"><strong>Matthew Farmer</strong> <br> Department Chair, Hope College</p>
                         <p class="text-center pb-0 pt-2 my-0"><em>
-                                "YPAD’s seminar for dancers is an essential conversation and educational session for all dance students in college. The information presented is pertinent and necessary for any dance student wishing to enter the performance industry. Conversations regarding power differentials, grooming, and sexual harassment are just some of the important topics covered, and the tools YPAD gives young dancers in order to address these issues are both concrete and applicable."
+                                "YPAD&trade;’s seminar for dancers is an essential conversation and educational session for all dance students in college. The information presented is pertinent and necessary for any dance student wishing to enter the performance industry. Conversations regarding power differentials, grooming, and sexual harassment are just some of the important topics covered, and the tools YPAD&trade; gives young dancers in order to address these issues are both concrete and applicable."
                             </em>
                         </p>
                     </div>
@@ -184,7 +184,7 @@
                     <div class="px-3 pt-3">
                         <p class="text-center py-0 my-0"><strong>Aidan S. Nettles, MFA</strong> <br> Assistant Professor of Dance, The University of Alabama</p>
                         <p class="text-center pb-0 pt-2 my-0"><em>
-                                “The team at Youth Protection Association for Dance (YPAD) is facilitating an outstanding seminar to share information and resources with college students and future educators that are paramount for dancer safety. As an educator, I find it imperative to equip my students with the tools needed to think critically, ask challenging questions, and continue to learn how to make positive contributions to the future of dance, and this experience afforded them the opportunity to exercise those skills. YPAD’s seminar for collegiate dancers provides a space for young educators to engage with challenging topics in a supported environment. I encourage all collegiate educators to take advantage of providing this experience to your students!”
+                                “The team at Youth Protection Association for Dance&trade; (YPAD&trade;) is facilitating an outstanding seminar to share information and resources with college students and future educators that are paramount for dancer safety. As an educator, I find it imperative to equip my students with the tools needed to think critically, ask challenging questions, and continue to learn how to make positive contributions to the future of dance, and this experience afforded them the opportunity to exercise those skills. YPAD&trade;’s seminar for collegiate dancers provides a space for young educators to engage with challenging topics in a supported environment. I encourage all collegiate educators to take advantage of providing this experience to your students!”
                             </em>
                         </p>
                     </div>
@@ -196,7 +196,7 @@
                     <div class="px-3 pt-3 pb-1">
                         <p class="text-center py-0 my-0"><strong>Mr. Richard Smith</strong> <br> Visiting Professor at East Carolina University, School of Theatre and Dance</p>
                         <p class="text-center pb-0 pt-2 my-0"><em>
-                                “I am completely impressed with the delivery of the presentation by the YPAD team. They make the information easily digestible, positive and inviting. The feedback from the students was genuinely eye opening. The YPAD team sheds new light on how we can be better as educators and leaders in the industry. Much praise was shared in the talkback after the workshop was completed. I am so pleased with the presentation and look forward to having the students participate in additional resources from YPAD.” <br><br>
+                                “I am completely impressed with the delivery of the presentation by the YPAD&trade; team. They make the information easily digestible, positive and inviting. The feedback from the students was genuinely eye opening. The YPAD&trade; team sheds new light on how we can be better as educators and leaders in the industry. Much praise was shared in the talkback after the workshop was completed. I am so pleased with the presentation and look forward to having the students participate in additional resources from YPAD&trade;.” <br><br>
                             </em>
                         </p>
                     </div>
