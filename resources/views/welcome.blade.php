@@ -73,7 +73,7 @@
                             <div style="background: #767784; color: white;" class="pb-4">
                                 <div class="d-flex justify-content-center"><img src="/images/sheyi.png" alt="" class="img-fluid" style="border: 6px solid #767784; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
-                                    <p class="text-center py-0 my-0"><strong>Dr. Sheyi Ojofeitimi, DPT, CFMT, CIDN</strong> <br> Director of Therapy Services - Alvin Ailey Dance Foundation</p>
+                                    <h4 class="text-center py-0 my-0"><strong>Dr. Sheyi Ojofeitimi, DPT, CFMT, CIDN</strong> <br> Director of Therapy Services - Alvin Ailey Dance Foundation</h4>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
                                             “It will take an army to change the narrative. We know we can have the biggest impact through teachers because they are in the trenches of daily class, rehearsal, and performance with young dancers.”
                                         </em>
@@ -85,7 +85,7 @@
                             <div style="background: #EF9A60; color: white;" class="pb-4">
                                 <div class="d-flex justify-content-center"><img src="/images/gomez-23.jpeg" alt="" style="border: 6px solid #EF9A61; height: 394px; width: 100%; object-fit: cover; object-position: 50% 15%;"></div>
                                 <div class="px-3 pt-3">
-                                    <p class="text-center py-0 my-0"><strong>Tricia Gomez</strong> <br> Rhythm Works Integrative Dance - The Intellidance Method</p>
+                                    <h4 class="text-center py-0 my-0"><strong>Tricia Gomez</strong> <br> Rhythm Works Integrative Dance - The Intellidance Method</h4>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
                                             “If every teacher had this education, we would be well on our way to setting self-guided, industry standards that are on par with schools and other child-centered activities. ”
                                         </em>
@@ -97,7 +97,7 @@
                             <div style="background: #896C7B; color: white;" class="pb-4">
                                 <div class="d-flex justify-content-center"><img src="/images/addie.png" alt="" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
-                                    <p class="text-center py-0 my-0"><strong>Dr. Addie Briggs, M.D.</strong> <br> Founder - Fitness DAWGS</p>
+                                    <h4 class="text-center py-0 my-0"><strong>Dr. Addie Briggs, M.D.</strong> <br> Founder - Fitness DAWGS</h4>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
                                             “As a pediatrician, I have long advocated for healthy kids. Safe movement is so important to their growing bodies and they need teachers who can show them the way forward patiently. ”
                                         </em>

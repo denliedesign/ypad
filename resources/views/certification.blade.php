@@ -732,7 +732,7 @@
                 <div style="background: #767784; color: white;" class="pb-4">
                     <div class="d-flex justify-content-center"><img src="/images/cert-kelly.png" alt="" class="img-fluid" style="border: 6px solid #767784; height: 394px; width: 100%; object-fit: cover;"></div>
                     <div class="px-3 pt-3">
-                        <p class="text-center py-0 my-0"><strong>Kelly Peterson</strong> <br> guiDANCE Experience</p>
+                        <h4 class="text-center py-0 my-0"><strong>Kelly Peterson</strong> <br> The guiDANCE Experience</h4>
                         <p class="text-center pb-0 pt-2 my-0"><em>
                                 “YPAD™ has brought so much value into the dance industry by helping kids stay safe, encouraging community, self-accountability, and awareness. YPAD™ gives anyone working in the dance industry clear priorities to develop this next generation of dancers. Through educational opportunities, YPAD™ is leading the way for the betterment of all involved in the dance industry.”
                             </em>
@@ -744,10 +744,9 @@
                 <div style="background: #EF9A60; color: white;" class="pb-4">
                     <div class="d-flex justify-content-center"><img src="/images/cert-christian.jpg" alt="" style="border: 6px solid #EF9A61; height: 394px; width: 100%; object-fit: cover; object-position: 50% 15%;"></div>
                     <div class="px-3 pt-3">
-                        <p class="text-center py-0 my-0"><strong>Christian Clark</strong> <br> REVEL</p>
+                        <h4 class="text-center py-0 my-0"><strong>Christian Clark</strong> <br> REVEL Dance Convention</h4>
                         <p class="text-center pb-0 pt-2 my-0"><em>
-                                “REVEL has been partnered with YPAD™ as a certified event for the past 2 years. Throughout the relationship, YPAD™'s training, resources and support has become invaluable to our leadership team, administrative staff and dance educators. YPAD™'s subject matter experts have helped shape our policies and procedures around child safety & wellness, promoted a culture of awareness & accountability, and made us a better organization overall. Without hesitation, we recommend that other event organizers take the opportunity to explore YPAD™ training and certification."
-                            </em>
+                                “REVEL has been partnered with YPAD™ as a certified event for the past 2 years. YPAD™ has become an invaluable resource to our leadership team, administrative staff and dance educators. YPAD™'s subject matter experts have helped shape our policies and procedures around child safety & wellness, promoted a culture of awareness & accountability, and made us a better organization overall. Without hesitation, we recommend that other event organizers explore YPAD™ training and certification."                            </em>
                         </p>
                     </div>
                 </div>
@@ -756,7 +755,7 @@
                 <div style="background: #896C7B; color: white;" class="pb-4">
                     <div class="d-flex justify-content-center"><img src="/images/cert-jeremy.jpeg" alt="" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
                     <div class="px-3 pt-3">
-                        <p class="text-center py-0 my-0"><strong>Jerey Keeton</strong> <br> Adrenaline & Revive</p>
+                        <h4 class="text-center py-0 my-0"><strong>Jeremy Keeton</strong> <br> Adrenaline and Revive Dance Conventions</h4>
                         <p class="text-center pb-0 pt-2 my-0"><em>
                                 "YPAD™ has been a gift to the dance industry. The information we receive through continual YPAD™ training is essential and integral to keeping youth dancers safe. This training goes far beyond our events and has given our team tools to navigate everyday situations involving children. We are honored to offer dance experiences to people around the country and are grateful that through YPAD™, studio directors and parents feel even more confident that dancers' health and safety are a priority at Adrenaline and Revive Dance Conventions."
                             </em>

@@ -248,7 +248,7 @@
                             <div style="background: #767784; color: white;" class="pb-4">
                                 <div class="d-flex justify-content-center"><img src="/images/about-featured-1.jpeg" alt="" class="img-fluid" style="border: 6px solid #767784; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
-                                    <p class="text-center py-0 my-0"><strong>Emily Bufferd</strong> <br> Founder, Young Choreographer's Festival</p>
+                                    <h4 class="text-center py-0 my-0"><strong>Emily Bufferd</strong> <br> Founder, Young Choreographer's Festival</h4>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
                                             “We must prioritize our students’ well-being and progress them only when they are ready to safely approach new ideas in mind, body, and spirit.”
                                         </em>
@@ -260,7 +260,7 @@
                             <div style="background: #EF9A60; color: white;" class="pb-4">
                                 <div class="d-flex justify-content-center"><img src="/images/about-featured-2.jpg" alt="" class="img-fluid" style="border: 6px solid #EF9A61; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
-                                    <p class="text-center py-0 my-0"><strong>Stephen Potts, J.D.</strong> <br> Member, Texas Center for Legal Ethics</p>
+                                    <h4 class="text-center py-0 my-0"><strong>Stephen Potts, J.D.</strong> <br> Member, Texas Center for Legal Ethics</h4>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
                                             “Studio owners, like all small business owners, don't need to "do it all" on their own. Organizations like YPAD™ can help.”
                                         </em>
@@ -272,7 +272,7 @@
                             <div style="background: #896C7B; color: white; font-size: 0.98em;" class="pb-4">
                                 <div class="d-flex justify-content-center"><img src="/images/about-featured-3.png" alt="" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
-                                    <p class="text-center py-0 my-0"><strong>Carolyn Colleen, MBA</strong> <br> Founder, Acton Academy Midwest</p>
+                                    <h4 class="text-center py-0 my-0"><strong>Carolyn Colleen, MBA</strong> <br> Founder, Acton Academy Midwest</h4>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
                                             “A culture of continuous improvement and a community of motivated, empowered educators committed to providing the best possible education to their students.”
                                         </em>

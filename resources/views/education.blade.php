@@ -170,7 +170,7 @@
                 <div style="background: #767784; color: white;" class="pb-4">
                     <div class="d-flex justify-content-center"><img src="/images/edu-featured-1.jpeg" alt="" class="img-fluid" style="border: 6px solid #767784; height: 394px; width: 100%; object-fit: cover;"></div>
                     <div class="px-3 pt-3">
-                        <p class="text-center py-0 my-0"><strong>Matthew Farmer</strong> <br> Department Chair, Hope College</p>
+                        <h4 class="text-center py-0 my-0"><strong>Matthew Farmer</strong> <br> Department Chair, Hope College</h4>
                         <p class="text-center pb-0 pt-2 my-0"><em>
                                 "YPAD&trade;’s seminar for dancers is an essential conversation and educational session for all dance students in college. The information presented is pertinent and necessary for any dance student wishing to enter the performance industry. Conversations regarding power differentials, grooming, and sexual harassment are just some of the important topics covered, and the tools YPAD&trade; gives young dancers in order to address these issues are both concrete and applicable."
                             </em>
@@ -182,7 +182,7 @@
                 <div style="background: #EF9A60; color: white;" class="pb-4">
                     <div class="d-flex justify-content-center"><img src="/images/edu-featured-2.jpg" alt="" class="img-fluid" style="border: 6px solid #EF9A61; height: 394px; width: 100%; object-fit: cover;"></div>
                     <div class="px-3 pt-3">
-                        <p class="text-center py-0 my-0"><strong>Aidan S. Nettles, MFA</strong> <br> Assistant Professor of Dance, The University of Alabama</p>
+                        <h4 class="text-center py-0 my-0"><strong>Aidan S. Nettles, MFA</strong> <br> Assistant Professor of Dance, The University of Alabama</h4>
                         <p class="text-center pb-0 pt-2 my-0"><em>
                                 “The team at Youth Protection Association for Dance&trade; (YPAD&trade;) is facilitating an outstanding seminar to share information and resources with college students and future educators that are paramount for dancer safety. As an educator, I find it imperative to equip my students with the tools needed to think critically, ask challenging questions, and continue to learn how to make positive contributions to the future of dance, and this experience afforded them the opportunity to exercise those skills. YPAD&trade;’s seminar for collegiate dancers provides a space for young educators to engage with challenging topics in a supported environment. I encourage all collegiate educators to take advantage of providing this experience to your students!”
                             </em>
@@ -194,7 +194,7 @@
                 <div style="background: #896C7B; color: white; font-size: 0.98em;" class="pb-4">
                     <div class="d-flex justify-content-center"><img src="/images/edu-featured-3.jpg" alt="" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
                     <div class="px-3 pt-3 pb-1">
-                        <p class="text-center py-0 my-0"><strong>Mr. Richard Smith</strong> <br> Visiting Professor at East Carolina University, School of Theatre and Dance</p>
+                        <h4 class="text-center py-0 my-0"><strong>Mr. Richard Smith</strong> <br> Visiting Professor at East Carolina University, School of Theatre and Dance</h4>
                         <p class="text-center pb-0 pt-2 my-0"><em>
                                 “I am completely impressed with the delivery of the presentation by the YPAD&trade; team. They make the information easily digestible, positive and inviting. The feedback from the students was genuinely eye opening. The YPAD&trade; team sheds new light on how we can be better as educators and leaders in the industry. Much praise was shared in the talkback after the workshop was completed. I am so pleased with the presentation and look forward to having the students participate in additional resources from YPAD&trade;.” <br><br>
                             </em>
