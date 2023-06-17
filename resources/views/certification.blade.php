@@ -114,7 +114,7 @@
                                         <img src="/images/darcy.png" alt="darcy" class="img-fluid">
                                     </div>
                                     <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Darcy Fagerwold</h4>
-                                    <p class="text-center py-0 my-0"><strong>Studio Owner, San Diego</strong></p>
+                                    <p class="text-center py-0 my-0"><strong>Studio Owner, California</strong></p>
                                 </div>
                                 <div class="col-sm d-flex align-items-center">
                                     <p>
@@ -172,7 +172,7 @@
                                         <img src="/images/cert-neisha.jpeg" alt="kate" class="img-fluid">
                                     </div>
                                     <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Neisha Hernandez</h4>
-                                    <p class="text-center py-0 my-0"><strong>Studio Owner, Chula Vista</strong></p>
+                                    <p class="text-center py-0 my-0"><strong>Studio Owner, California</strong></p>
                                 </div>
                                 <div class="col-sm d-flex align-items-center">
                                     <p>

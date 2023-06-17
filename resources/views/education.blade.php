@@ -47,7 +47,7 @@
             <div class="row mt-3">
                 <div class="col-sm-2 d-flex align-items-center">
                     <div class="rounded-portrait">
-                        <img src="/images/edu-tiffany.jpg" alt="testimonial portrait">
+                        <img src="/images/edu-tiffany-2.jpg" alt="testimonial portrait">
                     </div>
                 </div>
                 <div class="col-sm-10">
