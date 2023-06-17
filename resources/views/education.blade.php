@@ -130,22 +130,57 @@
         </div>
     </div>
 
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 400px;">
+    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 550px;">
         <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
         <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>
         <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
-            <div class="row mt-3">
-                <div class="col-sm">
-                    <div class="d-flex align-items-center" style="height: 100%;">
-                        <div class="text-white text-center">
-                            <h2 class="text-uppercase">Start your learning journey today!</h2>
-                            <div class="d-flex justify-content-center">
-                                <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Get Started Now</div>
-                            </div>
-                        </div>
-                    </div>
+            <div>
+                <h2 class="text-uppercase text-center text-white">FREE RESOURCES</h2>
+                <p class="text-center text-white">
+                    Not ready to take a course or become YPAD™ yet? That's okay, we are still here to help you get started on your journey. The following downloads are free so you can begin taking tangible steps toward healthier businesses and safer classrooms today! Please share with your friends and colleagues. As the saying goes, "A rising tide floats all boats." Every extra measure of safeguarding capacity-building in the dance community helps make the future better for our students.
+                </p>
+                <div class="d-flex justify-content-center">
+                    <ol class="text-white">
+                        <li class="my-2">
+                            <a style="color: #067997;" href="/images/resource-employee-checklist.pdf" target="_blank">
+                                <h4>Checklist for onboarding a new employee</h4>
+                            </a>
+                        </li>
+                        <li class="my-2">
+                            <a style="color: #067997;" href="/images/resource-social-checklist.pdf" target="_blank">
+                                <h4>Checklists for social media policies</h4>
+                            </a>
+                        </li>
+                        <li class="my-2">
+                            <a style="color: #067997;" href="/images/resource-bully.pdf" target="_blank">
+                                <h4>Is it bullying?</h4>
+                            </a>
+                        </li>
+                        <li class="my-2">
+                            <a style="color: #067997;" href="/images/resource-costume.pdf" target="_blank">
+                                <h4>Costuming for confidence</h4>
+                            </a>
+                        </li>
+                        <li class="my-2">
+                            <a style="color: #067997;" href="/images/resource-hair.pdf" target="_blank">
+                                <h4>The importance of inclusive hairstyles</h4>
+                            </a>
+                        </li>
+                    </ol>
                 </div>
             </div>
+{{--            <div class="row mt-3">--}}
+{{--                <div class="col-sm">--}}
+{{--                    <div class="d-flex align-items-center" style="height: 100%;">--}}
+{{--                        <div class="text-white text-center">--}}
+{{--                            <h2 class="text-uppercase">Start your learning journey today!</h2>--}}
+{{--                            <div class="d-flex justify-content-center">--}}
+{{--                                <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Get Started Now</div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
         </div>
         <div class="custom-shape-divider-top-1683835088">
             <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
