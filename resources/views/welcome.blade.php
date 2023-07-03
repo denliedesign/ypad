@@ -186,9 +186,9 @@
                         EDUCATION or CERTIFICATION
                     </p>
                     <p>
-                        Education courses are audit-only courses for personal growth. Education courses are open to the entire dance community. Education courses do not require additional steps such as knowledge checks or outside training and documentation, nor do they lead to certification. Education courses are just as they sound: a place to learn.
+                        Education courses are audit-only courses for personal growth. Education courses are open to the entire dance community. Education courses do not require additional steps such as knowledge checks or outside training and documentation, nor do they lead to certification. Education courses are just as they sound: a place to learn. Education courses will be available in the Fall of 2023.
                         <br><br>
-                        Certification is offered in three ways: YPAD™ Certified Individual, Studio, or Event. Certification begins with an application and requires background checks, CPR/AED and First Aid certification, Darkness to Light's Stewards of Children® training, live artistic integrity Zoom seminar, a Safeguarding Pledge, and commitment to our 5-tier Accountability model.
+                        Certification is offered in three ways: YPAD™ Certified Individual, Studio, or Event. Certification begins with an application and requires background checks, CPR/AED and First Aid certification, Darkness to Light's Stewards of Children® training, live artistic integrity Zoom seminar, a Safeguarding Pledge, and commitment to our 5-tier Accountability model. YPAD&trade; Certified Studio courses are open now. YPAD&trade; Certified Individual and Event courses will be open in late Summer 2023.
                         <br><br>
                         Additional requirements apply to YPAD™ Certified Studios and Events, such as proof of insurance, emergency action planning, Youth Mental Health First Aid, and three sessions with a YPAD™ integration coach.
                     </p>
