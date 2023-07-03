@@ -152,7 +152,7 @@
                     Revisit this page throughout the school year to find updated and new resources.
                 </p>
                 <div class="d-flex justify-content-center">
-                    <ol class="text-white">
+{{--                    <ol class="text-white">--}}
 {{--                        <li class="my-2">--}}
 {{--                            <a style="color: #067997;" href="/images/resource-employee-checklist.pdf" target="_blank">--}}
 {{--                                <h4>Checklist for onboarding a new employee</h4>--}}
@@ -163,22 +163,34 @@
 {{--                                <h4>Checklists for social media policies</h4>--}}
 {{--                            </a>--}}
 {{--                        </li>--}}
-                        <li class="my-2">
-                            <a style="color: #067997;" href="/images/resource-bully.pdf" target="_blank">
-                                <h4>Is it bullying?</h4>
-                            </a>
-                        </li>
-                        <li class="my-2">
-                            <a style="color: #067997;" href="/images/resource-costume.pdf" target="_blank">
-                                <h4>Costuming for confidence</h4>
-                            </a>
-                        </li>
-                        <li class="my-2">
-                            <a style="color: #067997;" href="/images/resource-hair.pdf" target="_blank">
-                                <h4>The importance of inclusive hairstyles</h4>
-                            </a>
-                        </li>
-                    </ol>
+{{--                        <li class="my-2">--}}
+{{--                            <a style="color: #067997;" href="/images/resource-bully.pdf" target="_blank">--}}
+{{--                                <h4>Is it bullying?</h4>--}}
+{{--                            </a>--}}
+{{--                        </li>--}}
+{{--                        <li class="my-2">--}}
+{{--                            <a style="color: #067997;" href="/images/resource-costume.pdf" target="_blank">--}}
+{{--                                <h4>Costuming for confidence</h4>--}}
+{{--                            </a>--}}
+{{--                        </li>--}}
+{{--                        <li class="my-2">--}}
+{{--                            <a style="color: #067997;" href="/images/resource-hair.pdf" target="_blank">--}}
+{{--                                <h4>The importance of inclusive hairstyles</h4>--}}
+{{--                            </a>--}}
+{{--                        </li>--}}
+{{--                    </ol>--}}
+                    <div class="d-flex justify-content-center mx-3">
+                        <a href="/images/resource-costume.pdf" class="text-decoration-none">
+                            <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Costuming for confidence</div>
+                        </a>
+
+                    </div>
+                    <div class="d-flex justify-content-center mx-3">
+                        <a href="/images/resource-hair.pdf" class="text-decoration-none">
+                            <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">The importance of inclusive hairstyles</div>
+                        </a>
+
+                    </div>
                 </div>
             </div>
 {{--            <div class="row mt-3">--}}

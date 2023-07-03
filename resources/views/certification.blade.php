@@ -488,45 +488,65 @@
                 {{--                </div>--}}
             </div>
         </div>
-        <div class="card-group">
-            <div class="card py-5 m-2" style="background: #896C7B">
-                {{--                <img src="..." class="card-img-top" alt="...">--}}
-                <div class="card-body text-white text-center">
-                    <h3 class="card-title">Studio Substitute</h3>
-                    <p class="card-text">
-                        UNLIMITED FREE WITH CERTIFICATION
-                    </p>
+        <div class="row">
+            <div class="flip-card col-sm d-flex align-items-center">
+                <div class="rounded flip-card-inner py-5 m-2" style="background: #896C7B">
+                    {{--                <img src="..." class="card-img-top" alt="...">--}}
+                    <div class="flip-card-front card-body text-white text-center">
+                        <h3 class="card-title">Studio Substitute</h3>
+                        <p>
+                            UNLIMITED FREE WITH CERTIFICATION
+                        </p>
+                    </div>
+                    <div class="flip-card-back card-body text-white text-center">
+                        <p>
+                            This short 30 minute course covers the highlights for substitutes working on short notice. Includes the essentials for student safety and health, safe movement in class and onstage, and artistic integrity.                     </p>
+                    </div>
+                    {{--                <div class="card-footer">--}}
+                    {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
+                    {{--                </div>--}}
                 </div>
-                {{--                <div class="card-footer">--}}
-                {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
-                {{--                </div>--}}
             </div>
-            <div class="card py-5 m-2" style="background: #067997">
-                {{--                <img src="..." class="card-img-top" alt="...">--}}
-                <div class="card-body text-white text-center">
-                    <h3 class="card-title">Studio Volunteer</h3>
-                    <p class="card-text">
-                        UNLIMITED FREE WITH CERTIFICATION
-                    </p>
+            <div class="flip-card col-sm d-flex align-items-center">
+                <div class="rounded flip-card-inner py-5 m-2" style="background: #067997">
+                    {{--                <img src="..." class="card-img-top" alt="...">--}}
+                    <div class="flip-card-front card-body text-white text-center">
+                        <h3 class="card-title">Studio Volunteer</h3>
+                        <p>
+                            UNLIMITED FREE WITH CERTIFICATION
+                        </p>
+                    </div>
+                    <div class="flip-card-back card-body text-white text-center">
+                        <p>
+                            This short 15 minute course covers the basics of student safety and health for studio volunteers.
+                        </p>
+                    </div>
+                    {{--                <div class="card-footer">--}}
+                    {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
+                    {{--                </div>--}}
                 </div>
-                {{--                <div class="card-footer">--}}
-                {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
-                {{--                </div>--}}
             </div>
-            <div class="card py-5 m-2" style="background: #767784">
-                {{--                <img src="..." class="card-img-top" alt="...">--}}
-                <div class="card-body text-white text-center">
-                    <h3 class="card-title">Studio Guest Teacher</h3>
-                    <p class="card-text">
-                        UNLIMITED FREE WITH CERTIFICATION
-                    </p>
+            <div class="flip-card col-sm d-flex align-items-center">
+                <div class="rounded flip-card-inner py-5 m-2" style="background: #767784">
+                    {{--                <img src="..." class="card-img-top" alt="...">--}}
+                    <div class="flip-card-front card-body text-white text-center">
+                        <h3 class="card-title">Studio Guest Teacher</h3>
+                        <p>
+                            UNLIMITED FREE WITH CERTIFICATION
+                        </p>
+                    </div>
+                    <div class="flip-card-back card-body text-white text-center">
+                        <p>
+                            This 30 minute course helps guest teachers understand the baseline expectations of teaching in a YPAD™ Certified environment.
+                        </p>
+                    </div>
+                    {{--                <div class="card-footer">--}}
+                    {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
+                    {{--                </div>--}}
                 </div>
-                {{--                <div class="card-footer">--}}
-                {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
-                {{--                </div>--}}
             </div>
         </div>
-        <p class="text-center">
+        <p class="text-center mt-3">
         YPAD™ endorses the concept of continuing education and continuous improvement.
             <br>Because of that, certification must be renewed annually.
             <br>Annual renewal: 50% discount.
