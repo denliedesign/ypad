@@ -3,7 +3,7 @@
 
     <div style="background: #767784;" class="py-3 text-white d-flex justify-content-center align-items-center">
         <p class="my-0 py-0">
-            Now accepting certification renewals and new certification applications!
+            Now accepting studio certification renewals and new studio certification applications!
         </p>
     </div>
 
@@ -202,13 +202,20 @@
                 <p class="py-0 my-0 pe-5 me-4"><em>"I started with YPAD&trade; Education, but quickly wanted to become YPAD&trade; Certified. I now work with the association as a coach to help others to bring best practices to their classrooms. Next up ... Certifying my studio!"</em></p>
             </div>
         </div>
-        <h2 class="text-uppercase text-center mt-5">NOT READY TO GET CERTIFIED?</h2>
-        <p class="text-center">Start your YPAD™ journey with YPAD™ Education!</p>
+        <h2 class="text-uppercase text-center mt-5">READY TO GET CERTIFIED?</h2>
+        <p class="text-center">Now accepting studio certification renewals and new studio certification applications!</p>
+{{--        <h2 class="text-uppercase text-center mt-5">NOT READY TO GET CERTIFIED?</h2>--}}
+{{--        <p class="text-center">Start your YPAD™ journey with YPAD™ Education!</p>--}}
         <div class="d-flex justify-content-center">
-            <a href="/education" class="text-decoration-none">
-                <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Start Learning Today</div>
+{{--            <a href="/education" class="text-decoration-none">--}}
+{{--                <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Start Learning Today</div>--}}
+            <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none" target="_blank">
+                <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Apply Today</div>
             </a>
         </div>
+
+
+
 {{--        <div class="row">--}}
 {{--            <div class="col-sm">--}}
 {{--                <div>--}}
