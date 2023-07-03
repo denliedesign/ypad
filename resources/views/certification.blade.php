@@ -35,7 +35,8 @@
             <p>
                 The YPAD™ Certification process was created to help individuals, studio owners, event owners, and their staff gain the tools and practice the knowledge for safeguarding capacity-building.
                 Pursuing YPAD™ Certification shows your commitment to safeguarding children and empowering confident adults.
-                Much like a dance education, a YPAD™ Certified Studio designation requires an investment of time, patience, hard work, and financial resources. Just like a dancer gets stronger over time, your studio safety practices can get better over time as well. There is a process to raising the standard of dancer well-being, and YPAD™ is here to help you achieve it.
+                <br><br>Much like a dance education, a YPAD™ Certified Studio designation requires an investment of time, patience, hard work, and financial resources. Just like a dancer gets stronger over time, your studio safety practices can get better over time as well. There is a process to raising the standard of dancer well-being, and YPAD™ is here to help you achieve it.
+                <br><br>YPAD&trade; Certified Studio Owner Courses are open now. YPAD&trade; Certified Individual and Event Courses will be open late Summer 2023.
             </p>
         </div>
     </div>
@@ -80,13 +81,13 @@
     </div>
 
     <div class="container py-5">
-        <h2 class="text-uppercase">Steps to earn your YPAD™ Certified designation</h2>
-        <p class="fw-bold">It all starts here: with you and these three steps.</p>
+        <h2 class="text-uppercase">Steps to earn your YPAD™ Certified Studio designation</h2>
+        <p class="fw-bold">It all starts here: with you, the studio owner, and these three steps.</p>
         <div class="row">
             <div class="col-sm">
-                <span class="font-pop" style="font-size: 1.2em;">STEP ONE:</span> submit your application. The application is located at the bottom of this page. Once your application is approved (1-2 business days), you will receive an email with access to the order form.
+                <span class="font-pop" style="font-size: 1.2em;">STEP ONE:</span> submit an application for your studio. The application is located at the bottom of this page. Once your application is approved (1-2 business days), you will receive an email with access to the order form.
                 <br><br>
-                <span class="font-pop" style="font-size: 1.2em;">STEP TWO:</span> complete the appropriate course for the certification you seek (individual, studio, or event), submit the reflections, and pass the knowledge checks with 90% proficiency. This course takes approximately 8-10 hours to complete. If you are seeking to become a certified studio or event, your staff must also complete the appropriate courses for their role during step two. They, too, will submit reflections and must pass knowledge checks with 90% proficiency. Depending on the role, staff courses take approximately 2-4 hours to complete.
+                <span class="font-pop" style="font-size: 1.2em;">STEP TWO:</span> complete the YPAD™ Certified Studio Course, submit the reflections, and pass the knowledge checks with 90% proficiency. The YPAD&trade; Certified Studio Course takes approximately 8-10 hours to complete. Your staff must also complete the appropriate courses for their role during step two (teacher or admin). They, too, will submit reflections and must pass knowledge checks with 90% proficiency. Depending on the role, staff courses take approximately 2-4 hours to complete.
                 <br><br>
                 <span class="font-pop" style="font-size: 1.2em;">STEP THREE:</span> complete the external training and documentation submission requirements.
                 <br><br>
@@ -241,7 +242,7 @@
                             <ion-icon name="checkmark-circle"></ion-icon>
                         </div>
                         <div class="col-11">
-                            Proof of up-to-date CPR/AED and First Aid certification
+                            Proof of up-to-date CPR/AED and First Aid certification*
                         </div>
                         <div class="">
                             <hr class="my-3" style="width: 90%;">
@@ -252,7 +253,7 @@
                             <ion-icon name="checkmark-circle"></ion-icon>
                         </div>
                         <div class="col-11">
-                            Proof of completion of Darkness to Light's Stewards of Children® training
+                            Proof of completion of Darkness to Light's Stewards of Children® training*
                         </div>
                         <div class="">
                             <hr class="my-3" style="width: 90%;">
@@ -393,8 +394,8 @@
         <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
         <div class="py-5 container text-white d-flex align-items-center" style="height: 100%;">
             <div>
-                <h2 class="text-uppercase text-center">BONUS RESOURCES WITH CERTIFICATION</h2>
-                <p class="text-center">YPAD™ Certification comes with unlimited FREE access to short courses for the following important roles:</p>
+                <h2 class="text-uppercase text-center">FREE BONUS RESOURCES FOR YPAD&trade; CERTIFIED STUDIOS</h2>
+                <p class="text-center">YPAD™ Certified Studios receive unlimited FREE access to short courses for the following important roles:</p>
                 <div class="row mt-4">
                     <div class="col-sm">
                         <div class="mx-4">
@@ -423,7 +424,7 @@
                             <div class="d-flex justify-content-center">
                                 <ion-icon style="font-size: 3em;" name="star"></ion-icon>
                             </div>
-                            <p class="fw-bold text-center py-0 my-0">MASTER TEACHER COURSE</p>
+                            <p class="fw-bold text-center py-0 my-0">GUEST TEACHER COURSE</p>
                             <p class="text-center py-0 my-0">
                                 Do you hire guest and master teachers for special programs? Use this course to share the baseline expectations of teaching in a YPAD™ Certified environment.
                             </p>
@@ -445,7 +446,7 @@
     </div>
 
     <div class="container py-5">
-        <h2 class="text-uppercase text-center">Certification for Studios</h2>
+        <h2 class="text-uppercase text-center">The Course Collection for YPAD&trade; Certified Studios</h2>
         <div class="card-group">
             <div class="card py-5 m-2" style="background: #067997">
                 {{--                <img src="..." class="card-img-top" alt="...">--}}
@@ -488,7 +489,7 @@
             <div class="card py-5 m-2" style="background: #896C7B">
                 {{--                <img src="..." class="card-img-top" alt="...">--}}
                 <div class="card-body text-white text-center">
-                    <h3 class="card-title">Studio Guest/Sub</h3>
+                    <h3 class="card-title">Studio Substitute</h3>
                     <p class="card-text">
                         UNLIMITED FREE WITH CERTIFICATION
                     </p>
@@ -512,9 +513,9 @@
             <div class="card py-5 m-2" style="background: #767784">
                 {{--                <img src="..." class="card-img-top" alt="...">--}}
                 <div class="card-body text-white text-center">
-                    <h3 class="card-title">Annual renewal</h3>
+                    <h3 class="card-title">Studio Guest Teacher</h3>
                     <p class="card-text">
-                        50% discount
+                        UNLIMITED FREE WITH CERTIFICATION
                     </p>
                 </div>
                 {{--                <div class="card-footer">--}}
@@ -522,6 +523,11 @@
                 {{--                </div>--}}
             </div>
         </div>
+        <p class="text-center">
+        YPAD™ endorses the concept of continuing education and continuous improvement.
+            <br>Because of that, certification must be renewed annually.
+            <br>Annual renewal: 50% discount.
+        </p>
     </div>
 
     <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 500px;">

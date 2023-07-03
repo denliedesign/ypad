@@ -107,18 +107,18 @@
 
     <div class="container py-5">
         <div class="row row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-            <div class="d-flex align-items-center justify-content-center">
-                <h2 class="text-uppercase">
+            <div class="d-flex align-items-center justify-content-center col-sm my-2"  style="background: #067997;">
+                <h2 class="text-uppercase text-white">
                     The YPAD™ Story
                 </h2>
             </div>
-            <div>
+            <div class="col-sm my-2">
                 <img src="/images/about-block-1.jpeg" alt="teacher and dance students" class="img-fluid">
             </div>
-            <div>
+            <div class="col-sm my-2">
                 <img src="/images/about-block-2.jpeg" alt="teacher and dance students" class="img-fluid">
             </div>
-            <div class="d-flex align-items-center justify-content-center">
+            <div class="col-sm my-2 d-flex align-items-center justify-content-center">
                 <p class="m-0 p-0" style="font-size: 0.95em;">
                     YPAD™ was initially created as an instructional and certification program, as part of a non-profit called EDIFY Movement, and its acronym stood for Youth Protection Advocates in Dance®. The program was founded by professional dancer, Leslie Scott Zanovitch, and a group of passionate advocates, in 2012. In 2018, the founder and board asked longtime supporter and original YPAD™ Certified Studio owner Misty Lown to acquire the program as it was not sustainable in the non-profit model. Misty acquired and updated the course in 2019 to create more accessible access to education and certification options.
                     <br><br>
