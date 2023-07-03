@@ -136,9 +136,9 @@
                 <div class="col-sm">
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
-                            <h3>
+                            <h2>
                                 YOU are the difference maker. YOU are YPAD™.
-                            </h3>
+                            </h2>
                         </div>
                     </div>
                 </div>
@@ -364,36 +364,29 @@
         </div>
     </div>
 
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 400px;">
-        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
-{{--        <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>--}}
-        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
-            <div class="row mt-3">
-                <div class="col-sm">
-                    <div class="d-flex align-items-center" style="height: 100%;">
-                        <div class="text-white text-center">
-                            <h2 class="text-uppercase text-center mt-5">Not interested in or ready for certification?</h2>
-                            {{--                            <p class="text-center">Get started now</p>--}}
-                            <div class="d-flex justify-content-center">
-                                <a href="/education" class="text-decoration-none">
-                                    <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Check Out Our Educational Resources</div>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="custom-shape-divider-top-1683835088">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
-            </svg>
-        </div>
-{{--        <div class="custom-shape-divider-bottom-1683835445">--}}
+{{--    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 400px;">--}}
+{{--        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>--}}
+{{--        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">--}}
+{{--            <div class="row mt-3">--}}
+{{--                <div class="col-sm">--}}
+{{--                    <div class="d-flex align-items-center" style="height: 100%;">--}}
+{{--                        <div class="text-white text-center">--}}
+{{--                            <h2 class="text-uppercase text-center mt-5">Not interested in or ready for certification?</h2>--}}
+{{--                            <div class="d-flex justify-content-center">--}}
+{{--                                <a href="/education" class="text-decoration-none">--}}
+{{--                                    <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Check Out Our Educational Resources</div>--}}
+{{--                                </a>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--        <div class="custom-shape-divider-top-1683835088">--}}
 {{--            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">--}}
-{{--                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>--}}
+{{--                <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>--}}
 {{--            </svg>--}}
 {{--        </div>--}}
-    </div>
+{{--    </div>--}}
 
 @endsection

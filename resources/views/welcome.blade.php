@@ -370,7 +370,7 @@
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
                             <h4>
-                                My research team has collaborated with Youth Protection Association for Dance™ (YPAD™) on a number of research projects examining factors that contribute to injury among dancers. We’ve been lucky to partner with a group that’s so committed to generating new knowledge that will improve the health and safety of young dancers, not only now, but also in the future. As an organization, YPAD™ sets such a great example for what it means to be “purpose-driven."
+                                My research team has collaborated with Youth Protection Association for Dance™ on a number of research projects examining factors that contribute to injury among dancers. We’ve been lucky to partner with a group that’s so committed to generating new knowledge that will improve the health and safety of young dancers, not only now, but also in the future. As an organization, YPAD™ sets such a great example for what it means to be “purpose-driven."
                             </h4>
                             <p class="m-0 p-0"><span class="fw-bold">Thomas Gus Almonroeder, PT, DPT, PhD</span> &middot; Trine University</p>
                         </div>
@@ -395,7 +395,7 @@
             <h2 class="text-uppercase text-center">Professional Development & Research</h2>
             <p class="text-center">YPAD&trade; is proud to work with the following organizations</p>
             <div class="row row-cols-sm-1 row-cols-md-2 row-cols-lg-4 mb-4">
-                <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/alabama-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/logo-alabama.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/hope-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/trine-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/logo-ecu.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
@@ -410,12 +410,13 @@
             </div>
             <div>
                 <p class="text-center">
-                    YPAD™ educator Misty Lown is a co-author of a pilot study on ballet safety published in the Journal of Dance Medicine & Science. YPAD™ has two more research projects in progress for 2023-24: one with a researcher from Mayo Health and one with Trine University.                 </p>
+                    YPAD™ educator Misty Lown is a co-author of a pilot study on ballet safety published in the Journal of Dance Medicine & Science.
+                    <br>YPAD™ has two more research projects in progress for 2023-24: one with a researcher from Mayo Health and one with Trine University.                 </p>
 
                 <div class="d-flex justify-content-center mb-4">
                     <a href="https://journals.sagepub.com/doi/10.1177/1089313X231177174?fbclid=IwAR3knkW3dJIOxT7Ly76kkoBTZ-wo5RretqtTH-HNuWtxH7pI48LIRD0888Y" target="_blank" class="text-decoration-none text-white">
                         <div class="fw-bold px-4 py-2 shadow text-center btn-orange-hover" style="background: #EF9A60; color: white;">
-                            Read the Article
+                            Read the Article in the Journal of Dance Medicine & Science
                         </div>
                     </a>
                 </div>
