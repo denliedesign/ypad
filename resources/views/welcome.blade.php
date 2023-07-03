@@ -73,7 +73,7 @@
                             <div style="background: #767784; color: white;" class="pb-4">
                                 <div class="d-flex justify-content-center"><img src="/images/sheyi.png" alt="" class="img-fluid" style="border: 6px solid #767784; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
-                                    <h4 class="text-center py-0 my-0"><strong>Dr. Sheyi Ojofeitimi, DPT, CFMT, CIDN</strong> <br> Director of Therapy Services - Alvin Ailey Dance Foundation</h4>
+                                    <h4 class="text-center py-0 my-0"><strong>Dr. Sheyi Ojofeitimi, DPT, CFMT, CIDN</strong> <br> Director of Therapy Services <br> Alvin Ailey Dance Foundation</h4>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
                                             “It will take an army to change the narrative. We know we can have the biggest impact through teachers because they are in the trenches of daily class, rehearsal, and performance with young dancers.”
                                         </em>
@@ -85,7 +85,7 @@
                             <div style="background: #EF9A60; color: white;" class="pb-4">
                                 <div class="d-flex justify-content-center"><img src="/images/gomez-23.jpeg" alt="" style="border: 6px solid #EF9A61; height: 394px; width: 100%; object-fit: cover; object-position: 50% 15%;"></div>
                                 <div class="px-3 pt-3">
-                                    <h4 class="text-center py-0 my-0"><strong>Tricia Gomez</strong> <br> Rhythm Works Integrative Dance - The Intellidance Method</h4>
+                                    <h4 class="text-center py-0 my-0"><strong>Tricia Gomez</strong> <br> Rhythm Works Integrative Dance <br> The Intellidance Method</h4>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
                                             “If every teacher had this education, we would be well on our way to setting self-guided, industry standards that are on par with schools and other child-centered activities. ”
                                         </em>
@@ -97,7 +97,7 @@
                             <div style="background: #896C7B; color: white;" class="pb-4">
                                 <div class="d-flex justify-content-center"><img src="/images/addie.png" alt="" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
-                                    <h4 class="text-center py-0 my-0"><strong>Dr. Addie Briggs, M.D.</strong> <br> Founder - Fitness DAWGS</h4>
+                                    <h4 class="text-center py-0 my-0"><strong>Dr. Addie Briggs, M.D.</strong> <br> Founder <br> Fitness DAWGS</h4>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
                                             “As a pediatrician, I have long advocated for healthy kids. Safe movement is so important to their growing bodies and they need teachers who can show them the way forward patiently. ”
                                         </em>
@@ -396,15 +396,14 @@
                 <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/logo-udma.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/logo-iacdp-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/logo-ndca.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm d-flex align-items-center justify-content-center"><img class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+{{--                <div class="col-sm d-flex align-items-center justify-content-center"><img class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>--}}
                 <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/toronto-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/dance-teacher-web-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm d-flex align-items-center justify-content-center"><img class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/logo-unity.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
             </div>
             <div>
                 <p class="text-center">
-                    YPAD™ leader, Misty Lown, is a co-author of a pilot study on ballet safety recently featured in the Journal of Dance Medicine & Science. YPAD™ has two more projects in the pipeline with Mayo Health and Trine University research.
-                </p>
+                    YPAD™ educator Misty Lown is a co-author of a pilot study on ballet safety published in the Journal of Dance Medicine & Science. YPAD™ has two more research projects in progress for 2023-24: one with a researcher from Mayo Health and one with Trine University.                 </p>
 
                 <div class="d-flex justify-content-center mb-4">
                     <a href="https://journals.sagepub.com/doi/10.1177/1089313X231177174?fbclid=IwAR3knkW3dJIOxT7Ly76kkoBTZ-wo5RretqtTH-HNuWtxH7pI48LIRD0888Y" target="_blank" class="text-decoration-none text-white">

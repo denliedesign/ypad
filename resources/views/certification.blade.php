@@ -84,7 +84,7 @@
         <p class="fw-bold">It all starts here: with you and these three steps.</p>
         <div class="row">
             <div class="col-sm">
-                <span class="font-pop" style="font-size: 1.2em;">STEP ONE:</span> submit your application. The application is located at the bottom of this page. Once your application is approved (48-72 hours), you will move on to step two.
+                <span class="font-pop" style="font-size: 1.2em;">STEP ONE:</span> submit your application. The application is located at the bottom of this page. Once your application is approved (1-2 business days), you will receive an email with access to the order form.
                 <br><br>
                 <span class="font-pop" style="font-size: 1.2em;">STEP TWO:</span> complete the appropriate course for the certification you seek (individual, studio, or event), submit the reflections, and pass the knowledge checks with 90% proficiency. This course takes approximately 8-10 hours to complete. If you are seeking to become a certified studio or event, your staff must also complete the appropriate courses for their role during step two. They, too, will submit reflections and must pass knowledge checks with 90% proficiency. Depending on the role, staff courses take approximately 2-4 hours to complete.
                 <br><br>
