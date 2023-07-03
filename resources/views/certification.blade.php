@@ -36,7 +36,10 @@
                 The YPAD™ Certification process was created to help individuals, studio owners, event owners, and their staff gain the tools and practice the knowledge for safeguarding capacity-building.
                 Pursuing YPAD™ Certification shows your commitment to safeguarding children and empowering confident adults.
                 <br><br>Much like a dance education, a YPAD™ Certified Studio designation requires an investment of time, patience, hard work, and financial resources. Just like a dancer gets stronger over time, your studio safety practices can get better over time as well. There is a process to raising the standard of dancer well-being, and YPAD™ is here to help you achieve it.
-                <br><br>YPAD&trade; Certified Studio Owner Courses are open now. YPAD&trade; Certified Individual and Event Courses will be open late Summer 2023.
+                <br><br>
+                <strong>
+                    YPAD&trade; Certified Studio Owner Courses are open now. YPAD&trade; Certified Individual Courses will be open in late Summer 2023. Education courses will be available in the Fall of 2023.
+                </strong>
             </p>
         </div>
     </div>
@@ -535,11 +538,11 @@
                 <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>
         <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
             <div class="row mt-3">
-                <div class="col-sm-4">
+                <div class="col-sm">
                     <div class="d-flex align-items-center justify-content-center" style="height: 100%;">
                         <div>
                             <div class="text-white text-center">
-                                <h2 class="text-uppercase text-center mt-5">Ready to apply?</h2>
+                                <h2 class="text-uppercase text-center mt-5">Ready to apply to become a YPAD&trade; Certified Studio?</h2>
                                 <div class="d-flex justify-content-center">
                                     <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none">
                                         <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Get Started Now!</div>
@@ -549,20 +552,20 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-8">
-                    <div>
-                        <div class="text-white">
-                            <h2 class="text-uppercase mt-5">Not quite ready?</h2>
-                            <p>
-                                <strong>If you are a studio owner and you're not ready to take all of the required steps to earn the designation of YPAD™ Certified Studio, there are two other ways to become involved:</strong>
-                                <br><br>
-                                <span class="font-pop" style="font-size: 1.2em;">OPTION ONE:</span> A YPAD™ Certified—Individual can be any professional educator or leadership role in the industry. Individuals certify themselves only, not as part of an organization.
-                                <br><br>
-                                <span class="font-pop" style="font-size: 1.2em;">OPTION TWO:</span> Anyone who has a personal interest in the health of the dance industry (individuals, studio owners, dance educators, parents, dance organizations, and college students) can participate in YPAD™ Education. These learners are not certifying, but simply taking the courses for their own awareness and knowledge gain.
-                            </p>
-                        </div>
-                    </div>
-                </div>
+{{--                <div class="col-sm-8">--}}
+{{--                    <div>--}}
+{{--                        <div class="text-white">--}}
+{{--                            <h2 class="text-uppercase mt-5">Not quite ready?</h2>--}}
+{{--                            <p>--}}
+{{--                                <strong>If you are a studio owner and you're not ready to take all of the required steps to earn the designation of YPAD™ Certified Studio, there are two other ways to become involved:</strong>--}}
+{{--                                <br><br>--}}
+{{--                                <span class="font-pop" style="font-size: 1.2em;">OPTION ONE:</span> A YPAD™ Certified—Individual can be any professional educator or leadership role in the industry. Individuals certify themselves only, not as part of an organization.--}}
+{{--                                <br><br>--}}
+{{--                                <span class="font-pop" style="font-size: 1.2em;">OPTION TWO:</span> Anyone who has a personal interest in the health of the dance industry (individuals, studio owners, dance educators, parents, dance organizations, and college students) can participate in YPAD™ Education. These learners are not certifying, but simply taking the courses for their own awareness and knowledge gain.--}}
+{{--                            </p>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
             </div>
         </div>
         <div class="custom-shape-divider-top-1683835088">
@@ -665,6 +668,18 @@
                         <div class="accordion-body">YPAD™ believes in capacity-building. If you or your organization are certified and a concern is shared with us, we will assess the matter and contact you so that you can learn and improve your practices. Serious problems may result in suspension or removal of certification status. To learn more, visit the Support tab.</div>
                     </div>
                 </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-headingEight">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEight" aria-expanded="false" aria-controls="flush-collapseThree">
+                        When will certification become available for individuals?
+                    </button>
+                </h2>
+                <div id="flush-collapseEight" class="accordion-collapse collapse" aria-labelledby="flush-headingEight" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">
+                        YPAD&trade; Certified Individual Courses will be open late Summer 2023.
+                    </div>
+                </div>
+            </div>
 
 
 {{--            <div class="accordion-item">--}}

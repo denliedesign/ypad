@@ -202,7 +202,7 @@
                 <p class="py-0 my-0 pe-5 me-4"><em>"I started with YPAD&trade; Education, but quickly wanted to become YPAD&trade; Certified. I now work with the association as a coach to help others to bring best practices to their classrooms. Next up ... Certifying my studio!"</em></p>
             </div>
         </div>
-        <h2 class="text-uppercase text-center mt-5">READY TO GET CERTIFIED?</h2>
+        <h2 class="text-uppercase text-center mt-5">READY TO BECOME A YPAD&trade; CERTIFIED STUDIO?</h2>
         <p class="text-center">Now accepting studio certification renewals and new studio certification applications!</p>
 {{--        <h2 class="text-uppercase text-center mt-5">NOT READY TO GET CERTIFIED?</h2>--}}
 {{--        <p class="text-center">Start your YPAD™ journey with YPAD™ Education!</p>--}}
@@ -416,7 +416,7 @@
                 <div class="d-flex justify-content-center mb-4">
                     <a href="https://journals.sagepub.com/doi/10.1177/1089313X231177174?fbclid=IwAR3knkW3dJIOxT7Ly76kkoBTZ-wo5RretqtTH-HNuWtxH7pI48LIRD0888Y" target="_blank" class="text-decoration-none text-white">
                         <div class="fw-bold px-4 py-2 shadow text-center btn-orange-hover" style="background: #EF9A60; color: white;">
-                            Read the Article in the Journal of Dance Medicine & Science
+                            Read the article in the Journal of Dance Medicine & Science
                         </div>
                     </a>
                 </div>
