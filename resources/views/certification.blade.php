@@ -533,7 +533,7 @@
         </p>
     </div>
 
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 500px;">
+    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 400px;">
         <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
                 <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>
         <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
@@ -542,11 +542,15 @@
                     <div class="d-flex align-items-center justify-content-center" style="height: 100%;">
                         <div>
                             <div class="text-white text-center">
-                                <h2 class="text-uppercase text-center mt-5">Ready to apply to become a YPAD&trade; Certified Studio?</h2>
+                                <h2 class="text-uppercase text-center mt-5">READY TO BECOME A YPAD™ CERTIFIED STUDIO?</h2>
+                                <p class="text-center">Now accepting studio certification renewals and new studio certification applications!
+                                    <br>YPAD&trade; Certified Individual courses will be open in late Summer 2023.
+                                </p>
                                 <div class="d-flex justify-content-center">
                                     <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none">
-                                        <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Get Started Now!</div>
+                                        <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Get Started Now</div>
                                     </a>
+
                                 </div>
                             </div>
                         </div>

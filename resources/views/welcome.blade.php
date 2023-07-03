@@ -188,7 +188,7 @@
                     <p>
                         Education courses are audit-only courses for personal growth. Education courses are open to the entire dance community. Education courses do not require additional steps such as knowledge checks or outside training and documentation, nor do they lead to certification. Education courses are just as they sound: a place to learn. Education courses will be available in the Fall of 2023.
                         <br><br>
-                        Certification is offered in three ways: YPAD™ Certified Individual, Studio, or Event. Certification begins with an application and requires background checks, CPR/AED and First Aid certification, Darkness to Light's Stewards of Children® training, live artistic integrity Zoom seminar, a Safeguarding Pledge, and commitment to our 5-tier Accountability model. YPAD&trade; Certified Studio courses are open now. YPAD&trade; Certified Individual and Event courses will be open in late Summer 2023.
+                        Certification is offered in three ways: YPAD™ Certified Individual, Studio, or Event. Certification begins with an application and requires background checks, CPR/AED and First Aid certification, Darkness to Light's Stewards of Children® training, live artistic integrity Zoom seminar, a Safeguarding Pledge, and commitment to our 5-tier Accountability model. YPAD&trade; Certified Studio courses are open now. YPAD&trade; Certified Individual courses will be open in late Summer 2023.
                         <br><br>
                         Additional requirements apply to YPAD™ Certified Studios and Events, such as proof of insurance, emergency action planning, Youth Mental Health First Aid, and three sessions with a YPAD™ integration coach.
                     </p>
@@ -203,12 +203,10 @@
             </div>
         </div>
         <h2 class="text-uppercase text-center mt-5">READY TO BECOME A YPAD&trade; CERTIFIED STUDIO?</h2>
-        <p class="text-center">Now accepting studio certification renewals and new studio certification applications!</p>
-{{--        <h2 class="text-uppercase text-center mt-5">NOT READY TO GET CERTIFIED?</h2>--}}
-{{--        <p class="text-center">Start your YPAD™ journey with YPAD™ Education!</p>--}}
+        <p class="text-center">Now accepting studio certification renewals and new studio certification applications!
+            <br>YPAD&trade; Certified Individual courses will be open in late Summer 2023.
+        </p>
         <div class="d-flex justify-content-center">
-{{--            <a href="/education" class="text-decoration-none">--}}
-{{--                <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Start Learning Today</div>--}}
             <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none" target="_blank">
                 <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Apply Today</div>
             </a>
