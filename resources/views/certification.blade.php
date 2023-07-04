@@ -60,7 +60,7 @@
         <h2 class="text-uppercase">Steps to earn your YPAD™ Certified Studio designation</h2>
         <p class="fw-bold">It all starts here: with you, the studio owner, and these three steps.</p>
         <div class="row">
-            <div class="col-sm">
+            <div class="col-lg">
                 <span class="font-pop" style="font-size: 1.2em;">STEP ONE:</span> submit an application for your studio. The application is located at the bottom of this page. Once your application is approved (1-2 business days), you will receive an email with access to the order form.
                 <br><br>
                 <span class="font-pop" style="font-size: 1.2em;">STEP TWO:</span> complete the YPAD™ Certified Studio Course, submit the reflections, and pass the knowledge checks with 90% proficiency. The YPAD&trade; Certified Studio Course takes approximately 8-10 hours to complete. Your staff must also complete the appropriate courses for their role during step two (teacher or admin). They, too, will submit reflections and must pass knowledge checks with 90% proficiency. Depending on the role, staff courses take approximately 2-4 hours to complete.
@@ -69,7 +69,7 @@
                 <br><br>
                 When your course(s) are complete and all documentation is submitted, your YPAD™ Certified Studio status will be confirmed and designated. Your status will remain active in our directory of YPAD™ Certified Studios as long as you complete an annual renewal. Items with "*" indicate third-party provider and cost. Links to those programs are inside the course. Costs are listed below in the FAQ section.
             </div>
-            <div class="col-sm d-flex justify-content-center">
+            <div class="col-lg d-flex justify-content-center">
                 <img src="/images/certification-steps.png" alt="graph" class="img-fluid">
             </div>
         </div>

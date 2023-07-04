@@ -145,7 +145,7 @@ p, div, .accordion-body { font-family: 'Inter', sans-serif; }
     background-position: 50% 20% !important;
 }
 
-.rounded-portrait {
+.rounded-portrait, .rounded-portrait-sm {
     height: 195px;
     width: 195px;
     border-radius: 50%;
@@ -153,22 +153,7 @@ p, div, .accordion-body { font-family: 'Inter', sans-serif; }
     border: 4px solid white;
 }
 
-.rounded-portrait-sm {
-    height: 195px;
-    width: 195px;
-    border-radius: 50%;
-    overflow: hidden;
-    border: 4px solid white;
-}
-
-.rounded-portrait img {
-    object-fit: cover;
-    object-position: center center;
-    height: 100%;
-    width: 100%;
-}
-
-.rounded-portrait-sm img {
+.rounded-portrait img, .rounded-portrait-sm img {
     object-fit: cover;
     object-position: center center;
     height: 100%;

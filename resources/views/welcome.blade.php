@@ -258,14 +258,14 @@
         <div class="row">
             <div class="col-sm">
                 <div class="row">
-                    <div class="col-sm-4">
+                    <div class="col-lg-4">
                         <div class="d-flex justify-content-center">
                             <img src="/images/mark.png" alt="mark" class="img-fluid">
                         </div>
                         <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Mark Yonally</h4>
                         <p class="text-center py-0 my-0"><strong>Chicago Tap Theatre</strong></p>
                     </div>
-                    <div class="col-sm d-flex align-items-center">
+                    <div class="col-lg d-flex align-items-center">
                         <p>
                             "Chicago Tap Theatre believes that dance students deserve well-trained teachers who understand dance education is more than steps. YPAD™ is focused on the well-being of kids and a sustainable, safe future for dance. Chicago Tap Theatre is proud to stand with them in believing that the dance field is ready to take the next step and that a common set of standards is a great place to start!"
                         </p>
@@ -274,14 +274,14 @@
             </div>
             <div class="col-sm">
                 <div class="row">
-                    <div class="col-sm-4">
+                    <div class="col-lg-4">
                         <div class="d-flex justify-content-center">
                             <img src="/images/bri.jpeg" alt="headshot" class="img-fluid rounded-portrait">
                         </div>
                         <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Brianna Chin Brown</h4>
                         <p class="text-center py-0 my-0"><strong>Dance Teacher, NJ</strong></p>
                     </div>
-                    <div class="col-sm d-flex align-items-center">
+                    <div class="col-lg d-flex align-items-center">
                         <p>
                             “As a dancer and dance teacher, I’ve taken a lot of training over the years for my role at the studio. Out of everything I've learned, I have to say that the information I have received from YPAD™ Certification has been the most important. Because of what I've learned through YPAD™, I am confident I am making the best choices for my students."
                         </p>
@@ -292,14 +292,14 @@
         <div class="row">
             <div class="col-sm">
                 <div class="row">
-                    <div class="col-sm-4">
+                    <div class="col-lg-4">
                         <div class="d-flex justify-content-center">
                             <img src="/images/jill.png" alt="mark" class="img-fluid">
                         </div>
                         <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Jill Williams</h4>
                         <p class="text-center py-0 my-0"><strong>Studio Owner, Calgary</strong></p>
                     </div>
-                    <div class="col-sm d-flex align-items-center">
+                    <div class="col-lg d-flex align-items-center">
                         <p>
                             "Youth Protection Association for Dance™ is the leading industry education that all studio owners need to invest in. One of my greatest sources of pride as a studio owner is hearing my studio families talk about their pride in the distinction of our YPAD™ ethos, as it shows that it absolutely matters and forever will."
                         </p>
@@ -308,7 +308,7 @@
             </div>
             <div class="col-sm">
                                 <div class="row">
-                                    <div class="col-sm-4">
+                                    <div class="col-lg-4">
                                         <div class="d-flex justify-content-center">
                                             <div class="rounded-portrait">
                                                 <img src="/images/cert-kelly.png" alt="headshot" class="img-fluid">
@@ -317,7 +317,7 @@
                                         <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Kelly Peterson</h4>
                                         <p class="text-center py-0 my-0"><strong>guiDANCE Experience</strong></p>
                                     </div>
-                                    <div class="col-sm d-flex align-items-center">
+                                    <div class="col-lg d-flex align-items-center">
                                         <p>
                                             “YPAD&trade; has brought so much value into the dance industry by helping kids stay safe, encouraging community, self-accountability, and awareness. YPAD&trade; gives anyone working in the dance industry clear priorities to develop this next generation of dancers. Through educational opportunities, YPAD&trade; is leading the way for the betterment of all involved in the dance industry. ”
                                         </p>
