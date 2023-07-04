@@ -42,38 +42,15 @@
         </div>
     </div>
 
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 400px;">
-        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
-        <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>
-        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
-            <div class="row mt-3">
-                <div class="col-sm-2 d-flex align-items-center">
-                    <div class="rounded-portrait">
-                        <img src="/images/edu-tiffany-2.jpg" alt="testimonial portrait">
-                    </div>
-                </div>
-                <div class="col-sm-10">
-                    <div class="d-flex align-items-center" style="height: 100%;">
-                        <div class="text-white text-center">
-                            <h4>
-                                "As a studio owner and former professional dancer, I believe it's essential that everyone in the dance industry–from parents to professionals– have access to education and information to help support healthy dance experiences for kids. YPAD™ makes education accessible to everyone."
-                            </h4>
-                            <p class="m-0 p-0"><span class="fw-bold">Tiffany Prout-Leitao</span> &middot; Center Stage Dance Academy, MA</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="custom-shape-divider-top-1683835088">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
-            </svg>
-        </div>
-        <div class="custom-shape-divider-bottom-1683835445">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
-            </svg>
-        </div>
+    <div class="orange py-5 text-white">
+        @include('_divider-top')
+        @include('_divider-bottom')
+        <x-testimonial
+            image="edu-tiffany-2.jpg"
+            quote="As a studio owner and former professional dancer, I believe it's essential that everyone in the dance industry–from parents to professionals– have access to education and information to help support healthy dance experiences for kids. YPAD™ makes education accessible to everyone."
+            person="Tiffany Prout-Leitao"
+            place="Center Stage Dance Academy, MA"
+        />
     </div>
 
     <div class="container py-5">
@@ -141,17 +118,17 @@
         </div>
     </div>
 
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 550px;">
-        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
-        <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>
-        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
+    <div class="orange py-5">
+        @include('_divider-top')
+        @include('_divider-bottom')
+        <div class="container d-flex justify-content-center align-items-center py-5">
             <div>
                 <h2 class="text-uppercase text-center text-white">FREE RESOURCES</h2>
                 <p class="text-center text-white">
                     Not ready to take a course or become YPAD™ yet? That's okay, we are still here to help you get started on your journey. The following downloads are free so you can begin taking tangible steps toward healthier businesses and safer classrooms today! Please share with your friends and colleagues. As the saying goes, "A rising tide floats all boats." Every extra measure of safeguarding capacity-building in the dance community helps make the future better for our students.
                     Revisit this page throughout the school year to find updated and new resources.
                 </p>
-                <div class="d-flex justify-content-center">
+                <div>
 {{--                    <ol class="text-white">--}}
 {{--                        <li class="my-2">--}}
 {{--                            <a style="color: #067997;" href="/images/resource-employee-checklist.pdf" target="_blank">--}}
@@ -179,17 +156,23 @@
 {{--                            </a>--}}
 {{--                        </li>--}}
 {{--                    </ol>--}}
-                    <div class="d-flex justify-content-center mx-3">
-                        <a href="/images/resource-costume.pdf" class="text-decoration-none">
-                            <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Costuming for confidence</div>
-                        </a>
-
-                    </div>
-                    <div class="d-flex justify-content-center mx-3">
-                        <a href="/images/resource-hair.pdf" class="text-decoration-none">
-                            <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">The importance of inclusive hairstyles</div>
-                        </a>
-
+                    <div class="row">
+                        <div class="col-sm"></div>
+                        <div class="col-sm my-2">
+                            <div class="d-flex justify-content-center mx-2">
+                                <a href="/images/resource-costume.pdf" class="text-decoration-none">
+                                    <div class="fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Costuming for confidence</div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-sm my-2">
+                            <div class="d-flex justify-content-center mx-2">
+                                <a href="/images/resource-hair.pdf" class="text-decoration-none">
+                                    <div class="fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Importance of inclusive hairstyles</div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-sm"></div>
                     </div>
                 </div>
             </div>
@@ -206,21 +189,11 @@
 {{--                </div>--}}
 {{--            </div>--}}
         </div>
-        <div class="custom-shape-divider-top-1683835088">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
-            </svg>
-        </div>
-        <div class="custom-shape-divider-bottom-1683835445">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
-            </svg>
-        </div>
     </div>
 
     <div class="py-5 container">
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-            <div class="col-sm my-3" style="background: #067997;">
+            <div class="col-sm my-3 py-3" style="background: #067997;">
                 <div class="d-flex justify-content-center align-items-center text-center text-white mx-5" style="height: 100%;">
                     <h2 class="text-uppercase">YPAD™ ALSO SERVES THE DANCE COMMUNITY IS BY OFFERING FREE COLLEGE SEMINARS FOR DANCE MAJORS</h2>
                 </div>
@@ -264,39 +237,14 @@
         </div>
     </div>
 
-
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 400px;">
-        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
-{{--        <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>--}}
-        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
-            <div class="row mt-3">
-                <div class="col-sm-2 d-flex align-items-center">
-                    <div class="rounded-portrait">
-                        <img src="/images/sammi.jpg" alt="testimonial portrait">
-                    </div>
-                </div>
-                <div class="col-sm-10">
-                    <div class="d-flex align-items-center" style="height: 100%;">
-                        <div class="text-white text-center">
-                            <h4>
-                                “I am proud and grateful to be part of an organization that serves to educate, equip, and empower the dance industry to create safe environments and experiences for children.”
-                            </h4>
-                            <p class="m-0 p-0"><span class="fw-bold">Sammi Rader</span> &middot; MSW and Dance Educator</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="custom-shape-divider-top-1683835088">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
-            </svg>
-        </div>
-{{--        <div class="custom-shape-divider-bottom-1683835445">--}}
-{{--            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">--}}
-{{--                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>--}}
-{{--            </svg>--}}
-{{--        </div>--}}
+    <div class="orange py-5 text-white">
+        @include('_divider-top')
+        <x-testimonial
+            image="sammi.jpg"
+            quote="I am proud and grateful to be part of an organization that serves to educate, equip, and empower the dance industry to create safe environments and experiences for children."
+            person="Sammi Rader"
+            place="MSW and Dance Educator"
+        />
     </div>
 
 @endsection

@@ -2,15 +2,18 @@
 @section('content')
 
     <div style="background: #767784;" class="py-3 text-white d-flex justify-content-center align-items-center">
-        <p class="my-0 py-0">
-            Now accepting studio certification renewals and new studio certification applications!
-        </p>
+        <div class="container">
+            <p class="my-0 py-0 text-center">
+                Now accepting studio certification renewals and new studio certification applications!
+            </p>
+        </div>
     </div>
 
     <div id="header">
         <div class="gradient-fade"></div>
         <div id="header-heading">
-            <h1 class="text-center px-5">Helping dance industry leaders create safeguarding capacity-building</h1>
+            <h1 class="text-center px-5 d-none d-md-block">Helping dance industry leaders create safeguarding capacity-building</h1>
+            <h2 class="text-center px-5 d-md-none">Helping dance industry leaders create safeguarding capacity-building</h2>
             <div class="d-flex justify-content-center">
 {{--                <div class="fw-bold px-4 py-2 shadow" style="background: #EF9A60; color: white;">Try A Free Course</div>--}}
             </div>
@@ -20,22 +23,22 @@
     <div class="py-5">
         <div class="container">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-                <div class="col-sm my-3" style="background: #067997;">
+                <div class="col my-3 py-3" style="background: #067997;">
                     <div class="d-flex justify-content-center align-items-center text-center text-white mx-5" style="height: 100%;">
                         <h2 class="text-uppercase">Personal Growth & Professional Development Opportunities for:</h2>
                     </div>
                 </div>
-                <div class="col-sm my-3"><img src="/images/ypad-individuals.png" alt="" class="img-fluid" style="border: 6px solid #767784;"></div>
-                <div class="col-sm my-3"><img src="/images/ypad-studios.png" alt="" class="img-fluid" style="border: 6px solid #EF9A61;"></div>
-                <div class="col-sm my-3"><img src="/images/ypad-events.png" alt="" class="img-fluid" style="border: 6px solid #896C7B;"></div>
+                <div class="col my-3"><img src="/images/ypad-individuals.png" alt="" class="img-fluid" style="border: 6px solid #767784;"></div>
+                <div class="col my-3"><img src="/images/ypad-studios.png" alt="" class="img-fluid" style="border: 6px solid #EF9A61;"></div>
+                <div class="col my-3"><img src="/images/ypad-events.png" alt="" class="img-fluid" style="border: 6px solid #896C7B;"></div>
             </div>
         </div>
     </div>
 
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 400px;">
-        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
-        <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>
-        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
+    <div class="orange py-5">
+        @include('_divider-top')
+        @include('_divider-bottom')
+        <div class="container d-flex justify-content-center align-items-center py-5">
             <div class="row mt-3">
                 <div class="col-sm">
                     <div class="d-flex align-items-center" style="height: 100%;">
@@ -46,16 +49,6 @@
                 </div>
             </div>
         </div>
-        <div class="custom-shape-divider-top-1683835088">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
-            </svg>
-        </div>
-        <div class="custom-shape-divider-bottom-1683835445">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
-            </svg>
-        </div>
     </div>
 
     <div class="py-5 welcome-icons">
@@ -64,12 +57,12 @@
             <div class="py-5">
                 <div class="container">
                     <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-                        <div class="col-sm my-3" style="background: #067997;">
+                        <div class="col my-3 py-3" style="background: #067997;">
                             <div class="d-flex justify-content-center align-items-center text-center text-white mx-5" style="height: 100%;">
                                 <h2 class="text-uppercase">Professionals Agree, Safeguarding Is Important</h2>
                             </div>
                         </div>
-                        <div class="col-sm my-3">
+                        <div class="col my-3">
                             <div style="background: #767784; color: white;" class="pb-4">
                                 <div class="d-flex justify-content-center"><img src="/images/sheyi.png" alt="" class="img-fluid" style="border: 6px solid #767784; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
@@ -81,7 +74,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm my-3">
+                        <div class="col my-3">
                             <div style="background: #EF9A60; color: white;" class="pb-4">
                                 <div class="d-flex justify-content-center"><img src="/images/gomez-23.jpeg" alt="" style="border: 6px solid #EF9A61; height: 394px; width: 100%; object-fit: cover; object-position: 50% 15%;"></div>
                                 <div class="px-3 pt-3">
@@ -93,7 +86,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm my-3">
+                        <div class="col my-3">
                             <div style="background: #896C7B; color: white;" class="pb-4">
                                 <div class="d-flex justify-content-center"><img src="/images/addie.png" alt="" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
@@ -111,7 +104,7 @@
 
             <div class="row my-4">
                 <div class="col-sm">
-                    <div class="mx-4">
+                    <div class="m-4">
                         <div class="d-flex justify-content-center">
                             <ion-icon name="checkbox-outline"></ion-icon>
                         </div>
@@ -122,7 +115,7 @@
                     </div>
                 </div>
                 <div class="col-sm">
-                    <div class="mx-4">
+                    <div class="m-4">
                         <div class="d-flex justify-content-center">
                             <ion-icon name="square-outline"></ion-icon>
                         </div>
@@ -133,7 +126,7 @@
                     </div>
                 </div>
                 <div class="col-sm">
-                    <div class="mx-4">
+                    <div class="m-4">
                         <div class="d-flex justify-content-center">
                             <ion-icon name="thumbs-up-outline"></ion-icon>
                         </div>
@@ -147,9 +140,11 @@
         </div>
     </div>
 
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 475px;">
+    <div class="orange py-5">
+        @include('_divider-top')
+        @include('_divider-bottom')
         <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
-        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
+        <div class="container d-flex justify-content-center align-items-center py-5">
             <div class="row mt-3">
                 <div class="col-sm">
                     <div class="d-flex align-items-center" style="height: 100%;">
@@ -164,16 +159,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="custom-shape-divider-top-1683835088">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
-            </svg>
-        </div>
-        <div class="custom-shape-divider-bottom-1683835445">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
-            </svg>
         </div>
     </div>
 
@@ -243,9 +228,11 @@
 {{--        </div>--}}
     </div>
 
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 400px;">
+    <div class="orange py-5">
+        @include('_divider-top')
+        @include('_divider-bottom')
         <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
-        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
+        <div class="container d-flex justify-content-center align-items-center py-5">
             <div class="row mt-3">
                 <div class="col-sm">
                     <div class="d-flex align-items-center" style="height: 100%;">
@@ -258,19 +245,9 @@
                 </div>
             </div>
         </div>
-        <div class="custom-shape-divider-top-1683835088">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
-            </svg>
-        </div>
-        <div class="custom-shape-divider-bottom-1683835445">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
-            </svg>
-        </div>
     </div>
 
-    <div class="py-5 container">
+    <div class="py-5 container" id="section-circle-testimonials">
 {{--        <div class="mb-5">--}}
 {{--            <div>--}}
 {{--                <div class="d-flex justify-content-center"><img src="/images/guarantee.png" alt="guarantee badge" class="img-fluid"></div>--}}
@@ -282,7 +259,9 @@
             <div class="col-sm">
                 <div class="row">
                     <div class="col-sm-4">
-                        <img src="/images/mark.png" alt="mark" class="img-fluid">
+                        <div class="d-flex justify-content-center">
+                            <img src="/images/mark.png" alt="mark" class="img-fluid">
+                        </div>
                         <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Mark Yonally</h4>
                         <p class="text-center py-0 my-0"><strong>Chicago Tap Theatre</strong></p>
                     </div>
@@ -296,7 +275,9 @@
             <div class="col-sm">
                 <div class="row">
                     <div class="col-sm-4">
-                        <img src="/images/bri.jpeg" alt="headshot" class="img-fluid rounded-portrait">
+                        <div class="d-flex justify-content-center">
+                            <img src="/images/bri.jpeg" alt="headshot" class="img-fluid rounded-portrait">
+                        </div>
                         <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Brianna Chin Brown</h4>
                         <p class="text-center py-0 my-0"><strong>Dance Teacher, NJ</strong></p>
                     </div>
@@ -312,7 +293,9 @@
             <div class="col-sm">
                 <div class="row">
                     <div class="col-sm-4">
-                        <img src="/images/jill.png" alt="mark" class="img-fluid">
+                        <div class="d-flex justify-content-center">
+                            <img src="/images/jill.png" alt="mark" class="img-fluid">
+                        </div>
                         <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Jill Williams</h4>
                         <p class="text-center py-0 my-0"><strong>Studio Owner, Calgary</strong></p>
                     </div>
@@ -326,8 +309,10 @@
             <div class="col-sm">
                                 <div class="row">
                                     <div class="col-sm-4">
-                                        <div class="rounded-portrait">
-                                            <img src="/images/cert-kelly.png" alt="headshot" class="img-fluid">
+                                        <div class="d-flex justify-content-center">
+                                            <div class="rounded-portrait">
+                                                <img src="/images/cert-kelly.png" alt="headshot" class="img-fluid">
+                                            </div>
                                         </div>
                                         <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Kelly Peterson</h4>
                                         <p class="text-center py-0 my-0"><strong>guiDANCE Experience</strong></p>
@@ -354,57 +339,34 @@
         </div>
     </div>
 
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 400px;">
-        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
-        <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>
-        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
-            <div class="row mt-3">
-                <div class="col-sm-2 d-flex align-items-center">
-                    <div class="rounded-portrait">
-                        <img src="/images/test-gus.jpg" alt="testimonial portrait">
-                    </div>
-                </div>
-                <div class="col-sm-10">
-                    <div class="d-flex align-items-center" style="height: 100%;">
-                        <div class="text-white text-center">
-                            <h4>
-                                My research team has collaborated with Youth Protection Association for Dance™ on a number of research projects examining factors that contribute to injury among dancers. We’ve been lucky to partner with a group that’s so committed to generating new knowledge that will improve the health and safety of young dancers, not only now, but also in the future. As an organization, YPAD™ sets such a great example for what it means to be “purpose-driven."
-                            </h4>
-                            <p class="m-0 p-0"><span class="fw-bold">Thomas Gus Almonroeder, PT, DPT, PhD</span> &middot; Trine University</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="custom-shape-divider-top-1683835088">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
-            </svg>
-        </div>
-        <div class="custom-shape-divider-bottom-1683835445">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
-            </svg>
-        </div>
+    <div class="orange py-5 text-white">
+        @include('_divider-top')
+        @include('_divider-bottom')
+        <x-testimonial
+            image="test-gus.jpg"
+            quote="My research team has collaborated with Youth Protection Association for Dance™ on a number of research projects examining factors that contribute to injury among dancers. We’ve been lucky to partner with a group that’s so committed to generating new knowledge that will improve the health and safety of young dancers, not only now, but also in the future. As an organization, YPAD™ sets such a great example for what it means to be “purpose-driven."
+            person="Thomas Gus Almonroeder, PT, DPT, PhD"
+            place="Trine University"
+        />
     </div>
 
     <div class="py-5">
         <div class="container">
             <h2 class="text-uppercase text-center">Professional Development & Research</h2>
             <p class="text-center">YPAD&trade; is proud to work with the following organizations</p>
-            <div class="row row-cols-sm-1 row-cols-md-2 row-cols-lg-4 mb-4">
-                <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/logo-alabama.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/hope-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/trine-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/logo-ecu.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/logo-bridge.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/logo-udma.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/logo-iacdp-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/logo-ndca.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-{{--                <div class="col-sm d-flex align-items-center justify-content-center"><img class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>--}}
-                <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/toronto-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/dance-teacher-web-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm d-flex align-items-center justify-content-center"><img src="/images/logo-unity.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+            <div class="row row-cols-3 row-cols-sm-3 row-cols-md-4 row-cols-lg-4 mb-4">
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-alabama.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/hope-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/trine-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-ecu.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-bridge.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-udma.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-iacdp-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-ndca.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+{{--                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>--}}
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/toronto-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/dance-teacher-web-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-unity.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
             </div>
             <div>
                 <p class="text-center">

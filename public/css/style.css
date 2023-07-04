@@ -45,6 +45,15 @@ p, div, .accordion-body { font-family: 'Inter', sans-serif; }
     /*color: #067997;*/
 }
 
+#header-heading h2 {
+    font-size: 3em;
+    color: #EF9A60;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold !important;
+    text-transform: capitalize;
+    /*color: #067997;*/
+}
+
 #header-about h1 {
     font-size: 4em;
     color: #EF9A60;
@@ -87,6 +96,11 @@ p, div, .accordion-body { font-family: 'Inter', sans-serif; }
 .welcome-icons ion-icon {
     font-size: 3em;
     color: #EF9A60;
+}
+
+#section-circle-testimonials img {
+    height: 195px;
+    width: 195px;
 }
 
 #about-checkmarks ion-icon {
@@ -132,16 +146,16 @@ p, div, .accordion-body { font-family: 'Inter', sans-serif; }
 }
 
 .rounded-portrait {
-    height: 200px;
-    width: 200px;
+    height: 195px;
+    width: 195px;
     border-radius: 50%;
     overflow: hidden;
     border: 4px solid white;
 }
 
 .rounded-portrait-sm {
-    height: 196px;
-    width: 196px;
+    height: 195px;
+    width: 195px;
     border-radius: 50%;
     overflow: hidden;
     border: 4px solid white;
@@ -170,6 +184,13 @@ p, div, .accordion-body { font-family: 'Inter', sans-serif; }
     background: #FE954D !important;
     /*background: #FF9045 !important;*/
 }
+
+.orange {
+    background: linear-gradient(to right, #EF9A60, #FE954D);
+    position: relative;
+    height: 100%;"
+}
+
 
 /* DIVIDER WELCOME TOP */
 

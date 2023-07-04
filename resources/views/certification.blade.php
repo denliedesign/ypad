@@ -44,42 +44,15 @@
         </div>
     </div>
 
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 400px;">
-        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
-        <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>
-        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
+    <div class="orange py-5">
+        @include('_divider-top')
+        @include('_divider-bottom')
+        <div class="container d-flex justify-content-center align-items-center py-5">
             <div>
                 <h3 class="text-white text-center">
                     The mission of Youth Protection Association for Dance™ is to bring awareness to and provide guidance for one essential priority: <strong>the safety and health of dance students</strong>.
                 </h3>
             </div>
-{{--            <div class="row mt-3">--}}
-{{--                <div class="col-sm-2 d-flex align-items-center">--}}
-{{--                    <div class="rounded-portrait">--}}
-{{--                        <img src="/images/cert-amy.png" alt="testimonial portrait">--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--                <div class="col-sm-10">--}}
-{{--                    <div class="d-flex align-items-center" style="height: 100%;">--}}
-{{--                        <div class="text-white text-center">--}}
-{{--                            <h4>--}}
-{{--                                “I'm a studio owner, but I wanted to start with individual certification first. This allowed me to get to know the program through monthly Community Connection Calls and to implement best practices in my studio. This program has given me a community of like-minded dance professionals who choose to put the wellness and safety of their students as a top priority. I’m eager to get my entire studio certified next!”--}}
-{{--                            </h4>--}}
-{{--                            <p class="m-0 p-0"><span class="fw-bold">Amy Yaro</span> &middot; Iowa Ballet Academy</p>--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-        </div>
-        <div class="custom-shape-divider-top-1683835088">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
-            </svg>
-        </div>
-        <div class="custom-shape-divider-bottom-1683835445">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
-            </svg>
         </div>
     </div>
 
@@ -102,126 +75,49 @@
         </div>
     </div>
 
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 800px;">
-        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
-        <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>
-{{--        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">--}}
 
-
-            <div class="container py-5 d-flex align-items-center" style="height: 100%;">
-                <div class="text-white">
-                    <div class="row">
-                        <div class="col-sm">
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <div class="rounded-portrait">
-                                        <img src="/images/darcy.png" alt="darcy" class="img-fluid">
-                                    </div>
-                                    <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Darcy Fagerwold</h4>
-                                    <p class="text-center py-0 my-0"><strong>Studio Owner, California</strong></p>
-                                </div>
-                                <div class="col-sm d-flex align-items-center">
-                                    <p>
-                                        "Youth Protection Association for Dance&trade; education is evidence to families that we are
-                                        committed to keeping kids happy, healthy, and safe in dance. It is comforting to know that
-                                        as challenging issues arise, YPAD&trade; is there to support and guide us to ensure we are doing
-                                        what's right for our students. Thank you to Youth Protection Association for Dance&trade;
-                                        for leading the dance industry in this vital endeavor!"
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm">
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <div class="rounded-portrait">
-                                        <img src="/images/kate.png" alt="kate" class="img-fluid">
-                                    </div>
-                                    <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Kate Moody</h4>
-                                    <p class="text-center py-0 my-0"><strong>Studio Owner, Wisconsin</strong></p>
-                                </div>
-                                <div class="col-sm d-flex align-items-center">
-                                    <p>
-                                        "If you haven't done YPAD&trade; training yet, do it. We had a loaded gun incident at the local high
-                                        school this morning (everything is okay). But the thought that something could happen so
-                                        close, is so scary. As hard as it was to imagine and read about all the "what to do's" in
-                                        YPAD&trade; training, I am proud that we did, because "It's better to know and not need than to
-                                        need and not know". Thank you YPAD&trade; team for all the great knowledge in the YPAD&trade; course!"
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row mt-3">
-                        <div class="col-sm">
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <div class="rounded-portrait">
-                                        <img src="/images/cert-amy.png" alt="darcy" class="img-fluid">
-                                    </div>
-                                    <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Amy Yaro</h4>
-                                    <p class="text-center py-0 my-0"><strong>Studio Owner, Iowa</strong></p>
-                                </div>
-                                <div class="col-sm d-flex align-items-center">
-                                    <p>
-                                        "I'm a studio owner, but I wanted to start with individual certification first. This allowed me to get to know the program through monthly Community Connection Calls and to implement best practices in my studio. This program has given me a community of like-minded dance professionals who choose to put the wellness and safety of their students as a top priority. I’m eager to get my entire studio certified next!"
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm">
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <div class="rounded-portrait">
-                                        <img src="/images/cert-neisha.jpeg" alt="kate" class="img-fluid">
-                                    </div>
-                                    <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Neisha Hernandez</h4>
-                                    <p class="text-center py-0 my-0"><strong>Studio Owner, California</strong></p>
-                                </div>
-                                <div class="col-sm d-flex align-items-center">
-                                    <p>
-                                        "Being a YPAD™ Certified Studio is essential to our studio’s culture. Our parents and families are confident that our studio is intentionally focused on keeping their kids healthy and safe. YPAD™'s extensive resources and monthly ongoing education opportunities have been integral in carrying out our mission of Encouraging Kids to Lead Inspired Lives!"
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+    <div class="orange py-5 text-white">
+        @include("_divider-top")
+        @include("_divider-bottom")
+        <div class="container py-5">
+            <div class="row my-2">
+                <x-orange
+                    image="darcy.png"
+                    name="Darcy Fagerwold"
+                    title="Studio Owner, California"
+                    quote="Youth Protection Association for Dance™ education is evidence to families that we are
+                                committed to keeping kids happy, healthy, and safe in dance. It is comforting to know that
+                                as challenging issues arise, YPAD™ is there to support and guide us to ensure we are doing
+                                what's right for our students. Thank you to Youth Protection Association for Dance™
+                                for leading the dance industry in this vital endeavor!"
+                />
+                <x-orange
+                    image="kate.png"
+                    name="Kate Moody"
+                    title="Studio Owner, Wisconsin"
+                    quote="If you haven't done YPAD™ training yet, do it. We had a loaded gun incident at the local high school this morning (everything is okay). But the thought that something could happen so close, is so scary. As hard as it was to imagine and read about all the 'what to do's' in YPAD™ training, I am proud that we did, because 'It's better to know and not need than to need and not know'. Thank you YPAD™ team for all the great knowledge in the YPAD™ course!"
+                />
             </div>
-
-{{--            <div class="row mt-3">--}}
-{{--                <div class="col-sm-2 d-flex align-items-center">--}}
-{{--                    <div class="rounded-portrait">--}}
-{{--                        <img src="/images/cert-neisha.jpeg" alt="testimonial portrait">--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--                <div class="col-sm-10">--}}
-{{--                    <div class="d-flex align-items-center" style="height: 100%;">--}}
-{{--                        <div class="text-white text-center">--}}
-{{--                            <h4>--}}
-{{--                                “Being a YPAD™ Certified Studio is essential to our studio’s culture. Our parents and families are confident that our studio is intentionally focused on keeping their kids healthy and safe. YPAD™'s extensive resources and monthly ongoing education opportunities have been integral in carrying out our mission of Encouraging Kids to Lead Inspired Lives!”--}}
-{{--                            </h4>--}}
-{{--                            <p class="m-0 p-0"><span class="fw-bold">Neisha Hernandez</span> &middot; Neisha's Dance & Music Academy</p>--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-        <div class="custom-shape-divider-top-1683835088">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
-            </svg>
-        </div>
-        <div class="custom-shape-divider-bottom-1683835445">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
-            </svg>
+            <div class="row my-2">
+                <x-orange
+                    image="amy.png"
+                    name="AMY YARO"
+                    title="Studio Owner, Iowa"
+                    quote="I'm a studio owner, but I wanted to start with individual certification first. This allowed me to get to know the program through monthly Community Connection Calls and to implement best practices in my studio. This program has given me a community of like-minded dance professionals who choose to put the wellness and safety of their students as a top priority. I’m eager to get my entire studio certified next!"
+                />
+                <x-orange
+                    image="neisha.jpeg"
+                    name="NEISHA HERNANDEZ"
+                    title="Studio Owner, California"
+                    quote="Being a YPAD™ Certified Studio is essential to our studio’s culture. Our parents and families are confident that our studio is intentionally focused on keeping their kids healthy and safe. YPAD™'s extensive resources and monthly ongoing education opportunities have been integral in carrying out our mission of Encouraging Kids to Lead Inspired Lives!"
+                />
+            </div>
         </div>
     </div>
 
     <div class="container py-5">
         <div class="row" id="about-checkmarks">
-            <div class="col-sm">
+            <div class="col-sm my-3">
                 <div>
                     <h2 class="text-center">Documentation requirements for individual certification</h2>
                     <p class="text-center">
@@ -284,7 +180,7 @@
                 </div>
             </div>
 
-            <div class="col-sm">
+            <div class="col-sm my-3">
                 <div>
                     <h2 class="text-center">Documentation requirements for studio or event certification</h2>
                     <p class="text-center">
@@ -393,9 +289,10 @@
         </div>
     </div>
 
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 550px;">
-        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
-        <div class="py-5 container text-white d-flex align-items-center" style="height: 100%;">
+    <div class="orange py-5">
+        @include('_divider-top')
+        @include('_divider-bottom')
+        <div class="py-5 container text-white d-flex align-items-center">
             <div>
                 <h2 class="text-uppercase text-center">FREE BONUS RESOURCES FOR YPAD&trade; CERTIFIED STUDIOS</h2>
                 <p class="text-center">YPAD™ Certified Studios receive unlimited FREE access to short courses for the following important roles:</p>
@@ -436,22 +333,12 @@
                 </div>
             </div>
         </div>
-        <div class="custom-shape-divider-top-1683835088">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
-            </svg>
-        </div>
-        <div class="custom-shape-divider-bottom-1683835445">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
-            </svg>
-        </div>
     </div>
 
     <div class="container py-5">
         <h2 class="text-uppercase text-center">The Course Collection for YPAD&trade; Certified Studios</h2>
-        <div class="row mb-3">
-            <div class="flip-card col-sm d-flex align-items-center">
+        <div class="row">
+            <div class="my-3 flip-card col-sm d-flex align-items-center">
                 <div class="rounded flip-card-inner" style="background: #067997; position: relative;">
                     <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
                         <div>
@@ -471,7 +358,7 @@
                     </div>
                 </div>
             </div>
-            <div class="flip-card col-sm d-flex align-items-center">
+            <div class="my-3 flip-card col-sm d-flex align-items-center">
                 <div class="rounded flip-card-inner" style="background: #767784; position: relative;">
                     <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
                         <div>
@@ -491,7 +378,7 @@
                     </div>
                 </div>
             </div>
-            <div class="flip-card col-sm d-flex align-items-center">
+            <div class="my-3 flip-card col-sm d-flex align-items-center">
                 <div class="rounded flip-card-inner" style="background: #EF9A61; position: relative;">
                     <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
                         <div>
@@ -513,7 +400,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="flip-card col-sm d-flex align-items-center">
+            <div class="my-3 flip-card col-sm d-flex align-items-center">
                 <div class="rounded flip-card-inner" style="background: #896C7B; position: relative;">
                     <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
                         <div>
@@ -533,7 +420,7 @@
                     </div>
                 </div>
             </div>
-            <div class="flip-card col-sm d-flex align-items-center">
+            <div class="my-3 flip-card col-sm d-flex align-items-center">
                 <div class="rounded flip-card-inner" style="background: #067997; position: relative;">
                     <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
                         <div>
@@ -553,7 +440,7 @@
                     </div>
                 </div>
             </div>
-            <div class="flip-card col-sm d-flex align-items-center">
+            <div class="my-3 flip-card col-sm d-flex align-items-center">
                 <div class="rounded flip-card-inner" style="background: #767784; position: relative;">
                     <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
                         <div>
@@ -581,10 +468,10 @@
         </p>
     </div>
 
-    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 400px;">
-        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
-                <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>
-        <div class="container d-flex justify-content-center align-items-center" style="height: 100%;">
+    <div class="orange py-5">
+        @include('_divider-top')
+        @include('_divider-bottom')
+        <div class="container d-flex justify-content-center align-items-center py-5">
             <div class="row mt-3">
                 <div class="col-sm">
                     <div class="d-flex align-items-center justify-content-center" style="height: 100%;">
@@ -620,16 +507,6 @@
 {{--                </div>--}}
             </div>
         </div>
-        <div class="custom-shape-divider-top-1683835088">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
-            </svg>
-        </div>
-                <div class="custom-shape-divider-bottom-1683835445">
-                    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                        <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
-                    </svg>
-                </div>
     </div>
 
     <div class="container py-5">
@@ -836,7 +713,7 @@
 
     <div class="container py-5">
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-            <div class="col-sm my-3" style="background: #067997;">
+            <div class="col-sm my-3 py-5" style="background: #067997;">
                 <div class="d-flex justify-content-center align-items-center text-center text-white mx-5" style="height: 100%;">
                     <h2 class="text-uppercase">
                         YPAD™ is proud to support the following YPAD™ Certified Events through ongoing education and resources

@@ -31,18 +31,17 @@
                 <p>
                     Add your email to the mailing list to get the latest YPAD™ updates.
                 </p>
-                <form>
-                    <div class="mb-3">
-                        {{--                            <label for="exampleInputEmail1" class="form-label">Email address</label>--}}
-                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email">
-                        {{--                            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>--}}
-                    </div>
-                    {{--                        <div class="mb-3 form-check">--}}
-                    {{--                            <input type="checkbox" class="form-check-input" id="exampleCheck1">--}}
-                    {{--                            <label class="form-check-label" for="exampleCheck1">Check me out</label>--}}
-                    {{--                        </div>--}}
-                    <div type="submit" class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Submit</div>
-                </form>
+                <div class="d-flex justify-content-start">
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScmFcYgp9eyaZLmNYJYzx9vjdxZ6RzPmcuUYkKUiDej-6D7KA/viewform" class="text-decoration-none" target="_blank">
+                        <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Subscribe</div>
+                    </a>
+                </div>
+{{--                <form>--}}
+{{--                    <div class="mb-3">--}}
+{{--                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Email">--}}
+{{--                    </div>--}}
+{{--                    <div type="submit" class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Submit</div>--}}
+{{--                </form>--}}
             </div>
         </div>
         <div class="text-center" style="opacity: 70%;"><small>Copyright Youth Protection Association for Dance&trade; 2023
