@@ -450,99 +450,127 @@
 
     <div class="container py-5">
         <h2 class="text-uppercase text-center">The Course Collection for YPAD&trade; Certified Studios</h2>
-        <div class="card-group">
-            <div class="card py-5 m-2" style="background: #067997">
-                {{--                <img src="..." class="card-img-top" alt="...">--}}
-                <div class="card-body text-white text-center">
-                    <h3 class="card-title">Studio Owner</h3>
-                    <p class="card-text">
-                        $499
-                    </p>
+        <div class="row mb-3">
+            <div class="flip-card col-sm d-flex align-items-center">
+                <div class="rounded flip-card-inner" style="background: #067997; position: relative;">
+                    <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
+                        <div>
+                            <h3>Studio Owner</h3>
+                            <p>
+                                $499
+                            </p>
+                            <div style="position: absolute; bottom: 2px; right: 10px;">
+                                <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="flip-card-back d-flex align-items-center justify-content-center text-white text-center">
+                        <p class="mx-3">
+                            This 8-10 hour course provides foundations for studio owners for best practices in the areas of Hiring, Onboarding and Training, Studio Safety, Abuse Protection, Healthy Bodies, Healthy Minds, Social Media & Communications, and Artistic Integrity.
+                        </p>
+                    </div>
                 </div>
-                {{--                <div class="card-footer">--}}
-                {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
-                {{--                </div>--}}
             </div>
-            <div class="card py-5 m-2" style="background: #767784">
-                {{--                <img src="..." class="card-img-top" alt="...">--}}
-                <div class="card-body text-white text-center">
-                    <h3 class="card-title">Studio Teacher</h3>
-                    <p class="card-text">
-                        $299
-                    </p>
+            <div class="flip-card col-sm d-flex align-items-center">
+                <div class="rounded flip-card-inner" style="background: #767784; position: relative;">
+                    <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
+                        <div>
+                            <h3>Studio Teacher</h3>
+                            <p>
+                                $299
+                            </p>
+                            <div style="position: absolute; bottom: 2px; right: 10px;">
+                                <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="flip-card-back d-flex align-items-center justify-content-center text-white text-center">
+                        <p class="mx-3">
+                            This 3-4 hour course covers teacher-specific essentials regarding Student Safety, Healthy Bodies, Healthy Minds, and Artistic Integrity.
+                        </p>
+                    </div>
                 </div>
-                {{--                <div class="card-footer">--}}
-                {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
-                {{--                </div>--}}
             </div>
-            <div class="card py-5 m-2" style="background: #EF9A61">
-                {{--                <img src="..." class="card-img-top" alt="...">--}}
-                <div class="card-body text-white text-center">
-                    <h3 class="card-title">Studio Admin</h3>
-                    <p class="card-text">
-                        $199
-                    </p>
+            <div class="flip-card col-sm d-flex align-items-center">
+                <div class="rounded flip-card-inner" style="background: #EF9A61; position: relative;">
+                    <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
+                        <div>
+                            <h3>Studio Admin</h3>
+                            <p>
+                                $199
+                            </p>
+                            <div style="position: absolute; bottom: 2px; right: 10px;">
+                                <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="flip-card-back d-flex align-items-center justify-content-center text-white text-center">
+                        <p class="mx-3">
+                            This 1-2 hour course provides adminstrative eand learn all about: Safety Safetey, Protecting Students, Healthy Communication, and Professional Integrity.
+                        </p>
+                    </div>
                 </div>
-                {{--                <div class="card-footer">--}}
-                {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
-                {{--                </div>--}}
             </div>
         </div>
         <div class="row">
             <div class="flip-card col-sm d-flex align-items-center">
-                <div class="rounded flip-card-inner py-5 m-2" style="background: #896C7B">
-                    {{--                <img src="..." class="card-img-top" alt="...">--}}
-                    <div class="flip-card-front card-body text-white text-center">
-                        <h3 class="card-title">Studio Substitute</h3>
-                        <p>
-                            UNLIMITED FREE WITH CERTIFICATION
+                <div class="rounded flip-card-inner" style="background: #896C7B; position: relative;">
+                    <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
+                        <div>
+                            <h3>Studio Substitute</h3>
+                            <p>
+                                UNLIMITED FREE WITH CERTIFICATION
+                            </p>
+                            <div style="position: absolute; bottom: 2px; right: 10px;">
+                                <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="flip-card-back d-flex align-items-center justify-content-center text-white text-center">
+                        <p class="mx-3">
+                            This short 30 minute course covers the highlights for substitutes working on short notice. Includes the essentials for student safety and health, safe movement in class and onstage, and artistic integrity.
                         </p>
                     </div>
-                    <div class="flip-card-back card-body text-white text-center">
-                        <p>
-                            This short 30 minute course covers the highlights for substitutes working on short notice. Includes the essentials for student safety and health, safe movement in class and onstage, and artistic integrity.                     </p>
-                    </div>
-                    {{--                <div class="card-footer">--}}
-                    {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
-                    {{--                </div>--}}
                 </div>
             </div>
             <div class="flip-card col-sm d-flex align-items-center">
-                <div class="rounded flip-card-inner py-5 m-2" style="background: #067997">
-                    {{--                <img src="..." class="card-img-top" alt="...">--}}
-                    <div class="flip-card-front card-body text-white text-center">
-                        <h3 class="card-title">Studio Volunteer</h3>
-                        <p>
-                            UNLIMITED FREE WITH CERTIFICATION
-                        </p>
+                <div class="rounded flip-card-inner" style="background: #067997; position: relative;">
+                    <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
+                        <div>
+                            <h3>Studio Volunteer</h3>
+                            <p>
+                                UNLIMITED FREE WITH CERTIFICATION
+                            </p>
+                            <div style="position: absolute; bottom: 2px; right: 10px;">
+                                <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
+                            </div>
+                        </div>
                     </div>
-                    <div class="flip-card-back card-body text-white text-center">
-                        <p>
+                    <div class="flip-card-back d-flex align-items-center justify-content-center text-white text-center">
+                        <p class="mx-3">
                             This short 15 minute course covers the basics of student safety and health for studio volunteers.
                         </p>
                     </div>
-                    {{--                <div class="card-footer">--}}
-                    {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
-                    {{--                </div>--}}
                 </div>
             </div>
             <div class="flip-card col-sm d-flex align-items-center">
-                <div class="rounded flip-card-inner py-5 m-2" style="background: #767784">
-                    {{--                <img src="..." class="card-img-top" alt="...">--}}
-                    <div class="flip-card-front card-body text-white text-center">
-                        <h3 class="card-title">Studio Guest Teacher</h3>
-                        <p>
-                            UNLIMITED FREE WITH CERTIFICATION
-                        </p>
+                <div class="rounded flip-card-inner" style="background: #767784; position: relative;">
+                    <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
+                        <div>
+                            <h3>Studio Guest Teacher</h3>
+                            <p>
+                                UNLIMITED FREE WITH CERTIFICATION
+                            </p>
+                            <div style="position: absolute; bottom: 2px; right: 10px;">
+                                <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
+                            </div>
+                        </div>
                     </div>
-                    <div class="flip-card-back card-body text-white text-center">
-                        <p>
+                    <div class="flip-card-back d-flex align-items-center justify-content-center text-white text-center">
+                        <p class="mx-3">
                             This 30 minute course helps guest teachers understand the baseline expectations of teaching in a YPAD™ Certified environment.
                         </p>
                     </div>
-                    {{--                <div class="card-footer">--}}
-                    {{--                    <small class="text-muted">Last updated 3 mins ago</small>--}}
-                    {{--                </div>--}}
                 </div>
             </div>
         </div>
