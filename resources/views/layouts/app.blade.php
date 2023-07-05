@@ -3,14 +3,14 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:title" content="">
-    <meta property="og:description" content="">
-    <meta property="og:image" content="">
-    <meta property="og:url" content="">
+    <meta property="og:title" content="Youth Protection Association For Dance">
+    <meta property="og:description" content="Helping Dance Industry Leaders Create Safeguarding Capacity-Building">
+    <meta property="og:image" content="https://ypadnow.com/images/ypad-logo.png">
+    <meta property="og:url" content="https://ypadnow.com">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="description" content="">
+    <meta name="description" content="Helping Dance Industry Leaders Create Safeguarding Capacity-Building">
 
-    <title>@yield('title', 'WIP YPAD')</title>
+    <title>@yield('title', 'Youth Protection Association For Dance')</title>
 
     <!-- Fonts -->
     <style>
