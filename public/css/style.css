@@ -267,5 +267,20 @@ p, div, .accordion-body { font-family: 'Inter', sans-serif; }
     transform: rotateY(180deg);
 }
 
+/* Fallback for Safari */
+@media not all and (min-resolution:.001dpcm) {
+    @media {
+        /* Disable the flip effect */
+        .flip-card-inner {
+            -webkit-transform: none !important;
+            transform: none !important;
+        }
+
+        /* Hide the back side */
+        .flip-card-back {
+            display: none;
+        }
+    }
+}
 
 /****** END FLIP CARD *********************/
