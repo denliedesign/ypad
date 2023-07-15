@@ -65,9 +65,9 @@
                 <br><br>
                 <span class="font-pop" style="font-size: 1.2em;">STEP TWO:</span> complete the YPAD™ Certified Studio Course, submit the reflections, and pass the knowledge checks with 90% proficiency. The YPAD&trade; Certified Studio Course takes approximately 8-10 hours to complete. Your staff must also complete the appropriate courses for their role during step two (teacher or admin). They, too, will submit reflections and must pass knowledge checks with 90% proficiency. Depending on the role, staff courses take approximately 2-4 hours to complete.
                 <br><br>
-                <span class="font-pop" style="font-size: 1.2em;">STEP THREE:</span> complete the external training and documentation submission requirements.
+                <span class="font-pop" style="font-size: 1.2em;">STEP THREE:</span> complete the external training and documentation submission requirements. Items with "*" indicate third-party provider and cost. Links to those programs are inside the course. Costs are listed below in the FAQ section.
                 <br><br>
-                When your course(s) are complete and all documentation is submitted, your YPAD™ Certified Studio status will be confirmed and designated. Your status will remain active in our directory of YPAD™ Certified Studios as long as you complete an annual renewal. Items with "*" indicate third-party provider and cost. Links to those programs are inside the course. Costs are listed below in the FAQ section.
+                When your course(s) are complete and all documentation is submitted, your YPAD™ Certified Studio status will be confirmed and designated. Your status will remain active in our directory of YPAD™ Certified Studios as long as you complete an annual renewal. Those who choose to become certified agree to self-regulation and to follow YPAD’s 5-tier accountability model.
             </div>
             <div class="col-lg d-flex justify-content-center">
                 <img src="/images/certification-steps.png" alt="graph" class="img-fluid">
