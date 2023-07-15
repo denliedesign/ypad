@@ -67,7 +67,7 @@
                 <br><br>
                 <span class="font-pop" style="font-size: 1.2em;">STEP THREE:</span> complete the external training and documentation submission requirements listed below. Items with "*" indicate third-party provider and cost. Links to those programs are inside the course. Costs are outlined in the FAQ section below.
                 <br><br>
-                When your course(s) are complete and all documentation is submitted, your YPAD™ Certified Studio status will be confirmed and designated. Your status will remain active in our directory of YPAD™ Certified Studios as long as you remain in good standing and complete an annual renewal. Those who choose to become certified agree to self-regulation and to follow YPAD’s 5-tier accountability model.
+                When your course(s) are complete and all documentation is submitted, your YPAD™ Certified Studio status will be confirmed and designated. Your status will remain active in our directory of YPAD™ Certified Studios as long as you remain in good standing and complete an annual renewal. If you choose to become certified, you are agreeing to self-regulation and to following YPAD’s 5-tier accountability model.
             </div>
             <div class="col-lg d-flex justify-content-center">
                 <img src="/images/certification-steps.png" alt="graph" class="img-fluid">
