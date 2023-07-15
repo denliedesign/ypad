@@ -170,7 +170,7 @@
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
                             <h2>
-                                Just like a dancer gets stronger over time, your studio safety practices can get better over time as well. There is a process to raising the standard of dancer well-being, and YPAD™ is here to help you achieve it.
+                                Just like a dancer gets stronger over time, your safety practices can get better over time as well. There is a process to raising the standard of dancer well-being, and YPAD™ is here to help you achieve it.
 {{--                                YPAD™'s position as an educational association is intended to help leaders create safeguarding capacity-building. According to the U.N., capacity-building is defined as developing and strengthening the skills, instincts, abilities, processes, and resources organizations need to thrive in a fast-changing world.--}}
                             </h2>
 {{--                            <p>--}}
@@ -388,6 +388,7 @@
                 <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/toronto-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/dance-teacher-web-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-unity.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-ndeo.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
             </div>
             <div>
                 <p class="text-center">
