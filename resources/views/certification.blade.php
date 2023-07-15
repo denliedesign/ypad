@@ -523,7 +523,7 @@
                 </h2>
                 <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
-                        Learner courses are audit-only courses for personal growth. Learner courses are open to the entire dance community. Learner courses do not require additional steps such as knowledge checks, or outside training and documentation, nor do they lead to certification. Learner courses are just as they sound: a place to learn.
+                        Education courses are audit-only courses for personal growth. Education courses are open to the entire dance community. Education courses do not require additional steps such as knowledge checks, or outside training and documentation, nor do they lead to certification. Education courses are just as they sound: a place to learn.
                         <br><br>
                         Certification is offered in three ways: YPAD™ Certified Individual, Studio, or Event. Certification begins with an application and requires background checks, CPR/AED and First Aid certification, Darkness to Light's Stewards of Children® training, live artistic integrity Zoom seminar, a Safeguarding Pledge, and commitment to our 5-tier Accountability model. Additional requirements apply to YPAD™ Certified Studios and Events, such as proof of insurance, emergency action planning, Youth Mental Health First Aid, and three sessions with a YPAD™ integration coach.
                     </div>
@@ -577,7 +577,7 @@
                         </button>
                     </h2>
                     <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-                        <div class="accordion-body">YPAD™ endorses the concept of continuing education and continuous improvement. Because of that, certification must be renewed annually. See the certification tab for details.</div>
+                        <div class="accordion-body">YPAD™ endorses the concept of continuing education and continuous improvement. Because of that, certification must be renewed annually.</div>
                     </div>
                 </div>
                 <div class="accordion-item">
@@ -608,7 +608,7 @@
                 </h2>
                 <div id="flush-collapseEight" class="accordion-collapse collapse" aria-labelledby="flush-headingEight" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
-                        YPAD&trade; Certified Individual Courses will be open late Summer 2023.
+                        YPAD&trade; Certified Individual Courses will be open late Summer / early Fall 2023.
                     </div>
                 </div>
             </div>
