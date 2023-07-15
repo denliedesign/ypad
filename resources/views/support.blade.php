@@ -193,7 +193,7 @@
                         <div class="text-white text-center">
                             <h3><strong>Do you have a concern?</strong></h3>
                             <h4>
-                                The mission of YPAD™ is to bring awareness and to provide guidance for one essential priority: the safety and health of dance students. If you are concerned with a YPAD™ certified individual, studio, or event, as it relates to the safety and health of students, please continue to the information below.
+                                The mission of YPAD™ is to bring awareness and to provide guidance for one essential priority: <strong>the safety and health of dance students.</strong> If you are concerned with a YPAD™ certified individual, studio, or event, as it relates to the safety and health of students, please continue to the information below.
                             </h4>
                         </div>
                     </div>
