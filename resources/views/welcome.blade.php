@@ -4,7 +4,9 @@
     <div style="background: #767784;" class="py-3 text-white d-flex justify-content-center align-items-center">
         <div class="container">
             <p class="my-0 py-0 text-center">
-                Now accepting studio certification renewals and new studio certification applications!
+                <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none text-white">
+                    Now accepting studio certification renewals and new studio certification applications!
+                </a>
             </p>
         </div>
     </div>

@@ -237,7 +237,7 @@
         </div>
     </div>
 
-    <div class="orange py-5 text-white">
+    <div class="orange pt-5 text-white">
         @include('_divider-top')
         <x-testimonial
             image="sammi.jpg"
