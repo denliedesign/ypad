@@ -172,7 +172,7 @@
         <p>
             Do you have a question or concern about a behavior you have observed or something that has been shared with you? Do you need support navigating an issue concerning artistic integrity or conflict resolution? YPAD™ Support provides a way for those who are YPAD™ Certified to request additional support from a YPAD™ Certified Coach or a referral to a YPAD™ Expert Connection. This is a free service for YPAD&trade; Certified Studios, Individuals, and Events.
             <br><br>
-            Please email info@ypadnow.com to request a waiver and be connected with one of our Support Service members. Please note that this service is monitored during our business hours, Monday through Friday, 9 am-3 pm Central Time.
+            Please email info@ypadnow.com to be connected with one of our Support Service members. Please note that this service is monitored during our business hours, Monday through Friday, 9 am-3 pm Central Time.
             <br><br>
             <em>YPAD&trade; Support does not take the place of a crisis hotline. Immediate or acute safety concerns should always be directed to your local emergency services or child welfare providers.</em>
         </p>
