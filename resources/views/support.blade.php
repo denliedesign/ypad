@@ -193,7 +193,7 @@
                         <div class="text-white text-center">
                             <h3><strong>Do you have a concern?</strong></h3>
                             <h4>
-                                The mission of YPAD™ is to bring awareness and to provide guidance for one essential priority: <strong>the safety and health of dance students.</strong> If you are concerned with a YPAD™ certified individual, studio, or event, as it relates to the safety and health of students, please continue to the information below.
+                                The mission of YPAD™ is to bring awareness and to provide guidance for one essential priority: <strong>the safety and health of dance students.</strong> If you have a concern with a YPAD™ certified individual, studio, or event, as it relates to the safety and health of students, please continue to the information below.
                             </h4>
                         </div>
                     </div>
@@ -208,9 +208,9 @@
                 <h2 class="text-center">YPAD™’s 5-Tier Approach To Accountability</h2>
                 {{--                <p class="text-center">as·so·ci·a·tion <br> <small class="text-muted">noun</small></p>--}}
                 <p class="text-center">
-                    YPAD™ has established certain standards related to our Certification, which includes procedures for addressing concerns. Please carefully consider your concern before submitting, and be advised that it takes more than a mere disagreement with a YPAD™ Certified Studio, Individual, or Event to justify a review. Please be advised that any concern must include documentation, evidence, and/or other information to support your claim.
+                    YPAD™ has established certain standards related to our certification, which includes procedures for addressing concerns. Please carefully consider your concern before submitting, and be advised that it takes more than a mere disagreement with a YPAD™ Certified Individual, Studio, or Event to justify a review. Please be advised that any concern must include documentation, evidence, and/or other information to support your concern.
                     <br><br>
-                    The link below provides a way to share anonymous concerns which are reviewed internally. If deemed appropriate, YPAD™ will request a dialogue call with the subject of the concern. Additional steps may be taken according to YPAD™’s 5-tier accountability model.
+                    The Share A Concern link provides a way to share anonymous concerns which are reviewed internally. If deemed appropriate, YPAD™ will request a dialogue call with the subject of the concern. Additional steps may be taken according to YPAD™’s 5-tier accountability model.
                     <br><br>
                     Internal reviews are confidential, and as such, YPAD™ does not provide the person who shared the concern with any information regarding actions YPAD™ may or may not take in regard to the person or organization named in the concern.
                 </p>
@@ -218,13 +218,13 @@
             <div class="col-sm">
                 <ol>
                     <li>
-                        <strong>Iterative Improvement:</strong> For example, perhaps a photo is shared or a song is played that raises artistic integrity concerns. YPAD™ will provide feedback to the Certified person or organization can make a better choice next time.
+                        <strong>Iterative Improvement:</strong> For example, perhaps a photo is shared or a song is played that raises artistic integrity concerns. YPAD™ will provide feedback to the certified individual or organization can make a better choice next time.
                     </li>
                     <li>
-                        <strong>Focused Fix:</strong> If there are repetitive concerns shared of the same nature, YPAD™ will ask for a demonstration or documentation that the concern has been addressed at the policy or personnel level.
+                        <strong>Focused Fix:</strong> If there are repetitive concerns shared of the same nature, YPAD™ will ask for a demonstration or documentation that the concern has been addressed at a practice, policy, or personnel level.
                     </li>
                     <li>
-                        <strong>Review & Referral:</strong> Repetitive or mid-stakes issues may require the support of YPAD™ experts or a review of YPAD™ Certification materials and information to understand why the reported concern requires change.
+                        <strong>Review & Referral:</strong> Repetitive or mid-stakes issues may require the support of a YPAD™ Certified Coach or Expert Connection, or a review of YPAD™ Certification materials and information to understand why the reported concern requires change.
                     </li>
                     <li>
                         <strong>Suspension & Probation:</strong> High-stakes issues such as abuse allegations initiate immediate suspension pending internal review, followed by a probationary reinstatement period or termination.
