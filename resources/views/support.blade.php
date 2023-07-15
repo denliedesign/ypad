@@ -224,7 +224,7 @@
                         <strong>Focused Fix:</strong> If there are repetitive concerns shared of the same nature, YPAD™ will ask for a demonstration or documentation that the concern has been addressed at a practice, policy, or personnel level.
                     </li>
                     <li>
-                        <strong>Review & Referral:</strong> Repetitive or mid-stakes issues may require the support of a YPAD™ Certified Coach or Expert Connection, or a review of YPAD™ Certification materials and information to understand why the reported concern requires change.
+                        <strong>Review & Referral:</strong> Repetitive or mid-stakes issues may require the support of a YPAD™ Certified Coach or a YPAD™ Expert Connection, or a review of YPAD™ Certification materials and information to understand why the reported concern requires change.
                     </li>
                     <li>
                         <strong>Suspension & Probation:</strong> High-stakes issues such as abuse allegations initiate immediate suspension pending internal review, followed by a probationary reinstatement period or termination.
