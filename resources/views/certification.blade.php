@@ -118,7 +118,7 @@
     <div class="container py-5">
         <div class="row" id="about-checkmarks">
             <p class="text-center">
-                After your application is accepted and you complete the YPAD™ Certified Studio Course, submit the reflections, and pass the knowledge checks with 90% proficiency, it is time to move on to step 3: external training and documentation step.
+                After your application is accepted and you complete the YPAD™ Certified Studio Course, submit the reflections, and pass the knowledge checks with 90% proficiency, it is time to move on to STEP THREE: external training and documentation.
             </p>
             <div class="col-sm my-3">
                 <div>
