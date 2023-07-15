@@ -35,7 +35,7 @@
             <p class="text-center">
                 YPAD&trade; offers a wealth of resources and training programs to support you in your pursuit of safety and wellness Education and walking out your Certification. Even so, from time to time you may encounter challenges that require extra support. That’s what this page is for. Together, we can equip ourselves and our students with the tools they need to dance with confidence, joy, and, above all, safety.
                 <br><br>
-                The YPAD™ Support page provides three vital purposes outlined below:
+                <strong>The YPAD™ Support page provides three vital purposes outlined below:</strong>
             </p>
         </div>
     </div>
@@ -85,7 +85,7 @@
                     <p class="text-center">
                         YPAD™ does not operate a hotline or take the place of emergency services.
                         <br><br>
-                        If you are in crisis, in imminent danger to yourself or others, or in need of immediate support, contact one of the national hotlines below or your local emergency service.
+                        If you are in crisis, in imminent danger to yourself or others, or in need of immediate support, contact one of the national hotlines or call 911 for your local emergency service.
                     </p>
                 </div>
             </div>
