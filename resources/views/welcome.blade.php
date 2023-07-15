@@ -20,6 +20,27 @@
         </div>
     </div>
 
+    <div class="orange py-5">
+        @include('_divider-bottom')
+        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
+        <div class="container d-flex justify-content-center align-items-center py-5">
+            <div class="row mt-3">
+                <div class="col-sm">
+                    <div class="d-flex align-items-center" style="height: 100%;">
+                        <div class="text-white text-center">
+                            <h2>
+                                YPAD™'s position as an educational association is intended to help leaders create safeguarding capacity-building. According to the U.N., capacity-building is defined as developing and strengthening the skills, instincts, abilities, processes, and resources organizations need to thrive in a fast-changing world.
+                            </h2>
+                            <p>
+                                In other words, we want to help you make room for learning and growth when it comes to developing a safer and healthier dance environment that protects kids from harm and empowers them with confidence.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="py-5">
         <div class="container">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
@@ -148,14 +169,14 @@
             <div class="row mt-3">
                 <div class="col-sm">
                     <div class="d-flex align-items-center" style="height: 100%;">
-                        <div class="text-white text-center">
-                            <h2>
-                                YPAD™'s position as an educational association is intended to help leaders create safeguarding capacity-building. According to the U.N., capacity-building is defined as developing and strengthening the skills, instincts, abilities, processes, and resources organizations need to thrive in a fast-changing world.
-                            </h2>
-                            <p>
-                                In other words, we want to help you make room for learning and growth when it comes to developing a safer and healthier dance environment that protects kids from harm and empowers them with confidence.
-                            </p>
-                        </div>
+{{--                        <div class="text-white text-center">--}}
+{{--                            <h2>--}}
+{{--                                YPAD™'s position as an educational association is intended to help leaders create safeguarding capacity-building. According to the U.N., capacity-building is defined as developing and strengthening the skills, instincts, abilities, processes, and resources organizations need to thrive in a fast-changing world.--}}
+{{--                            </h2>--}}
+{{--                            <p>--}}
+{{--                                In other words, we want to help you make room for learning and growth when it comes to developing a safer and healthier dance environment that protects kids from harm and empowers them with confidence.--}}
+{{--                            </p>--}}
+{{--                        </div>--}}
                     </div>
                 </div>
             </div>
