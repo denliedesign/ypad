@@ -23,8 +23,8 @@
     <div class="orange py-5">
         @include('_divider-bottom')
         <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
-        <div class="container d-flex justify-content-center align-items-center py-5">
-            <div class="row mt-3">
+        <div class="container d-flex justify-content-center align-items-center">
+            <div class="row">
                 <div class="col-sm">
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
@@ -131,8 +131,7 @@
                         </div>
                         <p class="fw-bold text-center py-0 my-0">WHAT YPAD™ IS</p>
                         <p class="text-center py-0 my-0">
-                            YPAD™ exists to help create optimal environments in dance for all participants by bringing the foundations of core health and safety topics to the dance community. Our extensive resources support implementing best practices and guidance in dance education. YPAD™ is supported by educators, subject matter experts, professionals, and collaborators who share their expertise through our education and certification models and ongoing coaching to benefit the dance community.
-                        </p>
+                            YPAD™ exists to help create optimal environments in dance for all participants by bringing the foundations of health and safety topics to the dance community. Our extensive resources support implementing best practices in dance education. YPAD™ is supported by educators, subject matter experts, professionals, and collaborators who share their expertise through our education and certification models, as well as ongoing coaching to benefit the dance community. Those who choose to become certified agree to self-regulation and to follow YPAD’s 5-tier accountability model.                        </p>
                     </div>
                 </div>
                 <div class="col-sm">
@@ -169,14 +168,15 @@
             <div class="row mt-3">
                 <div class="col-sm">
                     <div class="d-flex align-items-center" style="height: 100%;">
-{{--                        <div class="text-white text-center">--}}
-{{--                            <h2>--}}
+                        <div class="text-white text-center">
+                            <h2>
+                                Just like a dancer gets stronger over time, your studio safety practices can get better over time as well. There is a process to raising the standard of dancer well-being, and YPAD™ is here to help you achieve it.
 {{--                                YPAD™'s position as an educational association is intended to help leaders create safeguarding capacity-building. According to the U.N., capacity-building is defined as developing and strengthening the skills, instincts, abilities, processes, and resources organizations need to thrive in a fast-changing world.--}}
-{{--                            </h2>--}}
+                            </h2>
 {{--                            <p>--}}
 {{--                                In other words, we want to help you make room for learning and growth when it comes to developing a safer and healthier dance environment that protects kids from harm and empowers them with confidence.--}}
 {{--                            </p>--}}
-{{--                        </div>--}}
+                        </div>
                     </div>
                 </div>
             </div>
