@@ -274,7 +274,7 @@
                         <div class="text-white text-center">
                             <h2 class="text-uppercase text-center mt-5">READY TO BECOME A YPAD™ CERTIFIED STUDIO?</h2>
                             <p class="text-center">Now accepting studio certification renewals and new studio certification applications!
-                                <br>YPAD&trade; Certified Individual courses will be open in late Summer 2023.
+                                <br>YPAD&trade; Certified Individual courses will be open in late Summer / early Fall 2023.
                             </p>
                             <div class="d-flex justify-content-center">
                                 <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none">
