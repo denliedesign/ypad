@@ -391,9 +391,6 @@
                 <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/dance-teacher-web-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-unity.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%)"></div>
                 <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-ndeo.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm"></div>
-                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-stein.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm"></div>
             </div>
             <div>
                 <p class="text-center">
