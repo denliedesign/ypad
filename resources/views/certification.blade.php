@@ -35,7 +35,7 @@
             <p>
                 The YPAD™ Certification process was created to help individuals, studio owners, event owners, and their staff gain the tools and practice the knowledge for safeguarding capacity-building.
                 Pursuing YPAD™ Certification shows your commitment to safeguarding children and empowering confident adults.
-                <br><br>Much like a dance education, a YPAD™ Certified Studio designation requires an investment of time, patience, hard work, and financial resources. Just like a dancer gets stronger over time, your studio safety practices can get better over time as well. There is a process to raising the standard of dancer well-being, and YPAD™ is here to help you achieve it. Those who choose to become certified agree to self-regulation and to follow YPAD’s 5-tier accountability model.
+                <br><br>Much like a dance education, a YPAD™ Certified Studio designation requires an investment of time, patience, hard work, and financial resources. Just like a dancer gets stronger over time, your safety practices can get better over time as well. There is a process to raising the standard of dancer well-being, and YPAD™ is here to help you achieve it. Those who choose to become certified agree to self-regulation and to follow YPAD’s 5-tier accountability model.
                 <br><br>
                 <strong>
                     YPAD&trade; Certified Studio Owner Courses are open now. YPAD&trade; Certified Individual Courses will be open in late Summer / early Fall 2023. Education courses will be available in the Fall of 2023.
