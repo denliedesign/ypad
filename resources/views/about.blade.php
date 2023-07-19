@@ -212,9 +212,9 @@
     </div>
 
     <div>
-        <img src="/images/about-portraits-1.png" alt="contributor portraits" style="width: 100%; height: auto;">
-        <img src="/images/about-portraits-2.png" alt="contributor portraits" style="width: 100%; height: auto;">
-        <img src="/images/about-portraits-3.png" alt="contributor portraits" style="width: 100%; height: auto;">
+        <img src="/images/about-1.png" alt="contributor portraits" style="width: 100%; height: auto;">
+        <img src="/images/about-2.png" alt="contributor portraits" style="width: 100%; height: auto;">
+        <img src="/images/about-3.png" alt="contributor portraits" style="width: 100%; height: auto;">
     </div>
 
     <div class="py-5 container">
