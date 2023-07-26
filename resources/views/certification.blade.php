@@ -284,7 +284,7 @@
                             <ion-icon name="checkmark-circle"></ion-icon>
                         </div>
                         <div class="col-11">
-                            Attendance at a live two-hour training regarding artistic integrity, plus three integration calls with a YPAD™ coach within the first three months of certification. Staff are encouraged to attend the live training.
+                            Attendance at a live two-hour training via zoom regarding artistic integrity, plus three integration calls with your YPAD™ coach within the first year of earning your certification designation. Staff are also encouraged to attend the live training.
                         </div>
                     </div>
                 </div>
