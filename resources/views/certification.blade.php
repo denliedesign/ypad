@@ -101,7 +101,7 @@
             <div class="row my-2">
                 <x-orange
                     image="amy.png"
-                    name="AMY YARO"
+                    name="AMI YARO"
                     title="Studio Owner, Iowa"
                     quote="I'm a studio owner, but I wanted to start with individual certification first. This allowed me to get to know the program through monthly Community Connection Calls and to implement best practices in my studio. This program has given me a community of like-minded dance professionals who choose to put the wellness and safety of their students as a top priority. I’m eager to get my entire studio certified next!"
                 />
