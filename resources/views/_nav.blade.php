@@ -36,6 +36,14 @@
                     <a class="nav-link" href="/support">Support</a>
                 </li>
             </ul>
+            <div class="d-flex justify-content-center">
+                <div>
+                    <a href="https://ypad.thinkific.com/users/sign_in" class="text-decoration-none" target="_blank">
+                        <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Already enrolled?</div>
+                    </a>
+                    <small class="text-muted">Click here to access your courses</small>
+                </div>
+            </div>
         </div>
     </div>
 </nav>

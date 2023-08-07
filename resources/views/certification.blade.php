@@ -124,8 +124,7 @@
                 <div>
                     <h2 class="text-center">Documentation requirements for individual certification</h2>
                     <p class="text-center">
-                        The following external actions and trainings must be completed and submitted. Items with an "*" indicate third-party provider and cost. Links to those programs are in the course. Costs are listed below in the FAQ section.
-                    </p>
+                        The following external actions and training must be completed and submitted. Items with an "*" indicate third-party provider, additional required time commitment, and cost. Links to those programs are in the course. Costs and time commitment are listed below in the FAQ section.                    </p>
                 </div>
                 <div class="mt-5">
                     <div class="row">
@@ -537,13 +536,13 @@
                 </h2>
                 <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
-                        Background checks are $25-29 per person and are renewed every two years.
+                        Background checks are $25-29 per person and are renewed every two years. Background checks must be applied for individually. TIP: when applying for a background check, select the box that asks if you would like a copy of your results. YPAD no longer provides a link for requesting background checks via Intellicorp.  Please refer to your employer or email info@ypadnow.com for questions.
                         <br><br>
-                        CPR/AED and First Aid certification ranges from $35-55 per person and is renewed every two years.
+                        CPR/AED and First Aid certification ranges from $35-55 per person for online training. For the purpose of YPAD certification, we accept the online completion certificate. In-person training may be required for you to be OSHA compliant, so please refer to the licensing agency for details. CPR/AED and First Aid takes approximately three hours online to complete and must be renewed every two years.
                         <br><br>
-                        Darkness to Light's Stewards of Children® training is $10 per person and is renewed every two years.
+                        Darkness to Light's Stewards of Children® (D2L) training is $10 per person and only needs to be completed once. A link to access this training is located in your certification course. D2L training is an asynchronous online course. It can be completed at any time and takes approximately two hours to complete.
                         <br><br>
-                        Youth Mental Health First Aid certification is $50 and is only required for the studio owner.
+                        Youth Mental Health First Aid (YMHFA) certification is $75, is only required for the studio owner, and only needs to be completed once.  A link to register is located in your studio owner course. YMHFA training is live online training that is offered once every 3 months and takes approximately 6.5 hours to complete.
                     </div>
                 </div>
             </div>
