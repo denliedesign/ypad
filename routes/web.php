@@ -17,7 +17,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-
+Route::get('/subscribe', function () {
+    return view('/subscribe');
+});
 Route::get('/about', function () {
     return view('/about');
 });

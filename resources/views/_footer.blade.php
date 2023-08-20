@@ -33,9 +33,8 @@
                     Add your email to the mailing list to get the latest YPAD™ updates.
                 </p>
                 <div class="d-flex justify-content-start">
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScmFcYgp9eyaZLmNYJYzx9vjdxZ6RzPmcuUYkKUiDej-6D7KA/viewform" class="text-decoration-none" target="_blank">
-                        <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Subscribe</div>
-                    </a>
+                    <a href="/subscribe" class="text-decoration-none"><div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Subscribe</div></a>
+{{--                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScmFcYgp9eyaZLmNYJYzx9vjdxZ6RzPmcuUYkKUiDej-6D7KA/viewform" class="text-decoration-none" target="_blank"></a>--}}
                 </div>
 {{--                <form>--}}
 {{--                    <div class="mb-3">--}}
