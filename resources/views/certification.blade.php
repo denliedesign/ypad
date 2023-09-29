@@ -38,7 +38,7 @@
                 <br><br>Much like a dance education, a YPAD™ Certified Studio designation requires an investment of time, patience, hard work, and financial resources. Just like a dancer gets stronger over time, your safety practices can get better over time as well. There is a process to raising the standard of dancer well-being, and YPAD™ is here to help you achieve it. Those who choose to become certified agree to self-regulation and to follow YPAD’s 5-tier accountability model.
                 <br><br>
                 <strong>
-                    YPAD&trade; Certified Studio Owner Courses are open now. YPAD&trade; Certified Individual Courses will be open in late Summer / early Fall 2023. Education courses will be available in the Fall of 2023.
+                    YPAD&trade; Certified Studio Owner Courses are open now. Certified Individual and Education only courses will be available this Fall.
                 </strong>
             </p>
         </div>
@@ -61,7 +61,7 @@
         <p class="fw-bold">It all starts here: with you, the studio owner, and these three steps.</p>
         <div class="row">
             <div class="col-lg">
-                <span class="font-pop" style="font-size: 1.2em;">STEP ONE:</span> submit an application for your studio. The application is located at the bottom of this page. Once your application is approved (1-2 business days), you will receive an email with access to the order form.
+                <span class="font-pop" style="font-size: 1.2em;">STEP ONE:</span> submit an application for your studio. The application is located at the bottom of this page. Once your application is approved (5-7 business days), you will receive an email with access to the order form.
                 <br><br>
                 <span class="font-pop" style="font-size: 1.2em;">STEP TWO:</span> complete the YPAD™ Certified Studio Course, submit the reflections, and pass the knowledge checks with 90% proficiency. The YPAD&trade; Certified Studio Course takes approximately 8-10 hours to complete. Your staff must also complete the appropriate courses for their role during step two (teacher or admin). They, too, will submit reflections and must pass knowledge checks with 90% proficiency. Depending on the role, staff courses take approximately 2-4 hours to complete.
                 <br><br>
@@ -540,7 +540,7 @@
                         <br><br>
                         CPR/AED and First Aid certification ranges from $35-55 per person for online training. For the purpose of YPAD certification, we accept the online completion certificate. In-person training may be required for you to be OSHA compliant, so please refer to the licensing agency for details. CPR/AED and First Aid takes approximately three hours online to complete and must be renewed every two years.
                         <br><br>
-                        Darkness to Light's Stewards of Children® (D2L) training is $10 per person and only needs to be completed once. A link to access this training is located in your certification course. D2L training is an asynchronous online course. It can be completed at any time and takes approximately two hours to complete.
+                        Darkness to Light's Stewards of Children® (D2L) training is $10 per person and only needs to be completed once. A link to access this training is located in your certification course. D2L training is an asynchronous online course. It can be completed at any time and takes approximately two hours to complete. Starting in December 2023, the NEW Stewards of Children® course will be $16/person
                         <br><br>
                         Youth Mental Health First Aid (YMHFA) certification is $75, is only required for the studio owner, and only needs to be completed once.  A link to register is located in your studio owner course. YMHFA training is live online training that is offered once every 3 months and takes approximately 6.5 hours to complete.
                     </div>
