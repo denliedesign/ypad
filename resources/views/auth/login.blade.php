@@ -31,6 +31,7 @@
         </div>
 
         <div class="d-flex justify-content-end align-items-center mt-4">
+
             @if (Route::has('password.request'))
                 <a class="text-decoration-none underline text-sm text-gray-600 hover-text-gray-900 rounded-md focus-outline-none focus-ring-2 focus-ring-offset-2 focus-ring-indigo-500" href="{{ route('password.request') }}">
                     {{ __('Forgot your password?') }}
@@ -42,4 +43,10 @@
             </x-primary-button>
         </div>
     </form>
+    <div class="mt-4">
+        <!-- Link to Registration Page -->
+        <a href="{{ route('register') }}" class="text-decoration-none underline text-sm text-gray-600 hover-text-gray-900 rounded-md focus-outline-none focus-ring-2 focus-ring-offset-2 focus-ring-indigo-500">
+            {{ __('Don\'t have an account? Register here') }}
+        </a>
+    </div>
 </x-guest-layout>
