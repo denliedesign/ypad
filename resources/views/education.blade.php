@@ -36,8 +36,8 @@
                 At YPAD™, we understand the crucial role adults play in shaping the lives of youth dancers. That’s why YPAD™ believes education in safeguarding capacity-building should be available to everyone, even if they are not seeking certification.
                 <br><br>
                 Whether you are an individual, studio owner, parent, dance professional, leader of a dance organization, or college director, we encourage you to engage with the various materials, links, and courses on our Education page.
-                <br><br>
-                Education courses are just as they sound: a place to learn. Education courses will be available in the Fall of 2023.
+{{--                <br><br>--}}
+{{--                Education courses are just as they sound: a place to learn. Education courses will be available in the Fall of 2023.--}}
             </p>
         </div>
     </div>
@@ -191,7 +191,7 @@
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
             <div class="col-sm my-3 py-3" style="background: #067997;">
                 <div class="d-flex justify-content-center align-items-center text-center text-white mx-5" style="height: 100%;">
-                    <h2 class="text-uppercase">YPAD™ ALSO SERVES THE DANCE COMMUNITY IS BY OFFERING FREE COLLEGE SEMINARS FOR DANCE MAJORS</h2>
+                    <h2 class="text-uppercase">YPAD™ ALSO SERVES THE DANCE COMMUNITY BY OFFERING FREE COLLEGE SEMINARS FOR DANCE MAJORS</h2>
                 </div>
             </div>
             <div class="col-sm my-3">
