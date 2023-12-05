@@ -2,6 +2,19 @@
     <!-- Session Status -->
     <x-auth-session-status class="mb-4" :status="session('status')" />
 
+    <div class="mb-4">
+        <h2 class="text-center">Welcome back to our FREE Ready Resources page!</h2>
+        <p class="text-center">
+            Please login to access your unlimited downloads.
+            <br>Check back frequently for newly added resources!
+            <br>
+            <!-- Link to Registration Page -->
+            <a href="{{ route('register') }}" class="text-decoration-none underline text-sm text-gray-600 hover-text-gray-900 rounded-md focus-outline-none focus-ring-2 focus-ring-offset-2 focus-ring-indigo-500">
+                {{ __('Don\'t have an account? Register here') }}
+            </a>
+        </p>
+    </div>
+
     <form method="POST" action="{{ route('login') }}">
     @csrf
 
@@ -43,10 +56,4 @@
             </x-primary-button>
         </div>
     </form>
-    <div class="mt-4">
-        <!-- Link to Registration Page -->
-        <a href="{{ route('register') }}" class="text-decoration-none underline text-sm text-gray-600 hover-text-gray-900 rounded-md focus-outline-none focus-ring-2 focus-ring-offset-2 focus-ring-indigo-500">
-            {{ __('Don\'t have an account? Register here') }}
-        </a>
-    </div>
 </x-guest-layout>

@@ -1,4 +1,11 @@
 <x-guest-layout>
+    <div>
+        <h2 class="text-center">Thanks for your interest in our FREE Ready Resources!</h2>
+        <p class="text-center">
+            Please submit your information here to receive unlimited access and to be added to our mailing list.
+            <br>Check back frequently for newly added downloads!
+        </p>
+    </div>
     <form method="POST" action="{{ route('register') }}">
         @csrf
 
