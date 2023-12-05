@@ -45,72 +45,130 @@
     <div class="orange py-5 text-white">
         @include('_divider-top')
         @include('_divider-bottom')
-        <x-testimonial
-            image="edu-tiffany-2.jpg"
-            quote="As a studio owner and former professional dancer, I believe it's essential that everyone in the dance industry–from parents to professionals– have access to education and information to help support healthy dance experiences for kids. YPAD™ makes education accessible to everyone."
-            person="Tiffany Prout-Leitao"
-            place="Center Stage Dance Academy, MA"
-        />
+        <div class="container pt-5">
+            <div class="row py-5" id="about-checkmarks">
+                <div class="col-sm">
+                    <h2 class="text-center">Education empowers</h2>
+                    <p class="text-center">
+                        Why is safety and wellness education vital?
+                        <br><br>
+                        Adults hold the responsibility of safeguarding the well-being of young dancers under your guidance. By equipping yourself with more knowledge on dance-related health and safety practices, you can create a secure space where dancers can thrive and explore their passion without unnecessary risks. By prioritizing the overall well-being of young dancers, you'll empower them to excel in dance and lead balanced and fulfilling lives.
+                        <br><br>
+                        Our team of experienced instructors, well-versed in dance science, injury prevention, and youth well-being, delivers engaging workshops, seminars, and online courses. These programs provide practical insights, evidence-based knowledge, and innovative teaching methodologies that you can immediately implement in your role.
+                        <br><br>
+                        YPAD™Educational courses and seminars do not lead to YPAD™ Certification but enhance professional and personal development!
+                    </p>
+                </div>
+                <div class="col-sm d-flex align-items-center justify-content-center">
+                    <div>
+                        <div class="row">
+                            <div class="col-1">
+                                <ion-icon name="checkmark-circle"></ion-icon>
+                            </div>
+                            <div class="col-11">
+                                Student Seminars
+                            </div>
+                            <hr class="my-3">
+                        </div>
+                        <div class="row">
+                            <div class="col-1">
+                                <ion-icon name="checkmark-circle"></ion-icon>
+                            </div>
+                            <div class="col-11">
+                                Parent Seminars
+                            </div>
+                            <hr class="my-3">
+                        </div>
+                        <div class="row">
+                            <div class="col-1">
+                                <ion-icon name="checkmark-circle"></ion-icon>
+                            </div>
+                            <div class="col-11">
+                                College Seminars for Emerging Professionals
+                            </div>
+                            <hr class="my-3">
+                        </div>
+                        <div class="row">
+                            <div class="col-1">
+                                <ion-icon name="checkmark-circle"></ion-icon>
+                            </div>
+                            <div class="col-11">
+                                Seminars for Dance Organizations
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="container py-5">
-        <div class="row" id="about-checkmarks">
-            <div class="col-sm">
-                <h2 class="text-center">Education empowers</h2>
+        <div class="d-flex justify-content-center align-items-center">
+            <div>
+                <h2 class="text-uppercase text-center">FREE RESOURCES</h2>
                 <p class="text-center">
-                    Why is safety and wellness education vital?
-                    <br><br>
-                    Adults hold the responsibility of safeguarding the well-being of young dancers under your guidance. By equipping yourself with more knowledge on dance-related health and safety practices, you can create a secure space where dancers can thrive and explore their passion without unnecessary risks. By prioritizing the overall well-being of young dancers, you'll empower them to excel in dance and lead balanced and fulfilling lives.
-                    <br><br>
-                    Our team of experienced instructors, well-versed in dance science, injury prevention, and youth well-being, delivers engaging workshops, seminars, and online courses. These programs provide practical insights, evidence-based knowledge, and innovative teaching methodologies that you can immediately implement in your role.
-                    <br><br>
-                    YPAD™Educational courses and seminars do not lead to YPAD™ Certification but enhance professional and personal development!
+                    Not ready to take a course or become YPAD™ yet? That's okay, we are still here to help you get started on your journey. The following downloads are free so you can begin taking tangible steps toward healthier businesses and safer classrooms today! Please share with your friends and colleagues. As the saying goes, "A rising tide floats all boats." Every extra measure of safeguarding capacity-building in the dance community helps make the future better for our students.
+                    Revisit this page throughout the school year to find updated and new resources.
                 </p>
-            </div>
-            <div class="col-sm d-flex align-items-center justify-content-center">
                 <div>
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
+                    <div class="row row-cols-2 row-cols-sm-2 row-cols-md-4 row-cols-lg-4">
+                        <div class="col-sm my-2">
+                            <div class="d-flex justify-content-center mx-2">
+{{--                                <a href="/images/resource-costume.pdf" class="text-decoration-none">--}}
+                                <a href="/resources" class="text-decoration-none">
+                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Costuming for confidence</button>
+                                </a>
+                            </div>
                         </div>
-                        <div class="col-11">
-                            Student Seminars
+                        <div class="col-sm my-2">
+                            <div class="d-flex justify-content-center mx-2">
+{{--                                <a href="/images/resource-hair.pdf" class="text-decoration-none">--}}
+                                <a href="/resources" class="text-decoration-none">
+                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Importance of inclusive hairstyles</button>
+                                </a>
+                            </div>
                         </div>
-                        <hr class="my-3">
-                    </div>
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
+                        <div class="col-sm my-2">
+                            <div class="d-flex justify-content-center mx-2">
+                                <a href="/resources" class="text-decoration-none">
+                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Gross motor skill milestones</button>
+                                </a>
+                            </div>
                         </div>
-                        <div class="col-11">
-                            Parent Seminars
+                        <div class="col-sm my-2">
+                            <div class="d-flex justify-content-center mx-2">
+                                <a href="/resources" class="text-decoration-none">
+                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Building mental strength</button>
+                                </a>
+                            </div>
                         </div>
-                        <hr class="my-3">
-                    </div>
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
+                        <div class="col-sm my-2">
+                            <div class="d-flex justify-content-center mx-2">
+                                <a href="/resources" class="text-decoration-none">
+                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Understanding age compression</button>
+                                </a>
+                            </div>
                         </div>
-                        <div class="col-11">
-                            College Seminars for Emerging Professionals
+                        <div class="col-sm my-2">
+                            <div class="d-flex justify-content-center mx-2">
+                                <a href="/resources" class="text-decoration-none">
+                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">A body positive environment</button>
+                                </a>
+                            </div>
                         </div>
-                        <hr class="my-3">
-                    </div>
-{{--                    <div class="row">--}}
-{{--                        <div class="col-1">--}}
-{{--                            <ion-icon name="checkmark-circle"></ion-icon>--}}
-{{--                        </div>--}}
-{{--                        <div class="col-11">--}}
-{{--                            Topical Online Courses for Dance Professionals--}}
-{{--                        </div>--}}
-{{--                        <hr class="my-3">--}}
-{{--                    </div>--}}
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
+                        <div class="col-sm my-2">
+                            <div class="d-flex justify-content-center mx-2">
+                                <a href="/resources" class="text-decoration-none">
+                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Safe movement in dance</button>
+                                </a>
+                            </div>
                         </div>
-                        <div class="col-11">
-                            Seminars for Dance Organizations
+                        <div class="col-sm my-2">
+                            <div class="d-flex justify-content-center mx-2">
+                                <a href="/resources" class="text-decoration-none">
+                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Best practices for hiring</button>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -121,74 +179,12 @@
     <div class="orange py-5">
         @include('_divider-top')
         @include('_divider-bottom')
-        <div class="container d-flex justify-content-center align-items-center py-5">
-            <div>
-                <h2 class="text-uppercase text-center text-white">FREE RESOURCES</h2>
-                <p class="text-center text-white">
-                    Not ready to take a course or become YPAD™ yet? That's okay, we are still here to help you get started on your journey. The following downloads are free so you can begin taking tangible steps toward healthier businesses and safer classrooms today! Please share with your friends and colleagues. As the saying goes, "A rising tide floats all boats." Every extra measure of safeguarding capacity-building in the dance community helps make the future better for our students.
-                    Revisit this page throughout the school year to find updated and new resources.
-                </p>
-                <div>
-{{--                    <ol class="text-white">--}}
-{{--                        <li class="my-2">--}}
-{{--                            <a style="color: #067997;" href="/images/resource-employee-checklist.pdf" target="_blank">--}}
-{{--                                <h4>Checklist for onboarding a new employee</h4>--}}
-{{--                            </a>--}}
-{{--                        </li>--}}
-{{--                        <li class="my-2">--}}
-{{--                            <a style="color: #067997;" href="/images/resource-social-checklist.pdf" target="_blank">--}}
-{{--                                <h4>Checklists for social media policies</h4>--}}
-{{--                            </a>--}}
-{{--                        </li>--}}
-{{--                        <li class="my-2">--}}
-{{--                            <a style="color: #067997;" href="/images/resource-bully.pdf" target="_blank">--}}
-{{--                                <h4>Is it bullying?</h4>--}}
-{{--                            </a>--}}
-{{--                        </li>--}}
-{{--                        <li class="my-2">--}}
-{{--                            <a style="color: #067997;" href="/images/resource-costume.pdf" target="_blank">--}}
-{{--                                <h4>Costuming for confidence</h4>--}}
-{{--                            </a>--}}
-{{--                        </li>--}}
-{{--                        <li class="my-2">--}}
-{{--                            <a style="color: #067997;" href="/images/resource-hair.pdf" target="_blank">--}}
-{{--                                <h4>The importance of inclusive hairstyles</h4>--}}
-{{--                            </a>--}}
-{{--                        </li>--}}
-{{--                    </ol>--}}
-                    <div class="row">
-                        <div class="col-sm"></div>
-                        <div class="col-sm my-2">
-                            <div class="d-flex justify-content-center mx-2">
-                                <a href="/images/resource-costume.pdf" class="text-decoration-none">
-                                    <div class="fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Costuming for confidence</div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-sm my-2">
-                            <div class="d-flex justify-content-center mx-2">
-                                <a href="/images/resource-hair.pdf" class="text-decoration-none">
-                                    <div class="fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Importance of inclusive hairstyles</div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-sm"></div>
-                    </div>
-                </div>
-            </div>
-{{--            <div class="row mt-3">--}}
-{{--                <div class="col-sm">--}}
-{{--                    <div class="d-flex align-items-center" style="height: 100%;">--}}
-{{--                        <div class="text-white text-center">--}}
-{{--                            <h2 class="text-uppercase">Start your learning journey today!</h2>--}}
-{{--                            <div class="d-flex justify-content-center">--}}
-{{--                                <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Get Started Now</div>--}}
-{{--                            </div>--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-        </div>
+        <x-testimonial
+            image="edu-tiffany-2.jpg"
+            quote="As a studio owner and former professional dancer, I believe it's essential that everyone in the dance industry–from parents to professionals– have access to education and information to help support healthy dance experiences for kids. YPAD™ makes education accessible to everyone."
+            person="Tiffany Prout-Leitao"
+            place="Center Stage Dance Academy, MA"
+        />
     </div>
 
     <div class="py-5 container">

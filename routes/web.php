@@ -2,7 +2,7 @@
 
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
-
+use App\Models\User;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -17,6 +17,20 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/admin', function () {
+    if (auth()->check() && auth()->user()->email === 'customdenlie@gmail.com') {
+        $users = User::all();
+        return view('admin', ['users' => $users]);
+    } else {
+        return redirect('/')->with('error', 'Unauthorized access');
+    }
+})->middleware('auth');
+
+Route::get('/resources', function () {
+    return view('resources');
+})->middleware('auth');
+
 Route::get('/subscribe', function () {
     return view('/subscribe');
 });

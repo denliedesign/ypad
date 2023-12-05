@@ -45,6 +45,25 @@
             </div>
         </div>
         <div class="text-center" style="opacity: 70%;"><small>Copyright Youth Protection Association for Dance&trade; 2023
-                <br>Youth Protection Association for Dance&trade; is a division of Educational Standards LLC</small></div>
+                <br>Youth Protection Association for Dance&trade; is a division of Educational Standards LLC
+                <ul>
+                    @guest
+                        <li class="list-group-item px-0 border-0">
+                            <a class="text-decoration-none text-white" href="{{ route('login') }}">{{ __('Admin') }}</a>
+                        </li>
+                    @else
+                        <li class="list-group-item px-0 border-0 dropdown">
+                            <a class="text-decoration-none text-white" href="{{ route('logout') }}"
+                               onclick="event.preventDefault();
+                                                                                     document.getElementById('logout-form').submit();">
+                                {{ __('Logout') }}
+                            </a>
+                            <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                                @csrf
+                            </form>
+                        </li>
+                    @endguest
+                </ul>
+            </small></div>
     </div>
 </div>

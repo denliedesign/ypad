@@ -145,6 +145,11 @@ p, div, .accordion-body { font-family: 'Inter', sans-serif; }
     background-position: 50% 20% !important;
 }
 
+.banner-users {
+    background-image: url("/images/users.jpg");
+}
+
+
 .rounded-portrait, .rounded-portrait-sm {
     height: 195px;
     width: 195px;
