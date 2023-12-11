@@ -49,7 +49,7 @@
                 <ul>
                     @guest
                         <li class="list-group-item px-0 border-0">
-                            <a class="text-decoration-none text-white" href="{{ route('login') }}">{{ __('Admin') }}</a>
+                            <a class="text-decoration-none text-white" href="/admin">{{ __('Admin') }}</a>
                         </li>
                     @else
                         <li class="list-group-item px-0 border-0 dropdown">

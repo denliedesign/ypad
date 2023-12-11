@@ -19,7 +19,7 @@ Route::get('/', function () {
 });
 
 Route::get('/admin', function () {
-    if (auth()->check() && auth()->user()->email === 'customdenlie@gmail.com') {
+    if (auth()->check() && auth()->user()->email === 'info@ypadnow.com') {
         $users = User::all();
         return view('admin', ['users' => $users]);
     } else {
