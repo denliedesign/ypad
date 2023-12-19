@@ -8,10 +8,10 @@
         <div class="gradient-dark"></div>
         <div id="header-about">
             <h1 class="text-center p-0 m-0">
-                Welcome to YPAD™ Certification
+                YPAD™ Certification
             </h1>
             <p class="text-center" style="font-size: 1.5em;">
-                Becoming YPAD™ Certified means that you are voluntarily raising your hand for a higher standard
+                Becoming YPAD™ Certified means making a deeper commitment to youth dancer health, safety, and well-being.
             </p>
         </div>
         {{--        <div class="custom-shape-divider-top-1683835088">--}}
@@ -33,13 +33,17 @@
                 You've made a great decision to pursue YPAD™ Certification!
             </p>
             <p>
-                The YPAD™ Certification process was created to help individuals, studio owners, event owners, and their staff gain the tools and practice the knowledge for safeguarding capacity-building.
-                Pursuing YPAD™ Certification shows your commitment to safeguarding children and empowering confident adults.
-                <br><br>Much like a dance education, a YPAD™ Certified Studio designation requires an investment of time, patience, hard work, and financial resources. Just like a dancer gets stronger over time, your safety practices can get better over time as well. There is a process to raising the standard of dancer well-being, and YPAD™ is here to help you achieve it. Those who choose to become certified agree to self-regulation and to follow YPAD’s 5-tier accountability model.
+                This process was created to help studio owners, event owners, and other dance industry professionals gain tools and practical knowledge for safer, healthier dance environments. Pursuing YPAD™ Certification demonstrates your commitment to safeguarding children and empowering confident adults.
                 <br><br>
-                <strong>
-                    YPAD™ Studio Certification is now open. Certified Individual and Education only courses will be available this Fall.
-                </strong>
+                Much like a dance education, a YPAD™ Certified designation requires an investment of time, patience, hard work, and financial resources. Raising the standard of student well-being is no small feat, and YPAD™ is here to help you achieve it.
+                <br><br>
+                Those who choose to become certified are willing to go the extra mile to build their safeguarding capacity-building, agreeing to a high measure of self-education and self-regulation in addition to following YPAD™’s 5-tier accountability model.
+                <br><br>
+                <strong><em>Studio owner certification update:</em></strong> YPAD™ Certification applications open in seasonal cohorts. Applications for the 2023-24 season close December 31, 2023. Applications for the 2024-25 season open July 1, 2024.
+                <br><br>
+                <strong><em>Industry professional individual certification update:</em></strong> YPAD™ Certification applications for the 2024-25 season open July 1, 2024.
+                <br><br>
+                <strong><em>Event owner certification update:</em></strong> YPAD™ Certification applications are accepted on a rolling basis. To indicate your interest, please email certification@ypadnow.com.
             </p>
         </div>
     </div>
@@ -57,13 +61,13 @@
     </div>
 
     <div class="container py-5">
-        <h2 class="text-uppercase">Steps to earn your YPAD™ Certified Studio designation</h2>
+        <h2 class="text-uppercase">Studio owners, these are the steps to earn your YPAD™ Certified designation:</h2>
         <p class="fw-bold">It all starts here: with you, the studio owner, and these three steps.</p>
         <div class="row">
             <div class="col-lg">
                 <span class="font-pop" style="font-size: 1.2em;">STEP ONE:</span> submit an application for your studio. The application is located at the bottom of this page. Once your application is approved (5-7 business days), you will receive an email with access to the order form.
                 <br><br>
-                <span class="font-pop" style="font-size: 1.2em;">STEP TWO:</span> complete the YPAD™ Certified Studio Course, submit the reflections, and pass the knowledge checks with 90% proficiency. The YPAD&trade; Certified Studio Course takes approximately 8-10 hours to complete. Your staff must also complete the appropriate courses for their role during step two (teacher or admin). They, too, will submit reflections and must pass knowledge checks with 90% proficiency. Depending on the role, staff courses take approximately 2-4 hours to complete.
+                <span class="font-pop" style="font-size: 1.2em;">STEP TWO:</span> complete the YPAD™ Certified Studio course, submit the reflections, and pass the knowledge checks with 90% proficiency. The YPAD&trade; Certified Studio course takes approximately 8-10 hours to complete. Your staff must also complete the appropriate courses for their role during step two (teacher or admin). They, too, will submit reflections and must pass knowledge checks with 90% proficiency. Depending on the role, staff courses take approximately 2-4 hours to complete.
                 <br><br>
                 <span class="font-pop" style="font-size: 1.2em;">STEP THREE:</span> complete the external training and documentation submission requirements listed below. Items with "*" indicate third-party provider and cost. Links to those programs are inside the course. Costs are outlined in the FAQ section below.
                 <br><br>
@@ -306,7 +310,7 @@
                             </div>
                             <p class="fw-bold text-center py-0 my-0">SUBSTITUTE COURSE</p>
                             <p class="text-center py-0 my-0">
-                                Need to cover a class on short notice? Not able to find someone who is YPAD™ certified? Use this course to cover the essentials for substitutes on short notice.
+                                Need to hire a sub on short notice? This short course covers the essentials of what it means to teach at a YPAD™ Certified Studio.
                             </p>
                         </div>
                     </div>
@@ -317,7 +321,7 @@
                             </div>
                             <p class="fw-bold text-center py-0 my-0">VOLUNTEER COURSE</p>
                             <p class="text-center py-0 my-0">
-                                Do you use volunteers for your programs? Use this short course for volunteers to cover the basics of working safely with youth in classroom and performance settings.
+                                Do you engage with volunteers? Use this brief course to educate them on the basics of classroom and performance safety.
                             </p>
                         </div>
                     </div>
@@ -328,7 +332,7 @@
                             </div>
                             <p class="fw-bold text-center py-0 my-0">GUEST TEACHER COURSE</p>
                             <p class="text-center py-0 my-0">
-                                Do you hire guest and master teachers for special programs? Use this course to share the baseline expectations of teaching in a YPAD™ Certified environment.
+                                Hiring guest or master teachers? Offer this simple course to share baseline expectations for teaching in a YPAD™ Certified environment.
                             </p>
                         </div>
                     </div>
@@ -480,8 +484,8 @@
                         <div>
                             <div class="text-white text-center">
                                 <h2 class="text-uppercase text-center mt-5">READY TO BECOME A YPAD™ CERTIFIED STUDIO?</h2>
-                                <p class="text-center">Now accepting studio certification renewals and new studio certification applications!
-                                    <br>YPAD&trade; Certified Individual courses will be open in late Summer 2023.
+                                <p class="text-center">
+                                    Applications for the 2023-24 season close December 31, 2023. Applications for the 2024-25 season open July 1, 2024.
                                 </p>
                                 <div class="d-flex justify-content-center">
                                     <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none">
@@ -512,49 +516,49 @@
     </div>
 
     <div class="container py-5">
-        <h2 class="text-uppercase text-center">FAQ</h2>
+        <h2 class="text-uppercase text-center">FAQs</h2>
         <div class="accordion accordion-flush" id="accordionFlushExample">
             <div class="accordion-item">
                 <h2 class="accordion-header" id="flush-headingOne">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                        What is the difference between education and certification?
+                        What is the difference between a YPAD™ education and certification?
                     </button>
                 </h2>
                 <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
-                        Education courses are audit-only courses for personal growth. Education courses are open to the entire dance community. Education courses do not require additional steps such as knowledge checks, or outside training and documentation, nor do they lead to certification. Education courses are just as they sound: a place to learn.
+                        YPAD™ Education options provide practical insights, evidence-based knowledge, and innovative teaching methodologies that you can immediately implement in your role. These options are designed to enhance personal and professional development, but do not lead to certification.
                         <br><br>
-                        Certification is offered in three ways: YPAD™ Certified Individual, Studio, or Event. Certification begins with an application and requires background checks, CPR/AED and First Aid certification, Darkness to Light's Stewards of Children® training, live artistic integrity Zoom seminar, a Safeguarding Pledge, and commitment to our 5-tier Accountability model. Additional requirements apply to YPAD™ Certified Studios and Events, such as proof of insurance, emergency action planning, Youth Mental Health First Aid, and three sessions with a YPAD™ integration coach.
+                        YPAD™ Certification is offered for three distinct groups: Studios, Individuals, and Events. Certification begins with an application and requires background checks, CPR/First Aid certification, Darkness to Light’s Stewards of Children® training, a Safeguarding Pledge, attendance at a live virtual artistic integrity seminar, and a commitment to YPAD™’s 5-tier accountability model. Additional requirements for studio owners and event owners include proof of insurance, emergency action planning, and Youth Mental Health First Aid certification.
                     </div>
                 </div>
             </div>
             <div class="accordion-item">
                 <h2 class="accordion-header" id="flush-headingTwo">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                        How much do the additional requirements to become certified cost?
+                        If I am becoming YPAD™ Certified, how much do the additional requirements cost?
                     </button>
                 </h2>
                 <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
-                        Background checks are $25-29 per person and are renewed every two years. Background checks must be applied for individually. TIP: when applying for a background check, select the box that asks if you would like a copy of your results. YPAD no longer provides a link for requesting background checks via Intellicorp.  Please refer to your employer or email info@ypadnow.com for questions.
+                        Background check costs depend on the background screening company you choose and the individual being checked. Expect costs to start around $25 per person. For YPAD™ Certification purposes, background checks must be renewed every two years at minimum.
                         <br><br>
-                        CPR/AED and First Aid certification ranges from $35-55 per person for online training. For the purpose of YPAD certification, we accept the online completion certificate. In-person training may be required for you to be OSHA compliant, so please refer to the licensing agency for details. CPR/AED and First Aid takes approximately three hours online to complete and must be renewed every two years.
+                        CPR/First Aid certification typically starts around $35 per person and must be renewed every two years at minimum. YPAD™ accepts online completion certificates.
                         <br><br>
-                        Darkness to Light's Stewards of Children® (D2L) training is $10 per person and only needs to be completed once. A link to access this training is located in your certification course. D2L training is an asynchronous online course. It can be completed at any time and takes approximately two hours to complete. Starting in December 2023, the NEW Stewards of Children® course will be $16/person.
+                        Darkness to Light’s Stewards of Children® training is $16 per person, as of December 2023.
                         <br><br>
-                        Youth Mental Health First Aid (YMHFA) certification is $75, is only required for the studio owner, and only needs to be completed once.  A link to register is located in your studio owner course. YMHFA training is live online training that is offered once every 3 months and takes approximately 6.5 hours to complete.
+                        The cost for Youth Mental Health First Aid certification typically starts around $85 per person. Though this training is recommended for all who are certifying, YPAD™ only requires it for studio owners and event owners.
                     </div>
                 </div>
             </div>
             <div class="accordion-item">
                 <h2 class="accordion-header" id="flush-headingThree">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                        Is the goal of YPAD&trade; to police or censor my artistic choices?
+                        Does YPAD™ censor or regulate artistic choices?
                     </button>
                 </h2>
                 <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
-                        YPAD™ is not interested in policing the dance industry. Instead, YPAD™ aims to encourage thoughtful discussions around developmentally appropriate and age-appropriate approaches to dance education and artistic integrity. The mission of YPAD™ is safeguarding capacity-building–helping dance educators to make better informed choices every day.
+                        No. YPAD™ does not police the dance industry. Instead, YPAD™ aims to encourage thoughtful decision-making and discussions around developmentally appropriate and age-appropriate approaches to dance education and artistic integrity. YPAD™’s mission in safeguarding capacity-building helps everyone make better-informed choices for the well-being of dance students.
                     </div>
                 </div>
             </div>
@@ -562,55 +566,55 @@
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="flush-headingFour">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseOne">
-                            Can I just take the education and not become certified?
+                            Can I be YPAD™ educated and not seek certification?
                         </button>
                     </h2>
                     <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
-                        <div class="accordion-body">Yes, YPAD™ believes education in safeguarding capacity-building should be available to everyone.</div>
+                        <div class="accordion-body">Yes. YPAD™ offers education options for everyone!</div>
                     </div>
                 </div>
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="flush-headingFive">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
-                            If I become certified, do I have to re-certify?
+                            If I become YPAD™ Certified, how long is my certification valid?
                         </button>
                     </h2>
                     <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-                        <div class="accordion-body">YPAD™ endorses the concept of continuing education and continuous improvement. Because of that, certification must be renewed annually.</div>
+                        <div class="accordion-body">YPAD™ endorses continuing education and continuous improvement. Because of that, certification is valid from the date of your initial enrollment and must be renewed annually based on that date.</div>
                     </div>
                 </div>
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="flush-headingSix">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
-                            What if I start education or certification and don't finish?
+                            What if I start YPAD™ certification and don’t finish?
                         </button>
                     </h2>
                     <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-                        <div class="accordion-body">YPAD™ education and certification courses are asynchronous, meaning you can start, take a break, and re-start anytime. Certification is only awarded, however, after all standards have been met.</div>
+                        <div class="accordion-body">All YPAD™ coursework is asynchronous, meaning you can start, take a break, and restart anytime (though you will want to keep in mind your initial enrollment date; see previous question). Certification is only awarded, however, after all standards have been met.</div>
                     </div>
                 </div>
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="flush-headingSeven">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSeven" aria-expanded="false" aria-controls="flush-collapseThree">
-                            If I choose to become certified, how does 5-tier accountability work?
+                            If I become YPAD™ Certified, what does it mean to commit to the 5-tier accountability model?
                         </button>
                     </h2>
                     <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven" data-bs-parent="#accordionFlushExample">
-                        <div class="accordion-body">YPAD™ believes in capacity-building. If you or your organization are certified and a concern is shared with us, we will assess the matter and contact you so that you can learn and improve your practices. Serious problems may result in suspension or removal of certification status. To learn more, visit the Support tab.</div>
+                        <div class="accordion-body">The 5-tier accountability model is a system for collecting and addressing YPAD™-related concerns. When you become YPAD™ Certified, if a concern is shared with us about your organization, we will assess the matter and contact you so that you can learn and improve your practices. Serious problems may result in suspension or removal of certification status. To learn more, visit the Support page.</div>
                     </div>
                 </div>
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="flush-headingEight">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEight" aria-expanded="false" aria-controls="flush-collapseThree">
-                        When will certification become available for individuals?
-                    </button>
-                </h2>
-                <div id="flush-collapseEight" class="accordion-collapse collapse" aria-labelledby="flush-headingEight" data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">
-                        YPAD&trade; Certified Individual Courses will be open late Summer / early Fall 2023.
-                    </div>
-                </div>
-            </div>
+{{--            <div class="accordion-item">--}}
+{{--                <h2 class="accordion-header" id="flush-headingEight">--}}
+{{--                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseEight" aria-expanded="false" aria-controls="flush-collapseThree">--}}
+{{--                        When will certification become available for individuals?--}}
+{{--                    </button>--}}
+{{--                </h2>--}}
+{{--                <div id="flush-collapseEight" class="accordion-collapse collapse" aria-labelledby="flush-headingEight" data-bs-parent="#accordionFlushExample">--}}
+{{--                    <div class="accordion-body">--}}
+{{--                        YPAD&trade; Certified Individual Courses will be open late Summer / early Fall 2023.--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
 
 {{--            <div class="accordion-item">--}}

@@ -273,8 +273,10 @@
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
                             <h2 class="text-uppercase text-center mt-5">READY TO BECOME A YPAD™ CERTIFIED STUDIO?</h2>
-                            <p class="text-center">Now accepting studio certification renewals and new studio certification applications!
-                                <br>YPAD&trade; Certified Individual courses will be open in late Summer / early Fall 2023.
+                            <p class="text-center">
+                                Now accepting studio certification renewals and new studio certification applications!
+                                <br>
+                                Hurry! Applications for 2023-24 close December 31, 2023 and will reopen for 2024-25 on July 1, 2024.
                             </p>
                             <div class="d-flex justify-content-center">
                                 <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none">

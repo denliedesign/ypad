@@ -33,9 +33,9 @@
                 If you are looking for support, you are in the right place
             </p>
             <p class="text-center">
-                YPAD&trade; offers a wealth of resources and training programs to support you in your pursuit of safety and wellness Education and walking out your Certification. Even so, from time to time you may encounter challenges that require extra support. That’s what this page is for. Together, we can equip ourselves and our students with the tools they need to dance with confidence, joy, and, above all, safety.
+                YPAD™ offers many resources and training opportunities for the pursuit of safety and wellness in dance education. Together, we can be equipped with the tools needed to safeguard youth dancers.
                 <br><br>
-                <strong>The YPAD™ Support page provides three vital purposes outlined below:</strong>
+                <strong>This YPAD™ Support page serves three vital purposes:</strong>
             </p>
         </div>
     </div>
@@ -49,7 +49,8 @@
                     </div>
                     <p class="fw-bold text-center text-uppercase py-0 my-0">Hotline Listings</p>
                     <p class="text-center py-0 my-0">
-                        YPAD™ Support is not a replacement for emergency care. This page provides a list of the most essential hotlines for anyone in the dance industry looking for immediate and/or emergency support.                 </p>
+                        YPAD™ provides a list (seen below) of the most essential hotlines for immediate and/or emergency support. YPAD™ itself is not a hotline or replacement for emergency care.
+                    </p>
                 </div>
             </div>
             <div class="col-sm">
@@ -59,7 +60,8 @@
                     </div>
                     <p class="fw-bold text-center text-uppercase py-0 my-0">Certified Support</p>
                     <p class="text-center py-0 my-0">
-                        YPAD™ Support provides a way for those who are YPAD™ Certified to request additional support from a YPAD™ Certified Coach or a referral to a YPAD™ Expert Connection. This is a free service for YPAD&trade; Certified Studios, Individuals, and Events.                 </p>
+                        YPAD™ Certified Studios, Individuals, and Events can request additional support from a YPAD™ Certified Coach or a YPAD™ subject matter expert. This referral service is included as part of your certification investment.
+                    </p>
                 </div>
             </div>
             <div class="col-sm">
@@ -67,9 +69,10 @@
                     <div class="d-flex justify-content-center">
                         <ion-icon name="people-outline"></ion-icon>
                     </div>
-                    <p class="fw-bold text-center text-uppercase py-0 my-0">Sharing a Concern</p>
+                    <p class="fw-bold text-center text-uppercase py-0 my-0">Sharing Concerns</p>
                     <p class="text-center py-0 my-0">
-                        YPAD™ Support provides a way to share concerns about your experience with a YPAD™ Certified Studio, Individual, or Event. Concerns are evaluated and handled accordingly to YPAD™’s 5-Tier Accountability Model.                </p>
+                        YPAD™ has implemented a system for sharing concerns related to YPAD™ Certified Studios, Individuals, or Events. Concerns are evaluated and handled according to YPAD™’s 5-tier accountability model.
+                    </p>
                 </div>
             </div>
         </div>
@@ -170,11 +173,9 @@
     <div class="container py-5">
         <h2 class="text-center">YPAD™ Certified Support</h2>
         <p>
-            Do you have a question or concern about a behavior you have observed or something that has been shared with you? Do you need support navigating an issue concerning artistic integrity or conflict resolution? YPAD™ Support provides a way for those who are YPAD™ Certified to request additional support from a YPAD™ Certified Coach or a referral to a YPAD™ Expert Connection. This is a free service for YPAD&trade; Certified Studios, Individuals, and Events.
+            Are you YPAD™ Certified and have a question or concern about something you’ve observed or heard that is concerning? Do you need support navigating an issue regarding artistic integrity or conflict resolution? Request additional support here for a referral to a YPAD™ Certified Coach or subject matter expert. This service is included as part of your certification investment.
             <br><br>
-            Please email info@ypadnow.com to be connected with one of our Support Service members. Please note that this service is monitored during our business hours, Monday through Friday, 9 am-3 pm Central Time.
-            <br><br>
-            <em>YPAD&trade; Support does not take the place of a crisis hotline. Immediate or acute safety concerns should always be directed to your local emergency services or child welfare providers.</em>
+            Please note that this email is monitored 9AM to 3PM Central time, Monday through Friday. It is not a crisis hotline. Immediate or emergency concerns should always be directed to 911, a crisis hotline, or child welfare providers.
         </p>
         <div class="d-flex justify-content-center">
             <a style="text-decoration: none;" href="mailto:info@ypadnow.com?subject=YPAD Support">
@@ -193,7 +194,7 @@
                         <div class="text-white text-center">
                             <h3><strong>Do you have a concern?</strong></h3>
                             <h4>
-                                The mission of YPAD™ is to bring awareness and to provide guidance for one essential priority: <strong>the safety and health of dance students.</strong> If you have a concern with a YPAD™ certified individual, studio, or event, as it relates to the safety and health of students, please continue to the information below.
+                                YPAD™ brings awareness to and provides guidance for one essential priority: <strong>the safety of dance students</strong>. If you have a concern with a YPAD™ Certified Studio, Individual, or Event as it relates to the safety and well-being of students, please continue to the information below.
                             </h4>
                         </div>
                     </div>
@@ -208,29 +209,32 @@
                 <h2 class="text-center">YPAD™’s 5-Tier Approach To Accountability</h2>
                 {{--                <p class="text-center">as·so·ci·a·tion <br> <small class="text-muted">noun</small></p>--}}
                 <p class="text-center">
-                    YPAD™ has established certain standards related to our certification, which includes procedures for addressing concerns. Please carefully consider your concern before submitting, and be advised that it takes more than a mere disagreement with a YPAD™ Certified Individual, Studio, or Event to justify a review. Please be advised that any concern must include documentation, evidence, and/or other information to support your concern.
+                    YPAD™ has established certain standards related to certification, which includes a system for addressing concerns. Please carefully consider your concern before submitting, and be advised it takes more than disagreement to justify a review. Understand that any concern must include documentation, evidence, and/or other supporting information.
                     <br><br>
-                    The Share A Concern link provides a way to share anonymous concerns which are reviewed internally. If deemed appropriate, YPAD™ will request a dialogue call with the subject of the concern. Additional steps may be taken according to YPAD™’s 5-tier accountability model.
+                    The <em>Share a Concern</em> button below provides a way to submit an anonymous concern which is then reviewed internally. If deemed appropriate, YPAD™ will request communication with the subject of the concern. Additional steps may be taken in accordance with YPAD™’s 5-tier accountability model.
                     <br><br>
-                    Internal reviews are confidential, and as such, YPAD™ does not provide the person who shared the concern with any information regarding actions YPAD™ may or may not take in regard to the person or organization named in the concern.
+                    Internal reviews are confidential, and as such, YPAD™ does not provide any subsequent information about the review process—including actions YPAD™ may or may not take—to the person who shared their concern.
+
                 </p>
             </div>
             <div class="col-sm">
                 <ol>
                     <li>
-                        <strong>Iterative Improvement:</strong> For example, perhaps a photo is shared or a song is played that raises artistic integrity concerns. YPAD™ will provide feedback to the certified individual or organization can make a better choice next time.
+                        <strong>Iterative Improvement:</strong>
+                        This may require a small change; for example, perhaps a photo is shared or a song is played that raises artistic integrity concerns. YPAD™ will provide feedback to the Certified Studio, Individual, or Event about how to make a better choice next time.
                     </li>
                     <li>
-                        <strong>Focused Fix:</strong> If there are repetitive concerns shared of the same nature, YPAD™ will ask for a demonstration or documentation that the concern has been addressed at a practice, policy, or personnel level.
-                    </li>
+                        <strong>Focused Fix:</strong>
+                        This may require deeper attention to the concerns raised. If there are repetitive concerns shared of the same nature, for example, YPAD™ will ask for a demonstration or documentation from the Certified Studio, Individual, or Event that the concern has been addressed at a practice, policy, or personnel level.                    </li>
                     <li>
-                        <strong>Review & Referral:</strong> Repetitive or mid-stakes issues may require the support of a YPAD™ Certified Coach or a YPAD™ Expert Connection, or a review of YPAD™ Certification materials and information to understand why the reported concern requires change.
-                    </li>
+                        <strong>Review & Renewal:</strong>
+                        This takes place for a more serious concern of a repetitive or "mid-stakes" issue. This action may require the support of a YPAD™ Certified Coach or a YPAD™ subject matter expert, or a review of YPAD™ Certification materials and information to understand why the reported concern requires change.                     </li>
                     <li>
-                        <strong>Suspension & Probation:</strong> High-stakes issues such as abuse allegations initiate immediate suspension pending internal review, followed by a probationary reinstatement period or termination.
-                    </li>
+                        <strong>Suspension & Probation:</strong>
+                        This may result from a high-stakes issue, such as abuse allegations. Concerns of this nature would initiate immediate certification suspension pending an internal review, followed by a probationary reinstatement period or termination.                    </li>
                     <li>
-                        <strong>Termination of Certification:</strong> Depending on the nature of the high stakes issue, other repeated issues, an unwillingness to address concerns or an unsatisfactory result of an internal review, YPAD™ reserves the right to terminate YPAD™ Certification.
+                        <strong>Termination of Certification:</strong>
+                        Depending on the nature of a high stakes issue, other repeated issues, an unwillingness to address concerns, or an unsatisfactory result of an internal review, YPAD™ reserves the right to terminate YPAD™ Certification.
                     </li>
                 </ol>
                 <div class="d-flex justify-content-center">

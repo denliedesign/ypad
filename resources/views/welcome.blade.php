@@ -5,7 +5,8 @@
         <div class="container">
             <p class="my-0 py-0 text-center">
                 <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none text-white">
-                    Now accepting studio certification renewals and new studio certification applications!
+{{--                    Now accepting studio certification renewals and new studio certification applications!--}}
+                    Studio certification applications for the 2023-24 season close December 31, 2023. New applications will open for 2024-25 on July 1, 2024.
                 </a>
             </p>
         </div>
@@ -82,7 +83,7 @@
                     <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
                         <div class="col my-3 py-3" style="background: #067997;">
                             <div class="d-flex justify-content-center align-items-center text-center text-white mx-5" style="height: 100%;">
-                                <h2 class="text-uppercase">Professionals Agree, Safeguarding Is Important</h2>
+                                <h2 class="text-uppercase">Professionals Agree: Safeguarding Is Important</h2>
                             </div>
                         </div>
                         <div class="col my-3">
@@ -133,7 +134,9 @@
                         </div>
                         <p class="fw-bold text-center py-0 my-0">WHAT YPAD™ IS</p>
                         <p class="text-center py-0 my-0">
-                            YPAD™ exists to help create optimal environments in dance for all participants by bringing the foundations of health and safety topics to the dance community. Our extensive resources support implementing best practices in dance education. YPAD™ is supported by educators, subject matter experts, professionals, and collaborators who share their expertise through our education and certification models, as well as ongoing coaching to benefit the dance community. Those who choose to become certified agree to self-regulation and to follow YPAD’s 5-tier accountability model.                        </p>
+{{--                            YPAD™ exists to help create optimal environments in dance for all participants by bringing the foundations of health and safety topics to the dance community. Our extensive resources support implementing best practices in dance education. YPAD™ is supported by educators, subject matter experts, professionals, and collaborators who share their expertise through our education and certification models, as well as ongoing coaching to benefit the dance community. Those who choose to become certified agree to self-regulation and to follow YPAD’s 5-tier accountability model.                      --}}
+                            YPAD™ exists to help create optimal environments in dance for all participants by bringing the foundations of health and safety topics to the dance community. Our extensive resources, developed by educators and subject matter experts, support implementing best practices in all areas of dance education.
+                        </p>
                     </div>
                 </div>
                 <div class="col-sm">
@@ -194,11 +197,9 @@
                         EDUCATION or CERTIFICATION
                     </p>
                     <p>
-                        Education courses are audit-only courses for personal growth. Education courses are open to the entire dance community. Education courses do not require additional steps such as knowledge checks or outside training and documentation, nor do they lead to certification. Education courses are just as they sound: a place to learn. Education courses will be available in the Fall of 2023.
+                        YPAD™ Education options include resources, webinars, courses, and microlearnings. They are open to the entire dance community! Education opportunities do not require additional steps, such as knowledge checks, third-party training, or documentation, nor do they lead to certification.
                         <br><br>
-                        Certification is offered in three ways: YPAD™ Certified Individual, Studio, or Event. Certification begins with an application and requires background checks, CPR/AED and First Aid certification, Darkness to Light's Stewards of Children® training, live artistic integrity Zoom seminar, a Safeguarding Pledge, and commitment to our 5-tier Accountability model. YPAD&trade; Certified Studio courses are open now. YPAD&trade; Certified Individual courses will be open in late Summer 2023.
-                        <br><br>
-                        Additional requirements apply to YPAD™ Certified Studios and Events, such as proof of insurance, emergency action planning, Youth Mental Health First Aid, and three sessions with a YPAD™ integration coach.
+                        YPAD™ Certification options include coursework for Individuals, Studios, and Events. Certification begins with an application process. Participants complete additional steps alongside their coursework, including background checks, CPR/first aid certification, Darkness to Light’s Stewards of Children® training, a live YPAD™ seminar on artistic integrity, a safeguarding pledge, and a commitment to YPAD™’s 5-tier accountability model. Additional requirements apply to studio owners and event owners, such as proof of insurance, emergency action planning, and certification in Youth Mental Health First Aid.
                     </p>
                 </div>
             </div>
@@ -211,8 +212,12 @@
             </div>
         </div>
         <h2 class="text-uppercase text-center mt-5">READY TO BECOME A YPAD&trade; CERTIFIED STUDIO?</h2>
-        <p class="text-center">Now accepting studio certification renewals and new studio certification applications!
-            <br>YPAD&trade; Certified Individual courses will be open in late Summer 2023.
+        <p class="text-center">
+{{--            Now accepting studio certification renewals and new studio certification applications!--}}
+{{--            <br>YPAD&trade; Certified Individual courses will be open in late Summer 2023.--}}
+            Now accepting studio certification renewals and new studio certification applications!
+            <br>
+            Hurry! Applications for 2023-24 close December 31, 2023 and will reopen for 2024-25 on July 1, 2024.
         </p>
         <div class="d-flex justify-content-center">
             <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none" target="_blank">
@@ -367,7 +372,7 @@
         @include('_divider-bottom')
         <x-testimonial
             image="test-gus.jpg"
-            quote="My research team has collaborated with Youth Protection Association for Dance™ on a number of research projects examining factors that contribute to injury among dancers. We’ve been lucky to partner with a group that’s so committed to generating new knowledge that will improve the health and safety of young dancers, not only now, but also in the future. As an organization, YPAD™ sets such a great example for what it means to be “purpose-driven."
+            quote="My research team has collaborated with Youth Protection Association for Dance™ on a number of research projects examining factors that contribute to injury among dancers. We’ve been lucky to partner with a group that’s so committed to generating new knowledge that will improve the health and safety of young dancers, not only now, but also in the future. As an organization, YPAD™ sets such a great example for what it means to be purpose-driven."
             person="Thomas Gus Almonroeder, PT, DPT, PhD"
             place="Trine University"
         />
