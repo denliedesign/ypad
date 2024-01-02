@@ -6,7 +6,8 @@
             <p class="my-0 py-0 text-center">
                 <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none text-white">
 {{--                    Now accepting studio certification renewals and new studio certification applications!--}}
-                    Studio certification applications for the 2023-24 season close December 31, 2023. New applications will open for 2024-25 on July 1, 2024.
+{{--                    Studio certification applications for the 2023-24 season close December 31, 2023. New applications will open for 2024-25 on July 1, 2024.--}}
+                    New applications for 2024-25 certification open July 1, 2024!
                 </a>
             </p>
         </div>
@@ -215,15 +216,16 @@
         <p class="text-center">
 {{--            Now accepting studio certification renewals and new studio certification applications!--}}
 {{--            <br>YPAD&trade; Certified Individual courses will be open in late Summer 2023.--}}
-            Now accepting studio certification renewals and new studio certification applications!
-            <br>
-            Hurry! Applications for 2023-24 close December 31, 2023 and will reopen for 2024-25 on July 1, 2024.
+{{--            Now accepting studio certification renewals and new studio certification applications!--}}
+{{--            <br>--}}
+{{--            Hurry! Applications for 2023-24 close December 31, 2023 and --}}
+            New applications for 2024-25 certification open July 1, 2024!
         </p>
-        <div class="d-flex justify-content-center">
-            <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none" target="_blank">
-                <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Apply Today</div>
-            </a>
-        </div>
+{{--        <div class="d-flex justify-content-center">--}}
+{{--            <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none" target="_blank">--}}
+{{--                <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Apply Today</div>--}}
+{{--            </a>--}}
+{{--        </div>--}}
 
 
 
