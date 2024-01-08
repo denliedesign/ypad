@@ -33,75 +33,76 @@
                 Welcome! A YPAD™ Education is a great place to start your learning journey!
             </p>
             <p>
-                At YPAD™, we understand the crucial role adults play in shaping the lives of youth dancers. That’s why YPAD™ believes education in safeguarding capacity-building should be available to everyone, even if they are not seeking certification.
+                At YPAD™, we understand the crucial role adults play in shaping the lives of youth dancers. That’s why YPAD™ believes education in safeguarding capacity-building should be available to everyone, even if they are not seeking certification. Equipping yourself with a strong knowledge base means you can create a supportive and safe environment in which dancers can thrive without unnecessary risk.
+                <br><br>
+                YPAD™ Education options provide practical insights, evidence-based knowledge, and innovative teaching methodologies that you can immediately implement in your role. While these options do not lead to certification, they do enhance your personal and professional development.
                 <br><br>
                 Whether you are a studio owner, parent, dance professional, leader of a dance organization, college director, or other industry contributor, use the materials here to jumpstart or expand your knowledge of health, safety, and wellness in dance.
+
             </p>
+{{--            <p>--}}
+{{--                At YPAD™, we understand the crucial role adults play in shaping the lives of youth dancers. That’s why YPAD™ believes education in safeguarding capacity-building should be available to everyone, even if they are not seeking certification.--}}
+{{--                <br><br>--}}
+{{--                Whether you are a studio owner, parent, dance professional, leader of a dance organization, college director, or other industry contributor, use the materials here to jumpstart or expand your knowledge of health, safety, and wellness in dance.--}}
+{{--            </p>--}}
         </div>
     </div>
 
-    <div class="orange py-5 text-white">
-        @include('_divider-top')
-        @include('_divider-bottom')
-        <div class="container pt-5">
-            <div class="row py-5" id="about-checkmarks">
-                <div class="col-sm">
-                    <h2 class="text-center">Education empowers</h2>
-                    <p class="text-center">
-                        Why is safety and wellness education essential in the dance industry?
-                        <br><br>
-                        Adults hold the responsibility of safeguarding young dancers. Equipping yourself with a strong knowledge base means you can create a supportive and safe environment in which dancers can thrive without unnecessary risk. By prioritizing your students’ well-being, you'll empower them to excel in dance and lead balanced and fulfilling lives.
-                        <br><br>
-                        YPAD™ Education options provide practical insights, evidence-based knowledge, and innovative teaching methodologies that you can immediately implement in your role. While these options do not lead to certification, they do enhance your personal and professional development.
-                    </p>
-                </div>
-                <div class="col-sm d-flex align-items-center justify-content-center">
-                    <div>
-                        <div class="row">
-                            <div class="col-1">
-                                <ion-icon name="checkmark-circle"></ion-icon>
-                            </div>
-                            <div class="col-11">
-{{--                                Student Seminars--}}
-                                Downloadable resources for parents and industry professionals
-                            </div>
-                            <hr class="my-3">
-                        </div>
-                        <div class="row">
-                            <div class="col-1">
-                                <ion-icon name="checkmark-circle"></ion-icon>
-                            </div>
-                            <div class="col-11">
-{{--                                Parent Seminars--}}
-                                Microlearnings for parents and industry professionals
-                            </div>
-                            <hr class="my-3">
-                        </div>
-                        <div class="row">
-                            <div class="col-1">
-                                <ion-icon name="checkmark-circle"></ion-icon>
-                            </div>
-                            <div class="col-11">
-{{--                                College Seminars for Emerging Professionals--}}
-                                Seminars for dance events and organizations
-                            </div>
-                            <hr class="my-3">
-                        </div>
+{{--    <div class="orange py-5 text-white">--}}
+{{--        @include('_divider-top')--}}
+{{--        @include('_divider-bottom')--}}
+{{--        <div class="container pt-5">--}}
+{{--            <div class="row py-5" id="about-checkmarks">--}}
+{{--                <div class="col-sm">--}}
+{{--                    <h2 class="text-center">Education empowers</h2>--}}
+{{--                    <p class="text-center">--}}
+{{--                        Why is safety and wellness education essential in the dance industry?--}}
+{{--                        <br><br>--}}
+{{--                        Adults hold the responsibility of safeguarding young dancers. Equipping yourself with a strong knowledge base means you can create a supportive and safe environment in which dancers can thrive without unnecessary risk. By prioritizing your students’ well-being, you'll empower them to excel in dance and lead balanced and fulfilling lives.--}}
+{{--                        <br><br>--}}
+{{--                        YPAD™ Education options provide practical insights, evidence-based knowledge, and innovative teaching methodologies that you can immediately implement in your role. While these options do not lead to certification, they do enhance your personal and professional development.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm d-flex align-items-center justify-content-center">--}}
+{{--                    <div>--}}
 {{--                        <div class="row">--}}
 {{--                            <div class="col-1">--}}
 {{--                                <ion-icon name="checkmark-circle"></ion-icon>--}}
 {{--                            </div>--}}
 {{--                            <div class="col-11">--}}
-{{--                                Seminars for Dance Organizations--}}
+{{--                                Downloadable resources for parents and industry professionals--}}
 {{--                            </div>--}}
+{{--                            <hr class="my-3">--}}
 {{--                        </div>--}}
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+{{--                        <div class="row">--}}
+{{--                            <div class="col-1">--}}
+{{--                                <ion-icon name="checkmark-circle"></ion-icon>--}}
+{{--                            </div>--}}
+{{--                            <div class="col-11">--}}
+{{--                                Microlearnings for parents and industry professionals--}}
+{{--                            </div>--}}
+{{--                            <hr class="my-3">--}}
+{{--                        </div>--}}
+{{--                        <div class="row">--}}
+{{--                            <div class="col-1">--}}
+{{--                                <ion-icon name="checkmark-circle"></ion-icon>--}}
+{{--                            </div>--}}
+{{--                            <div class="col-11">--}}
+{{--                                Seminars for dance events and organizations--}}
+{{--                            </div>--}}
+{{--                            <hr class="my-3">--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
-    <div class="container py-5">
+    <div class="orange py-5">
+        @include('_divider-top')
+        @include('_divider-bottom')
+        <div class="container text-white pt-5">
+            <div class="py-5">
         <div class="d-flex justify-content-center align-items-center">
             <div>
                 <h2 class="text-uppercase text-center">FREE RESOURCES</h2>
@@ -172,6 +173,56 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+
+
+    <div class="container py-5">
+        <div class="d-flex justify-content-center align-items-center">
+            <div>
+                <h2 class="text-uppercase text-center">Spotlight Conversations</h2>
+                <p class="text-center">
+                    These half-hour seminars feature a guest speaker industry professional and are facilitated by a YPAD™ Certified Coach. Each seminar includes relevant and topical education for dance parents, teachers, and studio owners.
+                    <br><br>
+                    Admission is $10. If you are YPAD™ Certified, attend for free!
+                    <br><br>
+                    How to Choose Healthy Dance Programs for Your Child
+                    <br>Wednesday, January 24, 2024 from 12:30-1:00PM CT
+                    <br><a href="https://yv686.infusionsoft.com/app/orderForms/39cc080b-ca30-47c4-9424-eb6a728ed5da" target="_blank">Sign up here to attend!</a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="orange py-5">
+        @include('_divider-top')
+        @include('_divider-bottom')
+        <div class="container text-white pt-5">
+            <div class="py-5">
+                <h2 class="text-uppercase text-center">Microlearnings - Coming Soon!</h2>
+                <p class="text-center">
+                    Currently in development, YPAD™ Microlearnings are short courses devoted to singular topics such as Safe Movement in Dance, Understanding Age Compression, and Healthy Social Media Boundaries for Students. These affordable and interactive courses are designed to help you learn without a longer commitment.
+                    <br><br>
+                    Stay tuned for our launch announcement!
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container py-5">
+        <div class="d-flex justify-content-center align-items-center">
+            <div>
+                <h2 class="text-uppercase text-center">YPAD™ Learner Course</h2>
+                <p class="text-center">
+                    If you are interested in learning deeper content about student health, safety, and wellness—but you’re not interested in certification—then this YPAD™ Learner Course is for you!
+                    <br><br>
+                    For just $199, gain access to eight modules and 23 lessons about best practices in hiring, staff training, facility safety, abuse protection, injury reduction, body image, mental strength, communications, artistic integrity, and more.
+                    <br><br>
+                    There are no document submissions or knowledge checks for this course. As such, this course does not lead to certification. If at any time during this course you would like to switch to certification, your purchase of this course can transfer. Email <a href="mailto:certification@ypadnow.com?subject=Learner%20Course%20Assistance">certification@ypadnow.com</a> for assistance.
+                </p>
             </div>
         </div>
     </div>
