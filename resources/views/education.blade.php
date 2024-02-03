@@ -193,35 +193,35 @@
 {{--                    <br>Wednesday, January 24, 2024 from 12:30-1:00PM CT--}}
 {{--                    <br><a href="https://yv686.infusionsoft.com/app/orderForms/39cc080b-ca30-47c4-9424-eb6a728ed5da" target="_blank">Sign up here to attend!</a>--}}
                 </p>
-                <div class="row">
-                    <div class="col-sm">
-                        <div class="rounded p-3" style="box-shadow: 0 0 6px 2px #767784;">
+                <div class="row card-group">
+                    <div class="col-sm card rounded p-3 mx-3" style="box-shadow: 0 0 6px 2px #767784;">
+                        <div class="card-body">
                             <h3 class="text-center text-muted">
                                 How to Choose Healthy Dance Programs for Your Child
                             </h3>
                             <p class="text-center text-muted">
                                 <em>Video purchase coming soon.</em>
                             </p>
-                            <div class="d-flex justify-content-center">
-                                <a class="text-decoration-none disabled">
-                                    <button disabled class="rounded fw-bold px-3 py-2 shadow text-center text-white" style="background: #767784;">Completed!</button>
-                                </a>
-                            </div>
+                        </div>
+                        <div class="d-flex justify-content-center card-footer" style="background: white; border-top: none;">
+                            <a class="text-decoration-none disabled">
+                                <button disabled class="rounded fw-bold px-3 py-2 shadow text-center text-white" style="background: #767784; width: 215px;">Completed!</button>
+                            </a>
                         </div>
                     </div>
-                    <div class="col-sm">
-                        <div class="rounded p-3" style="box-shadow: 0 0 6px 2px #067997;">
+                    <div class="col-sm card rounded p-3 mx-3" style="box-shadow: 0 0 6px 2px #067997;">
+                        <div class="card-body">
                             <h3 class="text-center">
                                 How to Approach Your Studio Owner or Teacher with Questions
                             </h3>
                             <p class="text-center">
                                 Wednesday, February 28, 2024 from 12:00-12:30PM CT
                             </p>
-                            <div class="d-flex justify-content-center">
-                                <a href="https://yv686.infusionsoft.com/app/orderForms/14d98aa6-d4fe-4125-813c-59385812c4f4" target="_blank" class="text-decoration-none">
-                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Sign up here to attend!</button>
-                                </a>
-                            </div>
+                        </div>
+                        <div class="d-flex justify-content-center card-footer" style="background: white; border-top: none;">
+                            <a href="https://yv686.infusionsoft.com/app/orderForms/14d98aa6-d4fe-4125-813c-59385812c4f4" target="_blank" class="text-decoration-none">
+                                <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 215px;">Sign up here to attend!</button>
+                            </a>
                         </div>
                     </div>
                 </div>
