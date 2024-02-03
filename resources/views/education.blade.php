@@ -112,12 +112,12 @@
                     Check back often for newly added materials!
                 </p>
                 <div>
-                    <div class="row row-cols-2 row-cols-sm-2 row-cols-md-4 row-cols-lg-4">
+                    <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                         <div class="col-sm my-2">
                             <div class="d-flex justify-content-center mx-2">
 {{--                                <a href="/images/resource-costume.pdf" class="text-decoration-none">--}}
                                 <a href="/resources" class="text-decoration-none">
-                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Costuming for confidence</button>
+                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Costuming for confidence</button>
                                 </a>
                             </div>
                         </div>
@@ -125,49 +125,49 @@
                             <div class="d-flex justify-content-center mx-2">
 {{--                                <a href="/images/resource-hair.pdf" class="text-decoration-none">--}}
                                 <a href="/resources" class="text-decoration-none">
-                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Importance of inclusive hairstyles</button>
+                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Inclusive hairstyles importance</button>
                                 </a>
                             </div>
                         </div>
                         <div class="col-sm my-2">
                             <div class="d-flex justify-content-center mx-2">
                                 <a href="/resources" class="text-decoration-none">
-                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Gross motor skill milestones</button>
+                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Gross motor skill milestones</button>
                                 </a>
                             </div>
                         </div>
                         <div class="col-sm my-2">
                             <div class="d-flex justify-content-center mx-2">
                                 <a href="/resources" class="text-decoration-none">
-                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Building mental strength</button>
+                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Building mental strength</button>
                                 </a>
                             </div>
                         </div>
                         <div class="col-sm my-2">
                             <div class="d-flex justify-content-center mx-2">
                                 <a href="/resources" class="text-decoration-none">
-                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Understanding age compression</button>
+                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Understanding age compression</button>
                                 </a>
                             </div>
                         </div>
                         <div class="col-sm my-2">
                             <div class="d-flex justify-content-center mx-2">
                                 <a href="/resources" class="text-decoration-none">
-                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">A body positive environment</button>
+                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">A body positive environment</button>
                                 </a>
                             </div>
                         </div>
                         <div class="col-sm my-2">
                             <div class="d-flex justify-content-center mx-2">
                                 <a href="/resources" class="text-decoration-none">
-                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Safe movement in dance</button>
+                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Safe movement in dance</button>
                                 </a>
                             </div>
                         </div>
                         <div class="col-sm my-2">
                             <div class="d-flex justify-content-center mx-2">
                                 <a href="/resources" class="text-decoration-none">
-                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white;">Best practices for hiring</button>
+                                    <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Best practices for hiring</button>
                                 </a>
                             </div>
                         </div>
