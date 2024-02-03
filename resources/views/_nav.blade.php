@@ -18,21 +18,24 @@
         </button>
         <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
             <ul class="navbar-nav mb-2 mb-lg-0 align-items-center text-uppercase font-pop">
-                <li class="d-none d-lg-block nav-item mx-5">
+                <li class="d-none d-lg-block nav-item mx-3">
                     <a class="nav-link" href="/">
                         <img src="/images/ypad-logo.png" alt="" style="max-width: 271px;">
                     </a>
                 </li>
-                <li class="nav-item mx-5">
+                <li class="nav-item mx-3">
                     <a class="nav-link" href="/about">About YPAD</a>
                 </li>
-                <li class="nav-item mx-5">
+                <li class="nav-item mx-3">
                     <a class="nav-link" href="/education">Education</a>
                 </li>
-                <li class="nav-item mx-5">
+                <li class="nav-item mx-3">
                     <a class="nav-link" href="/certification">Certification</a>
                 </li>
-                <li class="nav-item mx-5">
+                <li class="nav-item mx-3">
+                    <a class="nav-link" href="/parents">Parents</a>
+                </li>
+                <li class="nav-item mx-3">
                     <a class="nav-link" href="/support">Support</a>
                 </li>
             </ul>

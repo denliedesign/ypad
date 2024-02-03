@@ -140,6 +140,12 @@ p, div, .accordion-body { font-family: 'Inter', sans-serif; }
     background-image: url("/images/banner-education.jpg");
 }
 
+.banner-parents {
+    background-image: url("/images/banner-parents.jpg");
+    /*background-position: 50% 20% !important;*/
+}
+
+
 .banner-support {
     background-image: url("/images/banner-support.jpg");
     background-position: 50% 20% !important;

@@ -50,6 +50,9 @@ Route::get('/support', function () {
     return view('/support');
 });
 
+Route::get('/parents', function () {
+    return view('/parents');
+});
 
 
 Route::get('/dashboard', function () {
