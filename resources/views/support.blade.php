@@ -11,7 +11,7 @@
                 Welcome to YPAD™ Support
             </h1>
             <p class="text-center" style="font-size: 1.5em;">
-                We are here to help or to point you in the right direction
+                We are here to help
             </p>
         </div>
         {{--        <div class="custom-shape-divider-top-1683835088">--}}
@@ -30,7 +30,7 @@
         <div>
             <h2 class="text-center">Welcome!</h2>
             <p class="text-center fw-bold">
-                If you are looking for support, you are in the right place
+                If you are looking for support, you are in the right place.
             </p>
             <p class="text-center">
                 YPAD™ offers many resources and training opportunities for the pursuit of safety and wellness in dance education. Together, we can be equipped with the tools needed to safeguard youth dancers.

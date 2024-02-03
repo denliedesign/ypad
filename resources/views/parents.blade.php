@@ -11,7 +11,7 @@
                 Welcome, Dance Parents
             </h1>
             <p class="text-center" style="font-size: 1.5em;">
-                The YPAD™ Difference
+                Learn about the YPAD™ difference
             </p>
         </div>
         <div class="custom-shape-divider-bottom-1683835445">
@@ -24,6 +24,9 @@
     <div class="container py-5">
         <div>
             <h2 class="text-center">Welcome!</h2>
+            <p class="text-center fw-bold">
+                Thank you for supporting your children in dance!
+            </p>
             <p class="text-center">
                 YPAD™ exists to help create optimal environments in dance—from studio classrooms to event ballrooms—promoting the safety, health, and well-being of students. Our purpose is to offer educational resources and training opportunities for studio owners, event owners, teachers, choreographers, and parents.
                 <br><br>
