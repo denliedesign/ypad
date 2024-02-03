@@ -187,6 +187,9 @@ p, div, .accordion-body { font-family: 'Inter', sans-serif; }
     height: 100%;"
 }
 
+button[disabled] {
+    cursor: not-allowed;
+}
 
 /* DIVIDER WELCOME TOP */
 
