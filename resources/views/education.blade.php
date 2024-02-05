@@ -200,7 +200,7 @@
                                 How to Choose Healthy Dance Programs for Your Child
                             </h3>
                             <p class="text-center text-muted">
-                                <em>Video purchase coming soon.</em>
+                                <em>Recording available for purchase soon.</em>
                             </p>
                         </div>
                         <div class="d-flex justify-content-center card-footer" style="background: white; border-top: none;">
