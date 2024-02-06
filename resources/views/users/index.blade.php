@@ -30,6 +30,7 @@
                 <tr>
                     <th scope="col">User Name</th>
                     <th scope="col">User Email</th>
+                    <th scope="col"></th>
                 </tr>
                 </thead>
                 <tbody>
@@ -37,6 +38,13 @@
                     <tr>
                         <td>{{ $user->name }}</td>
                         <td>{{ $user->email }}</td>
+                        <td>
+                            <form action="{{ route('users.destroy', $user->id) }}" method="POST" onsubmit="return confirm('Are you sure you want to delete this user?')">
+                                @csrf
+                                @method('DELETE')
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </form>
+                        </td>
                     </tr>
                 @endforeach
                 </tbody>

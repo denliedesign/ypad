@@ -9,6 +9,9 @@
     <form method="POST" action="{{ route('register') }}">
         @csrf
 
+        <input type="hidden" name="my_name" id="my_name" value="">
+        <input type="checkbox" name="contact_me_by_fax_only" id="contact_me_by_fax_only" value="1" tabindex="-1" autocomplete="off" class="d-none">
+
         <!-- Name -->
         <div>
             <x-input-label for="name" :value="__('Name')" />
