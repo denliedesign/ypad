@@ -23,8 +23,9 @@
     <div class="container py-5">
         <div>
             <h2 class="text-center">Users List</h2>
-            <p class="text-center fw-bold">
-            </p>
+            <div class="d-flex justify-content-center">
+                <a href="/users/export/"><div class="btn btn-success">Export</div></a>
+            </div>
             <table class="table">
                 <thead>
                 <tr>
