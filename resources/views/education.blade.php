@@ -234,11 +234,20 @@
         @include('_divider-bottom')
         <div class="container text-white pt-5">
             <div class="py-5">
-                <h2 class="text-uppercase text-center">Microlearnings - Coming Soon!</h2>
+                <h2 class="text-uppercase text-center">Microlearnings</h2>
                 <p class="text-center">
-                    Currently in development, YPAD™ Microlearnings are short courses devoted to singular topics such as Safe Movement in Dance, Understanding Age Compression, and Healthy Social Media Boundaries for Students. These affordable and interactive courses are designed to help you learn without a longer commitment.
-                    <br><br>
-                    Stay tuned for our launch announcement!
+                    YPAD™ Microlearnings are short, interactive, affordable courses devoted to singular topics and designed to help you learn without a long commitment! Whether you are a parent, studio owner, teacher, or other industry professional, you will find that YPAD™ Microlearnings provide eye-opening insights into key areas of dancer health and well-being.
+                </p>
+                <div class="d-flex justify-content-center">
+                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">
+                        <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Counteract Age Compression</button>
+                    </a>
+                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">
+                        <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Safe Movement in Dance</button>
+                    </a>
+                </div>
+                <p class="text-center mt-3">
+                    <em>Check back often for new releases!</em>
                 </p>
             </div>
         </div>
@@ -251,10 +260,15 @@
                 <p class="text-center">
                     If you are interested in learning deeper content about student health, safety, and wellness—but you’re not interested in certification—then this YPAD™ Learner Course is for you!
                     <br><br>
-                    For just $199, gain access to eight modules and 23 lessons about best practices in hiring, staff training, facility safety, abuse protection, injury reduction, body image, mental strength, communications, artistic integrity, and more.
+                    For just $199, gain access to eight modules and 24 lessons about best practices in hiring, staff training, facility safety, abuse protection, injury reduction, body image, mental strength, communications, artistic integrity, and more.
                     <br><br>
                     There are no document submissions or knowledge checks for this course. As such, this course does not lead to certification. If at any time during this course you would like to switch to certification, your purchase of this course can transfer. Email <a href="mailto:certification@ypadnow.com?subject=Learner%20Course%20Assistance">certification@ypadnow.com</a> for assistance.
                 </p>
+                <div class="d-flex justify-content-center">
+                    <a href="https://yv686.infusionsoft.com/app/orderForms/5dd6fad3-fea7-4af6-9145-50bdb1c02bf7" target="_blank" class="text-decoration-none">
+                        <button class="rounded fw-bold px-2 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px; font-size: 0.95em;">Purchase the YPAD™ Learner course</button>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
