@@ -11,7 +11,7 @@
                 Welcome to YPAD™
             </h1>
             <p class="text-center" style="font-size: 1.5em;">
-                Safeguarding dancers, empowering confident adults
+                safeguarding students by empowering adults
             </p>
         </div>
 {{--        <div class="custom-shape-divider-top-1683835088">--}}
