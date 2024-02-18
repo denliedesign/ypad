@@ -199,14 +199,12 @@
                             <h3 class="text-center text-muted">
                                 How to Choose Healthy Dance Programs for Your Child
                             </h3>
-                            <p class="text-center text-muted">
-                                <em>Recording available for purchase soon.</em>
-                            </p>
+                            <p class="text-center text-muted">Completed! Recording available for purchase.</p>
+{{--                            <p class="text-center text-muted"><em>Recording available for purchase soon.</em></p>--}}
                         </div>
                         <div class="d-flex justify-content-center card-footer" style="background: white; border-top: none;">
-                            <a class="text-decoration-none disabled">
-                                <button disabled class="rounded fw-bold px-3 py-2 shadow text-center text-white" style="background: #767784; width: 215px;">Completed!</button>
-                            </a>
+                            <a class="text-decoration-none" href="https://yv686.infusionsoft.com/app/orderForms/Spotlight-Conversations-Recordings" target="_blank"><button class="rounded fw-bold px-3 py-2 shadow text-center text-white" style="background: #767784; width: 215px;">Purchase Now!</button></a>
+{{--                            <a class="text-decoration-none disabled"><button disabled class="rounded fw-bold px-3 py-2 shadow text-center text-white" style="background: #767784; width: 215px;">Completed!</button></a>--}}
                         </div>
                     </div>
                     <div class="col-sm card rounded p-3 mx-3" style="box-shadow: 0 0 6px 2px #067997;">
@@ -239,10 +237,12 @@
                     YPAD™ Microlearnings are short, interactive, affordable courses devoted to singular topics and designed to help you learn without a long commitment! Whether you are a parent, studio owner, teacher, or other industry professional, you will find that YPAD™ Microlearnings provide eye-opening insights into key areas of dancer health and well-being.
                 </p>
                 <div class="d-flex justify-content-center">
-                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">
+                    <a href="https://yv686.infusionsoft.com/app/orderForms/YPAD-Microlearnings" target="_blank" class="text-decoration-none">
+{{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
                         <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Counteract Age Compression</button>
                     </a>
-                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">
+                    <a href="https://yv686.infusionsoft.com/app/orderForms/YPAD-Microlearnings" target="_blank" class="text-decoration-none">
+{{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
                         <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Safe Movement in Dance</button>
                     </a>
                 </div>
