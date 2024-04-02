@@ -221,18 +221,18 @@
                     <div class="col-sm-2"></div>
                     <div class="col-sm card rounded p-3 mx-3" style="box-shadow: 0 0 6px 2px #067997;">
                         <div class="d-flex justify-content-center">
-                            <img src="/images/spotlight-march.png" alt="spotlight graphic" class="img-fluid">
+                            <img src="/images/spotlight-april.png" alt="spotlight graphic" class="img-fluid">
                         </div>
                         <div class="card-body">
                             <h3 class="text-center">
-                                What are the Signs of a Healthy Dance Environment?
+                                How to Support Your Dancer During Recital Season
                             </h3>
                             <p class="text-center">
-                                Wednesday, March 27, 2024 from 12:00-12:30PM CT
+                                Wednesday, April 24, 2024 from 12:00-12:30PM CT
                             </p>
                         </div>
                         <div class="d-flex justify-content-center card-footer" style="background: white; border-top: none;">
-                            <a href="https://yv686.infusionsoft.com/app/orderForms/Spotlight-Conversations-Ft-Kenny-Bouchard" target="_blank" class="text-decoration-none">
+                            <a href="https://yv686.infusionsoft.com/app/orderForms/Spotlight-Conversations-Ft-Crystal-Carfagno" target="_blank" class="text-decoration-none">
                                 <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 215px;">Sign up here to attend!</button>
                             </a>
                         </div>
