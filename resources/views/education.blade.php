@@ -292,7 +292,7 @@
                     <br><br>
                     For just $199, gain access to eight modules and 24 lessons about best practices in hiring, staff training, facility safety, abuse protection, injury reduction, body image, mental strength, communications, artistic integrity, and more.
                     <br><br>
-                    There are no document submissions or knowledge checks for this course. As such, this course does not lead to certification. If at any time during this course you would like to switch to certification, your purchase of this course can transfer. Email <a href="mailto:certification@ypadnow.com?subject=Learner%20Course%20Assistance">certification@ypadnow.com</a> for assistance.
+                    There are no document submissions or knowledge checks for this course. As such, this course does not lead to certification. If at any time during this course you would like to switch to certification, your purchase of this course can transfer. Email <a href="mailto:info@ypadnow.com?subject=Learner%20Course%20Assistance">info@ypadnow.com</a> for assistance.
                 </p>
                 <div class="d-flex justify-content-center">
                     <a href="https://yv686.infusionsoft.com/app/orderForms/5dd6fad3-fea7-4af6-9145-50bdb1c02bf7" target="_blank" class="text-decoration-none">

@@ -38,14 +38,13 @@
                 Much like a dance education, a YPAD™ Certified designation requires an investment of time, patience, hard work, and financial resources. Raising the standard of student well-being is no small feat, and YPAD™ is here to help you achieve it.
                 <br><br>
                 Those who choose to become certified are willing to go the extra mile to build their safeguarding capacity-building, agreeing to a high measure of self-education and self-regulation in addition to following YPAD™’s 5-tier accountability model.
-                <br><br>
-                <strong><em>Studio owner certification update:</em></strong>
-{{--                YPAD™ Certification applications open in seasonal cohorts. Applications for the 2023-24 season close December 31, 2023. Applications for the 2024-25 season open July 1, 2024.--}}
-                YPAD™ Certification applications for the 2024-25 season open July 1, 2024.
-                <br><br>
-                <strong><em>Industry professional individual certification update:</em></strong> YPAD™ Certification applications for the 2024-25 season open July 1, 2024.
-                <br><br>
-                <strong><em>Event owner certification update:</em></strong> YPAD™ Certification applications are accepted on a rolling basis. To indicate your interest, please email certification@ypadnow.com.
+{{--                <br><br>--}}
+{{--                <strong><em>Studio owner certification update:</em></strong>--}}
+{{--                YPAD™ Certification applications for the 2024-25 season open July 1, 2024.--}}
+{{--                <br><br>--}}
+{{--                <strong><em>Industry professional individual certification update:</em></strong> YPAD™ Certification applications for the 2024-25 season open July 1, 2024.--}}
+{{--                <br><br>--}}
+{{--                <strong><em>Event owner certification update:</em></strong> YPAD™ Certification applications are accepted on a rolling basis. To indicate your interest, please email info@ypadnow.com.--}}
             </p>
         </div>
     </div>
