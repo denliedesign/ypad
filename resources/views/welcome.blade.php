@@ -56,7 +56,7 @@
 {{--                </div>--}}
                 <div class="col my-3">
                     <div style="position: relative;">
-                        <img src="/images/ypad-parents.jpg" alt="" class="img-fluid" style="border: 6px solid #767784; object-fit: cover; height: 100%; width: 100%;">
+                        <img src="/images/ypad-parents.jpg" alt="" class="img-fluid" style="border: 6px solid #067997; object-fit: cover; height: 100%; width: 100%;">
                         <div class="shader" style="background: black; position: absolute; z-index: 2; opacity: 25%; height: 100%; width: auto; top: 0; left: 0;"></div>
                         <div><h2 class="text-uppercase text-white fw-bold" style="z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">parents</h2></div>
                     </div>
