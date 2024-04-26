@@ -16,8 +16,8 @@
     <div id="header">
         <div class="gradient-fade"></div>
         <div id="header-heading">
-            <h1 class="text-center px-5 d-none d-md-block">Helping dance industry leaders create safeguarding capacity-building</h1>
-            <h2 class="text-center px-5 d-md-none">Helping dance industry leaders create safeguarding capacity-building</h2>
+            <h1 class="text-center px-5 d-none d-md-block">safeguarding students by empowering adults</h1>
+            <h2 class="text-center px-5 d-md-none">safeguarding students by empowering adults</h2>
             <div class="d-flex justify-content-center">
 {{--                <div class="fw-bold px-4 py-2 shadow" style="background: #EF9A60; color: white;">Try A Free Course</div>--}}
             </div>
@@ -47,15 +47,41 @@
 
     <div class="py-5">
         <div class="container">
+            <h2 class="text-uppercase text-center">Personal Growth & Professional Development Opportunities for:</h2>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-                <div class="col my-3 py-3" style="background: #067997;">
-                    <div class="d-flex justify-content-center align-items-center text-center text-white mx-5" style="height: 100%;">
-                        <h2 class="text-uppercase">Personal Growth & Professional Development Opportunities for:</h2>
+{{--                <div class="col my-3 py-3" style="background: #067997;">--}}
+{{--                    <div class="d-flex justify-content-center align-items-center text-center text-white mx-5" style="height: 100%;">--}}
+{{--                        <h2 class="text-uppercase">Personal Growth & Professional Development Opportunities for:</h2>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+                <div class="col my-3">
+                    <div style="position: relative;">
+                        <img src="/images/ypad-parents.jpg" alt="" class="img-fluid" style="border: 6px solid #767784; object-fit: cover; height: 100%; width: 100%;">
+                        <div class="shader" style="background: black; position: absolute; z-index: 2; opacity: 25%; height: 100%; width: auto; top: 0; left: 0;"></div>
+                        <div><h2 class="text-uppercase text-white fw-bold" style="z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">parents</h2></div>
                     </div>
                 </div>
-                <div class="col my-3"><img src="/images/ypad-individuals.png" alt="" class="img-fluid" style="border: 6px solid #767784;"></div>
-                <div class="col my-3"><img src="/images/ypad-studios.png" alt="" class="img-fluid" style="border: 6px solid #EF9A61;"></div>
-                <div class="col my-3"><img src="/images/ypad-events.png" alt="" class="img-fluid" style="border: 6px solid #896C7B;"></div>
+                <div class="col my-3">
+                    <div style="position: relative;">
+                        <img src="/images/ypad-educators.jpg" alt="" class="img-fluid" style="border: 6px solid #767784; object-fit: cover; height: 100%; width: 100%;">
+                        <div class="shader" style="background: black; position: absolute; z-index: 2; opacity: 25%; height: 100%; width: 100%; top: 0; left: 0;"></div>
+                        <div><h2 class="text-uppercase text-white fw-bold" style="z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">educators</h2></div>
+                    </div>
+                </div>
+                <div class="col my-3">
+                    <div style="position: relative; height: 100%;">
+                        <img src="/images/ypad-studio-owners.jpg" alt="" class="img-fluid" style="border: 6px solid #EF9A61; object-fit: cover; height: 100%; width: 100%;">
+                        <div class="shader" style="background: black; position: absolute; z-index: 2; opacity: 25%; height: 100%; width: 100%; top: 0; left: 0;"></div>
+                        <div><h2 class="text-uppercase text-white fw-bold" style="z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">studio owners</h2></div>
+                    </div>
+                </div>
+                <div class="col my-3">
+                    <div style="position: relative;">
+                        <img src="/images/ypad-events.jpg" alt="" class="img-fluid" style="border: 6px solid #896C7B; object-fit: cover; height: 100%; width: 100%;">
+                        <div class="shader" style="background: black; position: absolute; z-index: 2; opacity: 25%; height: 100%; width: 100%; top: 0; left: 0;"></div>
+                        <div><h2 class="text-uppercase text-white fw-bold" style="z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">events</h2></div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -68,7 +94,7 @@
                 <div class="col-sm">
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
-                            <h3>The mission of YPAD™ is to bring awareness to and provide guidance for one essential priority: <strong>the safety and health of dance students.</strong> We believe dancer well-being is the cornerstone of the industry, and we exist to serve those who have influence on its classrooms.</h3>
+                            <h3>The mission of YPAD™ is to bring awareness to and provide resources for one essential priority: <strong>the safety and health of dance students.</strong> We believe dancer well-being is the cornerstone of the industry, and we exist to serve those who have influence on its classrooms.</h3>
                         </div>
                     </div>
                 </div>
@@ -176,7 +202,8 @@
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
                             <h2>
-                                Just like a dancer gets stronger over time, your safety practices can get better over time as well. There is a process to raising the standard of dancer well-being, and YPAD™ is here to help you achieve it.
+{{--                                Just like a dancer gets stronger over time, your safety practices can get better over time as well. --}}
+                                Awareness in education can help raise the standard of dancer well-being, and YPAD™ is here to help you pursue it.
 {{--                                YPAD™'s position as an educational association is intended to help leaders create safeguarding capacity-building. According to the U.N., capacity-building is defined as developing and strengthening the skills, instincts, abilities, processes, and resources organizations need to thrive in a fast-changing world.--}}
                             </h2>
 {{--                            <p>--}}
@@ -206,10 +233,10 @@
             </div>
             <div class="col-sm">
                 <div class="">
-                    <img src="/images/ypad-erika-crop.png" alt="erika headshot" class="img-fluid py-0 my-0">
+                    <img src="/images/ypad-erika-crop.png" alt="erika headshot" class="img-fluid py-0 my-0" style="border: 6px solid #EF9A61;">
                 </div>
-                <p class="py-0 my-0"><strong>Erika Hogan, YPAD&trade; Certified Individual</strong></p>
-                <p class="py-0 my-0 pe-5 me-4"><em>"I started with YPAD&trade; Education, but quickly wanted to become YPAD&trade; Certified. I now work with the association as a coach to help others to bring best practices to their classrooms. Next up ... Certifying my studio!"</em></p>
+                <p class="py-0 my-0"><strong>Erika Hogan, Dance Educator & Studio Owner</strong></p>
+                <p class="py-0 my-0 pe-5 me-4"><em>"I started with YPAD&trade; education, and now work with the association as a coach to help others to bring best practices to their classrooms."</em></p>
             </div>
         </div>
         <h2 class="text-uppercase text-center mt-5">READY TO BECOME A YPAD&trade; CERTIFIED STUDIO?</h2>
@@ -309,7 +336,7 @@
                             <img src="/images/bri.jpeg" alt="headshot" class="img-fluid rounded-portrait">
                         </div>
                         <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Brianna Chin Brown</h4>
-                        <p class="text-center py-0 my-0"><strong>Dance Teacher, NJ</strong></p>
+                        <p class="text-center py-0 my-0"><strong>Dance Educator, NJ</strong></p>
                     </div>
                     <div class="col-lg d-flex align-items-center">
                         <p>
