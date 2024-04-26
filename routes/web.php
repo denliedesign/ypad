@@ -56,12 +56,16 @@ Route::get('/support', function () {
 });
 
 Route::get('/parents', function () {
-    return view('/parents');
+    return view('/welcome');
 });
 
 Route::get('/free-resources', function () {
     return view('/free-resources');
 });
+
+//Route::get('/education-and-certification', function () {
+//    return view('/education-and-certification');
+//});
 
 
 Route::get('/dashboard', function () {
