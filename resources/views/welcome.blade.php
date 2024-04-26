@@ -1,17 +1,17 @@
 @extends('layouts.app')
 @section('content')
 
-    <div style="background: #767784;" class="py-3 text-white d-flex justify-content-center align-items-center">
-        <div class="container">
-            <p class="my-0 py-0 text-center">
-                <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none text-white">
+{{--    <div style="background: #767784;" class="py-3 text-white d-flex justify-content-center align-items-center">--}}
+{{--        <div class="container">--}}
+{{--            <p class="my-0 py-0 text-center">--}}
+{{--                <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none text-white">--}}
 {{--                    Now accepting studio certification renewals and new studio certification applications!--}}
 {{--                    Studio certification applications for the 2023-24 season close December 31, 2023. New applications will open for 2024-25 on July 1, 2024.--}}
-                    New applications for 2024-25 certification open July 1, 2024!
-                </a>
-            </p>
-        </div>
-    </div>
+{{--                    New applications for 2024-25 certification open July 1, 2024!--}}
+{{--                </a>--}}
+{{--            </p>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <div id="header">
         <div class="gradient-fade"></div>
@@ -438,8 +438,8 @@
             </div>
             <div>
                 <p class="text-center">
-                    YPAD™ educator Misty Lown is a co-author of a pilot study on ballet safety published in the Journal of Dance Medicine & Science.
-                    <br>YPAD™ has two more research projects in progress for 2023-24: one with a researcher from Mayo Health and one with Trine University.                 </p>
+                    YPAD™ Certified studio owner Misty Lown is a co-author of a pilot study on ballet safety published in the Journal of Dance Medicine & Science.
+{{--                    <br>YPAD™ has two more research projects in progress for 2023-24: one with a researcher from Mayo Health and one with Trine University.                 </p>--}}
 
                 <div class="d-flex justify-content-center mb-4">
                     <a href="https://journals.sagepub.com/doi/10.1177/1089313X231177174?fbclid=IwAR3knkW3dJIOxT7Ly76kkoBTZ-wo5RretqtTH-HNuWtxH7pI48LIRD0888Y" target="_blank" class="text-decoration-none text-white">

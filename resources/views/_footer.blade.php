@@ -29,7 +29,7 @@
                 </div>
             </div>
             <div class="col-sm">
-                <h5>Are you looking for positive, practical resources to support your role as a dance educator, studio owner, or event leader?</h5>
+                <h5>Are you looking for positive, practical resources to support your role as a dance parent, dance educator, studio owner, or event leader?</h5>
                 <p>
                     Add your email to the mailing list to get the latest YPAD™ updates.
                 </p>
@@ -45,7 +45,7 @@
 {{--                </form>--}}
             </div>
         </div>
-        <div class="text-center" style="opacity: 70%;"><small>Copyright Youth Protection Association for Dance&trade; 2023
+        <div class="text-center" style="opacity: 70%;"><small>Copyright Youth Protection Association for Dance&trade; 2024
                 <br>Youth Protection Association for Dance&trade; is a division of Educational Standards LLC
                 <ul>
                     @guest
