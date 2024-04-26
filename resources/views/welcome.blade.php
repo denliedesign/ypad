@@ -58,28 +58,28 @@
                     <div style="position: relative;">
                         <img src="/images/ypad-parents.jpg" alt="" class="img-fluid" style="border: 6px solid #067997; object-fit: cover; height: 100%; width: 100%;">
                         <div class="shader" style="background: black; position: absolute; z-index: 2; opacity: 25%; height: 100%; width: auto; top: 0; left: 0;"></div>
-                        <div><h2 class="text-uppercase text-white fw-bold" style="z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">parents</h2></div>
+                        <div><h2 class="text-uppercase text-white fw-bold text-center" style="font-size: 2.75em; width: 100%; z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">parents</h2></div>
                     </div>
                 </div>
                 <div class="col my-3">
                     <div style="position: relative;">
                         <img src="/images/ypad-educators.jpg" alt="" class="img-fluid" style="border: 6px solid #767784; object-fit: cover; height: 100%; width: 100%;">
                         <div class="shader" style="background: black; position: absolute; z-index: 2; opacity: 25%; height: 100%; width: 100%; top: 0; left: 0;"></div>
-                        <div><h2 class="text-uppercase text-white fw-bold" style="z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">educators</h2></div>
+                        <div><h2 class="text-uppercase text-white fw-bold text-center" style="font-size: 2.75em; width: 100%; z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">educators</h2></div>
                     </div>
                 </div>
                 <div class="col my-3">
                     <div style="position: relative; height: 100%;">
                         <img src="/images/ypad-studio-owners.jpg" alt="" class="img-fluid" style="border: 6px solid #EF9A61; object-fit: cover; height: 100%; width: 100%;">
                         <div class="shader" style="background: black; position: absolute; z-index: 2; opacity: 25%; height: 100%; width: 100%; top: 0; left: 0;"></div>
-                        <div><h2 class="text-uppercase text-white fw-bold" style="z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">studio owners</h2></div>
+                        <div><h2 class="text-uppercase text-white fw-bold text-center" style="font-size: 2.75em; width: 100%; z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">studio owners</h2></div>
                     </div>
                 </div>
                 <div class="col my-3">
                     <div style="position: relative;">
                         <img src="/images/ypad-events.jpg" alt="" class="img-fluid" style="border: 6px solid #896C7B; object-fit: cover; height: 100%; width: 100%;">
                         <div class="shader" style="background: black; position: absolute; z-index: 2; opacity: 25%; height: 100%; width: 100%; top: 0; left: 0;"></div>
-                        <div><h2 class="text-uppercase text-white fw-bold" style="z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">events</h2></div>
+                        <div><h2 class="text-uppercase text-white fw-bold text-center" style="font-size: 2.75em; width: 100%; z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">events</h2></div>
                     </div>
                 </div>
             </div>
