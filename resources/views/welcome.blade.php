@@ -405,7 +405,7 @@
         @include('_divider-bottom')
         <x-testimonial
             image="test-gus.jpg"
-            quote="My research team has collaborated with Youth Protection Association for Dance™ on a number of research projects examining factors that contribute to injury among dancers. We’ve been lucky to partner with a group that’s so committed to generating new knowledge that will improve the health and safety of young dancers, not only now, but also in the future. As an organization, YPAD™ sets such a great example for what it means to be purpose-driven."
+            quote="My research team has collaborated with YPAD™ on a number of research projects examining factors that contribute to injury among dancers. We’ve been lucky to partner with a group that’s so committed to generating new knowledge that will improve the health and safety of young dancers, not only now, but also in the future. As an organization, YPAD™ sets such a great example for what it means to be purpose-driven."
             person="Thomas Gus Almonroeder, PT, DPT, PhD"
             place="Trine University"
         />
