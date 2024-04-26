@@ -44,10 +44,12 @@ Route::get('/about', function () {
 
 Route::get('/certification', function () {
     return view('/certification');
+//    return view('/education-and-certification');
 });
 
 Route::get('/education', function () {
     return view('/education');
+//    return view('/education-and-certification');
 });
 
 Route::get('/support', function () {

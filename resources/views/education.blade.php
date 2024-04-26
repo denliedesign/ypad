@@ -186,9 +186,9 @@
                 <h2 class="text-uppercase text-center">Spotlight Conversations</h2>
                 <p class="text-center">
                     These half-hour seminars feature a guest speaker industry professional and are facilitated by a YPAD™ Certified Coach. Each seminar includes relevant and topical education for dance parents, teachers, and studio owners.
-                    <br><br>
-                    Admission is $10. If you are YPAD™ Certified, attend for free!
-                    <br><br>
+{{--                    <br><br>--}}
+{{--                    Admission is $10. If you are YPAD™ Certified, attend for free!--}}
+{{--                    <br><br>--}}
 {{--                    How to Choose Healthy Dance Programs for Your Child--}}
 {{--                    <br>Wednesday, January 24, 2024 from 12:30-1:00PM CT--}}
 {{--                    <br><a href="https://yv686.infusionsoft.com/app/orderForms/39cc080b-ca30-47c4-9424-eb6a728ed5da" target="_blank">Sign up here to attend!</a>--}}
@@ -221,18 +221,20 @@
                     <div class="col-sm-2"></div>
                     <div class="col-sm card rounded p-3 mx-3" style="box-shadow: 0 0 6px 2px #067997;">
                         <div class="d-flex justify-content-center">
-                            <img src="/images/spotlight-april.png" alt="spotlight graphic" class="img-fluid">
+{{--                            <img src="/images/spotlight-april.png" alt="spotlight graphic" class="img-fluid">--}}
                         </div>
                         <div class="card-body">
                             <h3 class="text-center">
-                                How to Support Your Dancer During Recital Season
+                                How to Create a Body-Positive Environment at Home and at Dance
+{{--                                How to Support Your Dancer During Recital Season--}}
                             </h3>
                             <p class="text-center">
-                                Wednesday, April 24, 2024 from 12:00-12:30PM CT
+                                Wednesday, May 29th, 2024 from 12:00-12:30PM CT
+{{--                                Wednesday, April 24, 2024 from 12:00-12:30PM CT--}}
                             </p>
                         </div>
                         <div class="d-flex justify-content-center card-footer" style="background: white; border-top: none;">
-                            <a href="https://yv686.infusionsoft.com/app/orderForms/Spotlight-Conversations-Ft-Crystal-Carfagno" target="_blank" class="text-decoration-none">
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfc2xVWFjrDyv8IieUsNDCcdWfbyt6yroro2ckYEWvh5bXNfA/viewform?usp=sharing" target="_blank" class="text-decoration-none">
                                 <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 215px;">Sign up here to attend!</button>
                             </a>
                         </div>
@@ -243,10 +245,10 @@
                     <h3 class="text-center text-muted">
                         Spotlight Conversations Recordings
                     </h3>
-                    <p class="text-center text-muted">All previous conversations are bundled and available for purchase.</p>
+                    <p class="text-center text-muted">Access past Spotlight Conversations for free.</p>
                 </div>
                 <div class="d-flex justify-content-center">
-                    <a class="text-decoration-none" href="https://yv686.infusionsoft.com/app/orderForms/Spotlight-Conversations-Recordings" target="_blank"><button class="rounded fw-bold px-3 py-2 shadow text-center text-white" style="background: #767784; width: 215px;">Purchase Now!</button></a>
+                    <a class="text-decoration-none" href="https://ypad.thinkific.com/courses/spotlight-conversations" target="_blank"><button class="rounded fw-bold px-3 py-2 shadow text-center text-white" style="background: #767784; width: 215px;">Enroll for free</button></a>
                 </div>
                 </div>
             </div>
@@ -263,15 +265,15 @@
                     YPAD™ Microlearnings are short, interactive, affordable courses devoted to singular topics and designed to help you learn without a long commitment! Whether you are a parent, studio owner, teacher, or other industry professional, you will find that YPAD™ Microlearnings provide eye-opening insights into key areas of dancer health and well-being.
                 </p>
                 <div class="d-flex justify-content-center">
-                    <a href="https://yv686.infusionsoft.com/app/orderForms/YPAD-Microlearnings" target="_blank" class="text-decoration-none">
+                    <a href="https://ypad.thinkific.com/courses/promoting-a-healthy-body-image" target="_blank" class="text-decoration-none">
                         {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
                         <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Healthy Body Image</button>
                     </a>
-                    <a href="https://yv686.infusionsoft.com/app/orderForms/YPAD-Microlearnings" target="_blank" class="text-decoration-none">
+                    <a href="https://ypad.thinkific.com/courses/how-to-counteract-age-compression" target="_blank" class="text-decoration-none">
 {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
                         <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Counteract Age Compression</button>
                     </a>
-                    <a href="https://yv686.infusionsoft.com/app/orderForms/YPAD-Microlearnings" target="_blank" class="text-decoration-none">
+                    <a href="https://ypad.thinkific.com/courses/the-importance-of-safe-movement-in-dance" target="_blank" class="text-decoration-none">
 {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
                         <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Safe Movement in Dance</button>
                     </a>

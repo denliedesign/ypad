@@ -38,8 +38,20 @@
                 <li class="nav-item mx-3">
                     <a class="nav-link" href="/support">Support</a>
                 </li>
+
+{{--                <li class="nav-item mx-3">--}}
+{{--                    <a class="nav-link" href="/about">About</a>--}}
+{{--                </li>--}}
+{{--                <li class="nav-item mx-3">--}}
+{{--                    <a class="nav-link" href="/free-resources">Free Resources</a>--}}
+{{--                </li>--}}
+{{--                <li class="nav-item mx-3">--}}
+{{--                    <a class="nav-link" href="/education-and-certification">Education & Certification</a>--}}
+{{--                </li>--}}
+{{--                <li class="nav-item mx-3">--}}
+{{--                    <a class="nav-link" href="/support">Support</a>--}}
+{{--                </li>--}}
             </ul>
-{{--            about, free resources, education & certification, support--}}
             <div class="d-flex justify-content-center">
                 <div>
                     <a href="https://ypad.thinkific.com/users/sign_in" class="text-decoration-none" target="_blank">
