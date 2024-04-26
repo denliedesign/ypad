@@ -16,8 +16,8 @@
     <div id="header">
         <div class="gradient-fade"></div>
         <div id="header-heading">
-            <h1 class="text-center px-5 d-none d-md-block">safeguarding students by empowering adults</h1>
-            <h2 class="text-center px-5 d-md-none">safeguarding students by empowering adults</h2>
+            <h1 class="text-center px-5 d-none d-md-block">Safeguarding Students by Empowering Adults</h1>
+            <h2 class="text-center px-5 d-md-none">Safeguarding Students by Empowering Adults</h2>
             <div class="d-flex justify-content-center">
 {{--                <div class="fw-bold px-4 py-2 shadow" style="background: #EF9A60; color: white;">Try A Free Course</div>--}}
             </div>

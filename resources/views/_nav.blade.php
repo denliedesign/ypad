@@ -27,10 +27,10 @@
                     <a class="nav-link" href="/about">About</a>
                 </li>
                 <li class="nav-item mx-3">
-                    <a class="nav-link" href="/education">Education</a>
+                    <a class="nav-link" href="/free-resources">Free Resources</a>
                 </li>
                 <li class="nav-item mx-3">
-                    <a class="nav-link" href="/certification">Certification</a>
+                    <a class="nav-link" href="/certification">Education & Certification</a>
                 </li>
                 <li class="nav-item mx-3">
                     <a class="nav-link" href="/parents">Parents</a>

@@ -41,7 +41,7 @@ p, div, .accordion-body { font-family: 'Inter', sans-serif; }
     color: #EF9A60;
     font-family: 'Inter', sans-serif;
     font-weight: bold !important;
-    text-transform: capitalize;
+    /*text-transform: capitalize;*/
     /*color: #067997;*/
 }
 
@@ -129,7 +129,8 @@ p, div, .accordion-body { font-family: 'Inter', sans-serif; }
 }
 
 .banner-about {
-    background-image: url("/images/banner-about.jpeg");
+    background-position: 80% 25%;
+    background-image: url("/images/ypad-about.jpg");
 }
 
 .banner-certification {
@@ -137,7 +138,8 @@ p, div, .accordion-body { font-family: 'Inter', sans-serif; }
 }
 
 .banner-education {
-    background-image: url("/images/banner-education.jpg");
+    background-position: 50% 37%;
+    background-image: url("/images/ypad-free-resources.png");
 }
 
 .banner-parents {
