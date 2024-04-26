@@ -264,32 +264,31 @@
                 </div>
 
 
-    <div class="orange py-5">
-        @include('_divider-top')
-{{--        <div style="height: 1px; position: absolute; background: #FDFAF5; bottom: 0; width: 100%;"></div>--}}
-        <div class="container d-flex justify-content-center align-items-center py-5">
-            <div class="row mt-3">
-                <div class="col-sm">
-                    <div class="d-flex align-items-center" style="height: 100%;">
-                        <div class="text-white text-center">
-                            <h2 class="text-uppercase text-center mt-5">READY TO BECOME A YPAD™ CERTIFIED STUDIO?</h2>
-                            <p class="text-center">
-                                Now accepting studio certification renewals and new studio certification applications!
-                                <br>
-                                Hurry! Applications for 2023-24 close December 31, 2023 and will reopen for 2024-25 on July 1, 2024.
-                            </p>
-                            <div class="d-flex justify-content-center">
-                                <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none">
-                                    <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Get Started Now</div>
-                                </a>
+{{--    <div class="orange py-5">--}}
+{{--        @include('_divider-top')--}}
+{{--        <div class="container d-flex justify-content-center align-items-center py-5">--}}
+{{--            <div class="row mt-3">--}}
+{{--                <div class="col-sm">--}}
+{{--                    <div class="d-flex align-items-center" style="height: 100%;">--}}
+{{--                        <div class="text-white text-center">--}}
+{{--                            <h2 class="text-uppercase text-center mt-5">READY TO BECOME A YPAD™ CERTIFIED STUDIO?</h2>--}}
+{{--                            <p class="text-center">--}}
+{{--                                Now accepting studio certification renewals and new studio certification applications!--}}
+{{--                                <br>--}}
+{{--                                Hurry! Applications for 2023-24 close December 31, 2023 and will reopen for 2024-25 on July 1, 2024.--}}
+{{--                            </p>--}}
+{{--                            <div class="d-flex justify-content-center">--}}
+{{--                                <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none">--}}
+{{--                                    <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Get Started Now</div>--}}
+{{--                                </a>--}}
 
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
 {{--    <div style="background: linear-gradient(to right, #EF9A60, #FE954D); position: relative; height: 400px;">--}}
 {{--        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>--}}

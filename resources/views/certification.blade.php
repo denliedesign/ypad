@@ -125,67 +125,67 @@
             <p class="text-center" style="color: #896C7B;">
                 After your application is accepted and you complete the YPAD™ Certified Course, submit the reflections, and pass the knowledge checks with 90% proficiency, it is time to move on to STEP THREE: external training and documentation.
             </p>
-            <div class="col-sm my-3">
-                <div>
-                    <h2 class="text-center">Documentation requirements for individual certification</h2>
-                    <p class="text-center">
-                        The following external actions and training must be completed and submitted. Items with an "*" indicate third-party provider, additional required time commitment, and cost. Links to those programs are in the course. Costs and time commitment are listed below in the FAQ section.                    </p>
-                </div>
-                <div class="mt-5">
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
-                        </div>
-                        <div class="col-11">
-                            Proof of background check*
-                        </div>
-                        <div class="">
-                            <hr class="my-3" style="width: 90%;">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
-                        </div>
-                        <div class="col-11">
-                            Proof of up-to-date CPR/AED and First Aid certification*
-                        </div>
-                        <div class="">
-                            <hr class="my-3" style="width: 90%;">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
-                        </div>
-                        <div class="col-11">
-                            Proof of completion of Darkness to Light's Stewards of Children® training*
-                        </div>
-                        <div class="">
-                            <hr class="my-3" style="width: 90%;">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
-                        </div>
-                        <div class="col-11">
-                            Copy of signed Safeguarding Pledge
-                        </div>
-                        <div class="">
-                            <hr class="my-3" style="width: 90%;">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
-                        </div>
-                        <div class="col-11">
-                            Attendance at a live two-hour training regarding artistic integrity
-                        </div>
-                    </div>
-                </div>
-            </div>
+{{--            <div class="col-sm my-3">--}}
+{{--                <div>--}}
+{{--                    <h2 class="text-center">Documentation requirements for individual certification</h2>--}}
+{{--                    <p class="text-center">--}}
+{{--                        The following external actions and training must be completed and submitted. Items with an "*" indicate third-party provider, additional required time commitment, and cost. Links to those programs are in the course. Costs and time commitment are listed below in the FAQ section.                    </p>--}}
+{{--                </div>--}}
+{{--                <div class="mt-5">--}}
+{{--                    <div class="row">--}}
+{{--                        <div class="col-1">--}}
+{{--                            <ion-icon name="checkmark-circle"></ion-icon>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-11">--}}
+{{--                            Proof of background check*--}}
+{{--                        </div>--}}
+{{--                        <div class="">--}}
+{{--                            <hr class="my-3" style="width: 90%;">--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="row">--}}
+{{--                        <div class="col-1">--}}
+{{--                            <ion-icon name="checkmark-circle"></ion-icon>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-11">--}}
+{{--                            Proof of up-to-date CPR/AED and First Aid certification*--}}
+{{--                        </div>--}}
+{{--                        <div class="">--}}
+{{--                            <hr class="my-3" style="width: 90%;">--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="row">--}}
+{{--                        <div class="col-1">--}}
+{{--                            <ion-icon name="checkmark-circle"></ion-icon>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-11">--}}
+{{--                            Proof of completion of Darkness to Light's Stewards of Children® training*--}}
+{{--                        </div>--}}
+{{--                        <div class="">--}}
+{{--                            <hr class="my-3" style="width: 90%;">--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="row">--}}
+{{--                        <div class="col-1">--}}
+{{--                            <ion-icon name="checkmark-circle"></ion-icon>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-11">--}}
+{{--                            Copy of signed Safeguarding Pledge--}}
+{{--                        </div>--}}
+{{--                        <div class="">--}}
+{{--                            <hr class="my-3" style="width: 90%;">--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="row">--}}
+{{--                        <div class="col-1">--}}
+{{--                            <ion-icon name="checkmark-circle"></ion-icon>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-11">--}}
+{{--                            Attendance at a live two-hour training regarding artistic integrity--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
             <div class="col-sm my-3">
                 <div>
