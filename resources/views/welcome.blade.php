@@ -94,7 +94,7 @@
                 <div class="col-sm">
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
-                            <h3>The mission of YPAD™ is to bring awareness to and provide resources for one essential priority: <strong>the safety and health of dance students.</strong> We believe dancer well-being is the cornerstone of the industry, and we exist to serve those who have influence on its classrooms.</h3>
+                            <h3>The mission of YPAD™ is to bring awareness to and provide resources for one essential priority: <strong>the safety and health of dance students.</strong> We believe dancer well-being is the cornerstone of the industry.</h3>
                         </div>
                     </div>
                 </div>
@@ -119,7 +119,7 @@
                                 <div class="px-3 pt-3">
                                     <h4 class="text-center py-0 my-0"><strong>Dr. Sheyi Ojofeitimi, DPT, CFMT, CIDN</strong> <br> Director of Therapy Services <br> Alvin Ailey Dance Foundation</h4>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
-                                            “It will take an army to change the narrative. We know we can have the biggest impact through teachers because they are in the trenches of daily class, rehearsal, and performance with young dancers.”
+                                            “We know we can have the biggest impact through educators because they are in the trenches of daily class, rehearsal, and performance with young dancers.”
                                         </em>
                                     </p>
                                 </div>
@@ -131,7 +131,7 @@
                                 <div class="px-3 pt-3">
                                     <h4 class="text-center py-0 my-0"><strong>Tricia Gomez</strong> <br> Rhythm Works Integrative Dance <br> The Intellidance Method</h4>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
-                                            “If every teacher had this education, we would be well on our way to setting self-guided, industry standards that are on par with schools and other child-centered activities. ”
+                                            “If every educator had this information, we would be well on our way to setting self-guided, industry standards that are on par with schools and other child-centered activities. ”
                                         </em>
                                     </p>
                                 </div>
