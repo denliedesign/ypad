@@ -141,7 +141,7 @@
                             <div style="background: #896C7B; color: white;" class="pb-4">
                                 <div class="d-flex justify-content-center"><img src="/images/addie.png" alt="" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
-                                    <h4 class="text-center py-0 my-0"><strong>Dr. Addie Briggs, M.D.</strong> <br> Founder <br> Fitness DAWGS</h4>
+                                    <h4 class="text-center py-0 my-0"><strong>Dr. Addie Briggs, MD</strong> <br> Founder <br> Fitness DAWGS</h4>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
                                             “As a pediatrician, I have long advocated for healthy kids. Safe movement is so important to their growing bodies and they need teachers who can show them the way forward patiently. ”
                                         </em>
@@ -222,31 +222,34 @@
                 <div>
                     <h2 class="text-uppercase">Choose Your Path</h2>
                     <p class="fw-bold">
-                        EDUCATION or CERTIFICATION
+{{--                        EDUCATION or CERTIFICATION--}}
                     </p>
                     <p>
-                        YPAD™ Education options include resources, webinars, courses, and microlearnings. They are open to the entire dance community! Education opportunities do not require additional steps, such as knowledge checks, third-party training, or documentation, nor do they lead to certification.
-                        <br><br>
-                        YPAD™ Certification options include coursework for Individuals, Studios, and Events. Certification begins with an application process. Participants complete additional steps alongside their coursework, including background checks, CPR/first aid certification, Darkness to Light’s Stewards of Children® training, a live YPAD™ seminar on artistic integrity, a safeguarding pledge, and a commitment to YPAD™’s 5-tier accountability model. Additional requirements apply to studio owners and event owners, such as proof of insurance, emergency action planning, and certification in Youth Mental Health First Aid.
+                        YPAD™ offers learning opportunities for educators, studio owners, parents, and events. Our core resource options include online courses, live and recorded webinars, microlearnings, and downloadable PDFs. Additionally, studio owners and events have the option to go the extra mile and seek YPAD™ Certification, agreeing to a high measure of self-education and self-regulation in addition to following YPAD™’s 5-tier accountability model.
                     </p>
+{{--                    <p>--}}
+{{--                        YPAD™ Education options include resources, webinars, courses, and microlearnings. They are open to the entire dance community! Education opportunities do not require additional steps, such as knowledge checks, third-party training, or documentation, nor do they lead to certification.--}}
+{{--                        <br><br>--}}
+{{--                        YPAD™ Certification options include coursework for Individuals, Studios, and Events. Certification begins with an application process. Participants complete additional steps alongside their coursework, including background checks, CPR/first aid certification, Darkness to Light’s Stewards of Children® training, a live YPAD™ seminar on artistic integrity, a safeguarding pledge, and a commitment to YPAD™’s 5-tier accountability model. Additional requirements apply to studio owners and event owners, such as proof of insurance, emergency action planning, and certification in Youth Mental Health First Aid.--}}
+{{--                    </p>--}}
                 </div>
             </div>
             <div class="col-sm">
                 <div class="">
-                    <img src="/images/ypad-erika-crop.png" alt="erika headshot" class="img-fluid py-0 my-0" style="border: 6px solid #EF9A61;">
+                    <img src="/images/ypad-erika-crop.png" alt="erika headshot" class="img-fluid py-0 my-0" style="border: 6px solid #067997;">
                 </div>
-                <p class="py-0 my-0"><strong>Erika Hogan, Dance Educator & Studio Owner</strong></p>
+                <p class="py-0 my-0"><strong>Erika Hogan, MS, Health & Physical Education<br>Dance Educator & Studio Owner</strong></p>
                 <p class="py-0 my-0 pe-5 me-4"><em>"I started with YPAD&trade; education, and now work with the association as a coach to help others to bring best practices to their classrooms."</em></p>
             </div>
         </div>
-        <h2 class="text-uppercase text-center mt-5">READY TO BECOME A YPAD&trade; CERTIFIED STUDIO?</h2>
+{{--        <h2 class="text-uppercase text-center mt-5">READY TO BECOME A YPAD&trade; CERTIFIED STUDIO?</h2>--}}
         <p class="text-center">
 {{--            Now accepting studio certification renewals and new studio certification applications!--}}
 {{--            <br>YPAD&trade; Certified Individual courses will be open in late Summer 2023.--}}
 {{--            Now accepting studio certification renewals and new studio certification applications!--}}
 {{--            <br>--}}
 {{--            Hurry! Applications for 2023-24 close December 31, 2023 and --}}
-            New applications for 2024-25 certification open July 1, 2024!
+{{--            New applications for 2024-25 certification open July 1, 2024!--}}
         </p>
 {{--        <div class="d-flex justify-content-center">--}}
 {{--            <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none" target="_blank">--}}
@@ -295,7 +298,8 @@
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
                             <h3>
-                                The health and safety of dance students require a bold commitment to voluntarily raise your hand and say, "Yes, this is a priority." No one else can do it for you, and no one will make you do it. It is a choice.
+                                The health and safety of dance students require a bold commitment to voluntarily raise your hand and say, "Yes, this is a priority."
+{{--                                No one else can do it for you, and no one will make you do it. It is a choice.--}}
                             </h3>
                         </div>
                     </div>
