@@ -54,65 +54,83 @@
                             Check back often for newly added materials!
                         </p>
                         <div>
-                            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
-                                <div class="col-sm my-2">
-                                    <div class="d-flex justify-content-center mx-2">
-                                        {{--                                <a href="/images/resource-costume.pdf" class="text-decoration-none">--}}
-                                        <a href="/resources" class="text-decoration-none">
-                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Costuming for confidence</button>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm my-2">
-                                    <div class="d-flex justify-content-center mx-2">
-                                        {{--                                <a href="/images/resource-hair.pdf" class="text-decoration-none">--}}
-                                        <a href="/resources" class="text-decoration-none">
-                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Inclusive hairstyles importance</button>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm my-2">
-                                    <div class="d-flex justify-content-center mx-2">
-                                        <a href="/resources" class="text-decoration-none">
-                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Gross motor skill milestones</button>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm my-2">
-                                    <div class="d-flex justify-content-center mx-2">
-                                        <a href="/resources" class="text-decoration-none">
-                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Building mental strength</button>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm my-2">
-                                    <div class="d-flex justify-content-center mx-2">
-                                        <a href="/resources" class="text-decoration-none">
-                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Understanding age compression</button>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm my-2">
-                                    <div class="d-flex justify-content-center mx-2">
-                                        <a href="/resources" class="text-decoration-none">
-                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">A body positive environment</button>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm my-2">
-                                    <div class="d-flex justify-content-center mx-2">
-                                        <a href="/resources" class="text-decoration-none">
-                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Safe movement in dance</button>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="col-sm my-2">
-                                    <div class="d-flex justify-content-center mx-2">
-                                        <a href="/resources" class="text-decoration-none">
-                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Best practices for hiring</button>
-                                        </a>
-                                    </div>
-                                </div>
+                            <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-6">
+                                <x-resource target="" pdf="/resources" name="Safe Movement in Dance" />
+                                <x-resource target="" pdf="/resources" name="Gross Motor Skill Milestones" />
+                                <x-resource target="" pdf="/resources" name="A Body-Positive Environment" />
+                                <x-resource target="" pdf="/resources" name="Building Mental Strength" />
+                                <x-resource target="" pdf="/resources" name="Understanding Age Compression" />
+                                <x-resource target="" pdf="/resources" name="Best Practices for Costuming" />
+                                <x-resource target="" pdf="/resources" name="Best Practices for Music & Movement" />
+                                <x-resource target="" pdf="/resources" name="Injuries: What to Do" />
+                                <x-resource target="" pdf="/resources" name="Suspected Eating Disorder: What to Do" />
+                                <x-resource target="" pdf="/resources" name="Referring to a Mental Health Professional" />
+                                <x-resource target="" pdf="/resources" name="How to Handle Bullying" />
+                                <x-resource target="" pdf="/resources" name="How to Handle Conflict" />
+                                <x-resource target="" pdf="/resources" name="How to Handle an Abuse Disclosure" />
+                                <x-resource target="" pdf="/resources" name="In Case of Emergency: Document Everything" />
+                                <x-resource target="" pdf="/resources" name="The 5 F's of Emergency Response" />
+                                <x-resource target="" pdf="/resources" name="Costuming for Confidence" />
+                                <x-resource target="" pdf="/resources" name="Inclusive Hairstyles Importance" />
+                                <x-resource target="" pdf="/resources" name="Best Practices for Hiring" />
+{{--                                <div class="col-sm my-2">--}}
+{{--                                    <div class="d-flex justify-content-center mx-2">--}}
+{{--                                        --}}{{--                                <a href="/images/resource-costume.pdf" class="text-decoration-none">--}}
+{{--                                        <a href="/resources" class="text-decoration-none">--}}
+{{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Costuming for confidence</button>--}}
+{{--                                        </a>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                                <div class="col-sm my-2">--}}
+{{--                                    <div class="d-flex justify-content-center mx-2">--}}
+{{--                                        --}}{{--                                <a href="/images/resource-hair.pdf" class="text-decoration-none">--}}
+{{--                                        <a href="/resources" class="text-decoration-none">--}}
+{{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Inclusive hairstyles importance</button>--}}
+{{--                                        </a>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                                <div class="col-sm my-2">--}}
+{{--                                    <div class="d-flex justify-content-center mx-2">--}}
+{{--                                        <a href="/resources" class="text-decoration-none">--}}
+{{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Gross motor skill milestones</button>--}}
+{{--                                        </a>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                                <div class="col-sm my-2">--}}
+{{--                                    <div class="d-flex justify-content-center mx-2">--}}
+{{--                                        <a href="/resources" class="text-decoration-none">--}}
+{{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Building mental strength</button>--}}
+{{--                                        </a>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                                <div class="col-sm my-2">--}}
+{{--                                    <div class="d-flex justify-content-center mx-2">--}}
+{{--                                        <a href="/resources" class="text-decoration-none">--}}
+{{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Understanding age compression</button>--}}
+{{--                                        </a>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                                <div class="col-sm my-2">--}}
+{{--                                    <div class="d-flex justify-content-center mx-2">--}}
+{{--                                        <a href="/resources" class="text-decoration-none">--}}
+{{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">A body positive environment</button>--}}
+{{--                                        </a>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                                <div class="col-sm my-2">--}}
+{{--                                    <div class="d-flex justify-content-center mx-2">--}}
+{{--                                        <a href="/resources" class="text-decoration-none">--}}
+{{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Safe movement in dance</button>--}}
+{{--                                        </a>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                                <div class="col-sm my-2">--}}
+{{--                                    <div class="d-flex justify-content-center mx-2">--}}
+{{--                                        <a href="/resources" class="text-decoration-none">--}}
+{{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Best practices for hiring</button>--}}
+{{--                                        </a>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
                             </div>
                         </div>
                     </div>
@@ -128,18 +146,27 @@
             YPAD™ Microlearnings are short, interactive, affordable courses devoted to singular topics and designed to help you learn without a long commitment! Whether you are a parent, studio owner, teacher, or other industry professional, you will find that YPAD™ Microlearnings provide eye-opening insights into key areas of dancer health and well-being.
         </p>
         <div class="d-flex justify-content-center">
-            <a href="https://ypad.thinkific.com/courses/promoting-a-healthy-body-image" target="_blank" class="text-decoration-none">
-                {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
-                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Healthy Body Image</button>
-            </a>
-            <a href="https://ypad.thinkific.com/courses/how-to-counteract-age-compression" target="_blank" class="text-decoration-none">
-                {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
-                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Counteract Age Compression</button>
-            </a>
-            <a href="https://ypad.thinkific.com/courses/the-importance-of-safe-movement-in-dance" target="_blank" class="text-decoration-none">
-                {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
-                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Safe Movement in Dance</button>
-            </a>
+            <div class="px-2">
+                <a href="https://ypad.thinkific.com/courses/promoting-a-healthy-body-image" target="_blank" class="text-decoration-none">
+                    {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
+                    {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Healthy Body Image</button>--}}
+                    <img src="/images/ml-body-image.png" alt="healthy body image" class="img-fluid shadow rounded">
+                </a>
+            </div>
+            <div class="px-2">
+                <a href="https://ypad.thinkific.com/courses/how-to-counteract-age-compression" target="_blank" class="text-decoration-none">
+                    {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
+                    {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Counteract Age Compression</button>--}}
+                    <img src="/images/ml-age-compression.png" alt="counteract age compression" class="img-fluid shadow rounded">
+                </a>
+            </div>
+            <div class="px-2">
+                <a href="https://ypad.thinkific.com/courses/the-importance-of-safe-movement-in-dance" target="_blank" class="text-decoration-none">
+                    {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
+                    {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Safe Movement in Dance</button>--}}
+                    <img src="/images/ml-safe-movement.png" alt="safe movement in dance" class="img-fluid shadow rounded">
+                </a>
+            </div>
         </div>
         <p class="text-center mt-3">
             <em>Check back often for new releases!</em>
