@@ -157,7 +157,7 @@
                 <a href="https://ypad.thinkific.com/courses/how-to-counteract-age-compression" target="_blank" class="text-decoration-none">
                     {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
                     {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Counteract Age Compression</button>--}}
-                    <img src="/images/ml-age-compression.png" alt="counteract age compression" class="img-fluid shadow rounded">
+                    <img src="/images/ml-age-compress.png" alt="counteract age compression" class="img-fluid shadow rounded">
                 </a>
             </div>
             <div class="px-2">
