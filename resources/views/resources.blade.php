@@ -103,7 +103,7 @@
             <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-3">
                 <x-resource target="_blank" pdf="/images/event-resource-1.pdf" name="Protecting Assistants at Events" />
                 <x-resource target="_blank" pdf="/images/event-resource-2.pdf" name="Professional Boundaries at Events" />
-                <x-resource target="_blank" pdf="/images/event-resource-3.pdf" name='"See Something, Say Something" at Events"' />
+                <x-resource target="_blank" pdf="/images/event-resource-3.pdf" name='"See Something, Say Something" at Events' />
                 {{--                    <x-resource target="" pdf="" name="" />--}}
             </div>
         </div>
