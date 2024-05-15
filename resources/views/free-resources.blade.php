@@ -54,7 +54,7 @@
                             Check back often for newly added materials!
                         </p>
                         <div>
-                            <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-6">
+                            <div class="row row-cols-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-6">
                                 <x-resource target="" pdf="/resources" name="Safe Movement in Dance" />
                                 <x-resource target="" pdf="/resources" name="Gross Motor Skill Milestones" />
                                 <x-resource target="" pdf="/resources" name="A Body-Positive Environment" />
@@ -146,7 +146,7 @@
 {{--                YPAD™ Free Resources are a great place to start your learning journey!--}}
 {{--            </p>--}}
             <div>
-                <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-3">
+                <div class="row row-cols-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-3">
                     <x-resource target="" pdf="/resources" name="Protecting Assistants at Events" />
                     <x-resource target="" pdf="/resources" name="Professional Boundaries at Events" />
                     <x-resource target="" pdf="/resources" name='"See Something, Say Something" at Events' />
