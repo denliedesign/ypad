@@ -47,7 +47,7 @@
             <div class="py-5">
                 <div class="d-flex justify-content-center align-items-center">
                     <div>
-                        <h2 class="text-uppercase text-center">FREE RESOURCES</h2>
+                        <h2 class="text-uppercase text-center">FREE RESOURCES FOR THE COMMUNITY</h2>
                         <p class="text-center">
                             Get started on your YPAD™ Education journey here! These resources, developed from topical YPAD™ research and backed by subject matter experts, are designed to help you make more knowledgeable decisions about safety, health, and wellness in dance.
                             <br><br>
@@ -135,43 +135,66 @@
                         </div>
                     </div>
                 </div>
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+
+{{--    <div class="container py-5">--}}
+{{--        <div>--}}
+            <h2 class="text-center pt-5">FREE RESOURCES FOR EVENTS</h2>
+{{--            <p class="text-center">--}}
+{{--                YPAD™ Free Resources are a great place to start your learning journey!--}}
+{{--            </p>--}}
+            <div>
+                <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-3">
+                    <x-resource target="" pdf="/resources" name="Protecting Assistants at Events" />
+                    <x-resource target="" pdf="/resources" name="Professional Boundaries at Events" />
+                    <x-resource target="" pdf="/resources" name='"See Something, Say Something" at Events"' />
+{{--                    <x-resource target="" pdf="" name="" />--}}
+                </div>
             </div>
         </div>
     </div>
-
-
-    <div class="container py-5">
-        <h2 class="text-uppercase text-center">Microlearnings</h2>
-        <p class="text-center">
-            YPAD™ Microlearnings are short, interactive, affordable courses devoted to singular topics and designed to help you learn without a long commitment! Whether you are a parent, studio owner, teacher, or other industry professional, you will find that YPAD™ Microlearnings provide eye-opening insights into key areas of dancer health and well-being.
-        </p>
-        <div class="d-flex justify-content-center">
-            <div class="px-2">
-                <a href="https://ypad.thinkific.com/courses/promoting-a-healthy-body-image" target="_blank" class="text-decoration-none">
-                    {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
-                    {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Healthy Body Image</button>--}}
-                    <img src="/images/ml-body-image.png" alt="healthy body image" class="img-fluid shadow rounded">
-                </a>
-            </div>
-            <div class="px-2">
-                <a href="https://ypad.thinkific.com/courses/how-to-counteract-age-compression" target="_blank" class="text-decoration-none">
-                    {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
-                    {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Counteract Age Compression</button>--}}
-                    <img src="/images/ml-age-compress.png" alt="counteract age compression" class="img-fluid shadow rounded">
-                </a>
-            </div>
-            <div class="px-2">
-                <a href="https://ypad.thinkific.com/courses/the-importance-of-safe-movement-in-dance" target="_blank" class="text-decoration-none">
-                    {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
-                    {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Safe Movement in Dance</button>--}}
-                    <img src="/images/ml-safe-movement.png" alt="safe movement in dance" class="img-fluid shadow rounded">
-                </a>
-            </div>
-        </div>
-        <p class="text-center mt-3">
-            <em>Check back often for new releases!</em>
-        </p>
     </div>
+
+{{--    <div class="orange py-5">--}}
+{{--        @include('_divider-top')--}}
+{{--        @include('_divider-bottom')--}}
+    <div class="container pt-5">
+{{--       <div class="py-5">--}}
+           <h2 class="text-uppercase text-center">Microlearnings</h2>
+           <p class="text-center">
+               YPAD™ Microlearnings are short, interactive, affordable courses devoted to singular topics and designed to help you learn without a long commitment! Whether you are a parent, studio owner, teacher, or other industry professional, you will find that YPAD™ Microlearnings provide eye-opening insights into key areas of dancer health and well-being.
+           </p>
+           <div class="d-flex justify-content-center">
+               <div class="px-2">
+                   <a href="https://ypad.thinkific.com/courses/promoting-a-healthy-body-image" target="_blank" class="text-decoration-none">
+                       {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
+                       {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Healthy Body Image</button>--}}
+                       <img src="/images/ml-body-image.png" alt="healthy body image" class="img-fluid shadow rounded">
+                   </a>
+               </div>
+               <div class="px-2">
+                   <a href="https://ypad.thinkific.com/courses/how-to-counteract-age-compression" target="_blank" class="text-decoration-none">
+                       {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
+                       {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Counteract Age Compression</button>--}}
+                       <img src="/images/ml-age-compress.png" alt="counteract age compression" class="img-fluid shadow rounded">
+                   </a>
+               </div>
+               <div class="px-2">
+                   <a href="https://ypad.thinkific.com/courses/the-importance-of-safe-movement-in-dance" target="_blank" class="text-decoration-none">
+                       {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
+                       {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Safe Movement in Dance</button>--}}
+                       <img src="/images/ml-safe-movement.png" alt="safe movement in dance" class="img-fluid shadow rounded">
+                   </a>
+               </div>
+           </div>
+           <p class="text-center mt-3">
+               <em>Check back often for new releases!</em>
+           </p>
+       </div>
+{{--       </div>--}}
+{{--    </div>--}}
 
     <div class="orange py-5">
         @include('_divider-top')
