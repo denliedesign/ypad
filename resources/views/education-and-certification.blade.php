@@ -167,14 +167,14 @@ quote="Being a YPAD™ Certified studio is essential to my business culture. Our
                     </p>
                 </div>
                 <div class="mt-5">
-                    <x-checkmark item="Attestation of background checks for the studio owner and all staff members" />
-                    <x-checkmark item="Successful completion of YPAD™ Studio Certification coursework for teachers and administrative staff" />
-                    <x-checkmark item="Proof of current First Aid/CPR certifications for the studio owner and all staff members" />
-                    <x-checkmark item="Proof of completion of Stewards of Children® training by Darkness to Light for the studio owner and all staff members" />
-                    <x-checkmark item="Proof of completion of Youth Mental Health First Aid training for the studio owner" />
-                    <x-checkmark item="Current copy of the studio’s Emergency Action Plan (EAP)" />
-                    <x-checkmark item="Current copy of the studio’s business liability insurance, including sex abuse coverage" />
-                    <x-checkmark item="Attendance at a two-hour YPAD™ Artistic Integrity training live on Zoom" />
+                    <x-checkmark number="1." item="Attestation of background checks for the studio owner and all staff members" />
+                    <x-checkmark number="2." item="Successful completion of YPAD™ Studio Certification coursework for teachers and administrative staff" />
+                    <x-checkmark number="3." item="Proof of current First Aid/CPR certifications for the studio owner and all staff members" />
+                    <x-checkmark number="4." item="Proof of completion of Stewards of Children® training by Darkness to Light for the studio owner and all staff members" />
+                    <x-checkmark number="5." item="Proof of completion of Youth Mental Health First Aid training for the studio owner" />
+                    <x-checkmark number="6." item="Current copy of the studio’s Emergency Action Plan (EAP)" />
+                    <x-checkmark number="7." item="Current copy of the studio’s business liability insurance, including sex abuse coverage" />
+                    <x-checkmark number="8." item="Attendance at a two-hour YPAD™ Artistic Integrity training live on Zoom" />
                 </div>
             </div>
             <p class="text-center pt-4">Studio owners can purchase as many or as few of the teacher and administrative courses as needed according to the size of their staff ($199 for teachers and $99 for administrative staff). If as a studio owner you choose to become a YPAD™ Certified Studio, you are agreeing to self-regulation and to following YPAD™’s 5-tier accountability model (see FAQ below for more information). YPAD™ Studio Certification is renewed annually from date of completion at a 50% discount.</p>

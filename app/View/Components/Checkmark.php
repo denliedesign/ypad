@@ -9,12 +9,14 @@ use Illuminate\View\Component;
 class Checkmark extends Component
 {
     public $item;
+    public $number;
     /**
      * Create a new component instance.
      */
-    public function __construct($item)
+    public function __construct($item, $number)
     {
         $this->item = $item;
+        $this->number = $number;
     }
 
     /**
