@@ -343,12 +343,12 @@ quote="Being a YPAD™ Certified Studio is essential to my business culture. Our
             <div class="accordion-item">
                 <h2 class="accordion-header" id="flush-headingSeven">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSeven" aria-expanded="false" aria-controls="flush-collapseThree">
-                        If I become YPAD™ Certified, what does it mean to commit to the 5-tier accountability model?
+                        If I choose to become a YPAD™ Certified Studio, what does it mean to commit to the 5-tier accountability model?
                     </button>
                 </h2>
                 <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
-                        The 5-tier accountability model is a system for collecting and addressing YPAD™-related concerns. When you become YPAD™ Certified, if a concern is shared with us about your organization, we will assess the matter and contact you so that you can learn and improve your practices. Serious problems may result in suspension or removal of certification status. To learn more, visit our
+                        The 5-tier accountability model is a system for collecting and addressing YPAD™-related concerns. When you become a YPAD™ Certified Studio, if a concern is shared with us about your organization, we will assess the matter and contact you so that you can learn and improve your practices. Serious problems may result in suspension or removal of certification status. To learn more, visit our
                         <a href="/support">Support</a> page.
                     </div>
                 </div>
