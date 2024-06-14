@@ -14,10 +14,9 @@
                     <h5><u>Navigation</u></h5>
                     <ul class="text-uppercase mx-0 px-0" style="list-style-type: none;">
                         <li class="my-3"><a class="text-decoration-none text-white" href="/">home</a></li>
-                        <li class="my-3"><a class="text-decoration-none text-white" href="/about">about ypad</a></li>
-                        <li class="my-3"><a class="text-decoration-none text-white" href="/education">education</a></li>
-                        <li class="my-3"><a class="text-decoration-none text-white" href="/certification">certification</a></li>
-                        <li class="my-3"><a class="text-decoration-none text-white" href="/parents">parents</a></li>
+                        <li class="my-3"><a class="text-decoration-none text-white" href="/about">about</a></li>
+                        <li class="my-3"><a class="text-decoration-none text-white" href="/free-resources">free resources</a></li>
+                        <li class="my-3"><a class="text-decoration-none text-white" href="/education-and-certification">education & certification</a></li>
                         <li class="my-3"><a class="text-decoration-none text-white" href="/support">support</a></li>
                         <li class="my-3"><a class="text-decoration-none text-white" href="https://ypad.thinkific.com/users/sign_in" target="_blank">login</a></li>
                         <li class="my-3" style="font-size: 1.25em;">
