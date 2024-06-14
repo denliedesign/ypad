@@ -43,8 +43,8 @@ Route::get('/about', function () {
 });
 
 Route::get('/certification', function () {
-    return view('/certification');
-//    return view('/education-and-certification');
+//    return view('/certification');
+    return view('/education-and-certification');
 });
 
 Route::get('/education', function () {
@@ -63,9 +63,9 @@ Route::get('/free-resources', function () {
     return view('/free-resources');
 });
 
-//Route::get('/education-and-certification', function () {
-//    return view('/education-and-certification');
-//});
+Route::get('/education-and-certification', function () {
+    return view('/education-and-certification');
+});
 
 
 Route::get('/dashboard', function () {

@@ -8,10 +8,10 @@
         <div class="gradient-dark"></div>
         <div id="header-about">
             <h1 class="text-center p-0 m-0">
-                Welcome to YPAD™ Certification
+                YPAD™ Education & Certification
             </h1>
             <p class="text-center" style="font-size: 1.5em;">
-                Becoming YPAD™ Certified means making a deeper commitment to youth dancer health, safety, and well-being.
+                Safeguarding Students by Empowering Adults
             </p>
         </div>
         {{--        <div class="custom-shape-divider-top-1683835088">--}}

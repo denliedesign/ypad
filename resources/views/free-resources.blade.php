@@ -166,32 +166,39 @@
            <p class="text-center">
                YPAD™ Microlearnings are short, interactive, affordable courses devoted to singular topics and designed to help you learn without a long commitment! Whether you are a parent, studio owner, teacher, or other industry professional, you will find that YPAD™ Microlearnings provide eye-opening insights into key areas of dancer health and well-being.
            </p>
-           <div class="d-flex justify-content-center">
-               <div class="px-2">
+           <div class="d-flex justify-content-center row row-cols-2">
+               <div class="p-2">
+                   <a href="https://ypad.thinkific.com/courses/microlearning-healthy-social-media-boundaries" target="_blank" class="text-decoration-none">
+                       {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
+                       {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Healthy Body Image</button>--}}
+                       <img src="/images/ml-social-media.png" alt="healthy body image" class="img-fluid shadow rounded">
+                   </a>
+               </div>
+               <div class="p-2">
                    <a href="https://ypad.thinkific.com/courses/promoting-a-healthy-body-image" target="_blank" class="text-decoration-none">
                        {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
                        {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Healthy Body Image</button>--}}
                        <img src="/images/ml-body-image.png" alt="healthy body image" class="img-fluid shadow rounded">
                    </a>
                </div>
-               <div class="px-2">
+               <div class="p-2">
                    <a href="https://ypad.thinkific.com/courses/how-to-counteract-age-compression" target="_blank" class="text-decoration-none">
                        {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
                        {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Counteract Age Compression</button>--}}
                        <img src="/images/ml-age-compress.png" alt="counteract age compression" class="img-fluid shadow rounded">
                    </a>
                </div>
-               <div class="px-2">
-                   <a href="https://ypad.thinkific.com/courses/the-importance-of-safe-movement-in-dance" target="_blank" class="text-decoration-none">
+               <div class="p-2">
+                   <a href="https://ypad.thinkific.com/courses/microlearning-the-importance-of-safe-movement-in-dance" target="_blank" class="text-decoration-none">
                        {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
                        {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Safe Movement in Dance</button>--}}
                        <img src="/images/ml-safe-movement.png" alt="safe movement in dance" class="img-fluid shadow rounded">
                    </a>
                </div>
            </div>
-           <p class="text-center mt-3">
-               <em>Check back often for new releases!</em>
-           </p>
+{{--           <p class="text-center mt-3">--}}
+{{--               <em>Check back often for new releases!</em>--}}
+{{--           </p>--}}
        </div>
 {{--       </div>--}}
 {{--    </div>--}}
@@ -245,16 +252,18 @@
                                 </div>
                                 <div class="card-body text-dark">
                                     <h3 class="text-center">
-                                        How to Create a Body-Positive Environment at Home and at Dance
+                                        Encouraging Healthy Nutrition and Hydration for Dancers
+{{--                                        How to Create a Body-Positive Environment at Home and at Dance--}}
                                         {{--                                How to Support Your Dancer During Recital Season--}}
                                     </h3>
                                     <p class="text-center text-dark">
-                                        Wednesday, May 29th, 2024 from 12:00-12:30PM CT
+                                        Wednesday, June 26th, 2024 from 12:00-12:30PM CT
+{{--                                        Wednesday, May 29th, 2024 from 12:00-12:30PM CT--}}
                                         {{--                                Wednesday, April 24, 2024 from 12:00-12:30PM CT--}}
                                     </p>
                                 </div>
                                 <div class="d-flex justify-content-center card-footer" style="background: white; border-top: none;">
-                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfc2xVWFjrDyv8IieUsNDCcdWfbyt6yroro2ckYEWvh5bXNfA/viewform?usp=sharing" target="_blank" class="text-decoration-none">
+                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfc2xVWFjrDyv8IieUsNDCcdWfbyt6yroro2ckYEWvh5bXNfA/viewform?usp=sf_link" target="_blank" class="text-decoration-none">
                                         <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 215px;">Sign up here to attend!</button>
                                     </a>
                                 </div>

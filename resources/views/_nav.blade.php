@@ -30,7 +30,7 @@
                     <a class="nav-link" href="/free-resources">Free Resources</a>
                 </li>
                 <li class="nav-item mx-3">
-                    <a class="nav-link" href="/certification">Certification</a>
+                    <a class="nav-link" href="/education-and-certification">Education & Certification</a>
                 </li>
 {{--                <li class="nav-item mx-3">--}}
 {{--                    <a class="nav-link" href="/parents">Parents</a>--}}

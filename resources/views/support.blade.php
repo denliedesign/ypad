@@ -11,7 +11,7 @@
                 Welcome to YPAD™ Support
             </h1>
             <p class="text-center" style="font-size: 1.5em;">
-                We are here to help
+                Safeguarding Students by Empowering Adults
             </p>
         </div>
         {{--        <div class="custom-shape-divider-top-1683835088">--}}
