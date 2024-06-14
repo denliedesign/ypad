@@ -59,7 +59,7 @@ p, div, .accordion-body { font-family: 'Inter', sans-serif; }
     color: #EF9A60;
     font-family: 'Inter', sans-serif;
     font-weight: bold !important;
-    text-transform: capitalize;
+    /*text-transform: capitalize;*/
     /*color: #067997;*/
 }
 
