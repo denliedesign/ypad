@@ -177,7 +177,7 @@ quote="Being a YPAD™ Certified studio is essential to my business culture. Our
                     <x-checkmark item="Attendance at a two-hour YPAD™ Artistic Integrity training live on Zoom" />
                 </div>
             </div>
-            <p class="text-center pt-4">Studio owners can purchase as many or as few of the teacher and administrative courses as needed according to the size of their staff ($199 for teachers and $99 for administrative staff). If as a studio owner you choose to become YPAD™ Certified Studio, you are agreeing to self-regulation and to following YPAD™’s 5-tier accountability model. YPAD™ Studio Certification is renewed annually from date of completion at a 50% discount.</p>
+            <p class="text-center pt-4">Studio owners can purchase as many or as few of the teacher and administrative courses as needed according to the size of their staff ($199 for teachers and $99 for administrative staff). If as a studio owner you choose to become a YPAD™ Certified Studio, you are agreeing to self-regulation and to following YPAD™’s 5-tier accountability model (see FAQ below for more information). YPAD™ Studio Certification is renewed annually from date of completion at a 50% discount.</p>
 
         </div>
     </div>
