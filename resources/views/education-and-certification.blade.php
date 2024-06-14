@@ -268,7 +268,7 @@ quote="Being a YPAD™ Certified Studio is essential to my business culture. Our
             <div class="accordion-item">
                 <h2 class="accordion-header" id="flush-headingTwo">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                        If I am becoming YPAD™ Certified, how much do the additional requirements cost?
+                        How much do the additional requirements to become a YPAD™ Certified Studio cost?
                     </button>
                 </h2>
                 <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
