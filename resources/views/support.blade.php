@@ -164,16 +164,16 @@
         @include('_divider-bottom')
         <x-testimonial
             image="test-monique.jpg"
-            quote="As a studio owner, you never want to get an emergency call from the studio, but thanks to our YPAD™ training and certification, my teachers knew how to handle an emergency when I wasn’t there. I am grateful to report that everyone is okay. Thank you YPAD™ for preparing our teachers so well!"
+            quote="As a studio owner, you never want to get an emergency call from the studio, but thanks to YPAD™, my teachers knew how to handle an emergency when I wasn’t there. I am grateful to report that everyone is okay. Thank you YPAD™ for preparing our teachers so well!"
             person="Monique Rodriguez"
             place="Studio Owner, Michigan"
         />
     </div>
 
     <div class="container py-5">
-        <h2 class="text-center">YPAD™ Certified Support</h2>
+        <h2 class="text-center">YPAD™ Certified Studio and YPAD™ Certified Event Support</h2>
         <p>
-            Are you YPAD™ Certified and have a question or concern about something you’ve observed or heard that is concerning? Do you need support navigating an issue regarding artistic integrity or conflict resolution? Request additional support here for a referral to a YPAD™ Certified Coach or subject matter expert. This service is included as part of your certification investment.
+            Are you a YPAD™ Certified Studio or a YPAD™ Certified Event and have a question or concern about something you’ve observed or heard that is concerning? Do you need support navigating an issue regarding artistic integrity or conflict resolution? Request additional support here for a referral to a YPAD™ Certified Coach or subject matter expert. This service is included as part of your certification investment.
             <br><br>
             Please note that this email is monitored 9AM to 3PM Central time, Monday through Friday. It is not a crisis hotline. Immediate or emergency concerns should always be directed to 911, a crisis hotline, or child welfare providers.
         </p>
@@ -194,7 +194,7 @@
                         <div class="text-white text-center">
                             <h3><strong>Do you have a concern?</strong></h3>
                             <h4>
-                                YPAD™ brings awareness to and provides guidance for one essential priority: <strong>the safety of dance students</strong>. If you have a concern with a YPAD™ Certified Studio, Individual, or Event as it relates to the safety and well-being of students, please continue to the information below.
+                                YPAD™ brings awareness to and provides guidance for one essential priority: <strong>the safety of dance students</strong>. If you have a concern with a YPAD™ Certified Studio or YPAD™ Certified Event as it relates to the safety and well-being of students, please continue to the information below.
                             </h4>
                         </div>
                     </div>
@@ -221,20 +221,20 @@
                 <ol>
                     <li>
                         <strong>Iterative Improvement:</strong>
-                        This may require a small change; for example, perhaps a photo is shared or a song is played that raises artistic integrity concerns. YPAD™ will provide feedback to the Certified Studio, Individual, or Event about how to make a better choice next time.
+                        This may require a small change; for example, perhaps a photo is shared or a song is played that raises artistic integrity concerns. YPAD™ will provide feedback to the YPAD™ Certified Studio or YPAD™ Certified Event about how to make a better choice next time.
                     </li>
                     <li>
                         <strong>Focused Fix:</strong>
-                        This may require deeper attention to the concerns raised. If there are repetitive concerns shared of the same nature, for example, YPAD™ will ask for a demonstration or documentation from the Certified Studio, Individual, or Event that the concern has been addressed at a practice, policy, or personnel level.                    </li>
+                        This may require deeper attention to the concerns raised. If there are repetitive concerns shared of the same nature, for example, YPAD™ will ask for a demonstration or documentation from the YPAD™ Certified Studio or YPAD™ Certified Event that the concern has been addressed at a practice, policy, or personnel level.                    </li>
                     <li>
                         <strong>Review & Renewal:</strong>
-                        This takes place for a more serious concern of a repetitive or "mid-stakes" issue. This action may require the support of a YPAD™ Certified Coach or a YPAD™ subject matter expert, or a review of YPAD™ Certification materials and information to understand why the reported concern requires change.                     </li>
+                        This takes place for a more serious concern of a repetitive or "mid-stakes" issue. This action may require the support of YPAD™ Certified Studio or YPAD™ Certified Event materials and information to understand why the reported concern requires change.                     </li>
                     <li>
                         <strong>Suspension & Probation:</strong>
-                        This may result from a high-stakes issue, such as abuse allegations. Concerns of this nature would initiate immediate certification suspension pending an internal review, followed by a probationary reinstatement period or termination.                    </li>
+                        This may result from a high-stakes issue, such as abuse allegations. Concerns of this nature would initiate immediate suspension pending an internal review, followed by a probationary reinstatement period or termination.                    </li>
                     <li>
                         <strong>Termination of Certification:</strong>
-                        Depending on the nature of a high stakes issue, other repeated issues, an unwillingness to address concerns, or an unsatisfactory result of an internal review, YPAD™ reserves the right to terminate YPAD™ Certification.
+                        Depending on the nature of a high stakes issue, other repeated issues, an unwillingness to address concerns, or an unsatisfactory result of an internal review, YPAD™ reserves the right to terminate YPAD™ Certified Studio or YPAD™ Certified Event designation.
                     </li>
                 </ol>
                 <div class="d-flex justify-content-center">
@@ -252,7 +252,7 @@
         @include('_divider-top')
         <x-testimonial
             image="test-lori.jpg"
-            quote="When I noticed a student was struggling with body image, I reached out to YPAD™ for guidance. Thanks to my YPAD™ Certification, I knew when to reach out and thanks to their support service, I was able to get same day help and appropriate next steps. Thank you, YPAD™!"
+            quote="When I noticed a student was struggling with body image, I reached out to YPAD™ for guidance. Thanks to being a YPAD™ Certified Studio, I knew when to reach out and thanks to their support service, I was able to get same day help and appropriate next steps. Thank you, YPAD™!"
             person="Lori Gardner"
             place="Studio Owner, Illinois"
         />
