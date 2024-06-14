@@ -127,7 +127,7 @@
                     image="darcy.png"
                     name="Darcy Fagerwold"
                     title="Studio Owner, California"
-                    quote="Youth Protection Association for Dance™ education is evidence to families that we are committed to keeping kids healthy and safe in dance. It is comforting to know that as challenging issues arise, YPAD™ is there to support and guide us to ensure we are doing what's right for our students. Thank you to Youth Protection Association for Dance™ for leading the dance industry in this vital endeavor!"
+                    quote="YPAD™ education is evidence to families that we are committed to keeping kids healthy and safe in dance. It is comforting to know that as challenging issues arise, YPAD™ is there to support and guide us to ensure we are doing what's right for our students. Thank you to YPAD™ for leading the dance industry in this vital endeavor!"
                 />
                 <x-orange
                     image="kate.png"
