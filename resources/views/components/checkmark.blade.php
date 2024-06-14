@@ -4,7 +4,7 @@
 {{--        <ion-icon name="checkmark-circle"></ion-icon>--}}
 {{--    </div>--}}
     <div class="col-11">
-        {{ $number }}
+        <strong>Milestone {{ $number }}</strong>
         {{ $item }}
     </div>
     <div class="">
