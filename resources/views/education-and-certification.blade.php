@@ -23,14 +23,14 @@
 
     <div class="container py-5">
         <div>
-            <h2 class="text-center">Welcome!</h2>
+            <h2 class="text-center" style="font-size: 3em;">Welcome!</h2>
             <p class="text-center fw-bold">
                 We’re so glad you’re here!
             </p>
             <p class="text-center">
                 If you are a dance educator or studio owner interested in learning deeper content about student health, safety, and wellness, you are in the right place.
                 <br><br>
-                Choose from our <strong>4-module Educator Course</strong> or our <strong>8-module Studio Owner Course</strong> to enhance your knowledge. Additionally, studio owners who complete their course can choose to pursue <strong>YPAD™ Certification</strong> for their studio.
+                Choose from our <strong>4-module Educator Course</strong> or our <strong>8-module Studio Owner Course</strong> to enhance your knowledge. Additionally, studio owners who complete their course can choose to pursue becoming a YPAD™ Certified Studio designation.
             </p>
         </div>
     </div>
@@ -41,7 +41,7 @@
         <div class="container d-flex justify-content-center align-items-center py-5">
             <div>
                 <h3 class="text-white text-center pt-4">
-                    The mission of Youth Protection Association for Dance™ is to bring awareness to and provide guidance for one essential priority: <strong>the safety and health of dance students</strong>.
+                    The mission of YPAD™ is to bring awareness to and provide guidance for one essential priority: <strong>the safety and health of dance students</strong>.
                 </h3>
             </div>
         </div>
@@ -147,14 +147,14 @@ quote="I'm a studio owner, but I wanted to start with YPAD™ education first be
                     image="neisha.jpeg"
                     name="NEISHA HERNANDEZ"
                     title="Studio Owner, California"
-quote="Being a YPAD™ Certified studio is essential to my business culture. Our parents and families are confident that my studio is intentionally focused on keeping their kids healthy and safe. YPAD™'s extensive resources and ongoing education opportunities have been integral in carrying out our mission of Encouraging Kids to Lead Inspired Lives!"
+quote="Being a YPAD™ Certified Studio is essential to my business culture. Our parents and families are confident that my studio is intentionally focused on keeping their kids healthy and safe. YPAD™ has extensive resources and ongoing education opportunities have been integral in carrying out our mission of Encouraging Kids to Lead Inspired Lives!"
                 />
             </div>
         </div>
     </div>
 
     <div class="container py-5">
-                <h2 class="text-uppercase text-center">For Studio Owners interested in ypad™ studio certification</h2>
+                <h2 class="text-uppercase text-center">For Studio Owners interested in becoming a ypad™ certified studio</h2>
         <div class="row" id="about-checkmarks">
 {{--            <p class="text-center" style="color: #896C7B;">--}}
 {{--                After your application is accepted and you complete the YPAD™ Certified Course, submit the reflections, and pass the knowledge checks with 90% proficiency, it is time to move on to STEP THREE: external training and documentation.--}}
@@ -162,14 +162,12 @@ quote="Being a YPAD™ Certified studio is essential to my business culture. Our
             <div class="col-sm my-3">
                 <div>
                     <p class="text-center">
-                        Studio owners who are interested in pursuing YPAD™ Studio Certification should complete the YPAD™ Studio Owner Course first and then submit the designated form at completion of the final lesson.
-                        <br><br>
-                        YPAD™ Studio Certification requires the successful completion of the YPAD™ Studio Owner Course followed by a Discovery Call with a YPAD™ Certified Coach. Upon agreement to move forward with the studio certification process, studio owners make the following commitments which we call milestones toward studio certification:
+                        Becoming a YPAD™ Certified Studio requires the successful completion of the YPAD™ Studio Owner Course followed by a Discovery Call with a YPAD™ Certified Coach. Upon agreement to move forward with the process, studio owners make the following commitments which we call milestones:
                     </p>
                 </div>
                 <div class="mt-5">
                     <x-checkmark number="1:" item="Attestation of background checks for the studio owner and all staff members" />
-                    <x-checkmark number="2:" item="Successful completion of YPAD™ Studio Certification coursework for teachers and administrative staff" />
+                    <x-checkmark number="2:" item="Successful completion of YPAD™ Certified Studio coursework for teachers and administrative staff" />
                     <x-checkmark number="3:" item="Proof of current First Aid/CPR certifications for the studio owner and all staff members" />
                     <x-checkmark number="4:" item="Proof of completion of Stewards of Children® training by Darkness to Light for the studio owner and all staff members" />
                     <x-checkmark number="5:" item="Proof of completion of Youth Mental Health First Aid training for the studio owner" />
@@ -178,7 +176,7 @@ quote="Being a YPAD™ Certified studio is essential to my business culture. Our
                     <x-checkmark number="8:" item="Attendance at a two-hour YPAD™ Artistic Integrity training live on Zoom" />
                 </div>
             </div>
-            <p class="text-center pt-4">Studio owners can purchase as many or as few of the teacher and administrative courses as needed according to the size of their staff ($199 for teachers and $99 for administrative staff). If as a studio owner you choose to become a YPAD™ Certified Studio, you are agreeing to self-regulation and to following YPAD™’s 5-tier accountability model (see FAQ below for more information). YPAD™ Studio Certification is renewed annually from date of completion at a 50% discount.</p>
+            <p class="text-center pt-4">Studio owners can purchase as many or as few of the teacher and administrative courses as needed according to the size of their staff ($199 for teachers and $99 for administrative staff). If as a studio owner you choose to become a YPAD™ Certified Studio, you are agreeing to self-regulation and to following YPAD™’s 5-tier accountability model (see FAQ below for more information). As a YPAD™ Certified Studio you will renew annually from date of completion at a 50% discount.</p>
 
         </div>
     </div>
@@ -263,7 +261,7 @@ quote="Being a YPAD™ Certified studio is essential to my business culture. Our
                     <div class="accordion-body">
                         The YPAD™ Educator and the YPAD™ Studio Owner courses are educational options that provide practical insights, evidence-based knowledge, and innovative teaching methodologies that you can immediately implement. These options are designed to enhance personal and professional development.
                         <br><br>
-                        YPAD™ Certification is a step beyond education! The certification process entails completion of YPAD™ Studio Owner course, followed by a Discovery Call with one of our Certified Coaches, and the submission of a robust series of documentation proving the studio owner’s commitment to health, safety, and wellness at the studio.
+                       Becoming a YPAD™ Certified Studio is a step beyond education! The certification process entails completion of YPAD™ Studio Owner course, followed by a Discovery Call with one of our Certified Coaches, and the submission of a robust series of documentation proving the studio owner’s commitment to health, safety, and wellness at the studio.
                     </div>
                 </div>
             </div>
@@ -282,6 +280,18 @@ quote="Being a YPAD™ Certified studio is essential to my business culture. Our
                         Darkness to Light’s Stewards of Children® training is $16 per person, as of December 2023.
                         <br><br>
                         The cost for Youth Mental Health First Aid certification typically starts around $85 per person. Though this training is recommended for all who are certifying, YPAD™ only requires it for studio owners and event owners.
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-headingOne">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                        Does YPAD™ certify individuals?
+                    </button>
+                </h2>
+                <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">
+                        At this time, YPAD™ only offers certification to organizations. Individuals may still choose to earn an educational standard by completing the YPAD™ Educator course or Studio Owner course.
                     </div>
                 </div>
             </div>
