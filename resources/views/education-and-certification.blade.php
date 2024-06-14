@@ -176,6 +176,8 @@ quote="Being a YPAD™ Certified studio is essential to my business culture. Our
                     <x-checkmark item="Attendance at a two-hour YPAD™ Artistic Integrity training live on Zoom" />
                 </div>
             </div>
+            <p class="text-center pt-4">In addition to the above documentation provided by the studio owner, YPAD™ Certification for studios requires teachers and administrative staff to successfully complete YPAD™ Certification coursework. Studio owners can purchase as many or as few of these courses as needed.</p>
+
         </div>
     </div>
 
@@ -184,8 +186,7 @@ quote="Being a YPAD™ Certified studio is essential to my business culture. Our
         @include('_divider-bottom')
         <div class="py-5 container text-white d-flex align-items-center">
             <div>
-{{--                <h2 class="text-uppercase text-center">FREE BONUS RESOURCES FOR YPAD&trade; CERTIFIED STUDIOS</h2>--}}
-                <p class="text-center pt-4">In addition to the above documentation provided by the studio owner, YPAD™ Certification for studios requires teachers and administrative staff to successfully complete YPAD™ Certification coursework. Studio owners can purchase as many or as few of these courses as needed.</p>
+                <h2 class="text-uppercase text-center pt-4">FREE BONUS RESOURCES FOR YPAD&trade; CERTIFIED STUDIOS</h2>
                 <div class="row row-cols-3 row-cols-sm-3 row-cols-md-5 row-cols-lg-5 mt-4">
                     <div class="col-sm">
                         <div class="mx-4 my-2">
