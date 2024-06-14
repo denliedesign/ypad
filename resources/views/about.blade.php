@@ -88,7 +88,7 @@
                 <div class="col-sm">
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
-                            <h3>YPAD™ works with individual educators, studio owners, events, colleges, researchers, experts, and industry professionals for brighter future in dance.</h3>
+                            <h3>YPAD™ works with parents, individual educators, studio owners, events, colleges, researchers, experts, and industry professionals for brighter future in dance.</h3>
                         </div>
                     </div>
                 </div>
