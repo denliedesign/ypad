@@ -60,7 +60,7 @@
                     </div>
                     <p class="fw-bold text-center text-uppercase py-0 my-0">Certified Support</p>
                     <p class="text-center py-0 my-0">
-                        YPAD™ Certified Studios, Individuals, and Events can request additional support from a YPAD™ Certified Coach or a YPAD™ subject matter expert. This referral service is included as part of your certification investment.
+                        YPAD™ Certified Studios and YPAD™ Certified Events can request additional support from a YPAD™ Certified Coach or a YPAD™ subject matter expert. This referral service is included as part of your certification investment.
                     </p>
                 </div>
             </div>
@@ -71,7 +71,7 @@
                     </div>
                     <p class="fw-bold text-center text-uppercase py-0 my-0">Sharing Concerns</p>
                     <p class="text-center py-0 my-0">
-                        YPAD™ has implemented a system for sharing concerns related to YPAD™ Certified Studios, Individuals, or Events. Concerns are evaluated and handled according to YPAD™’s 5-tier accountability model.
+                        YPAD™ has implemented a system for sharing concerns related to YPAD™ Certified Studios and/or YPAD™ Certified Events. Concerns are evaluated and handled according to YPAD™’s 5-tier accountability model.
                     </p>
                 </div>
             </div>
