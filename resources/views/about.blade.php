@@ -36,7 +36,8 @@
                     <br><br>
                     2. a connection or cooperative link between people or organizations.
                     <br><br>
-                    As an association, YPAD™ is built on four building blocks as represented in our logo: training opportunities, certification standards, research development, and parents.
+                    As an association, YPAD™ is built on four building blocks as represented in our logo: educational resources, certification standards, research development
+{{--                    training opportunities, certification standards, research development, and parents.--}}
                 </p>
             </div>
             <div class="col-sm">
@@ -63,7 +64,7 @@
                         <ion-icon name="checkmark-circle"></ion-icon>
                     </div>
                     <div class="col-11">
-                        YPAD™ certifies dance educators and industry leaders by offering an earned designation that requires specific standards.
+                        YPAD™ certifies dance studios and events by offering an earned designation that requires specific standards.
                     </div>
                     <hr class="my-3">
                 </div>
