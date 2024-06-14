@@ -8,6 +8,6 @@
         {{ $item }}
     </div>
     <div class="">
-        <hr class="my-3" style="width: 90%;">
+{{--        <hr class="my-3" style="width: 90%;">--}}
     </div>
 </div>
