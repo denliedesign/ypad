@@ -225,7 +225,7 @@
 {{--                        EDUCATION or CERTIFICATION--}}
                     </p>
                     <p>
-                        YPAD™ offers learning opportunities for educators, studio owners, parents, and events. Our core resource options include online courses, live and recorded webinars, microlearnings, and downloadable PDFs. Additionally, studio owners and events have the option to go the extra mile and seek YPAD™ Certification, agreeing to a high measure of self-education and self-regulation in addition to following YPAD™’s 5-tier accountability model.
+                        YPAD™ offers learning opportunities for educators, studio owners, parents, and events. Our core resource options include online courses, live and recorded webinars, microlearnings, and downloadable PDFs. Additionally, studio owners and events have the option to go the extra mile and seek a YPAD™ Certified Studio designation, agreeing to a high measure of self-education and self-regulation in addition to following YPAD™’s 5-tier accountability model.
                     </p>
 {{--                    <p>--}}
 {{--                        YPAD™ Education options include resources, webinars, courses, and microlearnings. They are open to the entire dance community! Education opportunities do not require additional steps, such as knowledge checks, third-party training, or documentation, nor do they lead to certification.--}}
@@ -344,7 +344,7 @@
                     </div>
                     <div class="col-lg d-flex align-items-center">
                         <p>
-                            “As a dancer and dance teacher, I’ve taken a lot of training over the years for my role at the studio. Out of everything I've learned, I have to say that the information I have received from YPAD™ Certification has been the most important. Because of what I've learned through YPAD™, I am confident I am making the best choices for my students."
+                            “As a dancer and dance teacher, I’ve taken a lot of training over the years for my role at the studio. Out of everything I've learned, I have to say that the information I have received from YPAD™ has been the most important. Because of what I've learned through YPAD™, I am confident I am making the best choices for my students."
                         </p>
                     </div>
                 </div>
@@ -438,7 +438,7 @@
             </div>
             <div>
                 <p class="text-center">
-                    YPAD™ Certified studio owner Misty Lown is a co-author of a pilot study on ballet safety published in the Journal of Dance Medicine & Science.
+                    YPAD™ Certified Studio owner Misty Lown is a co-author of a pilot study on ballet safety published in the Journal of Dance Medicine & Science.
 {{--                    <br>YPAD™ has two more research projects in progress for 2023-24: one with a researcher from Mayo Health and one with Trine University.                 </p>--}}
 
                 <div class="d-flex justify-content-center mb-4">
