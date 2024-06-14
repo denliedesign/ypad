@@ -164,7 +164,7 @@
 {{--       <div class="py-5">--}}
            <h2 class="text-uppercase text-center">Microlearnings</h2>
            <p class="text-center">
-               YPAD™ Microlearnings are short, interactive, affordable courses devoted to singular topics and designed to help you learn without a long commitment! Whether you are a parent, studio owner, teacher, or other industry professional, you will find that YPAD™ Microlearnings provide eye-opening insights into key areas of dancer health and well-being.
+               YPAD™ Microlearnings are short and interactive courses devoted to singular topics and designed to help you learn without a long commitment! Whether you are a parent, studio owner, teacher, or other industry professional, you will find that YPAD™ Microlearnings provide eye-opening insights into key areas of dancer health and well-being.
            </p>
            <div class="d-flex justify-content-center row row-cols-2">
                <div class="p-2">

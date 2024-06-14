@@ -273,13 +273,13 @@ quote="Being a YPAD™ Certified Studio is essential to my business culture. Our
                 </h2>
                 <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
-                        Background check costs depend on the background screening company you choose and the individual being checked. Expect costs to start around $25 per person. For YPAD™ Certification purposes, background checks must be renewed every two years at minimum.
+                        Background check costs depend on the background screening company you choose and the individual being checked. Expect costs to start around $25 per person. For YPAD™ Certified Studios, background checks must be renewed every two years at minimum.
                         <br><br>
                         CPR/First Aid certification typically starts around $35 per person and must be renewed every two years at minimum. YPAD™ accepts online completion certificates.
                         <br><br>
-                        Darkness to Light’s Stewards of Children® training is $16 per person, as of December 2023.
+                        Darkness to Light’s Stewards of Children® training is $16 per person, as of December 2023, and is completed once.
                         <br><br>
-                        The cost for Youth Mental Health First Aid certification typically starts around $85 per person. Though this training is recommended for all who are certifying, YPAD™ only requires it for studio owners and event owners.
+                        The cost for Youth Mental Health First Aid certification typically starts around $85 per person. Though this training is highly recommended for everyone, YPAD™ only requires it for studio owners and event owners.
                     </div>
                 </div>
             </div>
@@ -291,7 +291,7 @@ quote="Being a YPAD™ Certified Studio is essential to my business culture. Our
                 </h2>
                 <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
-                        At this time, YPAD™ only offers certification to organizations. Individuals may still choose to earn an educational standard by completing the YPAD™ Educator course or Studio Owner course.
+                        At this time, YPAD™ only offers certification to organizations. Individuals may still choose to earn an educational standard by completing the YPAD™ Educator course, Studio Owner course, or take advantage of one of our free resources, Microlearnings, or Spotlight Conversations.
                     </div>
                 </div>
             </div>
