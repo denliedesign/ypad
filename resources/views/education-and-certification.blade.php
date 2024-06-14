@@ -308,35 +308,35 @@ quote="Being a YPAD™ Certified Studio is essential to my business culture. Our
                 </div>
             </div>
 
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="flush-headingFour">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseOne">
-                        Can I be YPAD™ educated and not seek certification?
-                    </button>
-                </h2>
-                <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">Yes. YPAD™ offers education options for everyone!</div>
-                </div>
-            </div>
+{{--            <div class="accordion-item">--}}
+{{--                <h2 class="accordion-header" id="flush-headingFour">--}}
+{{--                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseOne">--}}
+{{--                        Can I be YPAD™ educated and not seek certification?--}}
+{{--                    </button>--}}
+{{--                </h2>--}}
+{{--                <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">--}}
+{{--                    <div class="accordion-body">Yes. YPAD™ offers education options for everyone!</div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
             <div class="accordion-item">
                 <h2 class="accordion-header" id="flush-headingFive">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
-                        If I become YPAD™ Certified, how long is my certification valid?
+                        If my studio becomes a YPAD™ Certified Studio, how long is the certification valid for?
                     </button>
                 </h2>
                 <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">YPAD™ endorses continuing education and continuous improvement. Because of that, certification is valid from the date of your initial enrollment and must be renewed annually based on that date.</div>
+                    <div class="accordion-body">YPAD™ endorses continuing education and continuous improvement. Because of that, as a YPAD™ Certified Studio you will renew annually from date of completion at a 50% discount.</div>
                 </div>
             </div>
             <div class="accordion-item">
                 <h2 class="accordion-header" id="flush-headingSix">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
-                        What if I start YPAD™ certification and don’t finish?
+                        What if I start on my milestones to becoming a YPAD™ Certified Studio and don't finish?
                     </button>
                 </h2>
                 <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
-                        All YPAD™ coursework is asynchronous, meaning you can start, take a break, and restart anytime. Certification is only awarded, however, after all coursework and documentation submissions have been approved.
+                        All YPAD™ coursework is asynchronous, meaning you can start, take a break, and restart anytime. The designation of YPAD™ Certified Studio is only awarded, however, after all coursework and documentation submissions have been approved.
                     </div>
                 </div>
             </div>
