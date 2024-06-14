@@ -161,7 +161,7 @@ quote="Being a YPAD™ Certified studio is essential to my business culture. Our
             <div class="col-sm my-3">
                 <div>
                     <p class="text-center">
-                        Studio owners who are interested in pursuing YPAD™ Certification for their studio should complete The YPAD™ Studio Owner Course and submit the designated form at completion of the final lesson.
+                        Studio owners who are interested in pursuing YPAD™ Studio Certification should complete The YPAD™ Studio Owner Course and submit the designated form at completion of the final lesson.
                         <br><br>
                         YPAD™ Studio Certification requires the successful completion of The YPAD™ Studio Owner Course followed by a Discovery Call with a YPAD™ Certified Coach. Upon agreement to move forward with the certification process, studio owners submit documentation of the following:
                     </p>
