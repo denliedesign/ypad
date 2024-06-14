@@ -168,6 +168,7 @@ quote="Being a YPAD™ Certified studio is essential to my business culture. Our
                 </div>
                 <div class="mt-5">
                     <x-checkmark item="Attestation of background checks for the studio owner and all staff members" />
+                    <x-checkmark item="Successful completion of YPAD™ Studio Certification coursework for teachers and administrative staff" />
                     <x-checkmark item="Proof of current First Aid/CPR certifications for the studio owner and all staff members" />
                     <x-checkmark item="Proof of completion of Stewards of Children® training by Darkness to Light for the studio owner and all staff members" />
                     <x-checkmark item="Proof of completion of Youth Mental Health First Aid training for the studio owner" />
@@ -176,7 +177,7 @@ quote="Being a YPAD™ Certified studio is essential to my business culture. Our
                     <x-checkmark item="Attendance at a two-hour YPAD™ Artistic Integrity training live on Zoom" />
                 </div>
             </div>
-            <p class="text-center pt-4">In addition to the above documentation provided by the studio owner, YPAD™ Studio Certification requires teachers and administrative staff to successfully complete YPAD™ Studio Certification coursework. Studio owners can purchase as many or as few of these courses as needed according to the size of their staff. If as a studio owner you choose to become YPAD™ Certified Studio, you are agreeing to self-regulation and to following YPAD™’s 5-tier accountability model.</p>
+            <p class="text-center pt-4">Studio owners can purchase as many or as few of the teacher and administrative courses as needed according to the size of their staff. $199 for teachers and $99 for administrative staff. If as a studio owner you choose to become YPAD™ Certified Studio, you are agreeing to self-regulation and to following YPAD™’s 5-tier accountability model.</p>
 
         </div>
     </div>
