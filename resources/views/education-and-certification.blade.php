@@ -161,9 +161,9 @@ quote="Being a YPAD™ Certified studio is essential to my business culture. Our
             <div class="col-sm my-3">
                 <div>
                     <p class="text-center">
-                        Studio owners who are interested in YPAD™ Certification should complete The YPAD™ Studio Owner Course and submit the designated form at completion of the final lesson.
+                        Studio owners who are interested in pursuing YPAD™ Certification for their studio should complete The YPAD™ Studio Owner Course and submit the designated form at completion of the final lesson.
                         <br><br>
-                        YPAD™ Certification requires the successful completion of The YPAD™ Studio Owner Course followed by a Discovery Call with a YPAD™ Certified Coach. Upon agreement to move forward with the certification process, studio owners submit documentation of the following:
+                        YPAD™ Studio Certification requires the successful completion of The YPAD™ Studio Owner Course followed by a Discovery Call with a YPAD™ Certified Coach. Upon agreement to move forward with the certification process, studio owners submit documentation of the following:
                     </p>
                 </div>
                 <div class="mt-5">
@@ -176,7 +176,7 @@ quote="Being a YPAD™ Certified studio is essential to my business culture. Our
                     <x-checkmark item="Attendance at a two-hour YPAD™ Artistic Integrity training live on Zoom" />
                 </div>
             </div>
-            <p class="text-center pt-4">In addition to the above documentation provided by the studio owner, YPAD™ Certification for studios requires teachers and administrative staff to successfully complete YPAD™ Certification coursework. Studio owners can purchase as many or as few of these courses as needed.</p>
+            <p class="text-center pt-4">In addition to the above documentation provided by the studio owner, YPAD™ Studio Certification requires teachers and administrative staff to successfully complete YPAD™ Studio Certification coursework. Studio owners can purchase as many or as few of these courses as needed. If you choose to become certified, you are agreeing to self-regulation and to following YPAD’s 5-tier accountability model.</p>
 
         </div>
     </div>
