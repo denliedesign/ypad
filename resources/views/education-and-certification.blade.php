@@ -309,16 +309,7 @@ quote="Being a YPAD™ Certified Studio is essential to my business culture. Our
                 </div>
             </div>
 
-{{--            <div class="accordion-item">--}}
-{{--                <h2 class="accordion-header" id="flush-headingFour">--}}
-{{--                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseOne">--}}
-{{--                        Can I be YPAD™ educated and not seek certification?--}}
-{{--                    </button>--}}
-{{--                </h2>--}}
-{{--                <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">--}}
-{{--                    <div class="accordion-body">Yes. YPAD™ offers education options for everyone!</div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
+
             <div class="accordion-item">
                 <h2 class="accordion-header" id="flush-headingFive">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
@@ -354,6 +345,17 @@ quote="Being a YPAD™ Certified Studio is essential to my business culture. Our
                     </div>
                 </div>
             </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-headingFour">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseOne">
+What is the process for becoming a YPAD™ Certified Event?
+                                </button>
+                            </h2>
+                            <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">Yes. YPAD™ offers education options for everyone!
+                                The process for becoming a YPAD™ Certified Event is similar to becoming a YPAD™ Certified Studio but tailored specifically to the unique aspects of conventions and competitions.</div>
+                            </div>
+                        </div>
 
         </div>
     </div>
