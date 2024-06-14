@@ -274,7 +274,7 @@ quote="Being a YPAD™ Certified Studio is essential to my business culture. Our
                 </h2>
                 <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
-                        At this time, YPAD™ only offers certification to organizations. Individuals may still choose to earn an educational standard by completing the YPAD™ Educator course, Studio Owner course, or take advantage of one of our many free resources, Microlearnings, or Spotlight Conversations.
+                        At this time, YPAD™ only offers certification to organizations. Individuals are invited to complete the YPAD™ Educator course, Studio Owner course, or take advantage of one of our many free resources, Microlearnings, or Spotlight Conversations.
                     </div>
                 </div>
             </div>
@@ -353,7 +353,7 @@ quote="Being a YPAD™ Certified Studio is essential to my business culture. Our
                             </h2>
                             <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
                                 <div class="accordion-body">
-                                The process for becoming a YPAD™ Certified Event is similar to becoming a YPAD™ Certified Studio but tailored specifically to the unique aspects of conventions and competitions.
+                                The process for becoming a YPAD™ Certified Event is similar to becoming a YPAD™ Certified Studio but tailored specifically to the unique aspects of conventions and competitions. Stay tuned for when the next cohort becomes available.
                                 </div>
                             </div>
                         </div>
