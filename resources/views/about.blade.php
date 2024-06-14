@@ -36,8 +36,7 @@
                     <br><br>
                     2. a connection or cooperative link between people or organizations.
                     <br><br>
-                    As an association, YPAD™ is built on four building blocks as represented in our logo: parents, educators, studio owners, event leaders.
-{{--                    training opportunities, certification standards, research development, and parents.--}}
+                    As an association, YPAD™ is built on four building blocks as represented in our logo: training opportunities, certification standards, research development, and parents.
                 </p>
             </div>
             <div class="col-sm">
