@@ -173,7 +173,7 @@
     <div class="container py-5">
         <h2 class="text-center">YPAD™ Certified Studio and YPAD™ Certified Event Support</h2>
         <p>
-            Are you a YPAD™ Certified Studio or a YPAD™ Certified Event and have a question or concern about something you’ve observed or heard that is concerning? Do you need support navigating an issue regarding artistic integrity or conflict resolution? Request additional support here for a referral to a YPAD™ Certified Coach or subject matter expert. This service is included as part of your certification investment.
+            Are you a YPAD™ Certified Studio or a YPAD™ Certified Event and have a question or concern about something you’ve observed or heard that is concerning? Do you need support navigating an issue regarding artistic integrity or conflict resolution? Request additional support here for a referral to a YPAD™ Certified Coach or YPAD™ subject matter expert. This service is included as part of your certification investment.
             <br><br>
             Please note that this email is monitored 9AM to 3PM Central time, Monday through Friday. It is not a crisis hotline. Immediate or emergency concerns should always be directed to 911, a crisis hotline, or child welfare providers.
         </p>
