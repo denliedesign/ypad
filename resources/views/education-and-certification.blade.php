@@ -163,13 +163,13 @@ quote="Being a YPAD™ Certified studio is essential to my business culture. Our
                     <p class="text-center">
                         Studio owners who are interested in pursuing YPAD™ Studio Certification should complete the YPAD™ Studio Owner Course first and then submit the designated form at completion of the final lesson.
                         <br><br>
-                        YPAD™ Studio Certification requires the successful completion of the YPAD™ Studio Owner Course followed by a Discovery Call with a YPAD™ Certified Coach. Upon agreement to move forward with the certification process, studio owners submit documentation of the following:
+                        YPAD™ Studio Certification requires the successful completion of the YPAD™ Studio Owner Course followed by a Discovery Call with a YPAD™ Certified Coach. Upon agreement to move forward with the studio certification process, studio owners make the following commitments which we call milestones toward studio certification:
                     </p>
                 </div>
                 <div class="mt-5">
-                    <x-checkmark item="Proof of background checks for the studio owner and all staff members" />
+                    <x-checkmark item="Attestation of background checks for the studio owner and all staff members" />
                     <x-checkmark item="Proof of current First Aid/CPR certifications for the studio owner and all staff members" />
-                    <x-checkmark item="Proof of completion of Stewards of Children® training by Darkness to Light" />
+                    <x-checkmark item="Proof of completion of Stewards of Children® training by Darkness to Light for the studio owner and all staff members" />
                     <x-checkmark item="Proof of completion of Youth Mental Health First Aid training for the studio owner" />
                     <x-checkmark item="Current copy of the studio’s Emergency Action Plan (EAP)" />
                     <x-checkmark item="Current copy of the studio’s business liability insurance, including sex abuse coverage" />
