@@ -225,9 +225,11 @@
 {{--                        EDUCATION or CERTIFICATION--}}
                     </p>
                     <p>
-                        YPAD™ offers learning opportunities for educators, studio owners, parents, and events. Our core resource options include online courses for educators and studio owners, live and recorded webinars, Microlearnings, and downloadable PDFs.
+                        YPAD™ offers learning opportunities for educators, studio owners, parents, and event leaders. Our core resource options include online courses for educators and studio owners, live and recorded webinars, Microlearnings, and downloadable PDFs.
                         <br><br>
-                        Additionally, studio owners and events have the option to go the extra mile and seek a YPAD™ Certified Studio designation, agreeing to a high measure of self-education and self-regulation in addition to following YPAD™’s 5-tier accountability model.
+                        Additionally, studio owners and event leaders have the option to go the extra mile and seek a YPAD™ Certified Studio or YPAD™ Certified Event designation, agreeing to a high measure of self-education and self-regulation in addition to following YPAD™’s 5-tier accountability model.
+                        <br><br>
+                        For more information check out our <a href="/free-resources">free resources</a> page and our <a href="/education-and-certification">education and certification</a> page.
                     </p>
 {{--                    <p>--}}
 {{--                        YPAD™ Education options include resources, webinars, courses, and microlearnings. They are open to the entire dance community! Education opportunities do not require additional steps, such as knowledge checks, third-party training, or documentation, nor do they lead to certification.--}}
