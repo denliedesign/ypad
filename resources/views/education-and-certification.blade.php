@@ -30,7 +30,7 @@
             <p class="text-center">
                 If you are a dance educator or studio owner interested in learning deeper content about student health, safety, and wellness, you are in the right place.
                 <br><br>
-                Choose from our <strong>4-module Educator Course</strong> or our <strong>8-module Studio Owner Course</strong> to enhance your knowledge.
+                Choose from our <strong>4-module Educator Course</strong> or our <strong>8-module Studio Owner Course</strong> to enhance your knowledge. Additionally, studio owners who complete their course can choose to pursue <strong>YPAD™ Certification</strong> for their studio.
             </p>
         </div>
     </div>
@@ -127,17 +127,13 @@
                     image="darcy.png"
                     name="Darcy Fagerwold"
                     title="Studio Owner, California"
-                    quote="Youth Protection Association for Dance™ education is evidence to families that we are
-                                committed to keeping kids happy, healthy, and safe in dance. It is comforting to know that
-                                as challenging issues arise, YPAD™ is there to support and guide us to ensure we are doing
-                                what's right for our students. Thank you to Youth Protection Association for Dance™
-                                for leading the dance industry in this vital endeavor!"
+                    quote="Youth Protection Association for Dance™ education is evidence to families that we are committed to keeping kids healthy and safe in dance. It is comforting to know that as challenging issues arise, YPAD™ is there to support and guide us to ensure we are doing what's right for our students. Thank you to Youth Protection Association for Dance™ for leading the dance industry in this vital endeavor!"
                 />
                 <x-orange
                     image="kate.png"
                     name="Kate Moody"
                     title="Studio Owner, Wisconsin"
-                    quote="If you haven't done YPAD™ training yet, do it. We had a loaded gun incident at the local high school this morning (everything is okay). But the thought that something could happen so close, is so scary. As hard as it was to imagine and read about all the 'what to do's' in YPAD™ training, I am proud that we did, because 'It's better to know and not need than to need and not know'. Thank you YPAD™ team for all the great knowledge in the YPAD™ course!"
+quote="If you haven't completed a YPAD™ course yet, do it! We had a loaded gun incident at the local high school this morning (everything is okay). But the thought that something could happen so close, is so scary. As hard as it was to learn what to do in a situation like this, I am proud that we had YPAD™ training to rely on. Thank you, YPAD™ team and experts, for all the great knowledge and resources in the YPAD™ course!"
                 />
             </div>
             <div class="row my-2">
@@ -145,13 +141,13 @@
                     image="amy.png"
                     name="AMI YARO"
                     title="Studio Owner, Iowa"
-                    quote="I'm a studio owner, but I wanted to start with individual certification first. This allowed me to get to know the program through monthly Community Connection Calls and to implement best practices in my studio. This program has given me a community of like-minded dance professionals who choose to put the wellness and safety of their students as a top priority. I’m eager to get my entire studio certified next!"
+quote="I'm a studio owner, but I wanted to start with YPAD™ education first before choosing to certify my studio. This allowed me to get to know the coursework and to implement best practices in my studio. YPAD™ has given me a community of like-minded dance professionals who choose to put the wellness and safety of their students as a top priority."
                 />
                 <x-orange
                     image="neisha.jpeg"
                     name="NEISHA HERNANDEZ"
                     title="Studio Owner, California"
-                    quote="Being a YPAD™ Certified Studio is essential to our studio’s culture. Our parents and families are confident that our studio is intentionally focused on keeping their kids healthy and safe. YPAD™'s extensive resources and monthly ongoing education opportunities have been integral in carrying out our mission of Encouraging Kids to Lead Inspired Lives!"
+quote="Being a YPAD™ Certified studio is essential to my business culture. Our parents and families are confident that my studio is intentionally focused on keeping their kids healthy and safe. YPAD™'s extensive resources and ongoing education opportunities have been integral in carrying out our mission of Encouraging Kids to Lead Inspired Lives!"
                 />
             </div>
         </div>
@@ -262,9 +258,9 @@
                 </h2>
                 <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
-                        YPAD™ Education options provide practical insights, evidence-based knowledge, and innovative teaching methodologies that you can immediately implement in your role. These options are designed to enhance personal and professional development, but do not lead to certification.
+                        The YPAD™ Educator and the YPAD™ Studio Owner courses are educational options that provide practical insights, evidence-based knowledge, and innovative teaching methodologies that you can immediately implement. These options are designed to enhance personal and professional development.
                         <br><br>
-                        YPAD™ Certification is offered for three distinct groups: Studios, Individuals, and Events. Certification begins with an application and requires background checks, CPR/First Aid certification, Darkness to Light’s Stewards of Children® training, a Safeguarding Pledge, attendance at a live virtual artistic integrity seminar, and a commitment to YPAD™’s 5-tier accountability model. Additional requirements for studio owners and event owners include proof of insurance, emergency action planning, and Youth Mental Health First Aid certification.
+                        YPAD™ Certification is a step beyond education! The certification process entails completion of YPAD™ Studio Owner course, followed by a Discovery Call with one of our Certified Coaches, and the submission of a robust series of documentation proving the studio owner’s commitment to health, safety, and wellness at the studio.
                     </div>
                 </div>
             </div>
@@ -294,7 +290,7 @@
                 </h2>
                 <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
-                        No. YPAD™ does not police the dance industry. Instead, YPAD™ aims to encourage thoughtful decision-making and discussions around developmentally appropriate and age-appropriate approaches to dance education and artistic integrity. YPAD™’s mission in safeguarding capacity-building helps everyone make better-informed choices for the well-being of dance students.
+                        No, YPAD™ does not police the dance industry. Instead, YPAD™ aims to encourage thoughtful decision-making and discussions around developmentally appropriate and age-appropriate approaches to dance education and artistic integrity. YPAD™’s mission in safeguarding capacity-building helps everyone make better-informed choices for the well-being of dance students.
                     </div>
                 </div>
             </div>
@@ -326,7 +322,9 @@
                     </button>
                 </h2>
                 <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">All YPAD™ coursework is asynchronous, meaning you can start, take a break, and restart anytime (though you will want to keep in mind your initial enrollment date; see previous question). Certification is only awarded, however, after all standards have been met.</div>
+                    <div class="accordion-body">
+                        All YPAD™ coursework is asynchronous, meaning you can start, take a break, and restart anytime. Certification is only awarded, however, after all coursework and documentation submissions have been approved.
+                    </div>
                 </div>
             </div>
             <div class="accordion-item">
@@ -336,7 +334,10 @@
                     </button>
                 </h2>
                 <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven" data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">The 5-tier accountability model is a system for collecting and addressing YPAD™-related concerns. When you become YPAD™ Certified, if a concern is shared with us about your organization, we will assess the matter and contact you so that you can learn and improve your practices. Serious problems may result in suspension or removal of certification status. To learn more, visit the Support page.</div>
+                    <div class="accordion-body">
+                        The 5-tier accountability model is a system for collecting and addressing YPAD™-related concerns. When you become YPAD™ Certified, if a concern is shared with us about your organization, we will assess the matter and contact you so that you can learn and improve your practices. Serious problems may result in suspension or removal of certification status. To learn more, visit our
+                        <a href="/support">Support</a> page.
+                    </div>
                 </div>
             </div>
 
