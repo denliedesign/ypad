@@ -265,24 +265,7 @@ quote="Being a YPAD™ Certified Studio is essential to my business culture. Our
                     </div>
                 </div>
             </div>
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="flush-headingTwo">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                        How much do the additional requirements to become a YPAD™ Certified Studio cost?
-                    </button>
-                </h2>
-                <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">
-                        Background check costs depend on the background screening company you choose and the individual being checked. Expect costs to start around $25 per person. For YPAD™ Certified Studios, background checks must be renewed every two years at minimum.
-                        <br><br>
-                        CPR/First Aid certification typically starts around $35 per person and must be renewed every two years at minimum. YPAD™ accepts online completion certificates.
-                        <br><br>
-                        Darkness to Light’s Stewards of Children® training is $16 per person, as of December 2023, and is completed once.
-                        <br><br>
-                        The cost for Youth Mental Health First Aid certification typically starts around $85 per person. Though this training is highly recommended for everyone, YPAD™ only requires it for studio owners and event owners.
-                    </div>
-                </div>
-            </div>
+
             <div class="accordion-item">
                 <h2 class="accordion-header" id="flush-headingOne">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
@@ -304,6 +287,24 @@ quote="Being a YPAD™ Certified Studio is essential to my business culture. Our
                 <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
                         No, YPAD™ does not police the dance industry. Instead, YPAD™ aims to encourage thoughtful decision-making and discussions around developmentally appropriate and age-appropriate approaches to dance education and artistic integrity. YPAD™’s mission in safeguarding capacity-building helps everyone make better-informed choices for the well-being of dance students.
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="flush-headingTwo">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                        How much do the additional requirements to become a YPAD™ Certified Studio cost?
+                    </button>
+                </h2>
+                <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">
+                        Background check costs depend on the background screening company you choose and the individual being checked. Expect costs to start around $25 per person. For YPAD™ Certified Studios, background checks must be renewed every two years at minimum.
+                        <br><br>
+                        CPR/First Aid certification typically starts around $35 per person and must be renewed every two years at minimum. YPAD™ accepts online completion certificates.
+                        <br><br>
+                        Darkness to Light’s Stewards of Children® training is $16 per person, as of December 2023, and is completed once.
+                        <br><br>
+                        The cost for Youth Mental Health First Aid certification typically starts around $85 per person. Though this training is highly recommended for everyone, YPAD™ only requires it for studio owners and event owners.
                     </div>
                 </div>
             </div>
