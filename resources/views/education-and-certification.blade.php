@@ -154,6 +154,7 @@ quote="Being a YPAD™ Certified studio is essential to my business culture. Our
     </div>
 
     <div class="container py-5">
+                <h2 class="text-uppercase text-center">For Studio Owners, Go Further</h2>
         <div class="row" id="about-checkmarks">
 {{--            <p class="text-center" style="color: #896C7B;">--}}
 {{--                After your application is accepted and you complete the YPAD™ Certified Course, submit the reflections, and pass the knowledge checks with 90% proficiency, it is time to move on to STEP THREE: external training and documentation.--}}
