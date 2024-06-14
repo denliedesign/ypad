@@ -28,7 +28,7 @@
 
     <div class="container py-5">
         <div>
-            <h2 class="text-center">Welcome!</h2>
+            <h2 class="text-center" style="font-size: 3em;">Welcome!</h2>
             <p class="text-center fw-bold">
                 YPAD™ Free Resources are a great place to start your learning journey!
             </p>

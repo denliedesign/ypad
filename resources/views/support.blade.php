@@ -28,7 +28,7 @@
 
     <div class="container pt-5">
         <div>
-            <h2 class="text-center">Welcome!</h2>
+            <h2 class="text-center" style="font-size: 3em;">Welcome!</h2>
             <p class="text-center fw-bold">
                 If you are looking for support, you are in the right place.
             </p>
