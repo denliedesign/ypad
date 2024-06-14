@@ -352,7 +352,7 @@ What is the process for becoming a YPAD™ Certified Event?
                                 </button>
                             </h2>
                             <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
-                                <div class="accordion-body">Yes. YPAD™ offers education options for everyone!
+                                <div class="accordion-body">
                                 The process for becoming a YPAD™ Certified Event is similar to becoming a YPAD™ Certified Studio but tailored specifically to the unique aspects of conventions and competitions.</div>
                             </div>
                         </div>
