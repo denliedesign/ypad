@@ -291,14 +291,14 @@ quote="Being a YPAD™ Certified Studio is essential to my business culture. Our
                 </h2>
                 <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
-                        At this time, YPAD™ only offers certification to organizations. Individuals may still choose to earn an educational standard by completing the YPAD™ Educator course, Studio Owner course, or take advantage of one of our free resources, Microlearnings, or Spotlight Conversations.
+                        At this time, YPAD™ only offers certification to organizations. Individuals may still choose to earn an educational standard by completing the YPAD™ Educator course, Studio Owner course, or take advantage of one of our many free resources, Microlearnings, or Spotlight Conversations.
                     </div>
                 </div>
             </div>
             <div class="accordion-item">
                 <h2 class="accordion-header" id="flush-headingThree">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                        Does YPAD™ censor or regulate artistic choices?
+                        Does YPAD™ regulate artistic choices?
                     </button>
                 </h2>
                 <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
