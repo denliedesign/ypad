@@ -40,7 +40,7 @@
         @include('_divider-bottom')
         <div class="container d-flex justify-content-center align-items-center py-5">
             <div>
-                <h3 class="text-white text-center">
+                <h3 class="text-white text-center pt-4">
                     The mission of Youth Protection Association for Dance™ is to bring awareness to and provide guidance for one essential priority: <strong>the safety and health of dance students</strong>.
                 </h3>
             </div>
@@ -103,51 +103,19 @@
     <div class="container py-5">
 {{--        <h2 class="text-uppercase">Studio owners, these are the steps to earn your YPAD™ Certified designation:</h2>--}}
 {{--        <p class="fw-bold">It all starts here: with you, the studio owner, and these three steps.</p>--}}
-        <div>
-            Studio owners who are interested in YPAD™ Certification should complete The YPAD™ Studio Owner Course and submit the designated form at completion of the final lesson.
-            <br><br>
-            YPAD™ Certification requires the successful completion of The YPAD™ Studio Owner Course followed by a Discovery Call with a YPAD™ Certified Coach. Upon agreement to move forward with the certification process, studio owners submit documentation of the following:
-            <ul class="mt-2 mb-0 pb-0">
-                <li>Proof of background checks for the studio owner and all staff members</li>
-                <li>Proof of current First Aid/CPR certifications for the studio owner and all staff members</li>
-                <li>Proof of completion of Stewards of Children® training by Darkness to Light</li>
-                <li>Proof of completion of Youth Mental Health First Aid training for the studio owner</li>
-                <li>Current copy of the studio’s Emergency Action Plan (EAP)</li>
-                <li>Current copy of the studio’s business liability insurance, including sex abuse coverage</li>
-                <li>Attendance at a two-hour YPAD™ Artistic Integrity training live on Zoom</li>
-            </ul>
-            <br><br>
-            In addition to the above documentation provided by the studio owner, YPAD™ Certification for studios requires teachers and administrative staff to successfully complete YPAD™ Certification coursework. Studio owners can purchase as many or as few of these courses as needed.
-            <br><br>
-            YPAD™ Certification includes:
-            <ul class="mt-2">
-                <li>Unlimited FREE courses for guest teachers, substitute teachers, and volunteers</li>
-                <li>Live Connection Chat webinars with YPAD™ Certified Coaches</li>
-                <li>Live Spotlight Conversations webinars with guest subject matter experts</li>
-                <li>Membership into a private Facebook group for questions and community support</li>
-                <li>Personal 1:1 coaching calls and referrals as needed</li>
-            </ul>
-        </div>
-    </div>
-
-{{--    <div class="container py-5">--}}
-{{--        <h2 class="text-uppercase">Studio owners, these are the steps to earn your YPAD™ Certified designation:</h2>--}}
-{{--        <p class="fw-bold">It all starts here: with you, the studio owner, and these three steps.</p>--}}
-{{--        <div class="row">--}}
-{{--            <div class="col-lg">--}}
-{{--                <span class="font-pop" style="font-size: 1.2em;">STEP ONE:</span> submit an application for your studio. The application is located at the bottom of this page. Once your application is approved (5-7 business days), you will receive an email with access to the order form.--}}
-{{--                <br><br>--}}
-{{--                <span class="font-pop" style="font-size: 1.2em;">STEP TWO:</span> complete the YPAD™ Certified Studio course, submit the reflections, and pass the knowledge checks with 90% proficiency. The YPAD&trade; Certified Studio course takes approximately 8-10 hours to complete. Your staff must also complete the appropriate courses for their role during step two (teacher or admin). They, too, will submit reflections and must pass knowledge checks with 90% proficiency. Depending on the role, staff courses take approximately 2-4 hours to complete.--}}
-{{--                <br><br>--}}
-{{--                <span class="font-pop" style="font-size: 1.2em;">STEP THREE:</span> complete the external training and documentation submission requirements listed below. Items with "*" indicate third-party provider and cost. Links to those programs are inside the course. Costs are outlined in the FAQ section below.--}}
-{{--                <br><br>--}}
-{{--                When your course(s) are complete and all documentation is submitted, your YPAD™ Certified Studio status will be confirmed and designated. Your status will remain active in our directory of YPAD™ Certified Studios as long as you remain in good standing and complete an annual renewal. If you choose to become certified, you are agreeing to self-regulation and to following YPAD’s 5-tier accountability model.--}}
-{{--            </div>--}}
-{{--            <div class="col-lg d-flex justify-content-center">--}}
-{{--                <img src="/images/certification-steps.png" alt="graph" class="img-fluid">--}}
-{{--            </div>--}}
+{{--        <div>--}}
+{{--            In addition to the above documentation provided by the studio owner, YPAD™ Certification for studios requires teachers and administrative staff to successfully complete YPAD™ Certification coursework. Studio owners can purchase as many or as few of these courses as needed.--}}
+{{--            <br><br>--}}
+{{--            YPAD™ Certification includes:--}}
+{{--            <ul class="mt-2">--}}
+{{--                <li>Unlimited FREE courses for guest teachers, substitute teachers, and volunteers</li>--}}
+{{--                <li>Live Connection Chat webinars with YPAD™ Certified Coaches</li>--}}
+{{--                <li>Live Spotlight Conversations webinars with guest subject matter experts</li>--}}
+{{--                <li>Membership into a private Facebook group for questions and community support</li>--}}
+{{--                <li>Personal 1:1 coaching calls and referrals as needed</li>--}}
+{{--            </ul>--}}
 {{--        </div>--}}
-{{--    </div>--}}
+    </div>
 
 
     <div class="orange py-5 text-white">
@@ -191,113 +159,25 @@
 
     <div class="container py-5">
         <div class="row" id="about-checkmarks">
-            <p class="text-center" style="color: #896C7B;">
-                After your application is accepted and you complete the YPAD™ Certified Course, submit the reflections, and pass the knowledge checks with 90% proficiency, it is time to move on to STEP THREE: external training and documentation.
-            </p>
+{{--            <p class="text-center" style="color: #896C7B;">--}}
+{{--                After your application is accepted and you complete the YPAD™ Certified Course, submit the reflections, and pass the knowledge checks with 90% proficiency, it is time to move on to STEP THREE: external training and documentation.--}}
+{{--            </p>--}}
             <div class="col-sm my-3">
                 <div>
-                    <h2 class="text-center">Documentation requirements for studio or event certification</h2>
                     <p class="text-center">
-                        Certifying a studio or an event has greater documentation requirements than certifying an individual.
+                        Studio owners who are interested in YPAD™ Certification should complete The YPAD™ Studio Owner Course and submit the designated form at completion of the final lesson.
+                        <br><br>
+                        YPAD™ Certification requires the successful completion of The YPAD™ Studio Owner Course followed by a Discovery Call with a YPAD™ Certified Coach. Upon agreement to move forward with the certification process, studio owners submit documentation of the following:
                     </p>
                 </div>
                 <div class="mt-5">
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
-                        </div>
-                        <div class="col-11">
-                            Proof of business liability insurance, including sex abuse coverage*
-                        </div>
-                        <div class="">
-                            <hr class="my-3" style="width: 90%;">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
-                        </div>
-                        <div class="col-11">
-                            Proof of background checks for yourself and all staff members*
-                        </div>
-                        <div class="">
-                            <hr class="my-3" style="width: 90%;">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
-                        </div>
-                        <div class="col-11">
-                            Proof of up-to-date CPR/AED and First Aid certifications for yourself and all staff members*
-                        </div>
-                        <div class="">
-                            <hr class="my-3" style="width: 90%;">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
-                        </div>
-                        <div class="col-11">
-                            Proof of completion of Darkness to Light's Stewards of Children® training for yourself and all staff members*
-                        </div>
-                        <div class="">
-                            <hr class="my-3" style="width: 90%;">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
-                        </div>
-                        <div class="col-11">
-                            Proof of Youth Mental Health First Aid certification for yourself*
-                        </div>
-                        <div class="">
-                            <hr class="my-3" style="width: 90%;">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
-                        </div>
-                        <div class="col-11">
-                            Copy of up-to-date copy of your studio's EAP (Emergency Action Plan) for your facility and off-site events
-                        </div>
-                        <div class="">
-                            <hr class="my-3" style="width: 90%;">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
-                        </div>
-                        <div class="col-11">
-                            Copy of signed YPAD™ Certified Studio Agreement
-                        </div>
-                        <div class="">
-                            <hr class="my-3" style="width: 90%;">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
-                        </div>
-                        <div class="col-11">
-                            Copy of signed Safeguarding Pledge for yourself and all staff members
-                        </div>
-                        <div class="">
-                            <hr class="my-3" style="width: 90%;">
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-1">
-                            <ion-icon name="checkmark-circle"></ion-icon>
-                        </div>
-                        <div class="col-11">
-                            Attendance at a live two-hour training via zoom regarding artistic integrity, plus three integration calls with your YPAD™ coach within the first year of earning your certification designation. Staff are also encouraged to attend the live training.
-                        </div>
-                    </div>
+                    <x-checkmark item="Proof of background checks for the studio owner and all staff members" />
+                    <x-checkmark item="Proof of current First Aid/CPR certifications for the studio owner and all staff members" />
+                    <x-checkmark item="Proof of completion of Stewards of Children® training by Darkness to Light" />
+                    <x-checkmark item="Proof of completion of Youth Mental Health First Aid training for the studio owner" />
+                    <x-checkmark item="Current copy of the studio’s Emergency Action Plan (EAP)" />
+                    <x-checkmark item="Current copy of the studio’s business liability insurance, including sex abuse coverage" />
+                    <x-checkmark item="Attendance at a two-hour YPAD™ Artistic Integrity training live on Zoom" />
                 </div>
             </div>
         </div>
@@ -308,200 +188,62 @@
         @include('_divider-bottom')
         <div class="py-5 container text-white d-flex align-items-center">
             <div>
-                <h2 class="text-uppercase text-center">FREE BONUS RESOURCES FOR YPAD&trade; CERTIFIED STUDIOS</h2>
-                <p class="text-center">YPAD™ Certified Studios receive unlimited FREE access to short courses for the following important roles:</p>
-                <div class="row mt-4">
+{{--                <h2 class="text-uppercase text-center">FREE BONUS RESOURCES FOR YPAD&trade; CERTIFIED STUDIOS</h2>--}}
+                <p class="text-center pt-4">In addition to the above documentation provided by the studio owner, YPAD™ Certification for studios requires teachers and administrative staff to successfully complete YPAD™ Certification coursework. Studio owners can purchase as many or as few of these courses as needed.</p>
+                <div class="row row-cols-3 row-cols-sm-3 row-cols-md-5 row-cols-lg-5 mt-4">
                     <div class="col-sm">
-                        <div class="mx-4">
+                        <div class="mx-4 my-2">
                             <div class="d-flex justify-content-center">
-                                <ion-icon style="font-size: 3em;" name="id-card"></ion-icon>
+                                <ion-icon style="font-size: 3em;" name="school"></ion-icon>
                             </div>
-                            <p class="fw-bold text-center py-0 my-0">SUBSTITUTE COURSE</p>
+{{--                            <p class="fw-bold text-center py-0 my-0">SUBSTITUTE COURSE</p>--}}
                             <p class="text-center py-0 my-0">
-                                Need to hire a sub on short notice? This short course covers the essentials of what it means to teach at a YPAD™ Certified Studio.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-sm">
-                        <div class="mx-4">
-                            <div class="d-flex justify-content-center">
-                                <ion-icon style="font-size: 3em;" name="accessibility"></ion-icon>
-                            </div>
-                            <p class="fw-bold text-center py-0 my-0">VOLUNTEER COURSE</p>
-                            <p class="text-center py-0 my-0">
-                                Do you engage with volunteers? Use this brief course to educate them on the basics of classroom and performance safety.
+                                Unlimited FREE courses for guest teachers, substitute teachers, and volunteers
                             </p>
                         </div>
                     </div>
                     <div class="col-sm">
-                        <div class="mx-4">
+                        <div class="mx-4 my-2">
                             <div class="d-flex justify-content-center">
-                                <ion-icon style="font-size: 3em;" name="star"></ion-icon>
+                                <ion-icon style="font-size: 3em;" name="chatbubbles"></ion-icon>
                             </div>
-                            <p class="fw-bold text-center py-0 my-0">GUEST TEACHER COURSE</p>
+{{--                            <p class="fw-bold text-center py-0 my-0">VOLUNTEER COURSE</p>--}}
                             <p class="text-center py-0 my-0">
-                                Hiring guest or master teachers? Offer this simple course to share baseline expectations for teaching in a YPAD™ Certified environment.
+                                Live Connection Chat webinars with YPAD™ Certified Coaches
                             </p>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="container py-5">
-        <h2 class="text-uppercase text-center">The Course Collection for YPAD&trade; Certified Studios</h2>
-        <div class="row">
-            <div class="my-3 flip-card col-sm d-flex align-items-center">
-                <div class="rounded flip-card-inner" style="background: #067997; position: relative;">
-                    <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
-                        <div>
-                            <h3>Studio Owner</h3>
-                            <p>
-                                $499
-                            </p>
-                            <div style="position: absolute; bottom: 2px; right: 10px;">
-                                <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
+                    <div class="col-sm">
+                        <div class="mx-4 my-2">
+                            <div class="d-flex justify-content-center">
+                                <ion-icon style="font-size: 3em;" name="people"></ion-icon>
                             </div>
+{{--                            <p class="fw-bold text-center py-0 my-0">GUEST TEACHER COURSE</p>--}}
+                            <p class="text-center py-0 my-0">
+                                Live Spotlight Conversations webinars with guest subject matter experts
+                            </p>
                         </div>
                     </div>
-                    <div class="flip-card-back d-flex align-items-center justify-content-center text-white text-center">
-                        <p class="mx-3">
-                            This 8-10 hour course provides foundations for studio owners for best practices in the areas of Hiring, Onboarding and Training, Studio Safety, Abuse Protection, Healthy Bodies, Healthy Minds, Social Media & Communications, and Artistic Integrity.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="my-3 flip-card col-sm d-flex align-items-center">
-                <div class="rounded flip-card-inner" style="background: #767784; position: relative;">
-                    <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
-                        <div>
-                            <h3>Studio Teacher</h3>
-                            <p>
-                                $299
-                            </p>
-                            <div style="position: absolute; bottom: 2px; right: 10px;">
-                                <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
+                    <div class="col-sm">
+                        <div class="mx-4 my-2">
+                            <div class="d-flex justify-content-center">
+                                <ion-icon style="font-size: 3em;" name="people-circle"></ion-icon>
                             </div>
+                            {{--                            <p class="fw-bold text-center py-0 my-0">GUEST TEACHER COURSE</p>--}}
+                            <p class="text-center py-0 my-0">
+                                Membership into a private Facebook group for questions and community support
+                            </p>
                         </div>
                     </div>
-                    <div class="flip-card-back d-flex align-items-center justify-content-center text-white text-center">
-                        <p class="mx-3">
-                            This 3-4 hour course covers teacher-specific essentials regarding Student Safety, Healthy Bodies, Healthy Minds, and Artistic Integrity.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="my-3 flip-card col-sm d-flex align-items-center">
-                <div class="rounded flip-card-inner" style="background: #EF9A61; position: relative;">
-                    <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
-                        <div>
-                            <h3>Studio Admin</h3>
-                            <p>
-                                $199
+                    <div class="col-sm">
+                        <div class="mx-4 my-2">
+                            <div class="d-flex justify-content-center">
+                                <ion-icon style="font-size: 3em;" name="call"></ion-icon>
+                            </div>
+                            {{--                            <p class="fw-bold text-center py-0 my-0">GUEST TEACHER COURSE</p>--}}
+                            <p class="text-center py-0 my-0">
+                                Personal 1:1 coaching calls and referrals as needed
                             </p>
-                            <div style="position: absolute; bottom: 2px; right: 10px;">
-                                <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="flip-card-back d-flex align-items-center justify-content-center text-white text-center">
-                        <p class="mx-3">
-                            This 1-2 hour course provides adminstrative eand learn all about: Safety Safetey, Protecting Students, Healthy Communication, and Professional Integrity.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="my-3 flip-card col-sm d-flex align-items-center">
-                <div class="rounded flip-card-inner" style="background: #896C7B; position: relative;">
-                    <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
-                        <div>
-                            <h3>Studio Substitute</h3>
-                            <p>
-                                UNLIMITED FREE WITH CERTIFICATION
-                            </p>
-                            <div style="position: absolute; bottom: 2px; right: 10px;">
-                                <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="flip-card-back d-flex align-items-center justify-content-center text-white text-center">
-                        <p class="mx-3">
-                            This short 30 minute course covers the highlights for substitutes working on short notice. Includes the essentials for student safety and health, safe movement in class and onstage, and artistic integrity.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="my-3 flip-card col-sm d-flex align-items-center">
-                <div class="rounded flip-card-inner" style="background: #067997; position: relative;">
-                    <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
-                        <div>
-                            <h3>Studio Volunteer</h3>
-                            <p>
-                                UNLIMITED FREE WITH CERTIFICATION
-                            </p>
-                            <div style="position: absolute; bottom: 2px; right: 10px;">
-                                <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="flip-card-back d-flex align-items-center justify-content-center text-white text-center">
-                        <p class="mx-3">
-                            This short 15 minute course covers the basics of student safety and health for studio volunteers.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="my-3 flip-card col-sm d-flex align-items-center">
-                <div class="rounded flip-card-inner" style="background: #767784; position: relative;">
-                    <div class="flip-card-front d-flex align-items-center justify-content-center text-white text-center">
-                        <div>
-                            <h3>Studio Guest Teacher</h3>
-                            <p>
-                                UNLIMITED FREE WITH CERTIFICATION
-                            </p>
-                            <div style="position: absolute; bottom: 2px; right: 10px;">
-                                <ion-icon name="information-circle-outline" class="info-icon"></ion-icon>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="flip-card-back d-flex align-items-center justify-content-center text-white text-center">
-                        <p class="mx-3">
-                            This 30 minute course helps guest teachers understand the baseline expectations of teaching in a YPAD™ Certified environment.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <p class="text-center mt-3">
-            YPAD™ endorses the concept of continuing education and continuous improvement.
-            <br>Because of that, certification must be renewed annually.
-            <br>Annual renewal: 50% discount.
-        </p>
-    </div>
-
-    <div class="orange py-5">
-        @include('_divider-top')
-        @include('_divider-bottom')
-        <div class="container d-flex justify-content-center align-items-center py-5">
-            <div class="row mt-3">
-                <div class="col-sm">
-                    <div class="d-flex align-items-center justify-content-center" style="height: 100%;">
-                        <div>
-                            <div class="text-white text-center">
-                                <h2 class="text-uppercase text-center mt-5">READY TO BECOME A YPAD™ CERTIFIED STUDIO?</h2>
-                                <p class="text-center">
-                                    Applications for the 2023-24 season close December 31, 2023. Applications for the 2024-25 season open July 1, 2024.
-                                </p>
-                                <div class="d-flex justify-content-center">
-                                    <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none">
-                                        <div class="fw-bold px-4 py-2 shadow text-center" style="background: #067997; color: white;">Get Started Now</div>
-                                    </a>
-
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
