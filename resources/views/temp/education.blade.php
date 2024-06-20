@@ -39,17 +39,18 @@
         @include('_divider-top')
         @include('_divider-bottom')
         <div class="container d-flex justify-content-center align-items-center py-5">
-            <div>
-                <h3 class="text-white text-center pt-4">
-                    The mission of YPAD™ is to bring awareness to and provide guidance for one essential priority: <strong>the safety and health of dance students</strong>.
-                </h3>
+            <div class="text-white">
+                <h2 class="text-uppercase text-center" style="font-size: 3em;">buy one, give one</h2>
+                <p class="text-center" style="font-size: 30px;">For every course that is purchased, a scholarship course is made available to another member of the dance community.</p>
+
+                {{--                <h3 class="text-white text-center pt-4">--}}
+{{--                    The mission of YPAD™ is to bring awareness to and provide guidance for one essential priority: <strong>the safety and health of dance students</strong>.--}}
+{{--                </h3>--}}
             </div>
         </div>
     </div>
 
     <div class="container py-5">
-        <h2 class="text-uppercase text-center" style="font-size: 45px;">buy one, give one</h2>
-        <p class="text-center" style="font-size: 30px;">For every course that is purchased, a scholarship course is made available to another member of the dance community.</p>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2">
             <div class="d-flex align-items-center">
                 <img src="/images/educator.jpg" alt="teacher with older dancers" class="img-fluid my-1">
