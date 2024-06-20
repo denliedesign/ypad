@@ -33,7 +33,7 @@
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
                             <h2>
-                                YPAD™'s position as an educational association is intended to help leaders create safeguarding capacity-building. According to the U.N., capacity-building is defined as developing and strengthening the skills, instincts, abilities, processes, and resources organizations need to thrive in a fast-changing world.
+                                YPAD™'s position as an educational association is intended to help leaders to build greater capacity for safeguarding. According to the U.N., capacity-building is defined as developing and strengthening the skills, instincts, abilities, processes, and resources organizations need to thrive in a fast-changing world.
                             </h2>
                             <p>
                                 In other words, we want to help you make room for learning and growth when it comes to developing a safer and healthier dance environment that protects kids from harm and empowers them with confidence.
@@ -152,7 +152,51 @@
                     </div>
                 </div>
             </div>
+    </div>
 
+        <div class="container py-5">
+            <div class="row mb-5" style="height: 100%;">
+                <div class="col-sm d-flex align-items-center">
+                    <div>
+                        <h2 class="text-uppercase text-center" style="font-size: 45px;">buy one give one</h2>
+                        <p class="text-center" style="font-size: 30px;">For every course that is purchased, a scholarship course is made available to another member of the dance community.</p>
+                    </div>
+                </div>
+                <div class="col-sm">
+                    <div class="">
+                        <img src="/images/ypad-erika-crop.png" alt="erika headshot" class="img-fluid py-0 my-0" style="border: 6px solid #067997;">
+                    </div>
+                    <p class="py-0 my-0"><strong>Erika Hogan, MS, Health & Physical Education<br>Dance Educator & Studio Owner</strong></p>
+                    <p class="py-0 my-0 pe-5 me-4"><em>"I love the idea that when I'm investing in my own education I'm investing in the health of the dance community."</em></p>
+                </div>
+            </div>
+        </div>
+
+    <div class="orange py-5">
+        @include('_divider-top')
+        @include('_divider-bottom')
+        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
+        <div class="container d-flex justify-content-center align-items-center py-5">
+            <div class="row mt-3">
+                <div class="col-sm">
+                    <div class="d-flex align-items-center" style="height: 100%;">
+                        <div class="text-white text-center">
+                            <h2>
+                                {{--                                Just like a dancer gets stronger over time, your safety practices can get better over time as well. --}}
+                                Awareness in education can help raise the standard of dancer well-being, and YPAD™ is here to help you pursue it.
+                                {{--                                YPAD™'s position as an educational association is intended to help leaders create safeguarding capacity-building. According to the U.N., capacity-building is defined as developing and strengthening the skills, instincts, abilities, processes, and resources organizations need to thrive in a fast-changing world.--}}
+                            </h2>
+                            {{--                            <p>--}}
+                            {{--                                In other words, we want to help you make room for learning and growth when it comes to developing a safer and healthier dance environment that protects kids from harm and empowers them with confidence.--}}
+                            {{--                            </p>--}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <div class="container">
             <div class="row my-4">
                 <div class="col-sm">
                     <div class="m-4">
@@ -192,48 +236,7 @@
         </div>
     </div>
 
-    <div class="orange py-5">
-        @include('_divider-top')
-        @include('_divider-bottom')
-        <div style="height: 1px; position: absolute; background: #FDFAF5; top: 0; width: 100%;"></div>
-        <div class="container d-flex justify-content-center align-items-center py-5">
-            <div class="row mt-3">
-                <div class="col-sm">
-                    <div class="d-flex align-items-center" style="height: 100%;">
-                        <div class="text-white text-center">
-                            <h2>
-                                {{--                                Just like a dancer gets stronger over time, your safety practices can get better over time as well. --}}
-                                Awareness in education can help raise the standard of dancer well-being, and YPAD™ is here to help you pursue it.
-                                {{--                                YPAD™'s position as an educational association is intended to help leaders create safeguarding capacity-building. According to the U.N., capacity-building is defined as developing and strengthening the skills, instincts, abilities, processes, and resources organizations need to thrive in a fast-changing world.--}}
-                            </h2>
-                            {{--                            <p>--}}
-                            {{--                                In other words, we want to help you make room for learning and growth when it comes to developing a safer and healthier dance environment that protects kids from harm and empowers them with confidence.--}}
-                            {{--                            </p>--}}
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
-    <div class="container py-5">
-        <div class="row mb-5" style="height: 100%;">
-            <div class="col-sm d-flex align-items-center">
-                <div>
-                    <h2 class="text-uppercase">For every course that is purchased, a scholarship course is made available</h2>
-                   <p></p>
-                </div>
-            </div>
-            <div class="col-sm">
-                <div class="">
-                    <img src="/images/ypad-erika-crop.png" alt="erika headshot" class="img-fluid py-0 my-0" style="border: 6px solid #067997;">
-                </div>
-                <p class="py-0 my-0"><strong>Erika Hogan, MS, Health & Physical Education<br>Dance Educator & Studio Owner</strong></p>
-                <p class="py-0 my-0 pe-5 me-4"><em>"I love the idea that when I'm investing in my own education I'm investing in the health of the dance community."</em></p>
-            </div>
-        </div>
-
-    </div>
 
     <div class="orange py-5">
         @include('_divider-top')
@@ -385,13 +388,11 @@
             </div>
             <div>
                 <p class="text-center">
-                    YPAD™ Certified Studio owner Misty Lown is a co-author of a pilot study on ballet safety published in the Journal of Dance Medicine & Science.
-                {{--                    <br>YPAD™ has two more research projects in progress for 2023-24: one with a researcher from Mayo Health and one with Trine University.                 </p>--}}
 
                 <div class="d-flex justify-content-center mb-4">
                     <a href="https://journals.sagepub.com/doi/10.1177/1089313X231177174?fbclid=IwAR3knkW3dJIOxT7Ly76kkoBTZ-wo5RretqtTH-HNuWtxH7pI48LIRD0888Y" target="_blank" class="text-decoration-none text-white">
                         <div class="fw-bold px-4 py-2 shadow text-center btn-orange-hover" style="background: #EF9A60; color: white;">
-                            Read the article in the Journal of Dance Medicine & Science
+                            Read our recent pilot study in the Journal of Dance Medicine & Science
                         </div>
                     </a>
                 </div>
