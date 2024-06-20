@@ -30,49 +30,49 @@
             </p>
             <p class="text-center">
                 YPAD™ offers many resources and training opportunities for the pursuit of safety and wellness in dance education. Together, we can be equipped with the tools needed to safeguard youth dancers.
-                <br><br>
-                <strong>This YPAD™ Support page serves three vital purposes:</strong>
+{{--                <br><br>--}}
+{{--                <strong>This YPAD™ Support page serves three vital purposes:</strong>--}}
             </p>
         </div>
     </div>
 
-    <div class="container pb-5">
-        <div class="row my-4 welcome-icons">
-            <div class="col-sm">
-                <div class="mx-4">
-                    <div class="d-flex justify-content-center">
-                        <ion-icon name="list-outline"></ion-icon>
-                    </div>
-                    <p class="fw-bold text-center text-uppercase py-0 my-0">Hotline Listings</p>
-                    <p class="text-center py-0 my-0">
-                        YPAD™ provides a list (seen below) of the most essential hotlines for immediate and/or emergency support. YPAD™ itself is not a hotline or replacement for emergency care.
-                    </p>
-                </div>
-            </div>
-            <div class="col-sm">
-                <div class="mx-4">
-                    <div class="d-flex justify-content-center">
-                        <ion-icon name="chatbubbles-outline"></ion-icon>
-                    </div>
-                    <p class="fw-bold text-center text-uppercase py-0 my-0">Certified Support</p>
-                    <p class="text-center py-0 my-0">
-                        YPAD™ Certified Studios and YPAD™ Certified Events can request additional support from a YPAD™ Certified Coach or a YPAD™ subject matter expert. This referral service is included as part of your certification investment.
-                    </p>
-                </div>
-            </div>
-            <div class="col-sm">
-                <div class="mx-4">
-                    <div class="d-flex justify-content-center">
-                        <ion-icon name="people-outline"></ion-icon>
-                    </div>
-                    <p class="fw-bold text-center text-uppercase py-0 my-0">Sharing Concerns</p>
-                    <p class="text-center py-0 my-0">
-                        YPAD™ has implemented a system for sharing concerns related to YPAD™ Certified Studios and/or YPAD™ Certified Events. Concerns are evaluated and handled according to YPAD™’s 5-tier accountability model.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
+{{--    <div class="container pb-5">--}}
+{{--        <div class="row my-4 welcome-icons">--}}
+{{--            <div class="col-sm">--}}
+{{--                <div class="mx-4">--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <ion-icon name="list-outline"></ion-icon>--}}
+{{--                    </div>--}}
+{{--                    <p class="fw-bold text-center text-uppercase py-0 my-0">Hotline Listings</p>--}}
+{{--                    <p class="text-center py-0 my-0">--}}
+{{--                        YPAD™ provides a list (seen below) of the most essential hotlines for immediate and/or emergency support. YPAD™ itself is not a hotline or replacement for emergency care.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="col-sm">--}}
+{{--                <div class="mx-4">--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <ion-icon name="chatbubbles-outline"></ion-icon>--}}
+{{--                    </div>--}}
+{{--                    <p class="fw-bold text-center text-uppercase py-0 my-0">Certified Support</p>--}}
+{{--                    <p class="text-center py-0 my-0">--}}
+{{--                        YPAD™ Certified Studios and YPAD™ Certified Events can request additional support from a YPAD™ Certified Coach or a YPAD™ subject matter expert. This referral service is included as part of your certification investment.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="col-sm">--}}
+{{--                <div class="mx-4">--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <ion-icon name="people-outline"></ion-icon>--}}
+{{--                    </div>--}}
+{{--                    <p class="fw-bold text-center text-uppercase py-0 my-0">Sharing Concerns</p>--}}
+{{--                    <p class="text-center py-0 my-0">--}}
+{{--                        YPAD™ has implemented a system for sharing concerns related to YPAD™ Certified Studios and/or YPAD™ Certified Events. Concerns are evaluated and handled according to YPAD™’s 5-tier accountability model.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <div class="container py-5">
         <div class="row" id="about-checkmarks">
@@ -165,44 +165,46 @@
         />
     </div>
 
-    <div class="container py-5">
-        <h2 class="text-center">YPAD™ Certified Studio and YPAD™ Certified Event Support</h2>
-        <p>
-            Are you a YPAD™ Certified Studio or a YPAD™ Certified Event and have a question or concern about something you’ve observed or heard that is concerning? Do you need support navigating an issue regarding artistic integrity or conflict resolution? Request additional support here for a referral to a YPAD™ Certified Coach or YPAD™ subject matter expert. This service is included as part of your certification investment.
-            <br><br>
-            Please note that this email is monitored 9AM to 3PM Central time, Monday through Friday. It is not a crisis hotline. Immediate or emergency concerns should always be directed to 911, a crisis hotline, or child welfare providers.
-        </p>
-        <div class="d-flex justify-content-center">
-            <a style="text-decoration: none;" href="mailto:info@ypadnow.com?subject=YPAD Support">
-                <div class="fw-bold px-4 py-2 shadow text-center btn-hover" style="background: #067997; color: white;">EMAIL</div>
-            </a>
-        </div>
-    </div>
 
-    <div class="orange py-5">
-        @include('_divider-top')
-        @include('_divider-bottom')
-        <div class="container d-flex justify-content-center align-items-center py-5">
-            <div class="row mt-3">
-                <div class="col-sm">
-                    <div class="d-flex align-items-center" style="height: 100%;">
-                        <div class="text-white text-center">
-                            <h3><strong>Do you have a concern?</strong></h3>
-                            <h4>
-                                YPAD™ brings awareness to and provides guidance for one essential priority: <strong>the safety of dance students</strong>. If you have a concern with a YPAD™ Certified Studio or YPAD™ Certified Event as it relates to the safety and well-being of students, please continue to the information below.
-                            </h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
+{{--    <div class="container py-5">--}}
+{{--        <h2 class="text-center">YPAD™ Certified Studio and YPAD™ Certified Event Support</h2>--}}
+{{--        <p>--}}
+{{--            Are you a YPAD™ Certified Studio or a YPAD™ Certified Event and have a question or concern about something you’ve observed or heard that is concerning? Do you need support navigating an issue regarding artistic integrity or conflict resolution? Request additional support here for a referral to a YPAD™ Certified Coach or YPAD™ subject matter expert. This service is included as part of your certification investment.--}}
+{{--            <br><br>--}}
+{{--            Please note that this email is monitored 9AM to 3PM Central time, Monday through Friday. It is not a crisis hotline. Immediate or emergency concerns should always be directed to 911, a crisis hotline, or child welfare providers.--}}
+{{--        </p>--}}
+{{--        <div class="d-flex justify-content-center">--}}
+{{--            <a style="text-decoration: none;" href="mailto:info@ypadnow.com?subject=YPAD Support">--}}
+{{--                <div class="fw-bold px-4 py-2 shadow text-center btn-hover" style="background: #067997; color: white;">EMAIL</div>--}}
+{{--            </a>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+
+{{--    <div class="orange py-5">--}}
+{{--        @include('_divider-top')--}}
+{{--        @include('_divider-bottom')--}}
+{{--        <div class="container d-flex justify-content-center align-items-center py-5">--}}
+{{--            <div class="row mt-3">--}}
+{{--                <div class="col-sm">--}}
+{{--                    <div class="d-flex align-items-center" style="height: 100%;">--}}
+{{--                        <div class="text-white text-center">--}}
+{{--                            <h3><strong>Do you have a concern?</strong></h3>--}}
+{{--                            <h4>--}}
+{{--                                YPAD™ brings awareness to and provides guidance for one essential priority: <strong>the safety of dance students</strong>. If you have a concern with a YPAD™ Certified Studio or YPAD™ Certified Event as it relates to the safety and well-being of students, please continue to the information below.--}}
+{{--                            </h4>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <div class="container py-5">
         <div class="row" id="about-checkmarks">
             <div class="col-sm">
                 <h2 class="text-center">YPAD™’s 5-Tier Approach To Accountability</h2>
-                {{--                <p class="text-center">as·so·ci·a·tion <br> <small class="text-muted">noun</small></p>--}}
+                                <p class="text-center">as·so·ci·a·tion <br> <small class="text-muted">noun</small></p>
                 <p class="text-center">
                     YPAD™ has established certain standards related to certification, which includes a system for addressing concerns. Please carefully consider your concern before submitting, and be advised it takes more than disagreement to justify a review. Understand that any concern must include documentation, evidence, and/or other supporting information.
                     <br><br>
