@@ -102,6 +102,13 @@
                 <small class="text-muted ms-2">$399</small>
             </div>
         </div>
+        <div class="d-flex justify-content-center my-5">
+            <a disabled target="_blank" class="text-decoration-none text-white">
+                <div class="fw-bold px-4 py-2 shadow text-center btn-orange-hover" style="background: #EF9A60; color: white;">
+                    Thanks to the generosity of the dance community, scholarships are available now. Click here to apply.
+                </div>
+            </a>
+        </div>
     </div>
 
 
