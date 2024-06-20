@@ -115,11 +115,11 @@
                     <div class="col-sm">
                         <div class="mx-4 my-2">
                             <div class="d-flex justify-content-center">
-                                <ion-icon style="font-size: 3em;" name="school"></ion-icon>
+                                <ion-icon style="font-size: 3em;" name="laptop"></ion-icon>
                             </div>
                             {{--                            <p class="fw-bold text-center py-0 my-0">SUBSTITUTE COURSE</p>--}}
                             <p class="text-center py-0 my-0">
-                                Unlimited FREE courses for guest teachers, substitute teachers, and volunteers
+                                Attend a YPAD™ Artistic Integrity training live on Zoom.
                             </p>
                         </div>
                     </div>
