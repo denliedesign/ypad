@@ -130,17 +130,7 @@
                             </p>
                         </div>
                     </div>
-                    {{--                    <div class="col-sm">--}}
-                    {{--                        <div class="mx-4 my-2">--}}
-                    {{--                            <div class="d-flex justify-content-center">--}}
-                    {{--                                <ion-icon style="font-size: 3em;" name="people"></ion-icon>--}}
-                    {{--                            </div>--}}
-                    {{--                            --}}{{--                            <p class="fw-bold text-center py-0 my-0">GUEST TEACHER COURSE</p>--}}
-                    {{--                            <p class="text-center py-0 my-0">--}}
-                    {{--                                Live Spotlight Conversations webinars with guest subject matter experts--}}
-                    {{--                            </p>--}}
-                    {{--                        </div>--}}
-                    {{--                    </div>--}}
+
                     <div class="col-sm">
                         <div class="mx-4 my-2">
                             <div class="d-flex justify-content-center">

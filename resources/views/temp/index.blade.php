@@ -220,22 +220,8 @@
         <div class="row mb-5" style="height: 100%;">
             <div class="col-sm d-flex align-items-center">
                 <div>
-                    <h2 class="text-uppercase">Choose Your Path</h2>
-                    <p class="fw-bold">
-                        {{--                        EDUCATION or CERTIFICATION--}}
-                    </p>
-                    <p>
-                        YPAD™ offers learning opportunities for educators, studio owners, parents, and event leaders. Our core resource options include online courses for educators and studio owners, live and recorded webinars, Microlearnings, and downloadable PDFs.
-                        <br><br>
-                        Additionally, studio owners and event leaders have the option to go the extra mile and seek a YPAD™ Certified Studio or YPAD™ Certified Event designation, agreeing to a high measure of self-education and self-regulation in addition to following YPAD™’s 5-tier accountability model.
-                        <br><br>
-                        For more information check out our <a href="/free-resources">free resources</a> page and our <a href="/education-and-certification">education and certification</a> page.
-                    </p>
-                    {{--                    <p>--}}
-                    {{--                        YPAD™ Education options include resources, webinars, courses, and microlearnings. They are open to the entire dance community! Education opportunities do not require additional steps, such as knowledge checks, third-party training, or documentation, nor do they lead to certification.--}}
-                    {{--                        <br><br>--}}
-                    {{--                        YPAD™ Certification options include coursework for Individuals, Studios, and Events. Certification begins with an application process. Participants complete additional steps alongside their coursework, including background checks, CPR/first aid certification, Darkness to Light’s Stewards of Children® training, a live YPAD™ seminar on artistic integrity, a safeguarding pledge, and a commitment to YPAD™’s 5-tier accountability model. Additional requirements apply to studio owners and event owners, such as proof of insurance, emergency action planning, and certification in Youth Mental Health First Aid.--}}
-                    {{--                    </p>--}}
+                    <h2 class="text-uppercase">For every course that is purchased, a scholarship course is made available</h2>
+                   <p></p>
                 </div>
             </div>
             <div class="col-sm">
@@ -243,53 +229,10 @@
                     <img src="/images/ypad-erika-crop.png" alt="erika headshot" class="img-fluid py-0 my-0" style="border: 6px solid #067997;">
                 </div>
                 <p class="py-0 my-0"><strong>Erika Hogan, MS, Health & Physical Education<br>Dance Educator & Studio Owner</strong></p>
-                <p class="py-0 my-0 pe-5 me-4"><em>"I started with YPAD&trade; education, and now work with the association as a coach to help others to bring best practices to their classrooms."</em></p>
+                <p class="py-0 my-0 pe-5 me-4"><em>"I love the idea that when I'm investing in my own education I'm investing in the health of the dance community."</em></p>
             </div>
         </div>
-        {{--        <h2 class="text-uppercase text-center mt-5">READY TO BECOME A YPAD&trade; CERTIFIED STUDIO?</h2>--}}
-        <p class="text-center">
-            {{--            Now accepting studio certification renewals and new studio certification applications!--}}
-            {{--            <br>YPAD&trade; Certified Individual courses will be open in late Summer 2023.--}}
-            {{--            Now accepting studio certification renewals and new studio certification applications!--}}
-            {{--            <br>--}}
-            {{--            Hurry! Applications for 2023-24 close December 31, 2023 and --}}
-            {{--            New applications for 2024-25 certification open July 1, 2024!--}}
-        </p>
-        {{--        <div class="d-flex justify-content-center">--}}
-        {{--            <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none" target="_blank">--}}
-        {{--                <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Apply Today</div>--}}
-        {{--            </a>--}}
-        {{--        </div>--}}
 
-
-
-        {{--        <div class="row">--}}
-        {{--            <div class="col-sm">--}}
-        {{--                <div>--}}
-        {{--                    <img src="/images/course-free-risk-management.png" alt="" class="img-fluid" style="height: 197px; width: 100%; object-fit: cover;">--}}
-        {{--                    <h4 class="mt-1">Free Youth Protection Association For Dance Course: Risk Management<br><br></h4>--}}
-        {{--                    <p class="my-0 py-0 fw-bold">Free</p>--}}
-        {{--                    <hr style="color: #067997;">--}}
-        {{--                </div>--}}
-        {{--            </div>--}}
-        {{--            <div class="col-sm">--}}
-        {{--                <div>--}}
-        {{--                    <img src="/images/course-free-resource-library.png" alt="" class="img-fluid" style="height: 197px; width: 100%; object-fit: cover;">--}}
-        {{--                    <h4 class="mt-1">Free Youth Protection Association For Dance Downloadable Resources<br><br></h4>--}}
-        {{--                    <p class="my-0 py-0 fw-bold">Free</p>--}}
-        {{--                    <hr style="color: #767784;">--}}
-        {{--                </div>--}}
-        {{--            </div>--}}
-        {{--            <div class="col-sm">--}}
-        {{--                <div>--}}
-        {{--                    <img src="/images/course-free-conflict-resolution.png" alt="" class="img-fluid" style="height: 197px; width: 100%; object-fit: cover;">--}}
-        {{--                    <h4 class="mt-1">Free Youth Protection Association For Dance Course: Bullying & Conflict Resolution--}}
-        {{--                        <br><br></h4>--}}
-        {{--                    <p class="my-0 py-0 fw-bold">Free</p>--}}
-        {{--                    <hr style="color: #EF9A60;">--}}
-        {{--                </div>--}}
-        {{--            </div>--}}
-        {{--        </div>--}}
     </div>
 
     <div class="orange py-5">
@@ -452,22 +395,6 @@
                         </div>
                     </a>
                 </div>
-
-                {{--                <div class="d-flex justify-content-center">--}}
-                {{--                    <form>--}}
-                {{--                        <div class="row g-3 align-items-center">--}}
-                {{--                            <div class="col-auto">--}}
-                {{--                                <label for="inputEmail" class="col-form-label">Sign up for our mailing list to stay informed</label>--}}
-                {{--                            </div>--}}
-                {{--                            <div class="col-auto">--}}
-                {{--                                <input type="email" id="inputEmail" placeholder="Email address" class="form-control" aria-describedby="emailHelpInline">--}}
-                {{--                            </div>--}}
-                {{--                            <div class="col-auto">--}}
-                {{--                                <button type="submit" class="btn btn-primary">Submit</button>--}}
-                {{--                            </div>--}}
-                {{--                        </div>--}}
-                {{--                    </form>--}}
-                {{--                </div>--}}
 
             </div>
         </div>

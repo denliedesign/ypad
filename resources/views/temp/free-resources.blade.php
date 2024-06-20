@@ -285,36 +285,6 @@
         </div>
     </div>
 
-    {{--    <div class="container py-5">--}}
-    {{--        <div class="d-flex justify-content-center align-items-center">--}}
-    {{--            <div>--}}
-    {{--                <h2 class="text-uppercase text-center">YPAD™ Learner Course</h2>--}}
-    {{--                <p class="text-center">--}}
-    {{--                    If you are interested in learning deeper content about student health, safety, and wellness—but you’re not interested in certification—then this YPAD™ Learner Course is for you!--}}
-    {{--                    <br><br>--}}
-    {{--                    For just $199, gain access to eight modules and 24 lessons about best practices in hiring, staff training, facility safety, abuse protection, injury reduction, body image, mental strength, communications, artistic integrity, and more.--}}
-    {{--                    <br><br>--}}
-    {{--                    There are no document submissions or knowledge checks for this course. As such, this course does not lead to certification. If at any time during this course you would like to switch to certification, your purchase of this course can transfer. Email <a href="mailto:info@ypadnow.com?subject=Learner%20Course%20Assistance">info@ypadnow.com</a> for assistance.--}}
-    {{--                </p>--}}
-    {{--                <div class="d-flex justify-content-center">--}}
-    {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/5dd6fad3-fea7-4af6-9145-50bdb1c02bf7" target="_blank" class="text-decoration-none">--}}
-    {{--                        <button class="rounded fw-bold px-2 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px; font-size: 0.95em;">Purchase the YPAD™ Learner course</button>--}}
-    {{--                    </a>--}}
-    {{--                </div>--}}
-    {{--            </div>--}}
-    {{--        </div>--}}
-    {{--    </div>--}}
-
-    {{--    <div class="orange py-5">--}}
-    {{--        @include('_divider-top')--}}
-    {{--        @include('_divider-bottom')--}}
-    {{--        <x-testimonial--}}
-    {{--            image="edu-tiffany-2.jpg"--}}
-    {{--            quote="As a studio owner and former professional dancer, I believe it's essential that everyone in the dance industry—from parents to professionals—have access to education and information to help support healthy dance experiences for kids. YPAD™ makes education accessible to everyone."--}}
-    {{--            person="Tiffany Prout-Leitao"--}}
-    {{--            place="Center Stage Dance Academy, MA"--}}
-    {{--        />--}}
-    {{--    </div>--}}
 
     <div class="py-5 container">
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
