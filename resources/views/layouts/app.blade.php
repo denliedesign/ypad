@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:title" content="Youth Protection Association For Dance">
-    <meta property="og:description" content="Helping Dance Industry Leaders Create Safeguarding Capacity-Building">
+    <meta property="og:description" content="Safeguarding Students By Empowering Adults">
     <meta property="og:image" content="https://ypadnow.com/images/ypad-logo-social.png">
     <meta property="og:url" content="https://ypadnow.com">
     <meta name="twitter:card" content="summary_large_image">
