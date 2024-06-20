@@ -40,6 +40,7 @@
         @include('_divider-bottom')
         <div class="container d-flex justify-content-center align-items-center py-5">
             <div class="text-white pt-5">
+                <div class="text-center"><ion-icon name="gift" style="font-size: 3em;"></ion-icon></div>
                 <h2 class="text-uppercase text-center">buy one, give one</h2>
                 <p class="text-center">For every course that is purchased, a scholarship course is made available to another member of the dance community.</p>
 
