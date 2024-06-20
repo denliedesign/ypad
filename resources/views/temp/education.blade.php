@@ -48,6 +48,8 @@
     </div>
 
     <div class="container py-5">
+        <h2 class="text-uppercase text-center" style="font-size: 45px;">buy one, give one</h2>
+        <p class="text-center" style="font-size: 30px;">For every course that is purchased, a scholarship course is made available to another member of the dance community.</p>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2">
             <div class="d-flex align-items-center">
                 <img src="/images/educator.jpg" alt="teacher with older dancers" class="img-fluid my-1">
