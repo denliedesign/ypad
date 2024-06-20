@@ -109,9 +109,9 @@
         <div class="row mb-5" style="height: 100%;">
             <div class="col-sm d-flex align-items-center">
                 <div>
-                    <div class="text-center"><ion-icon name="gift" style="font-size: 5em;"></ion-icon></div>
-                    <h2 class="text-uppercase text-center" style="font-size: 3.25em;">buy one, give one</h2>
-                    <p class="text-center" style="font-size: 2em;">For every course that is purchased...<br>a scholarship course is made available to another member of the dance community!</p>
+                    <div class="text-center"><ion-icon name="gift" style="font-size: 4.75em;"></ion-icon></div>
+                    <h2 class="text-uppercase text-center" style="font-size: 3em;">buy one, give one</h2>
+                    <p class="text-center" style="font-size: 1.75em;">For every course that is purchased...<br>a scholarship course is made available to another member of the dance community!</p>
 
                 </div>
             </div>
