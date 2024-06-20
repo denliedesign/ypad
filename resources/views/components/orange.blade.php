@@ -7,7 +7,7 @@
                                 </div>
                             </div>
                             <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">{{ $firstName }}<br>{{ $lastName }}</h4>
-                            <p class="text-center py-0 my-0"><strong>{{ $title }}</strong></p>
+                            <p class="text-center py-0 my-0" style="width: 100%;"><strong>{{ $title }}</strong></p>
                         </div>
                         <div class="col-lg d-flex align-items-center">
                             <p>
