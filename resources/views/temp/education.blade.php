@@ -179,7 +179,7 @@
             <div class="col-sm my-3">
                 <div>
                     <p class="text-center">
-                        In addition to the foundations of our educator or studio owner courses, YPAD™ also recommends the building blocks of a safety-focused environment:
+                        In addition to the foundations of our educator or studio owner courses, YPAD™ also recommends adding to your safeguarding capacity with the following building blocks for care:
                     </p>
                 </div>
                 <div class="row mt-5">

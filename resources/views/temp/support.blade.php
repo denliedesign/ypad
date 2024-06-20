@@ -8,7 +8,7 @@
         <div class="gradient"></div>
         <div id="header-about">
             <h1 class="text-center p-0 m-0">
-                Welcome to YPAD™ Support
+                YPAD™ Support
             </h1>
             <p class="text-center" style="font-size: 1.5em;">
                 Safeguarding Students by Empowering Adults
