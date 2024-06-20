@@ -32,12 +32,8 @@
                 <div class="col-sm">
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
-                            <h2>
-                                YPAD™'s position as an educational association is intended to help leaders to build greater capacity for safeguarding. According to the U.N., capacity-building is defined as developing and strengthening the skills, instincts, abilities, processes, and resources organizations need to thrive in a fast-changing world.
-                            </h2>
-                            <p>
-                                In other words, we want to help you make room for learning and growth when it comes to developing a safer and healthier dance environment that protects kids from harm and empowers them with confidence.
-                            </p>
+                            <h3>The mission of YPAD™ is to bring awareness to and provide resources for one essential priority: <strong>the safety and health of dance students.</strong> We believe dancer well-being is the cornerstone of the industry.</h3>
+
                         </div>
                     </div>
                 </div>
@@ -93,9 +89,16 @@
             <div class="row mt-3">
                 <div class="col-sm">
                     <div class="d-flex align-items-center" style="height: 100%;">
-                        <div class="text-white text-center">
-                            <h3>The mission of YPAD™ is to bring awareness to and provide resources for one essential priority: <strong>the safety and health of dance students.</strong> We believe dancer well-being is the cornerstone of the industry.</h3>
-                        </div>
+
+                            <div class="text-white text-center">
+                                <h2>
+                                    YPAD™'s position as an educational association is intended to help leaders to build greater capacity for safeguarding. According to the U.N., capacity-building is defined as developing and strengthening the skills, instincts, abilities, processes, and resources organizations need to thrive in a fast-changing world.
+                                </h2>
+                                <p>
+                                    In other words, we want to help you make room for learning and growth when it comes to developing a safer and healthier dance environment that protects kids from harm and empowers them with confidence.
+                                </p>
+                            </div>
+
                     </div>
                 </div>
             </div>
@@ -167,7 +170,7 @@
                         <img src="/images/ypad-erika-crop.png" alt="erika headshot" class="img-fluid py-0 my-0" style="border: 6px solid #067997;">
                     </div>
                     <p class="py-0 my-0"><strong>Erika Hogan, MS, Health & Physical Education<br>Dance Educator & Studio Owner</strong></p>
-                    <p class="py-0 my-0 pe-5 me-4"><em>"I love the idea that when I'm investing in my own education I'm investing in the health of the dance community."</em></p>
+                    <p class="py-0 my-0 pe-5 me-4"><em>"I love the idea that when I'm investing in my own education, I'm investing in the health of the dance community."</em></p>
                 </div>
             </div>
         </div>
