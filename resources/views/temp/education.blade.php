@@ -102,10 +102,11 @@
                 <small class="text-muted ms-2">$399</small>
             </div>
         </div>
-        <div class="d-flex justify-content-center my-5">
-            <a disabled target="_blank" class="text-decoration-none text-white">
-                <div class="fw-bold px-4 py-2 shadow text-center btn-orange-hover" style="background: #EF9A60; color: white;">
-                    Thanks to the generosity of the dance community, scholarships are available now. Click here to apply.
+        <div class="d-flex justify-content-center my-5" style="width: 100%;">
+            <a disabled target="_blank" class="text-decoration-none text-white" style="width: 100%;">
+                <div class="fw-bold px-5 py-3 shadow text-center btn-purple-hover" style="background: #896C7B; color: white; width: 100% !important; font-size: 1.5em;">
+                    <ion-icon name="gift" style="font-size: 1.25em;"></ion-icon>
+                    Thanks to the generosity of the dance community, scholarships are available now! Click here to apply.
                 </div>
             </a>
         </div>
