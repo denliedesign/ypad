@@ -245,7 +245,7 @@
                 </h2>
                 <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                     <div class="accordion-body">
-                        YPAD no longer offers or supports a certification model. However, we remain committed to our mission of promoting dancer safety and well-being. We will continue to offer education and resources to help you implement best practices in your classrooms or studios. Individuals are invited to complete our Educator course, Studio Owner course, or take advantage of one of our many free resources, Microlearnings, or Spotlight Conversations.
+                        Certification was permanently retired in 2024 in order to pivot to a new model that would reach more people. Now, YPAD™ thrives by providing education and scholarships for the dance community through our successful "buy one, give one" model! We remain committed to our mission of promoting dancer safety and well-being. We will continue to offer education and resources to help you implement best practices in your classrooms or studios. Individuals are invited to complete our Educator course, Studio Owner course, or take advantage of one of our many free resources, Microlearnings, or Spotlight Conversations.
                     </div>
                 </div>
             </div>
