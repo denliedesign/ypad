@@ -111,7 +111,9 @@
             </div>
             <div class="col-sm my-2 d-flex align-items-center justify-content-center">
                 <p class="m-0 p-0" style="font-size: 0.95em;">
-                    YPAD™ was established in 2012 as an instructional and certification program under the non-profit EDIFY Movement, founded by professional dancer Leslie Scott Zanovitch and other passionate advocates. In 2018, the board asked longtime supporter and original YPAD™ Certified Studio owner Misty Lown to acquire the program to ensure its sustainability, and it was updated to offer more accessible options. By 2022, evolving industry needs called for a fresh direction for YPAD™, leading to the creation of a new company with a fresh identity: Youth Protection Association for Dance™, emphasizing the mission to safeguard dancers and empower confident adults. Although certification was reintroduced, it was permanently retired in 2024 due to low traction. Now, YPAD™ thrives by providing education and scholarships for the dance community through our successful "buy one, give one" model!
+                    YPAD™ was established in 2012 as an instructional and certification program under the non-profit EDIFY Movement, founded by professional dancer Leslie Scott Zanovitch and other passionate advocates. In 2018, the board asked longtime supporter and original YPAD™ Certified Studio owner Misty Lown to acquire the program to ensure its sustainability, and it was updated to offer more accessible options.
+                    <br><br>
+                    By 2022, evolving industry needs called for a fresh direction for YPAD™, leading to the creation of a new company with a fresh identity: Youth Protection Association for Dance™, emphasizing the mission to safeguard dancers and empower confident adults. Although certification was reintroduced, it was permanently retired in 2024 in order to pivot to a new model that would reach more people. Now, YPAD™ thrives by providing education and scholarships for the dance community through our successful "buy one, give one" model!
                 </p>
             </div>
         </div>
