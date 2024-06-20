@@ -123,6 +123,19 @@
         </div>
     </div>
 
+    <div class="orange py-5 text-white">
+        @include('_divider-top')
+        @include('_divider-bottom')
+        <div class="container d-flex justify-content-center align-items-center py-5">
+            <div class="text-center">
+                <h2>
+                    "One-for-one giving is an easy way to make an impact with little effort. Buying goods and doing good can now go hand in hand, and the one-for-one giving model is to thank for that."
+                </h2>
+                <p class="fw-bold">Charlotte Kriftcher</p>
+            </div>
+        </div>
+    </div>
+
     <div class="py-5 welcome-icons">
         <div class="container">
 
