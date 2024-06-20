@@ -41,6 +41,9 @@ Route::get('/subscribe', function () {
 Route::get('/about', function () {
     return view('/about');
 });
+Route::get('/qazwsx', function () {
+    return view('/qazwsx');
+});
 
 Route::get('/certification', function () {
 //    return view('/certification');
