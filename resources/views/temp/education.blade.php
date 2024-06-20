@@ -39,9 +39,9 @@
         @include('_divider-top')
         @include('_divider-bottom')
         <div class="container d-flex justify-content-center align-items-center py-5">
-            <div class="text-white">
-                <h2 class="text-uppercase text-center" style="font-size: 3em;">buy one, give one</h2>
-                <p class="text-center" style="font-size: 30px;">For every course that is purchased, a scholarship course is made available to another member of the dance community.</p>
+            <div class="text-white pt-5">
+                <h2 class="text-uppercase text-center">buy one, give one</h2>
+                <p class="text-center">For every course that is purchased, a scholarship course is made available to another member of the dance community.</p>
 
                 {{--                <h3 class="text-white text-center pt-4">--}}
 {{--                    The mission of YPAD™ is to bring awareness to and provide guidance for one essential priority: <strong>the safety and health of dance students</strong>.--}}
