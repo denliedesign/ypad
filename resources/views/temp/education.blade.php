@@ -171,7 +171,7 @@
     </div>
 
     <div class="container py-5">
-        <h2 class="text-uppercase text-center">YPAD™ ALSO RECOMMENDS THE FOLLOWING BUILDING BLOCKS</h2>
+        <h2 class="text-uppercase text-center">YPAD™ ALSO RECOMMENDS THE FOLLOWING BUILDING BLOCKS OF CARE</h2>
         <div class="row" id="about-checkmarks">
             {{--            <p class="text-center" style="color: #896C7B;">--}}
             {{--                After your application is accepted and you complete the YPAD™ Certified Course, submit the reflections, and pass the knowledge checks with 90% proficiency, it is time to move on to STEP THREE: external training and documentation.--}}
