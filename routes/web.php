@@ -41,9 +41,11 @@ Route::get('/subscribe', function () {
 Route::get('/about', function () {
     return view('/about');
 });
-Route::get('/1qaz2wsx', function () {
-    return view('/1qaz2wsx');
-});
+Route::get('/temp/index', function () { return view('/temp/index'); });
+Route::get('/temp/about', function () { return view('/temp/about'); });
+Route::get('/temp/free-resources', function () { return view('/temp/free-resources'); });
+Route::get('/temp/education', function () { return view('/temp/education'); });
+Route::get('/temp/support', function () { return view('/temp/support'); });
 
 Route::get('/certification', function () {
 //    return view('/certification');
