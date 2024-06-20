@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app-temp')
 @section('content')
 
     {{--    <div style="background: #767784;" class="py-3 text-white d-flex justify-content-center align-items-center">--}}

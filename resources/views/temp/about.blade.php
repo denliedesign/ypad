@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app-temp')
 @section('content')
 
     <div class="banner-wrap" style="position: relative;">
