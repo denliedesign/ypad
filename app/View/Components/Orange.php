@@ -9,16 +9,18 @@ use Illuminate\View\Component;
 class Orange extends Component
 {
     public $image;
-    public $name;
+    public $firstName;
+    public $lastName;
     public $title;
     public $quote;
     /**
      * Create a new component instance.
      */
-    public function __construct($image, $name, $title, $quote)
+    public function __construct($image, $firstName, $lastName, $title, $quote)
     {
         $this->image = $image;
-        $this->name = $name;
+        $this->firstName = $firstName;
+        $this->lastName = $lastName;
         $this->title = $title;
         $this->quote = $quote;
     }

@@ -202,13 +202,15 @@
             <div class="row my-2">
                 <x-orange
                     image="darcy.png"
-                    name="Darcy Fagerwold"
+                    firstName="Darcy"
+                    lastName="Fagerwold"
                     title="Studio Owner, California"
                     quote="YPAD™ education shows families that we are committed to keeping kids healthy and safe in dance. Thank you to YPAD™ for leading the dance industry in this vital endeavor!"
                 />
                 <x-orange
                     image="kate.png"
-                    name="Kate Moody"
+                    firstName="Kate"
+                    lastName="Moody"
                     title="Studio Owner, Wisconsin"
                     quote="If you haven't completed a YPAD™ course yet, do it! We had an incident at the local high school this morning (everything is okay), and I am proud we had YPAD™ training to rely on. Thank you, YPAD™ team and experts, for all the great knowledge and resources in the YPAD™ course!"
                 />
@@ -216,13 +218,15 @@
             <div class="row my-2">
                 <x-orange
                     image="amy.png"
-                    name="AMI YARO"
+                    firstName="AMI"
+                    lastName="YARO"
                     title="Studio Owner, Iowa"
                     quote="YPAD™ education has helped me implement best practices in my studio. YPAD™ has also given me a community of like-minded dance professionals who choose to put the wellness and safety of their students as a top priority."
                 />
                 <x-orange
                     image="neisha.jpeg"
-                    name="NEISHA HERNANDEZ"
+                    firstName="NEISHA"
+                    lastName="HERNANDEZ"
                     title="Studio Owner, California"
                     quote="Being educated by YPAD™  is essential to my business culture. Our parents and families are confident that my studio is intentionally focused on keeping their kids healthy and safe. YPAD™ has extensive resources that have been integral to our mission of Encouraging Kids to Lead Inspired Lives!"
                 />
