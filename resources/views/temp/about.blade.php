@@ -100,7 +100,7 @@
         <div class="row row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
             <div class="d-flex align-items-center justify-content-center col-sm my-2 py-3"  style="background: #067997;">
                 <h2 class="text-uppercase text-white text-center">
-                    The YPAD™ Story: Adapting for the Times
+                    The YPAD™ Story:<br>Adapting for the Times
                 </h2>
             </div>
             <div class="col-sm my-2">
