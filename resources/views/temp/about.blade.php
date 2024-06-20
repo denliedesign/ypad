@@ -55,7 +55,7 @@
                         <ion-icon name="checkmark-circle"></ion-icon>
                     </div>
                     <div class="col-11">
-                        YPAD™ provides educational scholarships for the dance community through its buy one give one model.
+                        YPAD™ provides educational scholarships for the dance community through its buy one, give one model.
                     </div>
                     <hr class="my-3">
                 </div>
