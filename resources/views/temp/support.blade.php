@@ -36,6 +36,17 @@
         </div>
     </div>
 
+    <div class="orange py-5 text-white">
+        @include('_divider-top')
+        @include('_divider-bottom')
+        <x-testimonial
+            image="test-monique.jpg"
+            quote="As a studio owner, you never want to get an emergency call from the studio, but thanks to YPAD™, my teachers knew how to handle an emergency when I wasn’t there. I am grateful to report that everyone is okay. Thank you YPAD™ for preparing our teachers so well!"
+            person="Monique Rodriguez"
+            place="Studio Owner, Michigan"
+        />
+    </div>
+
 {{--    <div class="container pb-5">--}}
 {{--        <div class="row my-4 welcome-icons">--}}
 {{--            <div class="col-sm">--}}
@@ -154,17 +165,6 @@
         </div>
     </div>
 
-    <div class="orange py-5 text-white">
-        @include('_divider-top')
-        @include('_divider-bottom')
-        <x-testimonial
-            image="test-monique.jpg"
-            quote="As a studio owner, you never want to get an emergency call from the studio, but thanks to YPAD™, my teachers knew how to handle an emergency when I wasn’t there. I am grateful to report that everyone is okay. Thank you YPAD™ for preparing our teachers so well!"
-            person="Monique Rodriguez"
-            place="Studio Owner, Michigan"
-        />
-    </div>
-
 
 
 {{--    <div class="container py-5">--}}
@@ -200,56 +200,56 @@
 {{--        </div>--}}
 {{--    </div>--}}
 
-    <div class="container py-5">
-        <div class="row" id="about-checkmarks">
-            <div class="col-sm">
-                <h2 class="text-center">YPAD™’s 5-Tier Approach To Accountability</h2>
-                                <p class="text-center">as·so·ci·a·tion <br> <small class="text-muted">noun</small></p>
-                <p class="text-center">
-                    YPAD™ has established certain standards related to certification, which includes a system for addressing concerns. Please carefully consider your concern before submitting, and be advised it takes more than disagreement to justify a review. Understand that any concern must include documentation, evidence, and/or other supporting information.
-                    <br><br>
-                    The <em>Share a Concern</em> button below provides a way to submit an anonymous concern which is then reviewed internally. If deemed appropriate, YPAD™ will request communication with the subject of the concern. Additional steps may be taken in accordance with YPAD™’s 5-tier accountability model.
-                    <br><br>
-                    Internal reviews are confidential, and as such, YPAD™ does not provide any subsequent information about the review process—including actions YPAD™ may or may not take—to the person who shared their concern.
+{{--    <div class="container py-5">--}}
+{{--        <div class="row" id="about-checkmarks">--}}
+{{--            <div class="col-sm">--}}
+{{--                <h2 class="text-center">YPAD™’s 5-Tier Approach To Accountability</h2>--}}
+{{--                                <p class="text-center">as·so·ci·a·tion <br> <small class="text-muted">noun</small></p>--}}
+{{--                <p class="text-center">--}}
+{{--                    YPAD™ has established certain standards related to certification, which includes a system for addressing concerns. Please carefully consider your concern before submitting, and be advised it takes more than disagreement to justify a review. Understand that any concern must include documentation, evidence, and/or other supporting information.--}}
+{{--                    <br><br>--}}
+{{--                    The <em>Share a Concern</em> button below provides a way to submit an anonymous concern which is then reviewed internally. If deemed appropriate, YPAD™ will request communication with the subject of the concern. Additional steps may be taken in accordance with YPAD™’s 5-tier accountability model.--}}
+{{--                    <br><br>--}}
+{{--                    Internal reviews are confidential, and as such, YPAD™ does not provide any subsequent information about the review process—including actions YPAD™ may or may not take—to the person who shared their concern.--}}
 
-                </p>
-            </div>
-            <div class="col-sm">
-                <ol>
-                    <li>
-                        <strong>Iterative Improvement:</strong>
-                        This may require a small change; for example, perhaps a photo is shared or a song is played that raises artistic integrity concerns. YPAD™ will provide feedback to the YPAD™ Certified Studio or YPAD™ Certified Event about how to make a better choice next time.
-                    </li>
-                    <li>
-                        <strong>Focused Fix:</strong>
-                        This may require deeper attention to the concerns raised. If there are repetitive concerns shared of the same nature, for example, YPAD™ will ask for a demonstration or documentation from the YPAD™ Certified Studio or YPAD™ Certified Event that the concern has been addressed at a practice, policy, or personnel level.                    </li>
-                    <li>
-                        <strong>Review & Renewal:</strong>
-                        This takes place for a more serious concern of a repetitive or "mid-stakes" issue. This action may require the support of YPAD™ Certified Studio or YPAD™ Certified Event materials and information to understand why the reported concern requires change.                     </li>
-                    <li>
-                        <strong>Suspension & Probation:</strong>
-                        This may result from a high-stakes issue, such as abuse allegations. Concerns of this nature would initiate immediate suspension pending an internal review, followed by a probationary reinstatement period or termination.                    </li>
-                    <li>
-                        <strong>Termination of Certification:</strong>
-                        Depending on the nature of a high stakes issue, other repeated issues, an unwillingness to address concerns, or an unsatisfactory result of an internal review, YPAD™ reserves the right to terminate YPAD™ Certified Studio or YPAD™ Certified Event designation.
-                    </li>
-                </ol>
-                <div class="d-flex justify-content-center">
-                    <a style="text-decoration: none;" href="https://docs.google.com/forms/d/e/1FAIpQLSeejHz5Q2MSGcAnqbgWtxS6RvPiCqOR9D-H_OtsOHQiuFg4Tg/viewform?usp=share_link" target="_blank">
-                        <div class="fw-bold px-4 py-2 shadow text-center btn-hover" style="background: #067997; color: white;">
-                            SHARE A CONCERN
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
+{{--                </p>--}}
+{{--            </div>--}}
+{{--            <div class="col-sm">--}}
+{{--                <ol>--}}
+{{--                    <li>--}}
+{{--                        <strong>Iterative Improvement:</strong>--}}
+{{--                        This may require a small change; for example, perhaps a photo is shared or a song is played that raises artistic integrity concerns. YPAD™ will provide feedback to the YPAD™ Certified Studio or YPAD™ Certified Event about how to make a better choice next time.--}}
+{{--                    </li>--}}
+{{--                    <li>--}}
+{{--                        <strong>Focused Fix:</strong>--}}
+{{--                        This may require deeper attention to the concerns raised. If there are repetitive concerns shared of the same nature, for example, YPAD™ will ask for a demonstration or documentation from the YPAD™ Certified Studio or YPAD™ Certified Event that the concern has been addressed at a practice, policy, or personnel level.                    </li>--}}
+{{--                    <li>--}}
+{{--                        <strong>Review & Renewal:</strong>--}}
+{{--                        This takes place for a more serious concern of a repetitive or "mid-stakes" issue. This action may require the support of YPAD™ Certified Studio or YPAD™ Certified Event materials and information to understand why the reported concern requires change.                     </li>--}}
+{{--                    <li>--}}
+{{--                        <strong>Suspension & Probation:</strong>--}}
+{{--                        This may result from a high-stakes issue, such as abuse allegations. Concerns of this nature would initiate immediate suspension pending an internal review, followed by a probationary reinstatement period or termination.                    </li>--}}
+{{--                    <li>--}}
+{{--                        <strong>Termination of Certification:</strong>--}}
+{{--                        Depending on the nature of a high stakes issue, other repeated issues, an unwillingness to address concerns, or an unsatisfactory result of an internal review, YPAD™ reserves the right to terminate YPAD™ Certified Studio or YPAD™ Certified Event designation.--}}
+{{--                    </li>--}}
+{{--                </ol>--}}
+{{--                <div class="d-flex justify-content-center">--}}
+{{--                    <a style="text-decoration: none;" href="https://docs.google.com/forms/d/e/1FAIpQLSeejHz5Q2MSGcAnqbgWtxS6RvPiCqOR9D-H_OtsOHQiuFg4Tg/viewform?usp=share_link" target="_blank">--}}
+{{--                        <div class="fw-bold px-4 py-2 shadow text-center btn-hover" style="background: #067997; color: white;">--}}
+{{--                            SHARE A CONCERN--}}
+{{--                        </div>--}}
+{{--                    </a>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <div class="orange py-5 text-white">
         @include('_divider-top')
         <x-testimonial
             image="test-lori.jpg"
-            quote="When I noticed a student was struggling with body image, I reached out to YPAD™ for guidance. Thanks to being a YPAD™ Certified Studio, I knew when to reach out and thanks to their support service, I was able to get same day help and appropriate next steps. Thank you, YPAD™!"
+            quote="When I noticed a student was struggling with body image, I reached out to YPAD™ for guidance. Thanks to YPAD™ education, I knew when to reach out and thanks to their support service, I was able to get same day help and appropriate next steps. Thank you, YPAD™!"
             person="Lori Gardner"
             place="Studio Owner, Illinois"
         />
