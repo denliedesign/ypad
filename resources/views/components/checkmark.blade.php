@@ -1,13 +1,14 @@
-<div class="row">
-{{--    <div class="col-1">--}}
-
-{{--        <ion-icon name="checkmark-circle"></ion-icon>--}}
+{{--<div class="row">--}}
+{{--    <div class="col-11">--}}
+{{--        <strong>Building Block {{ $number }}</strong>--}}
+{{--        {{ $item }}--}}
 {{--    </div>--}}
-    <div class="col-11">
-        <strong>Building Block {{ $number }}</strong>
-        {{ $item }}
+{{--</div>--}}
+
+
+
+    <div class="col text-center">
+        <ion-icon name="{{ $number }}" style="font-size: 3em;"></ion-icon>
+        <p class="text-center">{{ $item }}</p>
     </div>
-    <div class="">
-{{--        <hr class="my-3" style="width: 90%;">--}}
-    </div>
-</div>
+

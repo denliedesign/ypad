@@ -182,15 +182,15 @@
                         In addition to the foundations of our educator or studio owner courses, YPAD™ also recommends the building blocks of a safety-focused environment:
                     </p>
                 </div>
-                <div class="mt-5">
-                    <x-checkmark number="1:" item="Background checks" />
-                    <x-checkmark number="2:" item="First Aid/CPR certifications" />
-                    <x-checkmark number="3:" item="Stewards of Children® training by Darkness to Light" />
-                    <x-checkmark number="4:" item="Youth Mental Health First Aid training" />
-                    <x-checkmark number="5:" item="Emergency Action Plans (EAPs) for classrooms and performances" />
+                <div class="row mt-5">
+                    <x-checkmark number="shield-checkmark" item="Background checks" />
+                    <x-checkmark number="medkit" item="First Aid/CPR certifications" />
+                    <x-checkmark number="bulb" item="Stewards of Children® training by Darkness to Light" />
+                    <x-checkmark number="fitness" item="Youth Mental Health First Aid training" />
+                    <x-checkmark number="list-circle" item="Emergency Action Plans (EAPs) for classrooms and performances" />
                 </div>
             </div>
-            <p class="text-center pt-4">Are you looking for more discussion about how to foster safer and healthier environments in dance? Register to attend a YPAD™ Artistic Integrity training live on Zoom. These seminars are free for those who have taken the educator or studio owner course.</p>
+            <p class="text-center pt-3">Are you looking for more discussion about how to foster safer and healthier environments in dance? Register to attend a YPAD™ Artistic Integrity training live on Zoom. These seminars are free for those who have taken the educator or studio owner course.</p>
 
         </div>
     </div>
