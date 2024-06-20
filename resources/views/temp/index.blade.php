@@ -105,6 +105,24 @@
         </div>
     </div>
 
+    <div class="container pt-5">
+        <div class="row mb-5" style="height: 100%;">
+            <div class="col-sm d-flex align-items-center">
+                <div>
+                    <h2 class="text-uppercase text-center" style="font-size: 45px;">buy one give one</h2>
+                    <p class="text-center" style="font-size: 30px;">For every course that is purchased, a scholarship course is made available to another member of the dance community.</p>
+                </div>
+            </div>
+            <div class="col-sm">
+                <div class="">
+                    <img src="/images/ypad-erika-crop.png" alt="erika headshot" class="img-fluid py-0 my-0" style="border: 6px solid #067997;">
+                </div>
+                <p class="py-0 my-0"><strong>Erika Hogan, MS, Health & Physical Education<br>Dance Educator & Studio Owner</strong></p>
+                <p class="py-0 my-0 pe-5 me-4"><em>"I love the idea that when I'm investing in my own education, I'm investing in the health of the dance community."</em></p>
+            </div>
+        </div>
+    </div>
+
     <div class="py-5 welcome-icons">
         <div class="container">
 
@@ -156,24 +174,9 @@
                 </div>
             </div>
     </div>
+    </div>
 
-        <div class="container py-5">
-            <div class="row mb-5" style="height: 100%;">
-                <div class="col-sm d-flex align-items-center">
-                    <div>
-                        <h2 class="text-uppercase text-center" style="font-size: 45px;">buy one give one</h2>
-                        <p class="text-center" style="font-size: 30px;">For every course that is purchased, a scholarship course is made available to another member of the dance community.</p>
-                    </div>
-                </div>
-                <div class="col-sm">
-                    <div class="">
-                        <img src="/images/ypad-erika-crop.png" alt="erika headshot" class="img-fluid py-0 my-0" style="border: 6px solid #067997;">
-                    </div>
-                    <p class="py-0 my-0"><strong>Erika Hogan, MS, Health & Physical Education<br>Dance Educator & Studio Owner</strong></p>
-                    <p class="py-0 my-0 pe-5 me-4"><em>"I love the idea that when I'm investing in my own education, I'm investing in the health of the dance community."</em></p>
-                </div>
-            </div>
-        </div>
+
 
     <div class="orange py-5">
         @include('_divider-top')
@@ -237,7 +240,6 @@
                 </div>
             </div>
         </div>
-    </div>
 
 
 
