@@ -173,7 +173,7 @@
                         </div>
                         <p class="fw-bold text-center py-0 my-0">WHAT YPAD™ IS NOT</p>
                         <p class="text-center py-0 my-0">
-                            YPAD™ is not a regulatory body, nor is it a master-level training. YPAD™ is not a crisis or support group, nor does it offer its own emergency hotline or services. YPAD™ does not police certified individuals, studios, or events, nor is it in the scope of our practice to provide legal, medical, or therapeutic services.
+                            YPAD™ is not a regulatory body, nor is it a master-level training. YPAD™ is not a crisis or support group, nor does it offer its own emergency hotline or services. YPAD™ does not police individuals, studios, or events, nor is it in the scope of our practice to provide legal, medical, or therapeutic services.
                         </p>
                     </div>
                 </div>
