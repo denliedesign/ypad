@@ -33,7 +33,7 @@
                 YPAD™ Free Resources are a great place to start your learning journey!
             </p>
             <p>
-                At YPAD™, we understand the crucial role adults play in shaping the lives of youth dancers. That’s why YPAD™ believes education in safeguarding capacity-building should be available to everyone. Equipping yourself with a strong knowledge base means you can create a supportive and safe environment in which dancers can thrive without unnecessary risk.
+                At YPAD™, we understand the crucial role adults play in shaping the lives of youth dancers. That’s why YPAD™ believes education in safeguarding should be available to everyone. This is why we provide a course scholarship for every course that is purchased. Equipping yourself with a strong knowledge base means you can create a supportive and safe environment in which dancers can thrive without unnecessary risk.
                 <br><br>
                 Whether you are a studio owner, educator, parent, dance professional, leader of a dance organization, college director, or other industry contributor, use the materials here to jumpstart or expand your knowledge of health, safety, and wellness in dance.
             </p>
@@ -50,8 +50,6 @@
                         <h2 class="text-uppercase text-center">FREE RESOURCES FOR THE COMMUNITY</h2>
                         <p class="text-center">
                             Get started on your YPAD™ Education journey here! These resources, developed from topical YPAD™ research and backed by subject matter experts, are designed to help you make more knowledgeable decisions about safety, health, and wellness in dance.
-                            <br><br>
-                            Check back often for newly added materials!
                         </p>
                         <div>
                             <div class="row row-cols-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-6">
@@ -210,7 +208,7 @@
             <div class="py-5">
                 <div class="d-flex justify-content-center align-items-center">
                     <div>
-                        <h2 class="text-uppercase text-center">Spotlight Conversations</h2>
+                        <h2 class="text-uppercase text-center">Free Spotlight Conversations</h2>
                         <p class="text-center">
                             These half-hour seminars feature a guest speaker industry professional and are facilitated by a YPAD™ Certified Coach. Each seminar includes relevant and topical education for dance parents, teachers, and studio owners.
                             {{--                    <br><br>--}}
@@ -274,10 +272,10 @@
                             <h3 class="text-center text-white">
                                 Spotlight Conversations Recordings
                             </h3>
-                            <p class="text-center text-white">Access past Spotlight Conversations for free.</p>
+                            <p class="text-center text-white">Access past Spotlight Conversations for FREE.</p>
                         </div>
                         <div class="d-flex justify-content-center">
-                            <a class="text-decoration-none" href="https://ypad.thinkific.com/courses/spotlight-conversations" target="_blank"><button class="rounded fw-bold px-3 py-2 shadow text-center text-white" style="background: #767784; width: 215px;">Enroll for free</button></a>
+                            <a class="text-decoration-none" href="https://ypad.thinkific.com/courses/spotlight-conversations" target="_blank"><button class="rounded fw-bold px-3 py-2 shadow text-center text-white" style="background: #767784; width: 215px;">Enroll for FREE</button></a>
                         </div>
                     </div>
                 </div>
@@ -299,7 +297,7 @@
                     <div class="px-3 pt-3">
                         <h4 class="text-center py-0 my-0"><strong>Matthew Farmer</strong> <br> Department Chair <br> Hope College</h4>
                         <p class="text-center pb-0 pt-2 my-0"><em>
-                                "YPAD&trade;’s seminar for dancers is an essential conversation and educational session for all dance students in college. The information presented is pertinent and necessary for any dance student wishing to enter the performance industry. Conversations regarding power differentials, grooming, and sexual harassment are just some of the important topics covered, and the tools YPAD&trade; gives young dancers in order to address these issues are both concrete and applicable."
+                                "The YPAD&trade; seminar for dancers is an essential conversation and educational session for all dance students in college. The information presented is pertinent and necessary for any dance student wishing to enter the performance industry. Conversations regarding power differentials, grooming, and sexual harassment are just some of the important topics covered, and the tools YPAD&trade; gives young dancers in order to address these issues are both concrete and applicable."
                             </em>
                         </p>
                     </div>
@@ -311,7 +309,7 @@
                     <div class="px-3 pt-3">
                         <h4 class="text-center py-0 my-0"><strong>Aidan S. Nettles, MFA</strong> <br> Assistant Professor of Dance <br> The University of Alabama</h4>
                         <p class="text-center pb-0 pt-2 my-0"><em>
-                                “The team at YPAD&trade; facilitates an outstanding seminar to share information and resources with college students and future educators that are paramount for dancer safety. I find it imperative to equip my students to think critically, ask challenging questions, and to learn how to make positive contributions to the future of dance, and this experience afforded them the opportunity to exercise those skills. YPAD&trade;’s college seminar provides a space for young educators to engage with challenging topics in a supported environment. I encourage all collegiate educators to take advantage of providing this experience!”
+                                “The team at YPAD&trade; facilitates an outstanding seminar to share information and resources with college students and future educators that are paramount for dancer safety. I find it imperative to equip my students to think critically, ask challenging questions, and to learn how to make positive contributions to the future of dance, and this experience afforded them the opportunity to exercise those skills. The YPAD&trade; college seminar provides a space for young educators to engage with challenging topics in a supported environment. I encourage all collegiate educators to take advantage of providing this experience!”
                             </em>
                         </p>
                     </div>

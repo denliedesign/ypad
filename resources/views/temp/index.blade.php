@@ -109,7 +109,7 @@
         <div class="row mb-5" style="height: 100%;">
             <div class="col-sm d-flex align-items-center">
                 <div>
-                    <h2 class="text-uppercase text-center" style="font-size: 45px;">buy one give one</h2>
+                    <h2 class="text-uppercase text-center" style="font-size: 45px;">buy one, give one</h2>
                     <p class="text-center" style="font-size: 30px;">For every course that is purchased, a scholarship course is made available to another member of the dance community.</p>
                 </div>
             </div>
