@@ -6,17 +6,19 @@ use Closure;
 use Illuminate\Contracts\View\View;
 use Illuminate\View\Component;
 
-class Checkmark extends Component
+class Icon extends Component
 {
     public $item;
     public $number;
+    public $link;
     /**
      * Create a new component instance.
      */
-    public function __construct($item, $number)
+    public function __construct($item, $number, $link)
     {
         $this->item = $item;
         $this->number = $number;
+        $this->link = $link;
     }
 
     /**
@@ -24,6 +26,6 @@ class Checkmark extends Component
      */
     public function render()
     {
-        return view('components.checkmark');
+        return view('components.icon');
     }
 }
