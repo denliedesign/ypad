@@ -197,7 +197,7 @@
 
     <div class="orange py-5 text-white">
         @include("_divider-top")
-        @include("_divider-bottom")
+{{--        @include("_divider-bottom")--}}
         <div class="container py-5">
             <div class="row my-2">
                 <x-orange
@@ -234,37 +234,37 @@
         </div>
     </div>
 
-    <div class="container py-5">
-        <h2 class="text-uppercase text-center">FAQs</h2>
-        <div class="accordion accordion-flush" id="accordionFlushExample">
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="flush-headingOne">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                        Does YPAD™ still offer certifications?
-                    </button>
-                </h2>
-                <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">
-                        Certification was permanently retired in 2024 in order to pivot to a new model that would reach more people. Now, YPAD™ thrives by providing education and scholarships for the dance community through our successful "buy one, give one" model! We remain committed to our mission of promoting dancer safety and well-being. We will continue to offer education and resources to help you implement best practices in your classrooms or studios. Individuals are invited to complete our Educator course, Studio Owner course, or take advantage of one of our many free resources, Microlearnings, or Spotlight Conversations.
-                    </div>
-                </div>
-            </div>
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="flush-headingTwo">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                        Does YPAD™ regulate artistic choices?
-                    </button>
-                </h2>
-                <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">
-                        No, YPAD™ does not police the dance industry. Instead, YPAD™ aims to encourage thoughtful decision-making and discussions around developmentally appropriate and age-appropriate approaches to dance education and artistic integrity. YPAD™’s mission in safeguarding capacity-building helps everyone make better-informed choices for the well-being of dance students.
-                    </div>
-                </div>
-            </div>
+{{--    <div class="container py-5">--}}
+{{--        <h2 class="text-uppercase text-center">FAQs</h2>--}}
+{{--        <div class="accordion accordion-flush" id="accordionFlushExample">--}}
+{{--            <div class="accordion-item">--}}
+{{--                <h2 class="accordion-header" id="flush-headingOne">--}}
+{{--                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">--}}
+{{--                        Does YPAD™ still offer certifications?--}}
+{{--                    </button>--}}
+{{--                </h2>--}}
+{{--                <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">--}}
+{{--                    <div class="accordion-body">--}}
+{{--                        Certification was permanently retired in 2024 in order to pivot to a new model that would reach more people. Now, YPAD™ thrives by providing education and scholarships for the dance community through our successful "buy one, give one" model! We remain committed to our mission of promoting dancer safety and well-being. We will continue to offer education and resources to help you implement best practices in your classrooms or studios. Individuals are invited to complete our Educator course, Studio Owner course, or take advantage of one of our many free resources, Microlearnings, or Spotlight Conversations.--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="accordion-item">--}}
+{{--                <h2 class="accordion-header" id="flush-headingTwo">--}}
+{{--                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">--}}
+{{--                        Does YPAD™ regulate artistic choices?--}}
+{{--                    </button>--}}
+{{--                </h2>--}}
+{{--                <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">--}}
+{{--                    <div class="accordion-body">--}}
+{{--                        No, YPAD™ does not police the dance industry. Instead, YPAD™ aims to encourage thoughtful decision-making and discussions around developmentally appropriate and age-appropriate approaches to dance education and artistic integrity. YPAD™’s mission in safeguarding capacity-building helps everyone make better-informed choices for the well-being of dance students.--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
 
-        </div>
-    </div>
+{{--        </div>--}}
+{{--    </div>--}}
 
 
 {{--    <div class="container py-5">--}}
