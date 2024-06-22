@@ -183,11 +183,11 @@
                     </p>
                 </div>
                 <div class="row mt-5">
-                    <x-checkmark number="shield-checkmark" item="Background checks" />
-                    <x-checkmark number="bulb" item="Stewards of Children® training by Darkness to Light" />
-                    <x-checkmark number="list-circle" item="Emergency Action Plans (EAPs) for classrooms and performances" />
-                    <x-checkmark number="fitness" item="Youth Mental Health First Aid training" />
-                    <x-checkmark number="medkit" item="First Aid/CPR certifications" />
+                    <x-checkmark number="shield-checkmark" item="Background checks" link="https://www.intellicorp.net/clientregistration?promo=YPAD" />
+                    <x-checkmark number="bulb" item="Stewards of Children® training by Darkness to Light" link="https://www.d2l.org/" />
+                    <x-checkmark number="list-circle" item="Emergency Action Plans (EAPs) for classrooms and performances" link="" />
+                    <x-checkmark number="fitness" item="Youth Mental Health First Aid training" link="https://www.mentalhealthfirstaid.org/population-focused-modules/youth/" />
+                    <x-checkmark number="medkit" item="First Aid/CPR certifications" link="https://www.redcross.org/take-a-class/lp/cpr-first-aid-aed-certification-new-hero" />
                 </div>
             </div>
             <p class="text-center pt-3">Are you looking for more discussion about how to foster safer and healthier environments in dance? Register to attend a YPAD™ Artistic Integrity training live on Zoom. These seminars are free for those who have taken the educator or studio owner course.</p>

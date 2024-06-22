@@ -10,13 +10,15 @@ class Checkmark extends Component
 {
     public $item;
     public $number;
+    public $link;
     /**
      * Create a new component instance.
      */
-    public function __construct($item, $number)
+    public function __construct($item, $number, $link)
     {
         $this->item = $item;
         $this->number = $number;
+        $this->link = $link;
     }
 
     /**
