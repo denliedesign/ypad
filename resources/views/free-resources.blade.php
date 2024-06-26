@@ -246,28 +246,28 @@
                             {{--                        </div>--}}
                             {{--                    </div>--}}
                             <div class="col-sm-2"></div>
-                            <div class="col-sm card rounded p-3 mx-3" style="box-shadow: 0 0 6px 2px #067997;">
-                                <div class="d-flex justify-content-center">
-                                    {{--                            <img src="/images/spotlight-april.png" alt="spotlight graphic" class="img-fluid">--}}
-                                </div>
-                                <div class="card-body text-dark">
-                                    <h3 class="text-center">
-                                        Encouraging Healthy Nutrition and Hydration for Dancers
+{{--                            <div class="col-sm card rounded p-3 mx-3" style="box-shadow: 0 0 6px 2px #067997;">--}}
+{{--                                <div class="d-flex justify-content-center">--}}
+{{--                                    --}}{{--                            <img src="/images/spotlight-april.png" alt="spotlight graphic" class="img-fluid">--}}
+{{--                                </div>--}}
+{{--                                <div class="card-body text-dark">--}}
+{{--                                    <h3 class="text-center">--}}
+{{--                                        Encouraging Healthy Nutrition and Hydration for Dancers--}}
 {{--                                        How to Create a Body-Positive Environment at Home and at Dance--}}
-                                        {{--                                How to Support Your Dancer During Recital Season--}}
-                                    </h3>
-                                    <p class="text-center text-dark">
-                                        Wednesday, June 26th, 2024 from 12:00-12:30PM CT
+{{--                                        --}}{{--                                How to Support Your Dancer During Recital Season--}}
+{{--                                    </h3>--}}
+{{--                                    <p class="text-center text-dark">--}}
+{{--                                        Wednesday, June 26th, 2024 from 12:00-12:30PM CT--}}
 {{--                                        Wednesday, May 29th, 2024 from 12:00-12:30PM CT--}}
-                                        {{--                                Wednesday, April 24, 2024 from 12:00-12:30PM CT--}}
-                                    </p>
-                                </div>
-                                <div class="d-flex justify-content-center card-footer" style="background: white; border-top: none;">
-                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfc2xVWFjrDyv8IieUsNDCcdWfbyt6yroro2ckYEWvh5bXNfA/viewform?usp=sf_link" target="_blank" class="text-decoration-none">
-                                        <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 215px;">Sign up here to attend!</button>
-                                    </a>
-                                </div>
-                            </div>
+{{--                                        --}}{{--                                Wednesday, April 24, 2024 from 12:00-12:30PM CT--}}
+{{--                                    </p>--}}
+{{--                                </div>--}}
+{{--                                <div class="d-flex justify-content-center card-footer" style="background: white; border-top: none;">--}}
+{{--                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfc2xVWFjrDyv8IieUsNDCcdWfbyt6yroro2ckYEWvh5bXNfA/viewform?usp=sf_link" target="_blank" class="text-decoration-none">--}}
+{{--                                        <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 215px;">Sign up here to attend!</button>--}}
+{{--                                    </a>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
                             <div class="col-sm-2"></div>
                         </div>
                         <div class="mt-4">
