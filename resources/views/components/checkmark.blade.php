@@ -1,6 +1,6 @@
 <div class="row">
     <div class="col-11">
-        <strong>Building Block {{ $number }}</strong>
+        <strong>Milestone {{ $number }}</strong>
         {{ $item }}
     </div>
 </div>
