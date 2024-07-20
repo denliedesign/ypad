@@ -91,7 +91,8 @@
                     </div>
                     <small>
                         <br>
-                        ​​*Terms and Conditions – By purchasing a membership you are committing to a 12-month membership term (“Initial Term”). You may not cancel your membership during the Initial Term. At the end of the 12-month Initial Term this membership will automatically be renewed and continue on a month-by-month basis unless terminated by us or in writing by you by sending an email to info@ypadnow.com in accordance with its terms. You consent to our charging your payment method on a recurring basis without requiring your prior approval for each recurring charge. See full terms and conditions
+                        ​​*Terms and Conditions – By purchasing a membership you are committing to a 12-month membership term (“Initial Term”). You may not cancel your membership during the Initial Term. At the end of the 12-month Initial Term this membership will automatically be renewed and continue on a month-by-month basis unless terminated by us or in writing by you by sending an email to info@ypadnow.com in accordance with its terms. You consent to our charging your payment method on a recurring basis without requiring your prior approval for each recurring charge.
+                        <a href="/images/terms-and-conditions-ypad.pdf" target="_blank">See full terms and conditions</a>
                     </small>
                 </div>
                 <div>
@@ -123,7 +124,8 @@
                     </div>
                     <small>
                         <br>
-                        ​​*Terms and Conditions – By purchasing a membership you are committing to a 12-month membership term (“Initial Term”). You may not cancel your membership during the Initial Term. At the end of the 12-month Initial Term this membership will automatically be renewed and continue on a month-by-month basis unless terminated by us or in writing by you by sending an email to info@ypadnow.com in accordance with its terms. You consent to our charging your payment method on a recurring basis without requiring your prior approval for each recurring charge. See full terms and conditions
+                        ​​*Terms and Conditions – By purchasing a membership you are committing to a 12-month membership term (“Initial Term”). You may not cancel your membership during the Initial Term. At the end of the 12-month Initial Term this membership will automatically be renewed and continue on a month-by-month basis unless terminated by us or in writing by you by sending an email to info@ypadnow.com in accordance with its terms. You consent to our charging your payment method on a recurring basis without requiring your prior approval for each recurring charge.
+                        <a href="/images/terms-and-conditions-ypad.pdf" target="_blank">See full terms and conditions</a>
                     </small>
                 </div>
             </div>
