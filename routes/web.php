@@ -47,6 +47,12 @@ Route::get('/temp/free-resources', function () { return view('/temp/free-resourc
 Route::get('/temp/education', function () { return view('/temp/education'); });
 Route::get('/temp/support', function () { return view('/temp/support'); });
 
+Route::get('/new/index', function () { return view('/new/index'); });
+Route::get('/new/about', function () { return view('/new/about'); });
+Route::get('/new/free-resources', function () { return view('/new/free-resources'); });
+Route::get('/new/membership-and-certification', function () { return view('/new/membership-and-certification'); });
+Route::get('/new/support', function () { return view('/new/support'); });
+
 Route::get('/certification', function () {
 //    return view('/certification');
     return view('/education-and-certification');
