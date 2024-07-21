@@ -38,7 +38,7 @@
 <div class="bg-snow">
     @include('/new/_nav')
     @yield('content')
-    @include('_footer')
+    @include('/new/_footer')
 </div>
 
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>

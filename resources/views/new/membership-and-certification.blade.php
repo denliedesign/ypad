@@ -84,7 +84,7 @@
                             <li>Safety preparedness for offsite events</li>
                             <li>Plus! Specific materials for administrators</li>
                         </ul>
-                        <a href="https://yv686.infusionsoft.com/app/orderForms/YPAD-Studio-Owner-Course" class="text-decoration-none rr-btn" target="_blank" style="width: 100%;">
+                        <a href="https://yv686.infusionsoft.com/app/orderForms/YPAD-Membership" class="text-decoration-none rr-btn" target="_blank" style="width: 100%;">
                             <button class="rounded fw-bold px-2 py-2 shadow text-center" style="background: #067997; font-size: 0.9em; color: white; height: auto; width: 315px;">Become a YPAD™ Studio Member</button>
                         </a>
                         <small class="text-muted ms-2">$99/mo</small>
@@ -117,7 +117,7 @@
                             <li>Age-appropriateness matters</li>
                             <li>Reaching all students</li>
                         </ul>
-                        <a href="https://yv686.infusionsoft.com/app/orderForms/The-YPAD-Educator-Course" class="text-decoration-none rr-btn" target="_blank" style="width: 100%;">
+                        <a href="https://yv686.infusionsoft.com/app/orderForms/Individual-Teacher-Certification" class="text-decoration-none rr-btn" target="_blank" style="width: 100%;">
                             <button class="rounded fw-bold px-2 py-2 shadow text-center" style="background: #067997; font-size: 0.9em; color: white; height: auto; width: 315px;">Become a YPAD™ Individual Member</button>
                         </a>
                         <small class="text-muted ms-2">$39/mo</small>

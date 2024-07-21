@@ -112,7 +112,7 @@
                 <img src="/images/about-block-2.jpeg" alt="teacher and dance students" class="img-fluid">
             </div>
             <div class="col-sm my-2 d-flex align-items-center justify-content-center">
-                <p class="m-0 p-0" style="font-size: 0.95em;">
+                <p class="m-0 p-0" style="font-size: 1.05em;">
                     In 2022, the industry's needs had evolved, prompting a call for stronger standards and a fresh direction for YPAD™. With the expertise of seasoned dance, health, and safety professionals, the existing business and original courses were retired, and a brand-new YPAD™ was established. Instructional designers, writers, and researchers were engaged to create a new company and identity: Youth Protection Association for Dance™. This new name signifies YPAD™ as a group organized with a common purpose—safeguarding dancers and empowering confident adults under the guidance of long time supporter Misty Lown.
                     <br><br>
                     By July 2024, an impressive 3.0 course featuring advanced technology was completed and the leadership baton was passed to Kelly Peterson, owner of the first YPAD-certified event, guiDANCE experience, along with longtime supporters and YPAD studio owners Mark and Jennifer Brast. This triple leadership approach ensures that the educational platform and certification will continue to thrive!
@@ -194,7 +194,7 @@
                     <br><br>
                     Richard Smith, adjunct faculty at East Carolina University
                     <br><br>
-                    Misty Lown, ME-PD and owner of YPAD™
+                    Misty Lown, ME-PD and owner of Misty’s Dance Unlimited
                     <br><br>
                     Vanessa Terrell, YPAD™ certified coach and owner of The Pointe School of Dance
                     <br><br>
