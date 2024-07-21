@@ -26,31 +26,31 @@
                 <li class="nav-item mx-3">
                     <a class="nav-link" href="/about">About</a>
                 </li>
-                <li class="nav-item mx-3">
-                    <a class="nav-link" href="/free-resources">Free Resources</a>
-                </li>
-                <li class="nav-item mx-3">
-                    <a class="nav-link" href="/education-and-certification">Education & Certification</a>
-                </li>
 {{--                <li class="nav-item mx-3">--}}
-{{--                    <a class="nav-link" href="/parents">Parents</a>--}}
+{{--                    <a class="nav-link" href="/free-resources">Free Resources</a>--}}
 {{--                </li>--}}
+                <li class="nav-item mx-3">
+                    <a class="nav-link" href="/membership-and-certification">Membership & Certification</a>
+                </li>
+                {{--                <li class="nav-item mx-3">--}}
+                {{--                    <a class="nav-link" href="/parents">Parents</a>--}}
+                {{--                </li>--}}
                 <li class="nav-item mx-3">
                     <a class="nav-link" href="/support">Support</a>
                 </li>
 
-{{--                <li class="nav-item mx-3">--}}
-{{--                    <a class="nav-link" href="/about">About</a>--}}
-{{--                </li>--}}
-{{--                <li class="nav-item mx-3">--}}
-{{--                    <a class="nav-link" href="/free-resources">Free Resources</a>--}}
-{{--                </li>--}}
-{{--                <li class="nav-item mx-3">--}}
-{{--                    <a class="nav-link" href="/education-and-certification">Education & Certification</a>--}}
-{{--                </li>--}}
-{{--                <li class="nav-item mx-3">--}}
-{{--                    <a class="nav-link" href="/support">Support</a>--}}
-{{--                </li>--}}
+                {{--                <li class="nav-item mx-3">--}}
+                {{--                    <a class="nav-link" href="/about">About</a>--}}
+                {{--                </li>--}}
+                {{--                <li class="nav-item mx-3">--}}
+                {{--                    <a class="nav-link" href="/free-resources">Free Resources</a>--}}
+                {{--                </li>--}}
+                {{--                <li class="nav-item mx-3">--}}
+                {{--                    <a class="nav-link" href="/education-and-certification">Education & Certification</a>--}}
+                {{--                </li>--}}
+                {{--                <li class="nav-item mx-3">--}}
+                {{--                    <a class="nav-link" href="/support">Support</a>--}}
+                {{--                </li>--}}
             </ul>
             <div class="d-flex justify-content-center">
                 <div>

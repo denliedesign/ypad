@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app-new')
 @section('content')
 
     <div class="banner-wrap" style="position: relative;">
@@ -11,7 +11,7 @@
                 YPAD™ Free Resources
             </h1>
             <p class="text-center" style="font-size: 1.5em;">
-                Safeguarding Students by Empowering Adults
+                Creating Safer Dance Communities
             </p>
         </div>
         {{--        <div class="custom-shape-divider-top-1683835088">--}}
@@ -73,135 +73,135 @@
                                 <x-resource target="" pdf="/resources" name="Costuming for Confidence" />
                                 <x-resource target="" pdf="/resources" name="Inclusive Hairstyles Importance" />
                                 <x-resource target="" pdf="/resources" name="Best Practices for Hiring" />
-{{--                                <div class="col-sm my-2">--}}
-{{--                                    <div class="d-flex justify-content-center mx-2">--}}
-{{--                                        --}}{{--                                <a href="/images/resource-costume.pdf" class="text-decoration-none">--}}
-{{--                                        <a href="/resources" class="text-decoration-none">--}}
-{{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Costuming for confidence</button>--}}
-{{--                                        </a>--}}
-{{--                                    </div>--}}
-{{--                                </div>--}}
-{{--                                <div class="col-sm my-2">--}}
-{{--                                    <div class="d-flex justify-content-center mx-2">--}}
-{{--                                        --}}{{--                                <a href="/images/resource-hair.pdf" class="text-decoration-none">--}}
-{{--                                        <a href="/resources" class="text-decoration-none">--}}
-{{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Inclusive hairstyles importance</button>--}}
-{{--                                        </a>--}}
-{{--                                    </div>--}}
-{{--                                </div>--}}
-{{--                                <div class="col-sm my-2">--}}
-{{--                                    <div class="d-flex justify-content-center mx-2">--}}
-{{--                                        <a href="/resources" class="text-decoration-none">--}}
-{{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Gross motor skill milestones</button>--}}
-{{--                                        </a>--}}
-{{--                                    </div>--}}
-{{--                                </div>--}}
-{{--                                <div class="col-sm my-2">--}}
-{{--                                    <div class="d-flex justify-content-center mx-2">--}}
-{{--                                        <a href="/resources" class="text-decoration-none">--}}
-{{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Building mental strength</button>--}}
-{{--                                        </a>--}}
-{{--                                    </div>--}}
-{{--                                </div>--}}
-{{--                                <div class="col-sm my-2">--}}
-{{--                                    <div class="d-flex justify-content-center mx-2">--}}
-{{--                                        <a href="/resources" class="text-decoration-none">--}}
-{{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Understanding age compression</button>--}}
-{{--                                        </a>--}}
-{{--                                    </div>--}}
-{{--                                </div>--}}
-{{--                                <div class="col-sm my-2">--}}
-{{--                                    <div class="d-flex justify-content-center mx-2">--}}
-{{--                                        <a href="/resources" class="text-decoration-none">--}}
-{{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">A body positive environment</button>--}}
-{{--                                        </a>--}}
-{{--                                    </div>--}}
-{{--                                </div>--}}
-{{--                                <div class="col-sm my-2">--}}
-{{--                                    <div class="d-flex justify-content-center mx-2">--}}
-{{--                                        <a href="/resources" class="text-decoration-none">--}}
-{{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Safe movement in dance</button>--}}
-{{--                                        </a>--}}
-{{--                                    </div>--}}
-{{--                                </div>--}}
-{{--                                <div class="col-sm my-2">--}}
-{{--                                    <div class="d-flex justify-content-center mx-2">--}}
-{{--                                        <a href="/resources" class="text-decoration-none">--}}
-{{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Best practices for hiring</button>--}}
-{{--                                        </a>--}}
-{{--                                    </div>--}}
-{{--                                </div>--}}
+                                {{--                                <div class="col-sm my-2">--}}
+                                {{--                                    <div class="d-flex justify-content-center mx-2">--}}
+                                {{--                                        --}}{{--                                <a href="/images/resource-costume.pdf" class="text-decoration-none">--}}
+                                {{--                                        <a href="/resources" class="text-decoration-none">--}}
+                                {{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Costuming for confidence</button>--}}
+                                {{--                                        </a>--}}
+                                {{--                                    </div>--}}
+                                {{--                                </div>--}}
+                                {{--                                <div class="col-sm my-2">--}}
+                                {{--                                    <div class="d-flex justify-content-center mx-2">--}}
+                                {{--                                        --}}{{--                                <a href="/images/resource-hair.pdf" class="text-decoration-none">--}}
+                                {{--                                        <a href="/resources" class="text-decoration-none">--}}
+                                {{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Inclusive hairstyles importance</button>--}}
+                                {{--                                        </a>--}}
+                                {{--                                    </div>--}}
+                                {{--                                </div>--}}
+                                {{--                                <div class="col-sm my-2">--}}
+                                {{--                                    <div class="d-flex justify-content-center mx-2">--}}
+                                {{--                                        <a href="/resources" class="text-decoration-none">--}}
+                                {{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Gross motor skill milestones</button>--}}
+                                {{--                                        </a>--}}
+                                {{--                                    </div>--}}
+                                {{--                                </div>--}}
+                                {{--                                <div class="col-sm my-2">--}}
+                                {{--                                    <div class="d-flex justify-content-center mx-2">--}}
+                                {{--                                        <a href="/resources" class="text-decoration-none">--}}
+                                {{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Building mental strength</button>--}}
+                                {{--                                        </a>--}}
+                                {{--                                    </div>--}}
+                                {{--                                </div>--}}
+                                {{--                                <div class="col-sm my-2">--}}
+                                {{--                                    <div class="d-flex justify-content-center mx-2">--}}
+                                {{--                                        <a href="/resources" class="text-decoration-none">--}}
+                                {{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Understanding age compression</button>--}}
+                                {{--                                        </a>--}}
+                                {{--                                    </div>--}}
+                                {{--                                </div>--}}
+                                {{--                                <div class="col-sm my-2">--}}
+                                {{--                                    <div class="d-flex justify-content-center mx-2">--}}
+                                {{--                                        <a href="/resources" class="text-decoration-none">--}}
+                                {{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">A body positive environment</button>--}}
+                                {{--                                        </a>--}}
+                                {{--                                    </div>--}}
+                                {{--                                </div>--}}
+                                {{--                                <div class="col-sm my-2">--}}
+                                {{--                                    <div class="d-flex justify-content-center mx-2">--}}
+                                {{--                                        <a href="/resources" class="text-decoration-none">--}}
+                                {{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Safe movement in dance</button>--}}
+                                {{--                                        </a>--}}
+                                {{--                                    </div>--}}
+                                {{--                                </div>--}}
+                                {{--                                <div class="col-sm my-2">--}}
+                                {{--                                    <div class="d-flex justify-content-center mx-2">--}}
+                                {{--                                        <a href="/resources" class="text-decoration-none">--}}
+                                {{--                                            <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Best practices for hiring</button>--}}
+                                {{--                                        </a>--}}
+                                {{--                                    </div>--}}
+                                {{--                                </div>--}}
                             </div>
                         </div>
                     </div>
                 </div>
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </div>--}}
+                {{--            </div>--}}
+                {{--        </div>--}}
+                {{--    </div>--}}
 
-{{--    <div class="container py-5">--}}
-{{--        <div>--}}
-            <h2 class="text-center pt-5">FREE RESOURCES FOR EVENTS</h2>
-{{--            <p class="text-center">--}}
-{{--                YPAD™ Free Resources are a great place to start your learning journey!--}}
-{{--            </p>--}}
-            <div>
-                <div class="row row-cols-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-3">
-                    <x-resource target="" pdf="/resources" name="Protecting Assistants at Events" />
-                    <x-resource target="" pdf="/resources" name="Professional Boundaries at Events" />
-                    <x-resource target="" pdf="/resources" name='"See Something, Say Something" at Events' />
-{{--                    <x-resource target="" pdf="" name="" />--}}
+                {{--    <div class="container py-5">--}}
+                {{--        <div>--}}
+                <h2 class="text-center pt-5">FREE RESOURCES FOR EVENTS</h2>
+                {{--            <p class="text-center">--}}
+                {{--                YPAD™ Free Resources are a great place to start your learning journey!--}}
+                {{--            </p>--}}
+                <div>
+                    <div class="row row-cols-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-3">
+                        <x-resource target="" pdf="/resources" name="Protecting Assistants at Events" />
+                        <x-resource target="" pdf="/resources" name="Professional Boundaries at Events" />
+                        <x-resource target="" pdf="/resources" name='"See Something, Say Something" at Events' />
+                        {{--                    <x-resource target="" pdf="" name="" />--}}
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-    </div>
 
-{{--    <div class="orange py-5">--}}
-{{--        @include('_divider-top')--}}
-{{--        @include('_divider-bottom')--}}
+    {{--    <div class="orange py-5">--}}
+    {{--        @include('_divider-top')--}}
+    {{--        @include('_divider-bottom')--}}
     <div class="container pt-5">
-{{--       <div class="py-5">--}}
-           <h2 class="text-uppercase text-center">Microlearnings</h2>
-           <p class="text-center">
-               YPAD™ Microlearnings are short and interactive courses devoted to singular topics and designed to help you learn without a long commitment! Whether you are a parent, studio owner, teacher, or other industry professional, you will find that YPAD™ Microlearnings provide eye-opening insights into key areas of dancer health and well-being.
-           </p>
-           <div class="d-flex justify-content-center row row-cols-2">
-               <div class="p-2">
-                   <a href="https://ypad.thinkific.com/courses/microlearning-healthy-social-media-boundaries" target="_blank" class="text-decoration-none">
-                       {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
-                       {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Healthy Body Image</button>--}}
-                       <img src="/images/ml-social-media.png" alt="healthy body image" class="img-fluid shadow rounded">
-                   </a>
-               </div>
-               <div class="p-2">
-                   <a href="https://ypad.thinkific.com/courses/promoting-a-healthy-body-image" target="_blank" class="text-decoration-none">
-                       {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
-                       {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Healthy Body Image</button>--}}
-                       <img src="/images/ml-body-image.png" alt="healthy body image" class="img-fluid shadow rounded">
-                   </a>
-               </div>
-               <div class="p-2">
-                   <a href="https://ypad.thinkific.com/courses/how-to-counteract-age-compression" target="_blank" class="text-decoration-none">
-                       {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
-                       {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Counteract Age Compression</button>--}}
-                       <img src="/images/ml-age-compress.png" alt="counteract age compression" class="img-fluid shadow rounded">
-                   </a>
-               </div>
-               <div class="p-2">
-                   <a href="https://ypad.thinkific.com/courses/microlearning-the-importance-of-safe-movement-in-dance" target="_blank" class="text-decoration-none">
-                       {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
-                       {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Safe Movement in Dance</button>--}}
-                       <img src="/images/ml-safe-movement.png" alt="safe movement in dance" class="img-fluid shadow rounded">
-                   </a>
-               </div>
-           </div>
-{{--           <p class="text-center mt-3">--}}
-{{--               <em>Check back often for new releases!</em>--}}
-{{--           </p>--}}
-       </div>
-{{--       </div>--}}
-{{--    </div>--}}
+        {{--       <div class="py-5">--}}
+        <h2 class="text-uppercase text-center">Microlearnings</h2>
+        <p class="text-center">
+            YPAD™ Microlearnings are short and interactive courses devoted to singular topics and designed to help you learn without a long commitment! Whether you are a parent, studio owner, teacher, or other industry professional, you will find that YPAD™ Microlearnings provide eye-opening insights into key areas of dancer health and well-being.
+        </p>
+        <div class="d-flex justify-content-center row row-cols-2">
+            <div class="p-2">
+                <a href="https://ypad.thinkific.com/courses/microlearning-healthy-social-media-boundaries" target="_blank" class="text-decoration-none">
+                    {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
+                    {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Healthy Body Image</button>--}}
+                    <img src="/images/ml-social-media.png" alt="healthy body image" class="img-fluid shadow rounded">
+                </a>
+            </div>
+            <div class="p-2">
+                <a href="https://ypad.thinkific.com/courses/promoting-a-healthy-body-image" target="_blank" class="text-decoration-none">
+                    {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
+                    {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Healthy Body Image</button>--}}
+                    <img src="/images/ml-body-image.png" alt="healthy body image" class="img-fluid shadow rounded">
+                </a>
+            </div>
+            <div class="p-2">
+                <a href="https://ypad.thinkific.com/courses/how-to-counteract-age-compression" target="_blank" class="text-decoration-none">
+                    {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
+                    {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Counteract Age Compression</button>--}}
+                    <img src="/images/ml-age-compress.png" alt="counteract age compression" class="img-fluid shadow rounded">
+                </a>
+            </div>
+            <div class="p-2">
+                <a href="https://ypad.thinkific.com/courses/microlearning-the-importance-of-safe-movement-in-dance" target="_blank" class="text-decoration-none">
+                    {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/2f9f0267-2ecb-4c27-af0b-da55c80e8002" target="_blank" class="text-decoration-none">--}}
+                    {{--                <button class="rounded fw-bold px-3 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px;">Safe Movement in Dance</button>--}}
+                    <img src="/images/ml-safe-movement.png" alt="safe movement in dance" class="img-fluid shadow rounded">
+                </a>
+            </div>
+        </div>
+        {{--           <p class="text-center mt-3">--}}
+        {{--               <em>Check back often for new releases!</em>--}}
+        {{--           </p>--}}
+    </div>
+    {{--       </div>--}}
+    {{--    </div>--}}
 
     <div class="orange py-5">
         @include('_divider-top')
@@ -246,28 +246,28 @@
                             {{--                        </div>--}}
                             {{--                    </div>--}}
                             <div class="col-sm-2"></div>
-{{--                            <div class="col-sm card rounded p-3 mx-3" style="box-shadow: 0 0 6px 2px #067997;">--}}
-{{--                                <div class="d-flex justify-content-center">--}}
-{{--                                    --}}{{--                            <img src="/images/spotlight-april.png" alt="spotlight graphic" class="img-fluid">--}}
-{{--                                </div>--}}
-{{--                                <div class="card-body text-dark">--}}
-{{--                                    <h3 class="text-center">--}}
-{{--                                        Encouraging Healthy Nutrition and Hydration for Dancers--}}
-{{--                                        How to Create a Body-Positive Environment at Home and at Dance--}}
-{{--                                        --}}{{--                                How to Support Your Dancer During Recital Season--}}
-{{--                                    </h3>--}}
-{{--                                    <p class="text-center text-dark">--}}
-{{--                                        Wednesday, June 26th, 2024 from 12:00-12:30PM CT--}}
-{{--                                        Wednesday, May 29th, 2024 from 12:00-12:30PM CT--}}
-{{--                                        --}}{{--                                Wednesday, April 24, 2024 from 12:00-12:30PM CT--}}
-{{--                                    </p>--}}
-{{--                                </div>--}}
-{{--                                <div class="d-flex justify-content-center card-footer" style="background: white; border-top: none;">--}}
-{{--                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfc2xVWFjrDyv8IieUsNDCcdWfbyt6yroro2ckYEWvh5bXNfA/viewform?usp=sf_link" target="_blank" class="text-decoration-none">--}}
-{{--                                        <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 215px;">Sign up here to attend!</button>--}}
-{{--                                    </a>--}}
-{{--                                </div>--}}
-{{--                            </div>--}}
+                            {{--                            <div class="col-sm card rounded p-3 mx-3" style="box-shadow: 0 0 6px 2px #067997;">--}}
+                            {{--                                <div class="d-flex justify-content-center">--}}
+                            {{--                                    --}}{{--                            <img src="/images/spotlight-april.png" alt="spotlight graphic" class="img-fluid">--}}
+                            {{--                                </div>--}}
+                            {{--                                <div class="card-body text-dark">--}}
+                            {{--                                    <h3 class="text-center">--}}
+                            {{--                                        Encouraging Healthy Nutrition and Hydration for Dancers--}}
+                            {{--                                        How to Create a Body-Positive Environment at Home and at Dance--}}
+                            {{--                                        --}}{{--                                How to Support Your Dancer During Recital Season--}}
+                            {{--                                    </h3>--}}
+                            {{--                                    <p class="text-center text-dark">--}}
+                            {{--                                        Wednesday, June 26th, 2024 from 12:00-12:30PM CT--}}
+                            {{--                                        Wednesday, May 29th, 2024 from 12:00-12:30PM CT--}}
+                            {{--                                        --}}{{--                                Wednesday, April 24, 2024 from 12:00-12:30PM CT--}}
+                            {{--                                    </p>--}}
+                            {{--                                </div>--}}
+                            {{--                                <div class="d-flex justify-content-center card-footer" style="background: white; border-top: none;">--}}
+                            {{--                                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfc2xVWFjrDyv8IieUsNDCcdWfbyt6yroro2ckYEWvh5bXNfA/viewform?usp=sf_link" target="_blank" class="text-decoration-none">--}}
+                            {{--                                        <button class="rounded fw-bold px-3 py-2 shadow text-center" style="background: #067997; color: white; width: 215px;">Sign up here to attend!</button>--}}
+                            {{--                                    </a>--}}
+                            {{--                                </div>--}}
+                            {{--                            </div>--}}
                             <div class="col-sm-2"></div>
                         </div>
                         <div class="mt-4">
@@ -285,36 +285,36 @@
         </div>
     </div>
 
-{{--    <div class="container py-5">--}}
-{{--        <div class="d-flex justify-content-center align-items-center">--}}
-{{--            <div>--}}
-{{--                <h2 class="text-uppercase text-center">YPAD™ Learner Course</h2>--}}
-{{--                <p class="text-center">--}}
-{{--                    If you are interested in learning deeper content about student health, safety, and wellness—but you’re not interested in certification—then this YPAD™ Learner Course is for you!--}}
-{{--                    <br><br>--}}
-{{--                    For just $199, gain access to eight modules and 24 lessons about best practices in hiring, staff training, facility safety, abuse protection, injury reduction, body image, mental strength, communications, artistic integrity, and more.--}}
-{{--                    <br><br>--}}
-{{--                    There are no document submissions or knowledge checks for this course. As such, this course does not lead to certification. If at any time during this course you would like to switch to certification, your purchase of this course can transfer. Email <a href="mailto:info@ypadnow.com?subject=Learner%20Course%20Assistance">info@ypadnow.com</a> for assistance.--}}
-{{--                </p>--}}
-{{--                <div class="d-flex justify-content-center">--}}
-{{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/5dd6fad3-fea7-4af6-9145-50bdb1c02bf7" target="_blank" class="text-decoration-none">--}}
-{{--                        <button class="rounded fw-bold px-2 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px; font-size: 0.95em;">Purchase the YPAD™ Learner course</button>--}}
-{{--                    </a>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </div>--}}
+    {{--    <div class="container py-5">--}}
+    {{--        <div class="d-flex justify-content-center align-items-center">--}}
+    {{--            <div>--}}
+    {{--                <h2 class="text-uppercase text-center">YPAD™ Learner Course</h2>--}}
+    {{--                <p class="text-center">--}}
+    {{--                    If you are interested in learning deeper content about student health, safety, and wellness—but you’re not interested in certification—then this YPAD™ Learner Course is for you!--}}
+    {{--                    <br><br>--}}
+    {{--                    For just $199, gain access to eight modules and 24 lessons about best practices in hiring, staff training, facility safety, abuse protection, injury reduction, body image, mental strength, communications, artistic integrity, and more.--}}
+    {{--                    <br><br>--}}
+    {{--                    There are no document submissions or knowledge checks for this course. As such, this course does not lead to certification. If at any time during this course you would like to switch to certification, your purchase of this course can transfer. Email <a href="mailto:info@ypadnow.com?subject=Learner%20Course%20Assistance">info@ypadnow.com</a> for assistance.--}}
+    {{--                </p>--}}
+    {{--                <div class="d-flex justify-content-center">--}}
+    {{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/5dd6fad3-fea7-4af6-9145-50bdb1c02bf7" target="_blank" class="text-decoration-none">--}}
+    {{--                        <button class="rounded fw-bold px-2 mx-3 py-2 shadow text-center" style="background: #067997; color: white; width: 289px; font-size: 0.95em;">Purchase the YPAD™ Learner course</button>--}}
+    {{--                    </a>--}}
+    {{--                </div>--}}
+    {{--            </div>--}}
+    {{--        </div>--}}
+    {{--    </div>--}}
 
-{{--    <div class="orange py-5">--}}
-{{--        @include('_divider-top')--}}
-{{--        @include('_divider-bottom')--}}
-{{--        <x-testimonial--}}
-{{--            image="edu-tiffany-2.jpg"--}}
-{{--            quote="As a studio owner and former professional dancer, I believe it's essential that everyone in the dance industry—from parents to professionals—have access to education and information to help support healthy dance experiences for kids. YPAD™ makes education accessible to everyone."--}}
-{{--            person="Tiffany Prout-Leitao"--}}
-{{--            place="Center Stage Dance Academy, MA"--}}
-{{--        />--}}
-{{--    </div>--}}
+    {{--    <div class="orange py-5">--}}
+    {{--        @include('_divider-top')--}}
+    {{--        @include('_divider-bottom')--}}
+    {{--        <x-testimonial--}}
+    {{--            image="edu-tiffany-2.jpg"--}}
+    {{--            quote="As a studio owner and former professional dancer, I believe it's essential that everyone in the dance industry—from parents to professionals—have access to education and information to help support healthy dance experiences for kids. YPAD™ makes education accessible to everyone."--}}
+    {{--            person="Tiffany Prout-Leitao"--}}
+    {{--            place="Center Stage Dance Academy, MA"--}}
+    {{--        />--}}
+    {{--    </div>--}}
 
     <div class="py-5 container">
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">

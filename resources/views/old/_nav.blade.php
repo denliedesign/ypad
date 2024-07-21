@@ -9,7 +9,7 @@
 {{--</div>--}}
 
 <div class="d-lg-none d-flex justify-content-center pt-3">
-    <a class="navbar-brand" href="/new/index"><img src="/images/ypad-logo.png" alt="ypad-logo" style="max-width: 271px;"></a>
+    <a class="navbar-brand" href="/"><img src="/images/ypad-logo.png" alt="ypad-logo" style="max-width: 271px;"></a>
 </div>
 <nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
@@ -19,38 +19,38 @@
         <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
             <ul class="navbar-nav mb-2 mb-lg-0 align-items-center text-uppercase font-pop">
                 <li class="d-none d-lg-block nav-item mx-3">
-                    <a class="nav-link" href="/new/index">
+                    <a class="nav-link" href="/">
                         <img src="/images/ypad-logo.png" alt="" style="max-width: 271px;">
                     </a>
                 </li>
                 <li class="nav-item mx-3">
-                    <a class="nav-link" href="/new/about">About</a>
+                    <a class="nav-link" href="/about">About</a>
+                </li>
+                <li class="nav-item mx-3">
+                    <a class="nav-link" href="/free-resources">Free Resources</a>
+                </li>
+                <li class="nav-item mx-3">
+                    <a class="nav-link" href="/education-and-certification">Education & Certification</a>
                 </li>
 {{--                <li class="nav-item mx-3">--}}
-{{--                    <a class="nav-link" href="/new/free-resources">Free Resources</a>--}}
+{{--                    <a class="nav-link" href="/parents">Parents</a>--}}
 {{--                </li>--}}
                 <li class="nav-item mx-3">
-                    <a class="nav-link" href="/new/membership-and-certification">Membership & Certification</a>
-                </li>
-                {{--                <li class="nav-item mx-3">--}}
-                {{--                    <a class="nav-link" href="/parents">Parents</a>--}}
-                {{--                </li>--}}
-                <li class="nav-item mx-3">
-                    <a class="nav-link" href="/new/support">Support</a>
+                    <a class="nav-link" href="/support">Support</a>
                 </li>
 
-                {{--                <li class="nav-item mx-3">--}}
-                {{--                    <a class="nav-link" href="/about">About</a>--}}
-                {{--                </li>--}}
-                {{--                <li class="nav-item mx-3">--}}
-                {{--                    <a class="nav-link" href="/free-resources">Free Resources</a>--}}
-                {{--                </li>--}}
-                {{--                <li class="nav-item mx-3">--}}
-                {{--                    <a class="nav-link" href="/education-and-certification">Education & Certification</a>--}}
-                {{--                </li>--}}
-                {{--                <li class="nav-item mx-3">--}}
-                {{--                    <a class="nav-link" href="/support">Support</a>--}}
-                {{--                </li>--}}
+{{--                <li class="nav-item mx-3">--}}
+{{--                    <a class="nav-link" href="/about">About</a>--}}
+{{--                </li>--}}
+{{--                <li class="nav-item mx-3">--}}
+{{--                    <a class="nav-link" href="/free-resources">Free Resources</a>--}}
+{{--                </li>--}}
+{{--                <li class="nav-item mx-3">--}}
+{{--                    <a class="nav-link" href="/education-and-certification">Education & Certification</a>--}}
+{{--                </li>--}}
+{{--                <li class="nav-item mx-3">--}}
+{{--                    <a class="nav-link" href="/support">Support</a>--}}
+{{--                </li>--}}
             </ul>
             <div class="d-flex justify-content-center">
                 <div>

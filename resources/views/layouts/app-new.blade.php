@@ -4,11 +4,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:title" content="Youth Protection Association For Dance">
-    <meta property="og:description" content="Safeguarding Students By Empowering Adults">
+    <meta property="og:description" content="Creating Safer Dance Communities">
     <meta property="og:image" content="https://ypadnow.com/images/ypad-logo-social.png">
     <meta property="og:url" content="https://ypadnow.com">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="description" content="Helping Dance Industry Leaders Create Safeguarding Capacity-Building">
+    <meta name="description" content="Creating Safer Dance Communities">
 
     <title>@yield('title', 'Youth Protection Association For Dance')</title>
 
@@ -36,9 +36,9 @@
 <body>
 
 <div class="bg-snow">
-    @include('/new/_nav')
+    @include('_nav')
     @yield('content')
-    @include('/new/_footer')
+    @include('_footer')
 </div>
 
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>

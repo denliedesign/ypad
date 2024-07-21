@@ -1,4 +1,4 @@
-@extends('layouts.app-new')
+@extends('layouts.app')
 @section('content')
 
     <div class="banner-wrap" style="position: relative;">
@@ -11,7 +11,7 @@
                 YPAD™ Support
             </h1>
             <p class="text-center" style="font-size: 1.5em;">
-                Creating Safer Dance Communities
+                Safeguarding Students by Empowering Adults
             </p>
         </div>
         {{--        <div class="custom-shape-divider-top-1683835088">--}}
@@ -238,11 +238,11 @@
                     </li>
                 </ol>
                 <div class="d-flex justify-content-center">
-                    <a style="text-decoration: none;" href="https://docs.google.com/forms/d/e/1FAIpQLSeejHz5Q2MSGcAnqbgWtxS6RvPiCqOR9D-H_OtsOHQiuFg4Tg/viewform?usp=share_link" target="_blank">
-                        <div class="fw-bold px-4 py-2 shadow text-center btn-hover" style="background: #067997; color: white;">
-                            SHARE A CONCERN
-                        </div>
-                    </a>
+                        <a style="text-decoration: none;" href="https://docs.google.com/forms/d/e/1FAIpQLSeejHz5Q2MSGcAnqbgWtxS6RvPiCqOR9D-H_OtsOHQiuFg4Tg/viewform?usp=share_link" target="_blank">
+                            <div class="fw-bold px-4 py-2 shadow text-center btn-hover" style="background: #067997; color: white;">
+                                SHARE A CONCERN
+                            </div>
+                        </a>
                 </div>
             </div>
         </div>

@@ -1,25 +1,25 @@
-@extends('layouts.app-new')
+@extends('layouts.app')
 @section('content')
 
-    {{--    <div style="background: #767784;" class="py-3 text-white d-flex justify-content-center align-items-center">--}}
-    {{--        <div class="container">--}}
-    {{--            <p class="my-0 py-0 text-center">--}}
-    {{--                <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none text-white">--}}
-    {{--                    Now accepting studio certification renewals and new studio certification applications!--}}
-    {{--                    Studio certification applications for the 2023-24 season close December 31, 2023. New applications will open for 2024-25 on July 1, 2024.--}}
-    {{--                    New applications for 2024-25 certification open July 1, 2024!--}}
-    {{--                </a>--}}
-    {{--            </p>--}}
-    {{--        </div>--}}
-    {{--    </div>--}}
+{{--    <div style="background: #767784;" class="py-3 text-white d-flex justify-content-center align-items-center">--}}
+{{--        <div class="container">--}}
+{{--            <p class="my-0 py-0 text-center">--}}
+{{--                <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none text-white">--}}
+{{--                    Now accepting studio certification renewals and new studio certification applications!--}}
+{{--                    Studio certification applications for the 2023-24 season close December 31, 2023. New applications will open for 2024-25 on July 1, 2024.--}}
+{{--                    New applications for 2024-25 certification open July 1, 2024!--}}
+{{--                </a>--}}
+{{--            </p>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <div id="header">
         <div class="gradient-fade"></div>
         <div id="header-heading">
-            <h1 class="text-center px-5 d-none d-md-block">Creating Safer Dance Communities</h1>
-            <h2 class="text-center px-5 d-md-none">Creating Safer Dance Communities</h2>
+            <h1 class="text-center px-5 d-none d-md-block">Safeguarding Students by Empowering Adults</h1>
+            <h2 class="text-center px-5 d-md-none">Safeguarding Students by Empowering Adults</h2>
             <div class="d-flex justify-content-center">
-                {{--                <div class="fw-bold px-4 py-2 shadow" style="background: #EF9A60; color: white;">Try A Free Course</div>--}}
+{{--                <div class="fw-bold px-4 py-2 shadow" style="background: #EF9A60; color: white;">Try A Free Course</div>--}}
             </div>
         </div>
     </div>
@@ -32,8 +32,12 @@
                 <div class="col-sm">
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
-                            <h3>The mission of YPAD™ is to bring awareness to and provide resources for one essential priority: <strong>the safety and health of dance students.</strong> We believe dancer well-being is the cornerstone of the industry.</h3>
-
+                            <h2>
+                                YPAD™'s position as an educational association is intended to help leaders create safeguarding capacity-building. According to the U.N., capacity-building is defined as developing and strengthening the skills, instincts, abilities, processes, and resources organizations need to thrive in a fast-changing world.
+                            </h2>
+                            <p>
+                                In other words, we want to help you make room for learning and growth when it comes to developing a safer and healthier dance environment that protects kids from harm and empowers them with confidence.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -45,11 +49,11 @@
         <div class="container">
             <h2 class="text-uppercase text-center">Personal Growth & Professional Development Opportunities for:</h2>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-                {{--                <div class="col my-3 py-3" style="background: #067997;">--}}
-                {{--                    <div class="d-flex justify-content-center align-items-center text-center text-white mx-5" style="height: 100%;">--}}
-                {{--                        <h2 class="text-uppercase">Personal Growth & Professional Development Opportunities for:</h2>--}}
-                {{--                    </div>--}}
-                {{--                </div>--}}
+{{--                <div class="col my-3 py-3" style="background: #067997;">--}}
+{{--                    <div class="d-flex justify-content-center align-items-center text-center text-white mx-5" style="height: 100%;">--}}
+{{--                        <h2 class="text-uppercase">Personal Growth & Professional Development Opportunities for:</h2>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
                 <div class="col my-3">
                     <div style="position: relative; border: 6px solid #067997;">
                         <img src="/images/ypad-parents.jpg" alt="" class="img-fluid" style="object-fit: cover; height: 100%; width: 100%;">
@@ -90,12 +94,7 @@
                 <div class="col-sm">
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
-                            <h2>
-                                YPAD™'s position as an educational association is intended to help leaders to build greater capacity for safeguarding. According to the U.N., capacity-building is defined as developing and strengthening the skills, instincts, abilities, processes, and resources organizations need to thrive in a fast-changing world.
-                            </h2>
-                            <p>
-                                In other words, we want to help you make room for learning and growth when it comes to developing a safer and healthier dance environment that protects kids from harm and empowers them with confidence.
-                            </p>
+                            <h3>The mission of YPAD™ is to bring awareness to and provide resources for one essential priority: <strong>the safety and health of dance students.</strong> We believe dancer well-being is the cornerstone of the industry.</h3>
                         </div>
                     </div>
                 </div>
@@ -162,8 +161,8 @@
                         </div>
                         <p class="fw-bold text-center py-0 my-0">WHAT YPAD™ IS</p>
                         <p class="text-center py-0 my-0">
-                            {{--                            YPAD™ exists to help create optimal environments in dance for all participants by bringing the foundations of health and safety topics to the dance community. Our extensive resources support implementing best practices in dance education. YPAD™ is supported by educators, subject matter experts, professionals, and collaborators who share their expertise through our education and certification models, as well as ongoing coaching to benefit the dance community. Those who choose to become certified agree to self-regulation and to follow YPAD’s 5-tier accountability model.                      --}}
-                            YPAD™ exists to help create optimal environments in dance for all participants by bringing the foundations of health and safety topics to the dance community. Our extensive resources, including certification, were developed by educators and subject matter experts to support implementing best practices in all areas of dance education.
+{{--                            YPAD™ exists to help create optimal environments in dance for all participants by bringing the foundations of health and safety topics to the dance community. Our extensive resources support implementing best practices in dance education. YPAD™ is supported by educators, subject matter experts, professionals, and collaborators who share their expertise through our education and certification models, as well as ongoing coaching to benefit the dance community. Those who choose to become certified agree to self-regulation and to follow YPAD’s 5-tier accountability model.                      --}}
+                            YPAD™ exists to help create optimal environments in dance for all participants by bringing the foundations of health and safety topics to the dance community. Our extensive resources, developed by educators and subject matter experts, support implementing best practices in all areas of dance education.
                         </p>
                     </div>
                 </div>
@@ -203,13 +202,13 @@
                     <div class="d-flex align-items-center" style="height: 100%;">
                         <div class="text-white text-center">
                             <h2>
-                                {{--                                Just like a dancer gets stronger over time, your safety practices can get better over time as well. --}}
+{{--                                Just like a dancer gets stronger over time, your safety practices can get better over time as well. --}}
                                 Awareness in education can help raise the standard of dancer well-being, and YPAD™ is here to help you pursue it.
-                                {{--                                YPAD™'s position as an educational association is intended to help leaders create safeguarding capacity-building. According to the U.N., capacity-building is defined as developing and strengthening the skills, instincts, abilities, processes, and resources organizations need to thrive in a fast-changing world.--}}
+{{--                                YPAD™'s position as an educational association is intended to help leaders create safeguarding capacity-building. According to the U.N., capacity-building is defined as developing and strengthening the skills, instincts, abilities, processes, and resources organizations need to thrive in a fast-changing world.--}}
                             </h2>
-                            {{--                            <p>--}}
-                            {{--                                In other words, we want to help you make room for learning and growth when it comes to developing a safer and healthier dance environment that protects kids from harm and empowers them with confidence.--}}
-                            {{--                            </p>--}}
+{{--                            <p>--}}
+{{--                                In other words, we want to help you make room for learning and growth when it comes to developing a safer and healthier dance environment that protects kids from harm and empowers them with confidence.--}}
+{{--                            </p>--}}
                         </div>
                     </div>
                 </div>
@@ -221,15 +220,22 @@
         <div class="row mb-5" style="height: 100%;">
             <div class="col-sm d-flex align-items-center">
                 <div>
-                    <div class="text-center"><ion-icon name="gift" style="font-size: 4.75em;"></ion-icon></div>
-
-                    <h2 class="text-uppercase fw-bold text-center" style="font-size: 3em;">Become a Member</h2>
-
-                    <p class="text-center" style="font-size: 1.5em;">
-                      Every Studio Membership includes a bundle of courses including the Studio Owner Certification Course, and unlimited Teacher and Admin Courses!
-                        <br><br>
-                        Become an Individual Member and gain access to our Educator Course and a variety of resources.
+                    <h2 class="text-uppercase">Choose Your Path</h2>
+                    <p class="fw-bold">
+{{--                        EDUCATION or CERTIFICATION--}}
                     </p>
+                    <p>
+                        YPAD™ offers learning opportunities for educators, studio owners, parents, and event leaders. Our core resource options include online courses for educators and studio owners, live and recorded webinars, Microlearnings, and downloadable PDFs.
+                        <br><br>
+                        Additionally, studio owners and event leaders have the option to go the extra mile and seek a YPAD™ Certified Studio or YPAD™ Certified Event designation, agreeing to a high measure of self-education and self-regulation in addition to following YPAD™’s 5-tier accountability model.
+                        <br><br>
+                        For more information check out our <a href="/free-resources">free resources</a> page and our <a href="/education-and-certification">education and certification</a> page.
+                    </p>
+{{--                    <p>--}}
+{{--                        YPAD™ Education options include resources, webinars, courses, and microlearnings. They are open to the entire dance community! Education opportunities do not require additional steps, such as knowledge checks, third-party training, or documentation, nor do they lead to certification.--}}
+{{--                        <br><br>--}}
+{{--                        YPAD™ Certification options include coursework for Individuals, Studios, and Events. Certification begins with an application process. Participants complete additional steps alongside their coursework, including background checks, CPR/first aid certification, Darkness to Light’s Stewards of Children® training, a live YPAD™ seminar on artistic integrity, a safeguarding pledge, and a commitment to YPAD™’s 5-tier accountability model. Additional requirements apply to studio owners and event owners, such as proof of insurance, emergency action planning, and certification in Youth Mental Health First Aid.--}}
+{{--                    </p>--}}
                 </div>
             </div>
             <div class="col-sm">
@@ -240,50 +246,50 @@
                 <p class="py-0 my-0 pe-5 me-4"><em>"I started with YPAD&trade; education, and now work with the association as a coach to help others to bring best practices to their classrooms."</em></p>
             </div>
         </div>
-        {{--        <h2 class="text-uppercase text-center mt-5">READY TO BECOME A YPAD&trade; CERTIFIED STUDIO?</h2>--}}
+{{--        <h2 class="text-uppercase text-center mt-5">READY TO BECOME A YPAD&trade; CERTIFIED STUDIO?</h2>--}}
         <p class="text-center">
-            {{--            Now accepting studio certification renewals and new studio certification applications!--}}
-            {{--            <br>YPAD&trade; Certified Individual courses will be open in late Summer 2023.--}}
-            {{--            Now accepting studio certification renewals and new studio certification applications!--}}
-            {{--            <br>--}}
-            {{--            Hurry! Applications for 2023-24 close December 31, 2023 and --}}
-            {{--            New applications for 2024-25 certification open July 1, 2024!--}}
+{{--            Now accepting studio certification renewals and new studio certification applications!--}}
+{{--            <br>YPAD&trade; Certified Individual courses will be open in late Summer 2023.--}}
+{{--            Now accepting studio certification renewals and new studio certification applications!--}}
+{{--            <br>--}}
+{{--            Hurry! Applications for 2023-24 close December 31, 2023 and --}}
+{{--            New applications for 2024-25 certification open July 1, 2024!--}}
         </p>
-        {{--        <div class="d-flex justify-content-center">--}}
-        {{--            <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none" target="_blank">--}}
-        {{--                <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Apply Today</div>--}}
-        {{--            </a>--}}
-        {{--        </div>--}}
+{{--        <div class="d-flex justify-content-center">--}}
+{{--            <a href="https://2ejcn25fx1w.typeform.com/to/y6cHc1V7" class="text-decoration-none" target="_blank">--}}
+{{--                <div class="fw-bold px-4 py-2 shadow text-center" style="background: #EF9A60; color: white;">Apply Today</div>--}}
+{{--            </a>--}}
+{{--        </div>--}}
 
 
 
-        {{--        <div class="row">--}}
-        {{--            <div class="col-sm">--}}
-        {{--                <div>--}}
-        {{--                    <img src="/images/course-free-risk-management.png" alt="" class="img-fluid" style="height: 197px; width: 100%; object-fit: cover;">--}}
-        {{--                    <h4 class="mt-1">Free Youth Protection Association For Dance Course: Risk Management<br><br></h4>--}}
-        {{--                    <p class="my-0 py-0 fw-bold">Free</p>--}}
-        {{--                    <hr style="color: #067997;">--}}
-        {{--                </div>--}}
-        {{--            </div>--}}
-        {{--            <div class="col-sm">--}}
-        {{--                <div>--}}
-        {{--                    <img src="/images/course-free-resource-library.png" alt="" class="img-fluid" style="height: 197px; width: 100%; object-fit: cover;">--}}
-        {{--                    <h4 class="mt-1">Free Youth Protection Association For Dance Downloadable Resources<br><br></h4>--}}
-        {{--                    <p class="my-0 py-0 fw-bold">Free</p>--}}
-        {{--                    <hr style="color: #767784;">--}}
-        {{--                </div>--}}
-        {{--            </div>--}}
-        {{--            <div class="col-sm">--}}
-        {{--                <div>--}}
-        {{--                    <img src="/images/course-free-conflict-resolution.png" alt="" class="img-fluid" style="height: 197px; width: 100%; object-fit: cover;">--}}
-        {{--                    <h4 class="mt-1">Free Youth Protection Association For Dance Course: Bullying & Conflict Resolution--}}
-        {{--                        <br><br></h4>--}}
-        {{--                    <p class="my-0 py-0 fw-bold">Free</p>--}}
-        {{--                    <hr style="color: #EF9A60;">--}}
-        {{--                </div>--}}
-        {{--            </div>--}}
-        {{--        </div>--}}
+{{--        <div class="row">--}}
+{{--            <div class="col-sm">--}}
+{{--                <div>--}}
+{{--                    <img src="/images/course-free-risk-management.png" alt="" class="img-fluid" style="height: 197px; width: 100%; object-fit: cover;">--}}
+{{--                    <h4 class="mt-1">Free Youth Protection Association For Dance Course: Risk Management<br><br></h4>--}}
+{{--                    <p class="my-0 py-0 fw-bold">Free</p>--}}
+{{--                    <hr style="color: #067997;">--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="col-sm">--}}
+{{--                <div>--}}
+{{--                    <img src="/images/course-free-resource-library.png" alt="" class="img-fluid" style="height: 197px; width: 100%; object-fit: cover;">--}}
+{{--                    <h4 class="mt-1">Free Youth Protection Association For Dance Downloadable Resources<br><br></h4>--}}
+{{--                    <p class="my-0 py-0 fw-bold">Free</p>--}}
+{{--                    <hr style="color: #767784;">--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="col-sm">--}}
+{{--                <div>--}}
+{{--                    <img src="/images/course-free-conflict-resolution.png" alt="" class="img-fluid" style="height: 197px; width: 100%; object-fit: cover;">--}}
+{{--                    <h4 class="mt-1">Free Youth Protection Association For Dance Course: Bullying & Conflict Resolution--}}
+{{--                        <br><br></h4>--}}
+{{--                    <p class="my-0 py-0 fw-bold">Free</p>--}}
+{{--                    <hr style="color: #EF9A60;">--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
     </div>
 
     <div class="orange py-5">
@@ -297,7 +303,7 @@
                         <div class="text-white text-center">
                             <h3>
                                 The health and safety of dance students require a bold commitment to voluntarily raise your hand and say, "Yes, this is a priority."
-                                {{--                                No one else can do it for you, and no one will make you do it. It is a choice.--}}
+{{--                                No one else can do it for you, and no one will make you do it. It is a choice.--}}
                             </h3>
                         </div>
                     </div>
@@ -307,13 +313,13 @@
     </div>
 
     <div class="py-5 container" id="section-circle-testimonials">
-        {{--        <div class="mb-5">--}}
-        {{--            <div>--}}
-        {{--                <div class="d-flex justify-content-center"><img src="/images/guarantee.png" alt="guarantee badge" class="img-fluid"></div>--}}
-        {{--                <h2 class="text-uppercase text-center mb-0 pb-0">Our Guarantee</h2>--}}
-        {{--                <p class="text-center mt-0 pt-0">You'll love your experience or we'll work with you to make it right!</p>--}}
-        {{--            </div>--}}
-        {{--        </div>--}}
+{{--        <div class="mb-5">--}}
+{{--            <div>--}}
+{{--                <div class="d-flex justify-content-center"><img src="/images/guarantee.png" alt="guarantee badge" class="img-fluid"></div>--}}
+{{--                <h2 class="text-uppercase text-center mb-0 pb-0">Our Guarantee</h2>--}}
+{{--                <p class="text-center mt-0 pt-0">You'll love your experience or we'll work with you to make it right!</p>--}}
+{{--            </div>--}}
+{{--        </div>--}}
         <div class="row">
             <div class="col-sm">
                 <div class="row">
@@ -366,34 +372,34 @@
                 </div>
             </div>
             <div class="col-sm">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="d-flex justify-content-center">
-                            <div class="rounded-portrait">
-                                <img src="/images/cert-kelly.png" alt="headshot" class="img-fluid">
-                            </div>
-                        </div>
-                        <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Kelly Peterson</h4>
-                        <p class="text-center py-0 my-0"><strong>guiDANCE Experience</strong></p>
-                    </div>
-                    <div class="col-lg d-flex align-items-center">
-                        <p>
-                            “YPAD&trade; has brought so much value into the dance industry by helping kids stay safe, encouraging community, self-accountability, and awareness. YPAD&trade; gives anyone working in the dance industry clear priorities to develop this next generation of dancers. Through educational opportunities, YPAD&trade; is leading the way for the betterment of all involved in the dance industry. ”
-                        </p>
-                    </div>
-                </div>
-                {{--                <div class="row">--}}
-                {{--                    <div class="col-sm-4">--}}
-                {{--                        <img src="/images/darcy.png" alt="mark" class="img-fluid">--}}
-                {{--                        <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Darcy Fagerwold</h4>--}}
-                {{--                        <p class="text-center py-0 my-0"><strong>Studio Owner</strong></p>--}}
-                {{--                    </div>--}}
-                {{--                    <div class="col-sm d-flex align-items-center">--}}
-                {{--                        <p>--}}
-                {{--                            Youth Protection Association for Dance&trade; education is evidence to families that we are committed to keeping kids happy, healthy, and safe in dance. It is comforting to know that as challenging issues arise, YPAD is there to support and guide us to ensure we are doing what's right for our students. Thank you to Youth Protection Association for Dance&trade; for leading the dance industry in this vital endeavor!--}}
-                {{--                        </p>--}}
-                {{--                    </div>--}}
-                {{--                </div>--}}
+                                <div class="row">
+                                    <div class="col-lg-4">
+                                        <div class="d-flex justify-content-center">
+                                            <div class="rounded-portrait">
+                                                <img src="/images/cert-kelly.png" alt="headshot" class="img-fluid">
+                                            </div>
+                                        </div>
+                                        <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Kelly Peterson</h4>
+                                        <p class="text-center py-0 my-0"><strong>guiDANCE Experience</strong></p>
+                                    </div>
+                                    <div class="col-lg d-flex align-items-center">
+                                        <p>
+                                            “YPAD&trade; has brought so much value into the dance industry by helping kids stay safe, encouraging community, self-accountability, and awareness. YPAD&trade; gives anyone working in the dance industry clear priorities to develop this next generation of dancers. Through educational opportunities, YPAD&trade; is leading the way for the betterment of all involved in the dance industry. ”
+                                        </p>
+                                    </div>
+                                </div>
+{{--                <div class="row">--}}
+{{--                    <div class="col-sm-4">--}}
+{{--                        <img src="/images/darcy.png" alt="mark" class="img-fluid">--}}
+{{--                        <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Darcy Fagerwold</h4>--}}
+{{--                        <p class="text-center py-0 my-0"><strong>Studio Owner</strong></p>--}}
+{{--                    </div>--}}
+{{--                    <div class="col-sm d-flex align-items-center">--}}
+{{--                        <p>--}}
+{{--                            Youth Protection Association for Dance&trade; education is evidence to families that we are committed to keeping kids happy, healthy, and safe in dance. It is comforting to know that as challenging issues arise, YPAD is there to support and guide us to ensure we are doing what's right for our students. Thank you to Youth Protection Association for Dance&trade; for leading the dance industry in this vital endeavor!--}}
+{{--                        </p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
             </div>
         </div>
     </div>
@@ -422,16 +428,11 @@
                 <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-udma.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-iacdp-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-ndca.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                {{--                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>--}}
-
-            </div>
-            <div class="row row-cols-5">
-                <div class="col-sm-1"></div>
+{{--                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>--}}
                 <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/toronto-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/dance-teacher-web-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                {{--                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-unity.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%)"></div>--}}
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-unity.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%)"></div>
                 <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-ndeo.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm-1"></div>
             </div>
             <div class="mt-5 mb-4">
                 <p class="text-center">YPAD&trade; is a proud member of IADMS</p>
@@ -442,7 +443,7 @@
             <div>
                 <p class="text-center">
                     YPAD™ Certified Studio owner Misty Lown is a co-author of a pilot study on ballet safety published in the Journal of Dance Medicine & Science.
-                {{--                    <br>YPAD™ has two more research projects in progress for 2023-24: one with a researcher from Mayo Health and one with Trine University.                 </p>--}}
+{{--                    <br>YPAD™ has two more research projects in progress for 2023-24: one with a researcher from Mayo Health and one with Trine University.                 </p>--}}
 
                 <div class="d-flex justify-content-center mb-4">
                     <a href="https://journals.sagepub.com/doi/10.1177/1089313X231177174?fbclid=IwAR3knkW3dJIOxT7Ly76kkoBTZ-wo5RretqtTH-HNuWtxH7pI48LIRD0888Y" target="_blank" class="text-decoration-none text-white">
@@ -452,21 +453,21 @@
                     </a>
                 </div>
 
-                {{--                <div class="d-flex justify-content-center">--}}
-                {{--                    <form>--}}
-                {{--                        <div class="row g-3 align-items-center">--}}
-                {{--                            <div class="col-auto">--}}
-                {{--                                <label for="inputEmail" class="col-form-label">Sign up for our mailing list to stay informed</label>--}}
-                {{--                            </div>--}}
-                {{--                            <div class="col-auto">--}}
-                {{--                                <input type="email" id="inputEmail" placeholder="Email address" class="form-control" aria-describedby="emailHelpInline">--}}
-                {{--                            </div>--}}
-                {{--                            <div class="col-auto">--}}
-                {{--                                <button type="submit" class="btn btn-primary">Submit</button>--}}
-                {{--                            </div>--}}
-                {{--                        </div>--}}
-                {{--                    </form>--}}
-                {{--                </div>--}}
+{{--                <div class="d-flex justify-content-center">--}}
+{{--                    <form>--}}
+{{--                        <div class="row g-3 align-items-center">--}}
+{{--                            <div class="col-auto">--}}
+{{--                                <label for="inputEmail" class="col-form-label">Sign up for our mailing list to stay informed</label>--}}
+{{--                            </div>--}}
+{{--                            <div class="col-auto">--}}
+{{--                                <input type="email" id="inputEmail" placeholder="Email address" class="form-control" aria-describedby="emailHelpInline">--}}
+{{--                            </div>--}}
+{{--                            <div class="col-auto">--}}
+{{--                                <button type="submit" class="btn btn-primary">Submit</button>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </form>--}}
+{{--                </div>--}}
 
             </div>
         </div>
