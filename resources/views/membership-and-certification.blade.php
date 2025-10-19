@@ -400,18 +400,31 @@
 
 
     <div class="container py-5">
-        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-            <div class="col-sm my-3 py-5" style="background: #067997;">
-                <div class="d-flex justify-content-center align-items-center text-center text-white mx-5" style="height: 100%;">
-                    <h2 class="text-uppercase">
-                        YPAD™ is proud to support the following YPAD™ Certified Events through ongoing education and resources
-                    </h2>
+        <h2 class="text-center">YPAD™ is proud to support the following YPAD™ Certified Events through ongoing education and resources</h2>
+                    <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
+            {{--            <div class="col-sm my-3 py-5" style="background: #067997;">--}}
+{{--                <div class="d-flex justify-content-center align-items-center text-center text-white mx-5" style="height: 100%;">--}}
+{{--                    <h2 class="text-uppercase">--}}
+{{--                        YPAD™ is proud to support the following YPAD™ Certified Events through ongoing education and resources--}}
+{{--                    </h2>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+            <div class="col-sm my-3">
+                <div style="background: #067997; color: white;" class="pb-4">
+                    <div class="d-flex justify-content-center"><img src="/images/cert-joel.jpg" alt="" class="img-fluid" style="border: 6px solid #067997; height: 394px; width: 100%; object-fit: cover;"></div>
+                    <div class="px-3 pt-3" style="min-height: 250px;">
+                        <h4 class="text-center py-0 my-0"><strong>Joel Valdiviezo</strong> <br> Journey Dance Competition</h4>
+                        <p class="text-center pb-0 pt-2 my-0"><em>
+                                “YPAD™ has become an essential part of how we operate at Journey Dance Competition. Their training has given our team the knowledge, tools, and confidence to create safer, more mindful environments for dancers, parents, and staff. YPAD™'s focus on wellness, boundaries, and accountability aligns perfectly with our mission to celebrate every dancer while ensuring their health and safety remain top priorities. We’re proud to be part of a community that’s setting a higher standard for the dance industry.”
+                            </em>
+                        </p>
+                    </div>
                 </div>
             </div>
             <div class="col-sm my-3">
                 <div style="background: #767784; color: white;" class="pb-4">
                     <div class="d-flex justify-content-center"><img src="/images/cert-kelly.png" alt="" class="img-fluid" style="border: 6px solid #767784; height: 394px; width: 100%; object-fit: cover;"></div>
-                    <div class="px-3 pt-3">
+                    <div class="px-3 pt-3" style="min-height: 250px;">
                         <h4 class="text-center py-0 my-0"><strong>Kelly Peterson</strong> <br> The guiDANCE Experience</h4>
                         <p class="text-center pb-0 pt-2 my-0"><em>
                                 “YPAD™ has brought so much value into the dance industry by helping kids stay safe, encouraging community, self-accountability, and awareness. YPAD™ gives anyone working in the dance industry clear priorities to develop this next generation of dancers. Through educational opportunities, YPAD™ is leading the way for the betterment of all involved in the dance industry.”
@@ -443,6 +456,13 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="row row-cols-3 row-cols-sm-3 row-cols-md-5 row-cols-lg-5 align-items-center">
+            <div class="my-3"><a href="https://www.adrenalinedance.com/" target="_blank"><img class="event-logos" src="/images/event-logo-adrenaline.jpeg" style="width:100%; height: auto;" alt=""></a></div>
+            <div class="my-3"><a href="https://www.guidanceexperience.com/" target="_blank"><img class="event-logos" src="/images/event-logo-guidance.png" style="width:100%; height: auto;" alt=""></a></div>
+            <div class="my-3"><a href="https://journeycompetition.com/" target="_blank"><img class="event-logos" src="/images/event-logo-journey.png" style="width:100%; height: auto;" alt=""></a></div>
+            <div class="my-3"><a href="https://www.dancerevel.com/" target="_blank"><img class="event-logos" src="/images/event-logo-revel.png" style="width:100%; height: auto;" alt=""></a></div>
+            <div class="my-3"><a href="https://www.revivedanceconvention.com/" target="_blank"><img class="event-logos" src="/images/event-logo-revive-crop.jpeg" style="width:100%; height: auto;" alt=""></a></div>
         </div>
     </div>
 

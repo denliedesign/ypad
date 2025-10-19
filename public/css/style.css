@@ -193,6 +193,14 @@ button[disabled] {
     cursor: not-allowed;
 }
 
+.event-logos:hover {
+    transform: scale(0.9);
+}
+
+.event-logos {
+    transition: all 0.4s ease;
+}
+
 /* DIVIDER WELCOME TOP */
 
 .custom-shape-divider-top-1683835088 {
