@@ -458,11 +458,11 @@
             </div>
         </div>
         <div class="row row-cols-3 row-cols-sm-3 row-cols-md-5 row-cols-lg-5 align-items-center">
-            <div class="my-3"><a href="https://www.adrenalinedance.com/" target="_blank"><img class="event-logos" src="/images/event-logo-adrenaline.jpeg" style="width:100%; height: auto;" alt=""></a></div>
-            <div class="my-3"><a href="https://www.guidanceexperience.com/" target="_blank"><img class="event-logos" src="/images/event-logo-guidance.png" style="width:100%; height: auto;" alt=""></a></div>
-            <div class="my-3"><a href="https://journeycompetition.com/" target="_blank"><img class="event-logos" src="/images/event-logo-journey.png" style="width:100%; height: auto;" alt=""></a></div>
-            <div class="my-3"><a href="https://www.dancerevel.com/" target="_blank"><img class="event-logos" src="/images/event-logo-revel.png" style="width:100%; height: auto;" alt=""></a></div>
-            <div class="my-3"><a href="https://www.revivedanceconvention.com/" target="_blank"><img class="event-logos" src="/images/event-logo-revive-crop.jpeg" style="width:100%; height: auto;" alt=""></a></div>
+            <div class="my-3"><a href="https://www.adrenalinedance.com/" target="_blank"><img class="event-logos" src="/images/event-logo-adrenaline.jpeg" style="width:100%; height: auto;" alt="adrenaline dance"></a></div>
+            <div class="my-3"><a href="https://www.guidanceexperience.com/" target="_blank"><img class="event-logos" src="/images/event-logo-guidance.png" style="width:100%; height: auto;" alt="the guidance experience"></a></div>
+            <div class="my-3"><a href="https://journeycompetition.com/" target="_blank"><img class="event-logos" src="/images/event-logo-journey.png" style="width:100%; height: auto;" alt="journey dance competition"></a></div>
+            <div class="my-3"><a href="https://www.dancerevel.com/" target="_blank"><img class="event-logos" src="/images/event-logo-revel.png" style="width:100%; height: auto;" alt="revel dance convention"></a></div>
+            <div class="my-3"><a href="https://www.revivedanceconvention.com/" target="_blank"><img class="event-logos" src="/images/event-logo-revive-crop.jpeg" style="width:100%; height: auto;" alt="revive"></a></div>
         </div>
     </div>
 
