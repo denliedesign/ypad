@@ -52,28 +52,28 @@
                 {{--                </div>--}}
                 <div class="col my-3">
                     <div style="position: relative; border: 6px solid #067997;">
-                        <img src="/images/ypad-parents.jpg" alt="" class="img-fluid" style="object-fit: cover; height: 100%; width: 100%;">
+                        <img src="/images/ypad-parents.jpg" alt="father encouraging son in dance studio" class="img-fluid" style="object-fit: cover; height: 100%; width: 100%;">
                         <div class="shader" style="background: black; position: absolute; z-index: 2; opacity: 30%; height: 100%; width: auto; top: 0; left: 0;"></div>
                         <div><h2 class="text-uppercase text-white fw-bold text-center" style="font-size: 2.75em; width: 100%; z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">parents</h2></div>
                     </div>
                 </div>
                 <div class="col my-3">
                     <div style="position: relative; border: 6px solid #767784;">
-                        <img src="/images/ypad-educators.jpg" alt="" class="img-fluid" style="object-fit: cover; height: 100%; width: 100%;">
+                        <img src="/images/ypad-educators.jpg" alt="teacher helping preschooler with ballet" class="img-fluid" style="object-fit: cover; height: 100%; width: 100%;">
                         <div class="shader" style="background: black; position: absolute; z-index: 2; opacity: 30%; height: 100%; width: 100%; top: 0; left: 0;"></div>
                         <div><h2 class="text-uppercase text-white fw-bold text-center" style="font-size: 2.75em; width: 100%; z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">educators</h2></div>
                     </div>
                 </div>
                 <div class="col my-3">
                     <div style="position: relative; height: 100%; border: 6px solid #EF9A61;">
-                        <img src="/images/ypad-studio-owners.jpg" alt="" class="img-fluid" style="object-fit: cover; height: 100%; width: 100%;">
+                        <img src="/images/ypad-studio-owners.jpg" alt="studio owner smiles in foreground with dancers having fun in background" class="img-fluid" style="object-fit: cover; height: 100%; width: 100%;">
                         <div class="shader" style="background: black; position: absolute; z-index: 2; opacity: 30%; height: 100%; width: 100%; top: 0; left: 0;"></div>
                         <div><h2 class="text-uppercase text-white fw-bold text-center" style="font-size: 2.75em; width: 100%; z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">studio owners</h2></div>
                     </div>
                 </div>
                 <div class="col my-3">
                     <div style="position: relative; border: 6px solid #896C7B;">
-                        <img src="/images/ypad-events-2.JPG" alt="" class="img-fluid" style=" object-fit: cover; height: 100%; width: 100%;">
+                        <img src="/images/ypad-events-2.JPG" alt="teacher arm raised with dancers surrounding him" class="img-fluid" style=" object-fit: cover; height: 100%; width: 100%;">
                         <div class="shader" style="background: black; position: absolute; z-index: 2; opacity: 30%; height: 100%; width: 100%; top: 0; left: 0;"></div>
                         <div><h2 class="text-uppercase text-white fw-bold text-center" style="font-size: 2.75em; width: 100%; z-index: 3; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">events</h2></div>
                     </div>
@@ -116,7 +116,7 @@
                         </div>
                         <div class="col my-3">
                             <div style="background: #767784; color: white;" class="pb-4">
-                                <div class="d-flex justify-content-center"><img src="/images/sheyi.png" alt="" class="img-fluid" style="border: 6px solid #767784; height: 394px; width: 100%; object-fit: cover;"></div>
+                                <div class="d-flex justify-content-center"><img src="/images/sheyi.png" alt="headshot of doctor sheyi Ojofeitimi" class="img-fluid" style="border: 6px solid #767784; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
                                     <h4 class="text-center py-0 my-0"><strong>Dr. Sheyi Ojofeitimi, DPT, CFMT, CIDN</strong> <br> Director of Therapy Services <br> Alvin Ailey Dance Foundation</h4>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
@@ -128,7 +128,7 @@
                         </div>
                         <div class="col my-3">
                             <div style="background: #EF9A60; color: white;" class="pb-4">
-                                <div class="d-flex justify-content-center"><img src="/images/gomez-23.jpeg" alt="" style="border: 6px solid #EF9A61; height: 394px; width: 100%; object-fit: cover; object-position: 50% 15%;"></div>
+                                <div class="d-flex justify-content-center"><img src="/images/gomez-23.jpeg" alt="headshot of tricia gomez" style="border: 6px solid #EF9A61; height: 394px; width: 100%; object-fit: cover; object-position: 50% 15%;"></div>
                                 <div class="px-3 pt-3">
                                     <h4 class="text-center py-0 my-0"><strong>Tricia Gomez</strong> <br> Rhythm Works Integrative Dance <br> The Intellidance Method</h4>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
@@ -140,7 +140,7 @@
                         </div>
                         <div class="col my-3">
                             <div style="background: #896C7B; color: white;" class="pb-4">
-                                <div class="d-flex justify-content-center"><img src="/images/addie.png" alt="" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
+                                <div class="d-flex justify-content-center"><img src="/images/addie.png" alt="headshot of doctor addie briggs" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
                                 <div class="px-3 pt-3">
                                     <h4 class="text-center py-0 my-0"><strong>Dr. Addie Briggs, MD</strong> <br> Founder <br> Fitness DAWGS</h4>
                                     <p class="text-center pb-0 pt-2 my-0"><em>
@@ -319,7 +319,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="d-flex justify-content-center">
-                            <img src="/images/mark.png" alt="mark" class="img-fluid">
+                            <img src="/images/mark.png" alt="mark headshot" class="img-fluid">
                         </div>
                         <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Mark Yonally</h4>
                         <p class="text-center py-0 my-0"><strong>Chicago Tap Theatre</strong></p>
@@ -335,7 +335,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="d-flex justify-content-center">
-                            <img src="/images/bri.jpeg" alt="headshot" class="img-fluid rounded-portrait">
+                            <img src="/images/bri.jpeg" alt="headshot of brianna" class="img-fluid rounded-portrait">
                         </div>
                         <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Brianna Chin Brown</h4>
                         <p class="text-center py-0 my-0"><strong>Dance Educator, NJ</strong></p>
@@ -353,7 +353,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="d-flex justify-content-center">
-                            <img src="/images/jill.png" alt="mark" class="img-fluid">
+                            <img src="/images/jill.png" alt="headshot of jill" class="img-fluid">
                         </div>
                         <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Jill Williams</h4>
                         <p class="text-center py-0 my-0"><strong>Studio Owner, Calgary</strong></p>
@@ -370,7 +370,7 @@
                     <div class="col-lg-4">
                         <div class="d-flex justify-content-center">
                             <div class="rounded-portrait">
-                                <img src="/images/cert-kelly.png" alt="headshot" class="img-fluid">
+                                <img src="/images/cert-kelly.png" alt="headshot of kelly" class="img-fluid">
                             </div>
                         </div>
                         <h4 class="text-center text-uppercase pb-0 mb-0 mt-2">Kelly Peterson</h4>
@@ -414,29 +414,29 @@
             <h2 class="text-uppercase text-center">Professional Development & Research</h2>
             <p class="text-center">YPAD&trade; is proud to work with the following organizations</p>
             <div class="row row-cols-3 row-cols-sm-3 row-cols-md-4 row-cols-lg-4 mb-4">
-                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-alabama.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/hope-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/trine-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-ecu.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-bridge.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-udma.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-iacdp-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-ndca.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-alabama.png" alt="university of alabama" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/hope-removebg-preview.png" alt="hope college" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/trine-removebg-preview.png" alt="trine university" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-ecu.png" alt="east carolina university" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-bridge.png" alt="the bridge dance project" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-udma.png" alt="united dance merchants of america" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-iacdp-removebg-preview.png" alt="international association of child development programs" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-ndca.png" alt="national dance coaches association" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 {{--                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>--}}
 
             </div>
             <div class="row row-cols-5">
                 <div class="col-sm-1"></div>
-                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/toronto-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
-                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/dance-teacher-web-removebg-preview.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/toronto-removebg-preview.png" alt="toronto dancer teacher expo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/dance-teacher-web-removebg-preview.png" alt="dance teacher web conference and expo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 {{--                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-unity.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%)"></div>--}}
-                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-ndeo.png" alt="partner logo" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
+                <div class="col-sm my-2 d-flex align-items-center justify-content-center"><img src="/images/logo-ndeo.png" alt="national dance education organization" class="img-fluid p-0 m-0" style="filter: grayscale(100%);"></div>
                 <div class="col-sm-1"></div>
             </div>
             <div class="mt-5 mb-4">
                 <p class="text-center">YPAD&trade; is a proud member of IADMS</p>
                 <div class="d-flex justify-content-center">
-                    <img src="/images/logo-iadms.png" alt="iadms logo" class="img-fluid">
+                    <img src="/images/logo-iadms.png" alt="international association for dance medicine and science" class="img-fluid">
                 </div>
             </div>
             <div>

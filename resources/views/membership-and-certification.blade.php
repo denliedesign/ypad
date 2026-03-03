@@ -54,7 +54,7 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 mt-5">
                 <div>
                     <div class="d-flex align-items-center">
-                        <img src="/images/studio-owner.jpg" alt="teacher with older dancers" class="img-fluid my-1">
+                        <img src="/images/studio-owner.jpg" alt="teacher with young dancers in background" class="img-fluid my-1">
                     </div>
                     <div>
                         <h2>YPAD™ Studio Member</h2>
@@ -97,7 +97,7 @@
                 </div>
                 <div>
                     <div class="d-flex align-items-center">
-                        <img src="/images/educator.jpg" alt="teacher with older dancers" class="img-fluid my-1">
+                        <img src="/images/educator.jpg" alt="teacher laughing with older dancers" class="img-fluid my-1">
                     </div>
                     <div>
                         <h2>YPAD™ Individual Member</h2>
@@ -411,7 +411,7 @@
 {{--            </div>--}}
             <div class="col-sm my-3">
                 <div style="background: #067997; color: white;" class="pb-4">
-                    <div class="d-flex justify-content-center"><img src="/images/cert-joel.jpg" alt="" class="img-fluid" style="border: 6px solid #067997; height: 394px; width: 100%; object-fit: cover;"></div>
+                    <div class="d-flex justify-content-center"><img src="/images/cert-joel.jpg" alt="joel headshot" class="img-fluid" style="border: 6px solid #067997; height: 394px; width: 100%; object-fit: cover;"></div>
                     <div class="px-3 pt-3" style="min-height: 250px;">
                         <h4 class="text-center py-0 my-0"><strong>Joel Valdiviezo</strong> <br> Journey Dance Competition</h4>
                         <p class="text-center pb-0 pt-2 my-0"><em>
@@ -423,7 +423,7 @@
             </div>
             <div class="col-sm my-3">
                 <div style="background: #767784; color: white;" class="pb-4">
-                    <div class="d-flex justify-content-center"><img src="/images/cert-kelly.png" alt="" class="img-fluid" style="border: 6px solid #767784; height: 394px; width: 100%; object-fit: cover;"></div>
+                    <div class="d-flex justify-content-center"><img src="/images/cert-kelly.png" alt="kelly headshot" class="img-fluid" style="border: 6px solid #767784; height: 394px; width: 100%; object-fit: cover;"></div>
                     <div class="px-3 pt-3" style="min-height: 250px;">
                         <h4 class="text-center py-0 my-0"><strong>Kelly Peterson</strong> <br> The guiDANCE Experience</h4>
                         <p class="text-center pb-0 pt-2 my-0"><em>
@@ -435,7 +435,7 @@
             </div>
             <div class="col-sm my-3">
                 <div style="background: #EF9A60; color: white;" class="pb-4">
-                    <div class="d-flex justify-content-center"><img src="/images/cert-christian.jpg" alt="" style="border: 6px solid #EF9A61; height: 394px; width: 100%; object-fit: cover; object-position: 50% 15%;"></div>
+                    <div class="d-flex justify-content-center"><img src="/images/cert-christian.jpg" alt="christian headshot" style="border: 6px solid #EF9A61; height: 394px; width: 100%; object-fit: cover; object-position: 50% 15%;"></div>
                     <div class="px-3 pt-3">
                         <h4 class="text-center py-0 my-0"><strong>Christian Clark</strong> <br> REVEL Dance Convention</h4>
                         <p class="text-center pb-0 pt-2 my-0"><em>
@@ -446,7 +446,7 @@
             </div>
             <div class="col-sm my-3">
                 <div style="background: #896C7B; color: white;" class="pb-4">
-                    <div class="d-flex justify-content-center"><img src="/images/cert-jeremy.jpeg" alt="" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
+                    <div class="d-flex justify-content-center"><img src="/images/cert-jeremy.jpeg" alt="jeremy headshot" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
                     <div class="px-3 pt-3">
                         <h4 class="text-center py-0 my-0"><strong>Jeremy Keeton</strong> <br> Adrenaline and Revive Dance Conventions</h4>
                         <p class="text-center pb-0 pt-2 my-0"><em>

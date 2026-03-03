@@ -106,10 +106,10 @@
                 </h2>
             </div>
             <div class="col-sm my-2">
-                <img src="/images/about-block-1.jpeg" alt="teacher and dance students" class="img-fluid">
+                <img src="/images/about-block-1.jpeg" alt="teacher and dance students raising arm" class="img-fluid">
             </div>
             <div class="col-sm my-2">
-                <img src="/images/about-block-2.jpeg" alt="teacher and dance students" class="img-fluid">
+                <img src="/images/about-block-2.jpeg" alt="teacher surrounded by other dance teachers" class="img-fluid">
             </div>
             <div class="col-sm my-2 d-flex align-items-center justify-content-center">
                 <p class="m-0 p-0" style="font-size: 1.05em;">
@@ -215,9 +215,9 @@
     </div>
 
     <div>
-        <img src="/images/about-1.png" alt="contributor portraits" style="width: 100%; height: auto;">
-        <img src="/images/about-2.png" alt="contributor portraits" style="width: 100%; height: auto;">
-        <img src="/images/about-3.png" alt="contributor portraits" style="width: 100%; height: auto;">
+        <img src="/images/about-1.png" alt="collage of contributor portraits" style="width: 100%; height: auto;">
+        <img src="/images/about-2.png" alt="collage of contributor portraits" style="width: 100%; height: auto;">
+        <img src="/images/about-3.png" alt="collage of contributor portraits" style="width: 100%; height: auto;">
     </div>
 
     <div class="py-5 container">
@@ -229,7 +229,7 @@
             </div>
             <div class="col-sm my-3">
                 <div style="background: #767784; color: white;" class="pb-4">
-                    <div class="d-flex justify-content-center"><img src="/images/about-featured-1.jpeg" alt="" class="img-fluid" style="border: 6px solid #767784; height: 394px; width: 100%; object-fit: cover;"></div>
+                    <div class="d-flex justify-content-center"><img src="/images/about-featured-1.jpeg" alt="emily headshot" class="img-fluid" style="border: 6px solid #767784; height: 394px; width: 100%; object-fit: cover;"></div>
                     <div class="px-3 pt-3">
                         <h4 class="text-center py-0 my-0"><strong>Emily Bufferd</strong> <br> Founder, Young Choreographer's Festival</h4>
                         <p class="text-center pb-0 pt-2 my-0"><em>
@@ -241,7 +241,7 @@
             </div>
             <div class="col-sm my-3">
                 <div style="background: #EF9A60; color: white;" class="pb-4">
-                    <div class="d-flex justify-content-center"><img src="/images/about-featured-2.jpg" alt="" class="img-fluid" style="border: 6px solid #EF9A61; height: 394px; width: 100%; object-fit: cover;"></div>
+                    <div class="d-flex justify-content-center"><img src="/images/about-featured-2.jpg" alt="stephen headshot" class="img-fluid" style="border: 6px solid #EF9A61; height: 394px; width: 100%; object-fit: cover;"></div>
                     <div class="px-3 pt-3">
                         <h4 class="text-center py-0 my-0"><strong>Stephen Potts, J.D.</strong> <br> Member, Texas Center for Legal Ethics</h4>
                         <p class="text-center pb-0 pt-2 my-0"><em>
@@ -253,7 +253,7 @@
             </div>
             <div class="col-sm my-3">
                 <div style="background: #896C7B; color: white; font-size: 0.98em;" class="pb-4">
-                    <div class="d-flex justify-content-center"><img src="/images/about-featured-3.png" alt="" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
+                    <div class="d-flex justify-content-center"><img src="/images/about-featured-3.png" alt="carolyn headshot" class="img-fluid" style="border: 6px solid #896C7B; height: 394px; width: 100%; object-fit: cover;"></div>
                     <div class="px-3 pt-3">
                         <h4 class="text-center py-0 my-0"><strong>Carolyn Colleen, MBA</strong> <br> Founder, Acton Academy Midwest</h4>
                         <p class="text-center pb-0 pt-2 my-0"><em>
