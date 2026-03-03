@@ -43,7 +43,7 @@
             <div class="col-sm">
                 <div class="row">
                     <div class="col-1">
-                        <ion-icon name="checkmark-circle"></ion-icon>
+                        <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
                     </div>
                     <div class="col-11">
                         YPAD™ believes an education in safeguarding capacity-building should be available to everyone.
@@ -52,7 +52,7 @@
                 </div>
                 <div class="row">
                     <div class="col-1">
-                        <ion-icon name="checkmark-circle"></ion-icon>
+                        <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
                     </div>
                     <div class="col-11">
                         YPAD™ certifies dance studios and events by offering an earned designation that requires specific commitments.
@@ -61,7 +61,7 @@
                 </div>
                 <div class="row">
                     <div class="col-1">
-                        <ion-icon name="checkmark-circle"></ion-icon>
+                        <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
                     </div>
                     <div class="col-11">
                         YPAD™ works to weave the priority of safety into the very fabric of the dance industry.
@@ -72,7 +72,7 @@
 
                 <div class="row">
                     <div class="col-1">
-                        <ion-icon name="checkmark-circle"></ion-icon>
+                        <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
                     </div>
                     <div class="col-11">
                         YPAD™ connects like-minded individuals; creating safer dance communities.

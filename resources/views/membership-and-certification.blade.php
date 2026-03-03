@@ -198,32 +198,32 @@
             <div class="col-sm">
                 <div class="m-4" style="font-size: 1.5em;">
                     <div class="d-flex justify-content-center">
-                        <ion-icon name="checkbox-outline" style="font-size: 2.5em;"></ion-icon>
+                        <ion-icon name="checkbox-outline" style="font-size: 2.5em;" aria-hidden="true"></ion-icon>
                     </div>
                     <p class="fw-bold text-center py-0 my-0">Studio Owner Certification Commitments</p>
                     <ul class="py-0 my-0" style="list-style-type: none;">
-                        <li><ion-icon name="checkmark-outline"></ion-icon> Background checks</li>
-                        <li><ion-icon name="checkmark-outline"></ion-icon> YPAD™ Certified courses</li>
-                        <li><ion-icon name="checkmark-outline"></ion-icon> First Aid/CPR certifications</li>
-                        <li><ion-icon name="checkmark-outline"></ion-icon> Stewards of Children® training by D2L</li>
-                        <li><ion-icon name="checkmark-outline"></ion-icon> Youth Mental Health First Aid training</li>
-                        <li><ion-icon name="checkmark-outline"></ion-icon> Emergency Action Plan (EAP)</li>
-                        <li><ion-icon name="checkmark-outline"></ion-icon> Business liability insurance</li>
-                        <li><ion-icon name="checkmark-outline"></ion-icon> YPAD™ Artistic Integrity training</li>
+                        <li><ion-icon name="checkmark-outline" aria-hidden="true"></ion-icon> Background checks</li>
+                        <li><ion-icon name="checkmark-outline" aria-hidden="true"></ion-icon> YPAD™ Certified courses</li>
+                        <li><ion-icon name="checkmark-outline" aria-hidden="true"></ion-icon> First Aid/CPR certifications</li>
+                        <li><ion-icon name="checkmark-outline" aria-hidden="true"></ion-icon> Stewards of Children® training by D2L</li>
+                        <li><ion-icon name="checkmark-outline" aria-hidden="true"></ion-icon> Youth Mental Health First Aid training</li>
+                        <li><ion-icon name="checkmark-outline" aria-hidden="true"></ion-icon> Emergency Action Plan (EAP)</li>
+                        <li><ion-icon name="checkmark-outline" aria-hidden="true"></ion-icon> Business liability insurance</li>
+                        <li><ion-icon name="checkmark-outline" aria-hidden="true"></ion-icon> YPAD™ Artistic Integrity training</li>
                     </ul>
                 </div>
             </div>
             <div class="col-sm">
                 <div class="m-4" style="font-size: 1.5em;">
                     <div class="d-flex justify-content-center">
-                        <ion-icon name="checkbox-outline" style="font-size: 2.5em;"></ion-icon>
+                        <ion-icon name="checkbox-outline" style="font-size: 2.5em;" aria-hidden="true"></ion-icon>
                     </div>
                     <p class="fw-bold text-center py-0 my-0">Individual Certification Commitments</p>
                     <ul class="py-0 my-0" style="list-style-type: none;">
-                        <li><ion-icon name="checkmark-outline"></ion-icon> Background checks</li>
-                        <li><ion-icon name="checkmark-outline"></ion-icon> YPAD™ Certified courses</li>
-                        <li><ion-icon name="checkmark-outline"></ion-icon> First Aid/CPR certifications</li>
-                        <li><ion-icon name="checkmark-outline"></ion-icon> Stewards of Children® training by D2L</li>
+                        <li><ion-icon name="checkmark-outline" aria-hidden="true"></ion-icon> Background checks</li>
+                        <li><ion-icon name="checkmark-outline" aria-hidden="true"></ion-icon> YPAD™ Certified courses</li>
+                        <li><ion-icon name="checkmark-outline" aria-hidden="true"></ion-icon> First Aid/CPR certifications</li>
+                        <li><ion-icon name="checkmark-outline" aria-hidden="true"></ion-icon> Stewards of Children® training by D2L</li>
                     </ul>
                 </div>
             </div>
@@ -240,7 +240,7 @@
                     <div class="col-sm">
                         <div class="mx-4 my-2">
                             <div class="d-flex justify-content-center">
-                                <ion-icon style="font-size: 3em;" name="school"></ion-icon>
+                                <ion-icon style="font-size: 3em;" name="school" aria-hidden="true"></ion-icon>
                             </div>
                             <p class="text-center py-0 my-0">
                                 Unlimited FREE courses for guest teachers, substitute teachers, and volunteers
@@ -250,7 +250,7 @@
                     <div class="col-sm">
                         <div class="mx-4 my-2">
                             <div class="d-flex justify-content-center">
-                                <ion-icon style="font-size: 3em;" name="people"></ion-icon>
+                                <ion-icon style="font-size: 3em;" name="people" aria-hidden="true"></ion-icon>
                             </div>
                             <p class="text-center py-0 my-0">
                                 Live Spotlight Conversations webinars with industry experts.
@@ -260,7 +260,7 @@
                     <div class="col-sm">
                         <div class="mx-4 my-2">
                             <div class="d-flex justify-content-center">
-                                <ion-icon style="font-size: 3em;" name="people-circle"></ion-icon>
+                                <ion-icon style="font-size: 3em;" name="people-circle" aria-hidden="true"></ion-icon>
                             </div>
                             <p class="text-center py-0 my-0">
                                 Membership into a private Facebook group for questions and community support
@@ -270,7 +270,7 @@
                     <div class="col-sm">
                         <div class="mx-4 my-2">
                             <div class="d-flex justify-content-center">
-                                <ion-icon style="font-size: 3em;" name="call"></ion-icon>
+                                <ion-icon style="font-size: 3em;" name="call" aria-hidden="true"></ion-icon>
                             </div>
                             <p class="text-center py-0 my-0">
                                 Personal 1:1 coaching calls and referrals as needed

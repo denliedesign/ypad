@@ -45,7 +45,7 @@
             <div class="col-sm">
                 <div class="mx-4">
                     <div class="d-flex justify-content-center">
-                        <ion-icon name="list-outline"></ion-icon>
+                        <ion-icon name="list-outline" aria-hidden="true"></ion-icon>
                     </div>
                     <p class="fw-bold text-center text-uppercase py-0 my-0">Hotline Listings</p>
                     <p class="text-center py-0 my-0">
@@ -56,7 +56,7 @@
             <div class="col-sm">
                 <div class="mx-4">
                     <div class="d-flex justify-content-center">
-                        <ion-icon name="chatbubbles-outline"></ion-icon>
+                        <ion-icon name="chatbubbles-outline" aria-hidden="true"></ion-icon>
                     </div>
                     <p class="fw-bold text-center text-uppercase py-0 my-0">Certified Support</p>
                     <p class="text-center py-0 my-0">
@@ -67,7 +67,7 @@
             <div class="col-sm">
                 <div class="mx-4">
                     <div class="d-flex justify-content-center">
-                        <ion-icon name="people-outline"></ion-icon>
+                        <ion-icon name="people-outline" aria-hidden="true"></ion-icon>
                     </div>
                     <p class="fw-bold text-center text-uppercase py-0 my-0">Sharing Concerns</p>
                     <p class="text-center py-0 my-0">
@@ -82,7 +82,7 @@
         <div class="row" id="about-checkmarks">
             <div class="col-sm d-flex align-items-center">
                 <div>
-                    <div class="d-flex justify-content-center my-4"><ion-icon name="call-outline" class="text-center" style="font-size: 4em;"></ion-icon></div>
+                    <div class="d-flex justify-content-center my-4"><ion-icon name="call-outline" class="text-center" style="font-size: 4em;" aria-hidden="true"></ion-icon></div>
                     <h2 class="text-center">Hotline Listings</h2>
                     {{--                <p class="text-center">as·so·ci·a·tion <br> <small class="text-muted">noun</small></p>--}}
                     <p class="text-center">
@@ -95,7 +95,7 @@
             <div class="col-sm">
                 <div class="row">
                     <div class="col-1">
-                        <ion-icon name="checkmark-circle"></ion-icon>
+                        <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
                     </div>
                     <div class="col-11">
                         Emergency: 911
@@ -104,7 +104,7 @@
                 </div>
                 <div class="row">
                     <div class="col-1">
-                        <ion-icon name="checkmark-circle"></ion-icon>
+                        <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
                     </div>
                     <div class="col-11">
                         National Suicide & Crisis Hotline: Call or text 988
@@ -113,7 +113,7 @@
                 </div>
                 <div class="row">
                     <div class="col-1">
-                        <ion-icon name="checkmark-circle"></ion-icon>
+                        <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
                     </div>
                     <div class="col-11">
                         National Sexual Assault Hotline: 1-800-656-4673
@@ -122,7 +122,7 @@
                 </div>
                 <div class="row">
                     <div class="col-1">
-                        <ion-icon name="checkmark-circle"></ion-icon>
+                        <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
                     </div>
                     <div class="col-11">
                         National Eating Disorder Hotline: 1-800 931-2237
@@ -131,7 +131,7 @@
                 </div>
                 <div class="row">
                     <div class="col-1">
-                        <ion-icon name="checkmark-circle"></ion-icon>
+                        <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
                     </div>
                     <div class="col-11">
                         Childhelp National Child Abuse Hotline: 1-800-4-A-CHILD
@@ -140,7 +140,7 @@
                 </div>
                 <div class="row">
                     <div class="col-1">
-                        <ion-icon name="checkmark-circle"></ion-icon>
+                        <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
                     </div>
                     <div class="col-11">
                         Darkness to Light: 1-866-FOR-LIGHT
@@ -149,7 +149,7 @@
                 </div>
                 <div class="row">
                     <div class="col-1">
-                        <ion-icon name="checkmark-circle"></ion-icon>
+                        <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
                     </div>
                     <div class="col-11">
                         Dance Education Equity Association: 213-667-0125 (text)

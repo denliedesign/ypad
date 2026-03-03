@@ -158,7 +158,7 @@
                 <div class="col-sm">
                     <div class="m-4">
                         <div class="d-flex justify-content-center">
-                            <ion-icon name="checkbox-outline"></ion-icon>
+                            <ion-icon name="checkbox-outline" aria-hidden="true"></ion-icon>
                         </div>
                         <p class="fw-bold text-center py-0 my-0">WHAT YPAD™ IS</p>
                         <p class="text-center py-0 my-0">
@@ -170,7 +170,7 @@
                 <div class="col-sm">
                     <div class="m-4">
                         <div class="d-flex justify-content-center">
-                            <ion-icon name="square-outline"></ion-icon>
+                            <ion-icon name="square-outline" aria-hidden="true"></ion-icon>
                         </div>
                         <p class="fw-bold text-center py-0 my-0">WHAT YPAD™ IS NOT</p>
                         <p class="text-center py-0 my-0">
@@ -181,7 +181,7 @@
                 <div class="col-sm">
                     <div class="m-4">
                         <div class="d-flex justify-content-center">
-                            <ion-icon name="thumbs-up-outline"></ion-icon>
+                            <ion-icon name="thumbs-up-outline" aria-hidden="true"></ion-icon>
                         </div>
                         <p class="fw-bold text-center py-0 my-0">IS YPAD™ RIGHT FOR YOU?</p>
                         <p class="text-center py-0 my-0">
@@ -221,7 +221,7 @@
         <div class="row mb-5" style="height: 100%;">
             <div class="col-sm d-flex align-items-center">
                 <div>
-                    <div class="text-center"><ion-icon name="gift" style="font-size: 4.75em;"></ion-icon></div>
+                    <div class="text-center"><ion-icon name="gift" style="font-size: 4.75em;" aria-hidden="true"></ion-icon></div>
 
                     <h2 class="text-uppercase fw-bold text-center" style="font-size: 3em;">Become a Member</h2>
 
