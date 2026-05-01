@@ -40,9 +40,16 @@ Route::get('/resources', function () {
 Route::get('/', function () { return view('/welcome'); });
 Route::get('/about', function () { return view('/about'); });
 //Route::get('/free-resources', function () { return view('/free-resources'); });
-Route::get('/membership-and-certification', function () { return view('/membership-and-certification'); });
 Route::get('/support', function () { return view('/support'); });
 Route::get('/subscribe', function () { return view('/subscribe'); });
+
+Route::get('/membership-and-certification', function () {
+    return view('membership-and-certification');
+})->name('membership.us')->middleware('redirect.membership.region');
+
+Route::get('/membership-and-certification-au', function () {
+    return view('membership-and-certification-au');
+})->name('membership.au')->middleware('redirect.membership.region');
 
 Route::get('/dashboard', function () {
     return view('dashboard');
