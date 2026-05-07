@@ -98,101 +98,101 @@
                     <a href="/images/terms-and-conditions-ypad.pdf" target="_blank">See full terms and conditions</a>
                 </small>
             </div>
-{{--            <div>--}}
-{{--                <div class="d-flex align-items-center">--}}
-{{--                    <img src="/images/educator.jpg" alt="teacher laughing with older dancers" class="img-fluid my-1">--}}
-{{--                </div>--}}
-{{--                <div>--}}
-{{--                    <h2>YPAD™ Individual Member</h2>--}}
-{{--                    <p class="fw-bold">Become an Individual Member and gain access to our Educator Course and a variety of resources.</p>--}}
-{{--                    <ul class="mt-3">--}}
-{{--                        <li>Safety onsite and offsite</li>--}}
-{{--                        <li>Protecting students from abuse</li>--}}
-{{--                        <li>Social media culture</li>--}}
-{{--                        <li>Student conflict resolution</li>--}}
-{{--                        <li>Safe movement</li>--}}
-{{--                        <li>Injury reduction and prevention</li>--}}
-{{--                        <li>Promoting health body image, proper nutrition, and hydration</li>--}}
-{{--                        <li>The basics of brain development</li>--}}
-{{--                        <li>Healthy communications and building mental strength</li>--}}
-{{--                        <li>Establishing a mentally healthy performance culture</li>--}}
-{{--                        <li>Establishing standards of excellence</li>--}}
-{{--                        <li>Age-appropriateness matters</li>--}}
-{{--                        <li>Reaching all students</li>--}}
-{{--                    </ul>--}}
-{{--                    <a href="https://yv686.infusionsoft.com/app/orderForms/YPAD-Individual-Membership---Australia-AUD" class="text-decoration-none rr-btn" target="_blank" style="width: 100%;">--}}
-{{--                        <button class="rounded fw-bold px-2 py-2 shadow text-center" style="background: #067997; font-size: 0.9em; color: white; height: auto; width: 315px;">Become a YPAD™ Individual Member (AUD)</button>--}}
-{{--                    </a>--}}
-{{--                    <small class="text-muted ms-2">$55 AUD / mo</small>--}}
-{{--                </div>--}}
-{{--                <small>--}}
-{{--                    <br>--}}
-{{--                    ​​*Terms and Conditions – By purchasing a membership you are committing to a 12-month membership term (“Initial Term”). You may not cancel your membership during the Initial Term. At the end of the 12-month Initial Term this membership will automatically be renewed and continue on a month-by-month basis unless terminated by us or in writing by you by sending an email to info@ypadnow.com in accordance with its terms. You consent to our charging your payment method on a recurring basis without requiring your prior approval for each recurring charge.--}}
-{{--                    <a href="/images/terms-and-conditions-ypad.pdf" target="_blank">See full terms and conditions</a>--}}
-{{--                </small>--}}
-{{--            </div>--}}
-            <div class="position-relative opacity-75" style="pointer-events: none;">
-
-                <!-- Coming Soon Watermark -->
-                <div class="position-absolute top-50 start-50 translate-middle w-100 text-center"
-                     style="z-index: 10; transform: translate(-50%, -50%) rotate(-15deg);">
-        <span class="fw-bold text-uppercase"
-              style="font-size: 4rem; color: rgba(255,255,255,0.85); text-shadow: 2px 2px 10px rgba(0,0,0,0.4); letter-spacing: 6px;">
-            Coming Soon
-        </span>
+            <div>
+                <div class="d-flex align-items-center">
+                    <img src="/images/educator.jpg" alt="teacher laughing with older dancers" class="img-fluid my-1">
                 </div>
-
-                <!-- Optional dark overlay -->
-                <div class="position-absolute top-0 start-0 w-100 h-100"
-                     style="background: rgba(0,0,0,0.25); z-index: 5;"></div>
-
                 <div>
-                    <div class="d-flex align-items-center">
-                        <img src="/images/educator.jpg" alt="teacher laughing with older dancers" class="img-fluid my-1">
-                    </div>
-
-                    <div>
-                        <h2>YPAD™ Individual Member</h2>
-
-                        <p class="fw-bold">
-                            Become an Individual Member and gain access to our Educator Course and a variety of resources.
-                        </p>
-
-                        <ul class="mt-3">
-                            <li>Safety onsite and offsite</li>
-                            <li>Protecting students from abuse</li>
-                            <li>Social media culture</li>
-                            <li>Student conflict resolution</li>
-                            <li>Safe movement</li>
-                            <li>Injury reduction and prevention</li>
-                            <li>Promoting health body image, proper nutrition, and hydration</li>
-                            <li>The basics of brain development</li>
-                            <li>Healthy communications and building mental strength</li>
-                            <li>Establishing a mentally healthy performance culture</li>
-                            <li>Establishing standards of excellence</li>
-                            <li>Age-appropriateness matters</li>
-                            <li>Reaching all students</li>
-                        </ul>
-
-                        <!-- Disabled Button -->
-                        <div class="text-decoration-none rr-btn" style="width: 100%;">
-                            <button disabled
-                                    class="rounded fw-bold px-2 py-2 shadow text-center border-0"
-                                    style="background: #067997; font-size: 0.9em; color: white; height: auto; width: 315px; cursor: not-allowed;">
-                                Become a YPAD™ Individual Member (AUD)
-                            </button>
-                        </div>
-
-                        <small class="text-muted ms-2">$55 AUD / mo</small>
-                    </div>
-
-                    <small>
-                        <br>
-                        ​​*Terms and Conditions – By purchasing a membership you are committing to a 12-month membership term (“Initial Term”). You may not cancel your membership during the Initial Term. At the end of the 12-month Initial Term this membership will automatically be renewed and continue on a month-by-month basis unless terminated by us or in writing by you by sending an email to info@ypadnow.com in accordance with its terms. You consent to our charging your payment method on a recurring basis without requiring your prior approval for each recurring charge.
-                        <a href="/images/terms-and-conditions-ypad.pdf" target="_blank">See full terms and conditions</a>
-                    </small>
+                    <h2>YPAD™ Individual Member</h2>
+                    <p class="fw-bold">Become an Individual Member and gain access to our Educator Course and a variety of resources.</p>
+                    <ul class="mt-3">
+                        <li>Safety onsite and offsite</li>
+                        <li>Protecting students from abuse</li>
+                        <li>Social media culture</li>
+                        <li>Student conflict resolution</li>
+                        <li>Safe movement</li>
+                        <li>Injury reduction and prevention</li>
+                        <li>Promoting health body image, proper nutrition, and hydration</li>
+                        <li>The basics of brain development</li>
+                        <li>Healthy communications and building mental strength</li>
+                        <li>Establishing a mentally healthy performance culture</li>
+                        <li>Establishing standards of excellence</li>
+                        <li>Age-appropriateness matters</li>
+                        <li>Reaching all students</li>
+                    </ul>
+                    <a href="https://yv686.infusionsoft.com/app/orderForms/YPAD-Individual-Membership---Australia-AUD" class="text-decoration-none rr-btn" target="_blank" style="width: 100%;">
+                        <button class="rounded fw-bold px-2 py-2 shadow text-center" style="background: #067997; font-size: 0.9em; color: white; height: auto; width: 315px;">Become a YPAD™ Individual Member (AUD)</button>
+                    </a>
+                    <small class="text-muted ms-2">$55 AUD / mo</small>
                 </div>
+                <small>
+                    <br>
+                    ​​*Terms and Conditions – By purchasing a membership you are committing to a 12-month membership term (“Initial Term”). You may not cancel your membership during the Initial Term. At the end of the 12-month Initial Term this membership will automatically be renewed and continue on a month-by-month basis unless terminated by us or in writing by you by sending an email to info@ypadnow.com in accordance with its terms. You consent to our charging your payment method on a recurring basis without requiring your prior approval for each recurring charge.
+                    <a href="/images/terms-and-conditions-ypad.pdf" target="_blank">See full terms and conditions</a>
+                </small>
             </div>
+{{--            <div class="position-relative opacity-75" style="pointer-events: none;">--}}
+
+{{--                <!-- Coming Soon Watermark -->--}}
+{{--                <div class="position-absolute top-50 start-50 translate-middle w-100 text-center"--}}
+{{--                     style="z-index: 10; transform: translate(-50%, -50%) rotate(-15deg);">--}}
+{{--        <span class="fw-bold text-uppercase"--}}
+{{--              style="font-size: 4rem; color: rgba(255,255,255,0.85); text-shadow: 2px 2px 10px rgba(0,0,0,0.4); letter-spacing: 6px;">--}}
+{{--            Coming Soon--}}
+{{--        </span>--}}
+{{--                </div>--}}
+
+{{--                <!-- Optional dark overlay -->--}}
+{{--                <div class="position-absolute top-0 start-0 w-100 h-100"--}}
+{{--                     style="background: rgba(0,0,0,0.25); z-index: 5;"></div>--}}
+
+{{--                <div>--}}
+{{--                    <div class="d-flex align-items-center">--}}
+{{--                        <img src="/images/educator.jpg" alt="teacher laughing with older dancers" class="img-fluid my-1">--}}
+{{--                    </div>--}}
+
+{{--                    <div>--}}
+{{--                        <h2>YPAD™ Individual Member</h2>--}}
+
+{{--                        <p class="fw-bold">--}}
+{{--                            Become an Individual Member and gain access to our Educator Course and a variety of resources.--}}
+{{--                        </p>--}}
+
+{{--                        <ul class="mt-3">--}}
+{{--                            <li>Safety onsite and offsite</li>--}}
+{{--                            <li>Protecting students from abuse</li>--}}
+{{--                            <li>Social media culture</li>--}}
+{{--                            <li>Student conflict resolution</li>--}}
+{{--                            <li>Safe movement</li>--}}
+{{--                            <li>Injury reduction and prevention</li>--}}
+{{--                            <li>Promoting health body image, proper nutrition, and hydration</li>--}}
+{{--                            <li>The basics of brain development</li>--}}
+{{--                            <li>Healthy communications and building mental strength</li>--}}
+{{--                            <li>Establishing a mentally healthy performance culture</li>--}}
+{{--                            <li>Establishing standards of excellence</li>--}}
+{{--                            <li>Age-appropriateness matters</li>--}}
+{{--                            <li>Reaching all students</li>--}}
+{{--                        </ul>--}}
+
+{{--                        <!-- Disabled Button -->--}}
+{{--                        <div class="text-decoration-none rr-btn" style="width: 100%;">--}}
+{{--                            <button disabled--}}
+{{--                                    class="rounded fw-bold px-2 py-2 shadow text-center border-0"--}}
+{{--                                    style="background: #067997; font-size: 0.9em; color: white; height: auto; width: 315px; cursor: not-allowed;">--}}
+{{--                                Become a YPAD™ Individual Member (AUD)--}}
+{{--                            </button>--}}
+{{--                        </div>--}}
+
+{{--                        <small class="text-muted ms-2">$55 AUD / mo</small>--}}
+{{--                    </div>--}}
+
+{{--                    <small>--}}
+{{--                        <br>--}}
+{{--                        ​​*Terms and Conditions – By purchasing a membership you are committing to a 12-month membership term (“Initial Term”). You may not cancel your membership during the Initial Term. At the end of the 12-month Initial Term this membership will automatically be renewed and continue on a month-by-month basis unless terminated by us or in writing by you by sending an email to info@ypadnow.com in accordance with its terms. You consent to our charging your payment method on a recurring basis without requiring your prior approval for each recurring charge.--}}
+{{--                        <a href="/images/terms-and-conditions-ypad.pdf" target="_blank">See full terms and conditions</a>--}}
+{{--                    </small>--}}
+{{--                </div>--}}
+{{--            </div>--}}
         </div>
 
     </div>
